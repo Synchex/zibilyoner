@@ -5,11 +5,15 @@ import { Ionicons } from '@expo/vector-icons';
 import { Language, getTranslation } from '../data/translations';
 import { colors, borderRadius, spacing } from '../styles/theme';
 import { Category } from './CategorySelection';
+import { formatMultiplier } from '../utils/calculateReward';
+import { HeaderBackButton } from '../components/HeaderBackButton';
 
 export type Difficulty = 'easy' | 'medium' | 'hard' | 'mixed';
 
 interface DifficultySelectionProps {
     onSelectDifficulty: (difficulty: Difficulty) => void;
+    onBack: () => void;
+    onGoHome: () => void;
     language: Language;
     category: Category;
 }
@@ -53,7 +57,7 @@ const difficulties: DifficultyOption[] = [
     },
 ];
 
-export function DifficultySelection({ onSelectDifficulty, language, category }: DifficultySelectionProps) {
+export function DifficultySelection({ onSelectDifficulty, onBack, onGoHome, language, category }: DifficultySelectionProps) {
     const t = (key: any) => getTranslation(language, key);
 
     return (
@@ -62,6 +66,8 @@ export function DifficultySelection({ onSelectDifficulty, language, category }: 
                 colors={[colors.bgDark, colors.bgDarker, colors.bgDark]}
                 style={StyleSheet.absoluteFillObject}
             />
+
+            <HeaderBackButton onPress={onBack} />
 
             <ScrollView
                 contentContainerStyle={styles.scrollContent}
@@ -84,12 +90,31 @@ export function DifficultySelection({ onSelectDifficulty, language, category }: 
                                 <Ionicons name={difficulty.icon} size={32} color={difficulty.color} />
                             </View>
                             <View style={styles.textContainer}>
-                                <Text style={styles.difficultyTitle}>{t(difficulty.titleKey)}</Text>
+                                <View style={styles.titleRow}>
+                                    <Text style={styles.difficultyTitle}>{t(difficulty.titleKey)}</Text>
+                                    <View style={[styles.multiplierBadge, { backgroundColor: `${difficulty.color}25`, borderColor: difficulty.color }]}>
+                                        <Text style={[styles.multiplierText, { color: difficulty.color }]}>
+                                            ₿ {formatMultiplier(difficulty.id)}
+                                        </Text>
+                                    </View>
+                                </View>
                                 <Text style={styles.difficultyDesc}>{t(difficulty.descKey)}</Text>
                             </View>
                         </Pressable>
                     ))}
                 </View>
+
+                {/* Home Button */}
+                <Pressable
+                    onPress={onGoHome}
+                    style={({ pressed }) => [
+                        styles.homeButton,
+                        pressed && styles.homeButtonPressed,
+                    ]}
+                >
+                    <Ionicons name="home-outline" size={20} color={colors.textSecondary} />
+                    <Text style={styles.homeButtonText}>{t('home')}</Text>
+                </Pressable>
             </ScrollView>
         </View>
     );
@@ -147,14 +172,50 @@ const styles = StyleSheet.create({
     textContainer: {
         flex: 1,
     },
+    titleRow: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: spacing.sm,
+        marginBottom: spacing.xs,
+    },
     difficultyTitle: {
         fontSize: 20,
         fontWeight: '700',
         color: colors.textPrimary,
-        marginBottom: spacing.xs,
+    },
+    multiplierBadge: {
+        paddingHorizontal: spacing.sm,
+        paddingVertical: 2,
+        borderRadius: borderRadius.sm,
+        borderWidth: 1,
+    },
+    multiplierText: {
+        fontSize: 12,
+        fontWeight: '700',
     },
     difficultyDesc: {
         fontSize: 14,
+        color: colors.textSecondary,
+    },
+    homeButton: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'center',
+        gap: spacing.sm,
+        marginTop: spacing.xl,
+        paddingVertical: spacing.md,
+        borderRadius: borderRadius.lg,
+        borderWidth: 1,
+        borderColor: colors.border,
+        backgroundColor: colors.card,
+    },
+    homeButtonPressed: {
+        opacity: 0.7,
+        transform: [{ scale: 0.98 }],
+    },
+    homeButtonText: {
+        fontSize: 16,
+        fontWeight: '600',
         color: colors.textSecondary,
     },
 });

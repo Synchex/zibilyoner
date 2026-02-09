@@ -11,6 +11,7 @@ import { CreditProvider, useCredits } from './src/context/CreditContext';
 import { YuanProvider, useYuan } from './src/context/YuanContext';
 import { GameHistoryProvider, useGameHistory } from './src/context/GameHistoryContext';
 import { LanguageProvider, useLanguage } from './src/context/LanguageContext';
+import { BalanceProvider, useBalance } from './src/context/BalanceContext';
 
 // Screens
 import { HomeScreen } from './src/screens/HomeScreen';
@@ -24,6 +25,8 @@ import { ResultsScreen } from './src/screens/ResultsScreen';
 import { SettingsScreen } from './src/screens/SettingsScreen';
 import { GameHistoryScreen } from './src/screens/GameHistoryScreen';
 import { QuestionDatabaseScreen } from './src/screens/QuestionDatabaseScreen';
+import { SpeedRoundScreen } from './src/screens/SpeedRoundScreen';
+import { DailyChallengeScreen } from './src/screens/DailyChallengeScreen';
 
 // Modals
 import { ContinueModal } from './src/components/modals/ContinueModal';
@@ -37,6 +40,9 @@ import { getCurrentPrize } from './src/data/prizeLadder';
 // Styles
 import { colors } from './src/styles/theme';
 
+// Hooks
+import { useJokers } from './src/hooks/useJokers';
+
 const Tab = createBottomTabNavigator();
 
 type GameState =
@@ -46,19 +52,38 @@ type GameState =
   | 'history_subcategory'
   | 'difficulty'
   | 'playing'
+  | 'speed_round'
+  | 'daily_challenge'
   | 'loss'
   | 'results';
 
 const STORAGE_KEY_LANGUAGE = 'appLanguage';
 const TOTAL_QUESTIONS = 12;
 
-function GameTabScreen() {
+function GameTabScreen({ navigation }: any) {
   const { credits, spendCredits, addCredits, canAfford, gameCost } = useCredits();
   const { addYuan, resetRunYuan } = useYuan();
   const { startNewRun, recordAnswer, finalizeRun } = useGameHistory();
   const { language } = useLanguage();
 
   const [gameState, setGameState] = useState<GameState>('home');
+
+  // Home tab'a her geldiğinde veya basıldığında ana ekrana dön
+  useEffect(() => {
+    const unsubscribe = navigation.addListener('tabPress', (e: any) => {
+      // Home'a basıldığında her zaman ana ekrana dön
+      setGameState('home');
+    });
+
+    return unsubscribe;
+  }, [navigation]);
+
+  // Tab focus değiştiğinde de kontrol et
+  useFocusEffect(
+    useCallback(() => {
+      setGameState('home');
+    }, [])
+  );
   const [selectedCategory, setSelectedCategory] = useState<Category>('all');
   const [selectedDifficulty, setSelectedDifficulty] = useState<Difficulty>('easy');
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -73,6 +98,15 @@ function GameTabScreen() {
   const [wrongSnapshot, setWrongSnapshot] = useState<WrongAnswerSnapshot | null>(null);
   const [selectedSportsSubcategory, setSelectedSportsSubcategory] = useState<SportsSubcategory | undefined>(undefined);
   const [selectedHistorySubcategory, setSelectedHistorySubcategory] = useState<HistorySubcategory | undefined>(undefined);
+
+  // Joker system
+  const {
+    jokerState,
+    useFiftyFifty,
+    useExtraTime,
+    useAiHint,
+    resetJokers,
+  } = useJokers();
 
 
   const handleStartGame = () => {
@@ -149,6 +183,9 @@ function GameTabScreen() {
 
     // Start game history tracking
     startNewRun(selectedCategory, difficulty, TOTAL_QUESTIONS);
+
+    // Reset jokers for new game
+    resetJokers();
 
     setGameState('playing');
   };
@@ -252,6 +289,8 @@ function GameTabScreen() {
         return (
           <HomeScreen
             onStartGame={handleStartGame}
+            onSpeedRound={() => setGameState('speed_round')}
+            onDailyChallenge={() => setGameState('daily_challenge')}
             language={language}
           />
         );
@@ -260,6 +299,7 @@ function GameTabScreen() {
         return (
           <CategorySelection
             onSelectCategory={handleSelectCategory}
+            onBack={() => setGameState('home')}
             language={language}
           />
         );
@@ -268,6 +308,7 @@ function GameTabScreen() {
         return (
           <SportsSubcategoryScreen
             onSelectSubcategory={handleSelectSportsSubcategory}
+            onBack={() => setGameState('category')}
             language={language}
           />
         );
@@ -276,6 +317,7 @@ function GameTabScreen() {
         return (
           <HistorySubcategoryScreen
             onSelectSubcategory={handleSelectHistorySubcategory}
+            onBack={() => setGameState('category')}
             language={language}
           />
         );
@@ -284,8 +326,33 @@ function GameTabScreen() {
         return (
           <DifficultySelection
             onSelectDifficulty={handleSelectDifficulty}
+            onBack={() => setGameState('category')}
+            onGoHome={() => setGameState('home')}
             language={language}
             category={selectedCategory}
+          />
+        );
+
+      case 'speed_round':
+        return (
+          <SpeedRoundScreen
+            language={language}
+            onComplete={(correct, total, earned) => {
+              // After speed round, go back to home
+              setGameState('home');
+            }}
+            onGoHome={() => setGameState('home')}
+          />
+        );
+
+      case 'daily_challenge':
+        return (
+          <DailyChallengeScreen
+            language={language}
+            onComplete={(correct, total, earned) => {
+              setGameState('home');
+            }}
+            onGoHome={() => setGameState('home')}
           />
         );
 
@@ -301,12 +368,17 @@ function GameTabScreen() {
             totalQuestions={TOTAL_QUESTIONS}
             coins={coins}
             streak={streak}
+            difficulty={selectedDifficulty}
             onAnswer={handleAnswer}
             onNextQuestion={handleNextQuestion}
             onContinueRequest={handleContinueRequest}
             onWithdraw={handleWithdraw}
             continueUsed={continueUsed}
             language={language}
+            jokerState={jokerState}
+            onUseFiftyFifty={useFiftyFifty}
+            onUseExtraTime={useExtraTime}
+            onUseAiHint={useAiHint}
           />
         );
 
@@ -390,8 +462,8 @@ function AppNavigator() {
         tabBarIcon: ({ focused, color, size }) => {
           let iconName: keyof typeof Ionicons.glyphMap;
 
-          if (route.name === 'Play') {
-            iconName = focused ? 'game-controller' : 'game-controller-outline';
+          if (route.name === 'Home') {
+            iconName = focused ? 'home' : 'home-outline';
           } else if (route.name === 'History') {
             iconName = focused ? 'time' : 'time-outline';
           } else if (route.name === 'Questions') {
@@ -414,7 +486,7 @@ function AppNavigator() {
         headerShown: false,
       })}
     >
-      <Tab.Screen name="Play" component={GameTabScreen} />
+      <Tab.Screen name="Home" component={GameTabScreen} />
       <Tab.Screen name="History" component={HistoryTabScreen} />
       <Tab.Screen name="Questions" component={QuestionsTabScreen} />
       <Tab.Screen name="Settings" component={SettingsTabScreen} />
@@ -425,16 +497,18 @@ function AppNavigator() {
 export default function App() {
   return (
     <LanguageProvider>
-      <CreditProvider>
-        <YuanProvider>
-          <GameHistoryProvider>
-            <NavigationContainer>
-              <StatusBar barStyle="light-content" backgroundColor={colors.bgDark} />
-              <AppNavigator />
-            </NavigationContainer>
-          </GameHistoryProvider>
-        </YuanProvider>
-      </CreditProvider>
+      <BalanceProvider>
+        <CreditProvider>
+          <YuanProvider>
+            <GameHistoryProvider>
+              <NavigationContainer>
+                <StatusBar barStyle="light-content" backgroundColor={colors.bgDark} />
+                <AppNavigator />
+              </NavigationContainer>
+            </GameHistoryProvider>
+          </YuanProvider>
+        </CreditProvider>
+      </BalanceProvider>
     </LanguageProvider>
   );
 }

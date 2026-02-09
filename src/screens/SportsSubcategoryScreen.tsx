@@ -4,11 +4,13 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import { Language, getTranslation } from '../data/translations';
 import { colors, typography, borderRadius, spacing } from '../styles/theme';
+import { HeaderBackButton } from '../components/HeaderBackButton';
 
 export type SportsSubcategory = 'general_sports' | 'general_football' | 'football' | 'basketball' | 'turkish_football' | 'turkish_sports' | 'legends_records';
 
 interface SportsSubcategoryScreenProps {
     onSelectSubcategory: (subcategory: SportsSubcategory) => void;
+    onBack: () => void;
     language: Language;
 }
 
@@ -20,7 +22,7 @@ interface SubcategoryItem {
     color: string;
 }
 
-export function SportsSubcategoryScreen({ onSelectSubcategory, language }: SportsSubcategoryScreenProps) {
+export function SportsSubcategoryScreen({ onSelectSubcategory, onBack, language }: SportsSubcategoryScreenProps) {
     const t = (key: any) => getTranslation(language, key);
 
     // English subcategories
@@ -102,6 +104,8 @@ export function SportsSubcategoryScreen({ onSelectSubcategory, language }: Sport
                 colors={[colors.bgDark, colors.bgDarker, colors.bgDark]}
                 style={StyleSheet.absoluteFillObject}
             />
+
+            <HeaderBackButton onPress={onBack} />
 
             <ScrollView
                 contentContainerStyle={styles.scrollContent}

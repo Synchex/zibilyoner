@@ -4,11 +4,13 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import { Language, getTranslation } from '../data/translations';
 import { colors, typography, borderRadius, spacing } from '../styles/theme';
+import { HeaderBackButton } from '../components/HeaderBackButton';
 
 export type Category = 'all' | 'general' | 'history' | 'sports';
 
 interface CategorySelectionProps {
     onSelectCategory: (category: Category) => void;
+    onBack: () => void;
     language: Language;
 }
 
@@ -51,7 +53,7 @@ const categories: CategoryOption[] = [
     },
 ];
 
-export function CategorySelection({ onSelectCategory, language }: CategorySelectionProps) {
+export function CategorySelection({ onSelectCategory, onBack, language }: CategorySelectionProps) {
     const t = (key: any) => getTranslation(language, key);
 
     return (
@@ -60,6 +62,8 @@ export function CategorySelection({ onSelectCategory, language }: CategorySelect
                 colors={[colors.bgDark, colors.bgDarker, colors.bgDark]}
                 style={StyleSheet.absoluteFillObject}
             />
+
+            <HeaderBackButton onPress={onBack} />
 
             <ScrollView
                 contentContainerStyle={styles.scrollContent}

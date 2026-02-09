@@ -7,14 +7,17 @@ interface CircularTimerProps {
     onComplete: () => void;
     size: number;
     isLocked?: boolean;
+    addTimeRef?: React.MutableRefObject<((seconds: number) => void) | null>;
 }
 
-export function CircularTimer({ duration, onComplete, size, isLocked }: CircularTimerProps) {
+export function CircularTimer({ duration, onComplete, size, isLocked, addTimeRef }: CircularTimerProps) {
     const [timeLeft, setTimeLeft] = useState(duration);
+    const [totalDuration, setTotalDuration] = useState(duration);
     const progressAnim = useRef(new Animated.Value(1)).current;
     const hasCompletedRef = useRef(false);
     const onCompleteRef = useRef(onComplete);
     const isLockedRef = useRef(isLocked);
+    const timeLeftRef = useRef(timeLeft);
 
     // Keep refs updated
     useEffect(() => {
@@ -26,8 +29,32 @@ export function CircularTimer({ duration, onComplete, size, isLocked }: Circular
     }, [isLocked]);
 
     useEffect(() => {
+        timeLeftRef.current = timeLeft;
+    }, [timeLeft]);
+
+    // Register addTime function
+    useEffect(() => {
+        if (addTimeRef) {
+            addTimeRef.current = (seconds: number) => {
+                setTimeLeft((prev) => {
+                    const newTime = prev + seconds;
+                    return newTime;
+                });
+                setTotalDuration((prev) => prev + seconds);
+            };
+        }
+
+        return () => {
+            if (addTimeRef) {
+                addTimeRef.current = null;
+            }
+        };
+    }, [addTimeRef]);
+
+    useEffect(() => {
         // Reset on mount
         setTimeLeft(duration);
+        setTotalDuration(duration);
         hasCompletedRef.current = false;
         progressAnim.setValue(1);
 
@@ -59,8 +86,9 @@ export function CircularTimer({ duration, onComplete, size, isLocked }: Circular
         };
     }, [duration]); // Only depend on duration
 
+
     const getColor = () => {
-        const ratio = timeLeft / duration;
+        const ratio = timeLeft / totalDuration;
         if (ratio > 0.5) return colors.neonGreen;
         if (ratio > 0.25) return '#f59e0b';
         return colors.wrong;

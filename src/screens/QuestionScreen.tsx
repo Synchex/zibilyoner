@@ -8,6 +8,11 @@ import { getCurrentPrize, formatPrizeFull, formatPrize } from '../data/prizeLadd
 import { ProgressBar } from '../components/ProgressBar';
 import { CircularTimer } from '../components/CircularTimer';
 import { PrizeLadder } from '../components/PrizeLadder';
+import { JokerBar } from '../components/JokerBar';
+import { JokerState } from '../hooks/useJokers';
+import { Difficulty } from './DifficultySelection';
+import { useBalance } from '../context/BalanceContext';
+import { calculateReward, formatEarnedReward, formatBalance } from '../utils/calculateReward';
 
 interface Question {
     id: number;
@@ -39,12 +44,18 @@ interface QuestionScreenProps {
     totalQuestions: number;
     coins: number;
     streak: number;
+    difficulty: Difficulty;
     onAnswer: (isCorrect: boolean, snapshot?: WrongAnswerSnapshot) => void;
     onNextQuestion: () => void;
     onContinueRequest: () => void;
     onWithdraw: (cashOutAmount: number) => void;
     continueUsed: boolean;
     language: Language;
+    // Joker props
+    jokerState: JokerState;
+    onUseFiftyFifty: (question: Question) => number[];
+    onUseExtraTime: () => void;
+    onUseAiHint: (question: Question) => string;
 }
 
 function getTimerDuration(questionNumber: number): number {
@@ -59,22 +70,34 @@ export function QuestionScreen({
     totalQuestions,
     coins,
     streak,
+    difficulty,
     onAnswer,
     onNextQuestion,
     onContinueRequest,
     onWithdraw,
     continueUsed,
     language,
+    jokerState,
+    onUseFiftyFifty,
+    onUseExtraTime,
+    onUseAiHint,
 }: QuestionScreenProps) {
     const t = (key: any, params?: any) => getTranslation(language, key, params);
+    const { balance, addBalance } = useBalance();
 
     const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
     const [showResult, setShowResult] = useState(false);
     const [isCorrect, setIsCorrect] = useState(false);
     const [timeUp, setTimeUp] = useState(false);
     const [showWithdrawModal, setShowWithdrawModal] = useState(false);
+    const [hiddenAnswers, setHiddenAnswers] = useState<number[]>([]);
+    const [hintText, setHintText] = useState<string | null>(null);
+    const [earnedReward, setEarnedReward] = useState<number | null>(null);
     const isLockedRef = useRef(false);
     const shakeAnim = useRef(new Animated.Value(0)).current;
+    const addTimeRef = useRef<((seconds: number) => void) | null>(null);
+    const rewardAnim = useRef(new Animated.Value(0)).current;
+    const rewardOpacity = useRef(new Animated.Value(0)).current;
 
     const currentPrize = getCurrentPrize(questionNumber - 1);
     const cashOutAmount = questionNumber > 1 ? getCurrentPrize(questionNumber - 2) : 0;
@@ -85,7 +108,12 @@ export function QuestionScreen({
         setIsCorrect(false);
         setTimeUp(false);
         setShowWithdrawModal(false);
+        setHiddenAnswers([]);
+        setHintText(null);
+        setEarnedReward(null);
         isLockedRef.current = false;
+        rewardAnim.setValue(0);
+        rewardOpacity.setValue(0);
     }, [question.id, questionNumber]);
 
     const shakeWrongAnswer = () => {
@@ -119,6 +147,26 @@ export function QuestionScreen({
         setShowResult(true);
 
         if (correct) {
+            // Calculate reward with difficulty multiplier
+            const basePrize = getCurrentPrize(questionNumber - 1);
+            const { earned } = calculateReward(difficulty, basePrize, true);
+            setEarnedReward(earned);
+            addBalance(earned);
+
+            // Animate reward feedback
+            Animated.parallel([
+                Animated.sequence([
+                    Animated.timing(rewardOpacity, { toValue: 1, duration: 200, useNativeDriver: true }),
+                    Animated.delay(800),
+                    Animated.timing(rewardOpacity, { toValue: 0, duration: 300, useNativeDriver: true }),
+                ]),
+                Animated.sequence([
+                    Animated.spring(rewardAnim, { toValue: 1, friction: 4, useNativeDriver: true }),
+                    Animated.delay(800),
+                    Animated.timing(rewardAnim, { toValue: 0, duration: 300, useNativeDriver: true }),
+                ]),
+            ]).start();
+
             onAnswer(true);
             setTimeout(() => {
                 onNextQuestion();
@@ -200,6 +248,27 @@ export function QuestionScreen({
         return styles.answerDisabled;
     };
 
+    // Joker handlers
+    const handleFiftyFifty = () => {
+        if (showResult || jokerState.fiftyFifty.used) return;
+        const hidden = onUseFiftyFifty(question);
+        setHiddenAnswers(hidden);
+    };
+
+    const handleExtraTime = () => {
+        if (showResult || jokerState.extraTime.used) return;
+        onUseExtraTime();
+        if (addTimeRef.current) {
+            addTimeRef.current(10);
+        }
+    };
+
+    const handleAiHint = () => {
+        if (showResult || jokerState.aiHint.used) return;
+        const hint = onUseAiHint(question);
+        setHintText(hint);
+    };
+
     return (
         <View style={styles.container}>
             <LinearGradient
@@ -222,9 +291,9 @@ export function QuestionScreen({
             >
                 {/* Top Stats Bar */}
                 <View style={styles.topBar}>
-                    <View style={styles.coinContainer}>
-                        <Ionicons name="logo-bitcoin" size={24} color={colors.gold} />
-                        <Text style={styles.coinText}>{coins}</Text>
+                    <View style={styles.balanceBadge}>
+                        <Text style={styles.balanceSymbol}>₿</Text>
+                        <Text style={styles.balanceText}>{balance}</Text>
                     </View>
 
                     <CircularTimer
@@ -233,6 +302,7 @@ export function QuestionScreen({
                         onComplete={handleTimeUp}
                         size={70}
                         isLocked={isLockedRef.current}
+                        addTimeRef={addTimeRef}
                     />
 
                     <View style={styles.streakContainer}>
@@ -240,6 +310,22 @@ export function QuestionScreen({
                         <Text style={styles.streakText}>{streak}x</Text>
                     </View>
                 </View>
+
+                {/* Reward Feedback Animation */}
+                {earnedReward !== null && (
+                    <Animated.View style={[
+                        styles.rewardFeedback,
+                        {
+                            opacity: rewardOpacity,
+                            transform: [
+                                { scale: rewardAnim.interpolate({ inputRange: [0, 1], outputRange: [0.5, 1] }) },
+                                { translateY: rewardAnim.interpolate({ inputRange: [0, 1], outputRange: [20, 0] }) }
+                            ]
+                        }
+                    ]}>
+                        <Text style={styles.rewardFeedbackText}>+₿ {earnedReward}</Text>
+                    </Animated.View>
+                )}
 
                 {/* Withdraw Button */}
                 <Pressable
@@ -265,29 +351,51 @@ export function QuestionScreen({
                 {/* Question Card */}
                 <View style={styles.questionCard}>
                     <Text style={styles.questionText}>{question.question}</Text>
+                    {hintText && (
+                        <View style={styles.hintContainer}>
+                            <Text style={styles.hintText}>
+                                {t('hintPrefix')} {hintText}
+                            </Text>
+                        </View>
+                    )}
                 </View>
+
+                {/* Joker Bar */}
+                <JokerBar
+                    jokerState={jokerState}
+                    onFiftyFifty={handleFiftyFifty}
+                    onExtraTime={handleExtraTime}
+                    onAiHint={handleAiHint}
+                    disabled={showResult}
+                    language={language}
+                />
 
                 {/* Answers */}
                 <View style={styles.answersContainer}>
-                    {question.answers.map((answer, index) => (
-                        <Animated.View
-                            key={index}
-                            style={[
-                                { transform: [{ translateX: selectedAnswer === index && !isCorrect ? shakeAnim : 0 }] }
-                            ]}
-                        >
-                            <Pressable
-                                onPress={() => handleAnswerClick(index)}
-                                disabled={selectedAnswer !== null || timeUp}
-                                style={[styles.answerButton, getAnswerStyle(index)]}
+                    {question.answers.map((answer, index) => {
+                        // Hide answers eliminated by 50:50
+                        if (hiddenAnswers.includes(index)) return null;
+
+                        return (
+                            <Animated.View
+                                key={index}
+                                style={[
+                                    { transform: [{ translateX: selectedAnswer === index && !isCorrect ? shakeAnim : 0 }] }
+                                ]}
                             >
-                                <View style={styles.answerLetter}>
-                                    <Text style={styles.answerLetterText}>{String.fromCharCode(65 + index)}</Text>
-                                </View>
-                                <Text style={styles.answerText}>{answer}</Text>
-                            </Pressable>
-                        </Animated.View>
-                    ))}
+                                <Pressable
+                                    onPress={() => handleAnswerClick(index)}
+                                    disabled={selectedAnswer !== null || timeUp}
+                                    style={[styles.answerButton, getAnswerStyle(index)]}
+                                >
+                                    <View style={styles.answerLetter}>
+                                        <Text style={styles.answerLetterText}>{String.fromCharCode(65 + index)}</Text>
+                                    </View>
+                                    <Text style={styles.answerText}>{answer}</Text>
+                                </Pressable>
+                            </Animated.View>
+                        );
+                    })}
                 </View>
 
                 {/* Result Message */}
@@ -554,5 +662,54 @@ const styles = StyleSheet.create({
         color: colors.bgDark,
         fontSize: 16,
         fontWeight: '700',
+    },
+    hintContainer: {
+        marginTop: spacing.md,
+        padding: spacing.sm,
+        backgroundColor: `${colors.gold}20`,
+        borderRadius: borderRadius.md,
+        borderWidth: 1,
+        borderColor: colors.gold,
+    },
+    hintText: {
+        color: colors.gold,
+        fontSize: 14,
+        fontWeight: '500',
+        textAlign: 'center',
+        fontStyle: 'italic',
+    },
+    balanceBadge: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        backgroundColor: colors.card,
+        paddingHorizontal: spacing.md,
+        paddingVertical: spacing.sm,
+        borderRadius: borderRadius.lg,
+        borderWidth: 1,
+        borderColor: colors.gold,
+        gap: spacing.xs,
+    },
+    balanceSymbol: {
+        fontSize: 18,
+        fontWeight: '800',
+        color: colors.gold,
+    },
+    balanceText: {
+        fontSize: 16,
+        fontWeight: '700',
+        color: colors.gold,
+    },
+    rewardFeedback: {
+        alignSelf: 'center',
+        backgroundColor: colors.neonGreen,
+        paddingHorizontal: spacing.lg,
+        paddingVertical: spacing.sm,
+        borderRadius: borderRadius.lg,
+        marginBottom: spacing.sm,
+    },
+    rewardFeedbackText: {
+        fontSize: 18,
+        fontWeight: '800',
+        color: colors.bgDark,
     },
 });

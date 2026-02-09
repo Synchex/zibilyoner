@@ -122,6 +122,12 @@ export interface Translations {
   withdrawBody: string;
   withdrawCancel: string;
   withdrawConfirm: string;
+  // Joker system
+  jokerFiftyFifty: string;
+  jokerExtraTime: string;
+  jokerAiHint: string;
+  jokerUsed: string;
+  hintPrefix: string;
 }
 
 export const translations: Record<Language, Translations> = {
@@ -247,6 +253,12 @@ export const translations: Record<Language, Translations> = {
     withdrawBody: 'You will cash out {amount} YUAN and end this run.',
     withdrawCancel: 'Cancel',
     withdrawConfirm: 'Withdraw',
+    // Joker system
+    jokerFiftyFifty: '50:50',
+    jokerExtraTime: '+10s',
+    jokerAiHint: 'AI Hint',
+    jokerUsed: 'Used',
+    hintPrefix: 'Hint:',
   },
 
   tr: {
@@ -371,6 +383,12 @@ export const translations: Record<Language, Translations> = {
     withdrawBody: '{amount} YUAN kazanıp yarışmayı bitireceksin.',
     withdrawCancel: 'Vazgeç',
     withdrawConfirm: 'Çekil',
+    // Joker system
+    jokerFiftyFifty: '50:50',
+    jokerExtraTime: '+10s',
+    jokerAiHint: 'AI İpucu',
+    jokerUsed: 'Kullanıldı',
+    hintPrefix: 'İpucu:',
   },
 };
 

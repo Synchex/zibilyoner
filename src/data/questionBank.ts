@@ -273,7 +273,93 @@ export function getQuestions(options: GetQuestionsOptions = {}): Question[] {
         filtered = filtered.slice(0, limit);
     }
 
+    // Shuffle answer options with balanced distribution
+    // Ensures correct answer position varies (max 2 consecutive in same position)
+    filtered = shuffleAnswersWithBalance(filtered);
+
     return filtered;
+}
+
+/**
+ * Shuffles the answer options for each question while maintaining correctness.
+ * Ensures that the correct answer position is balanced across questions
+ * with a maximum of 2 consecutive questions having the same correct answer position.
+ */
+function shuffleAnswersWithBalance(questions: Question[]): Question[] {
+    if (questions.length === 0) return questions;
+
+    const result: Question[] = [];
+    let lastCorrectPosition = -1;
+    let consecutiveCount = 0;
+
+    for (const q of questions) {
+        // Create shuffled answer array
+        const answerPairs = q.answers.map((answer, index) => ({
+            answer,
+            isCorrect: index === q.correctAnswer
+        }));
+
+        // Determine forbidden position (if we've had 2 consecutive same positions)
+        let forbiddenPosition = -1;
+        if (consecutiveCount >= 2) {
+            forbiddenPosition = lastCorrectPosition;
+        }
+
+        // Shuffle answers with constraint
+        const shuffledPairs = shuffleWithConstraint(answerPairs, forbiddenPosition);
+
+        // Find new correct answer position
+        const newCorrectPosition = shuffledPairs.findIndex(pair => pair.isCorrect);
+
+        // Track consecutive positions
+        if (newCorrectPosition === lastCorrectPosition) {
+            consecutiveCount++;
+        } else {
+            consecutiveCount = 1;
+            lastCorrectPosition = newCorrectPosition;
+        }
+
+        result.push({
+            ...q,
+            answers: shuffledPairs.map(pair => pair.answer),
+            correctAnswer: newCorrectPosition
+        });
+    }
+
+    return result;
+}
+
+/**
+ * Shuffles answer pairs with an optional constraint on the correct answer position
+ */
+function shuffleWithConstraint(
+    pairs: { answer: string; isCorrect: boolean }[],
+    forbiddenPosition: number
+): { answer: string; isCorrect: boolean }[] {
+    const maxAttempts = 10;
+
+    for (let attempt = 0; attempt < maxAttempts; attempt++) {
+        // Fisher-Yates shuffle
+        const shuffled = [...pairs];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+
+        // Check if the correct answer is in the forbidden position
+        const correctPosition = shuffled.findIndex(pair => pair.isCorrect);
+        if (forbiddenPosition === -1 || correctPosition !== forbiddenPosition) {
+            return shuffled;
+        }
+    }
+
+    // Fallback: just return a regular shuffle if we couldn't avoid the position
+    const shuffled = [...pairs];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
 }
 
 // ============================================================================

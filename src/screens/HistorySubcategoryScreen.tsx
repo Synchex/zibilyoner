@@ -4,6 +4,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import { Language, getTranslation } from '../data/translations';
 import { colors, typography, borderRadius, spacing } from '../styles/theme';
+import { HeaderBackButton } from '../components/HeaderBackButton';
 
 // EN History subcategories
 export type HistorySubcategoryEN = 'history_modern' | 'history_legends_empires' | 'history_ancient_early' | 'history_all';
@@ -16,6 +17,7 @@ export type HistorySubcategory = HistorySubcategoryEN | HistorySubcategoryTR;
 
 interface HistorySubcategoryScreenProps {
     onSelectSubcategory: (subcategory: HistorySubcategory) => void;
+    onBack: () => void;
     language: Language;
 }
 
@@ -28,7 +30,7 @@ interface SubcategoryItem {
     highlighted?: boolean;
 }
 
-export function HistorySubcategoryScreen({ onSelectSubcategory, language }: HistorySubcategoryScreenProps) {
+export function HistorySubcategoryScreen({ onSelectSubcategory, onBack, language }: HistorySubcategoryScreenProps) {
     const t = (key: any) => getTranslation(language, key);
 
     // EN subcategories
@@ -105,6 +107,8 @@ export function HistorySubcategoryScreen({ onSelectSubcategory, language }: Hist
                 colors={[colors.bgDark, colors.bgDarker, colors.bgDark]}
                 style={StyleSheet.absoluteFillObject}
             />
+
+            <HeaderBackButton onPress={onBack} />
 
             <ScrollView
                 contentContainerStyle={styles.scrollContent}
