@@ -103,6 +103,7 @@ const styles = StyleSheet.create({
     scrollContent: {
         padding: spacing.lg,
         paddingTop: spacing.xxl + spacing.lg,
+        paddingBottom: 100,
     },
     title: {
         fontSize: 28,

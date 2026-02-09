@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { View, Text, Pressable, StyleSheet, Modal, Animated } from 'react-native';
+import { View, Text, Pressable, StyleSheet, Modal, Animated, ScrollView } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import { Language, getTranslation } from '../data/translations';
@@ -215,84 +215,93 @@ export function QuestionScreen({
                 ]} />
             )}
 
-            {/* Top Stats Bar */}
-            <View style={styles.topBar}>
-                <View style={styles.coinContainer}>
-                    <Ionicons name="logo-bitcoin" size={24} color={colors.gold} />
-                    <Text style={styles.coinText}>{coins}</Text>
-                </View>
-
-                <CircularTimer
-                    key={`timer-${question.id}`}
-                    duration={getTimerDuration(questionNumber)}
-                    onComplete={handleTimeUp}
-                    size={70}
-                    isLocked={isLockedRef.current}
-                />
-
-                <View style={styles.streakContainer}>
-                    <Ionicons name="flash" size={24} color={colors.neonGreen} />
-                    <Text style={styles.streakText}>{streak}x</Text>
-                </View>
-            </View>
-
-            {/* Withdraw Button */}
-            <Pressable
-                onPress={handleWithdrawClick}
-                disabled={showResult}
-                style={[styles.withdrawButton, showResult && styles.withdrawButtonDisabled]}
+            <ScrollView
+                style={styles.scrollView}
+                contentContainerStyle={styles.scrollContent}
+                showsVerticalScrollIndicator={false}
             >
-                <Ionicons name="exit-outline" size={20} color={colors.gold} />
-                <Text style={styles.withdrawText}>{t('withdraw')}</Text>
-            </Pressable>
+                {/* Top Stats Bar */}
+                <View style={styles.topBar}>
+                    <View style={styles.coinContainer}>
+                        <Ionicons name="logo-bitcoin" size={24} color={colors.gold} />
+                        <Text style={styles.coinText}>{coins}</Text>
+                    </View>
 
-            {/* Current Prize */}
-            <View style={styles.prizeContainer}>
-                <Text style={styles.prizeLabel}>PRIZE</Text>
-                <Text style={styles.prizeAmount}>¥ {formatPrize(currentPrize)}</Text>
-            </View>
+                    <CircularTimer
+                        key={`timer-${question.id}`}
+                        duration={getTimerDuration(questionNumber)}
+                        onComplete={handleTimeUp}
+                        size={70}
+                        isLocked={isLockedRef.current}
+                    />
 
-            {/* Progress */}
-            <View style={styles.progressContainer}>
-                <ProgressBar current={questionNumber} total={totalQuestions} language={language} />
-            </View>
-
-            {/* Question Card */}
-            <View style={styles.questionCard}>
-                <Text style={styles.questionText}>{question.question}</Text>
-            </View>
-
-            {/* Answers */}
-            <View style={styles.answersContainer}>
-                {question.answers.map((answer, index) => (
-                    <Animated.View
-                        key={index}
-                        style={[
-                            { transform: [{ translateX: selectedAnswer === index && !isCorrect ? shakeAnim : 0 }] }
-                        ]}
-                    >
-                        <Pressable
-                            onPress={() => handleAnswerClick(index)}
-                            disabled={selectedAnswer !== null || timeUp}
-                            style={[styles.answerButton, getAnswerStyle(index)]}
-                        >
-                            <View style={styles.answerLetter}>
-                                <Text style={styles.answerLetterText}>{String.fromCharCode(65 + index)}</Text>
-                            </View>
-                            <Text style={styles.answerText}>{answer}</Text>
-                        </Pressable>
-                    </Animated.View>
-                ))}
-            </View>
-
-            {/* Result Message */}
-            {showResult && (
-                <View style={styles.resultMessage}>
-                    <Text style={[styles.resultText, { color: isCorrect ? colors.correct : colors.wrong }]}>
-                        {isCorrect ? t('correct') : timeUp ? t('timeUp') : t('wrongAnswer')}
-                    </Text>
+                    <View style={styles.streakContainer}>
+                        <Ionicons name="flash" size={24} color={colors.neonGreen} />
+                        <Text style={styles.streakText}>{streak}x</Text>
+                    </View>
                 </View>
-            )}
+
+                {/* Withdraw Button */}
+                <Pressable
+                    onPress={handleWithdrawClick}
+                    disabled={showResult}
+                    style={[styles.withdrawButton, showResult && styles.withdrawButtonDisabled]}
+                >
+                    <Ionicons name="exit-outline" size={20} color={colors.gold} />
+                    <Text style={styles.withdrawText}>{t('withdraw')}</Text>
+                </Pressable>
+
+                {/* Current Prize */}
+                <View style={styles.prizeContainer}>
+                    <Text style={styles.prizeLabel}>PRIZE</Text>
+                    <Text style={styles.prizeAmount}>¥ {formatPrize(currentPrize)}</Text>
+                </View>
+
+                {/* Progress */}
+                <View style={styles.progressContainer}>
+                    <ProgressBar current={questionNumber} total={totalQuestions} language={language} />
+                </View>
+
+                {/* Question Card */}
+                <View style={styles.questionCard}>
+                    <Text style={styles.questionText}>{question.question}</Text>
+                </View>
+
+                {/* Answers */}
+                <View style={styles.answersContainer}>
+                    {question.answers.map((answer, index) => (
+                        <Animated.View
+                            key={index}
+                            style={[
+                                { transform: [{ translateX: selectedAnswer === index && !isCorrect ? shakeAnim : 0 }] }
+                            ]}
+                        >
+                            <Pressable
+                                onPress={() => handleAnswerClick(index)}
+                                disabled={selectedAnswer !== null || timeUp}
+                                style={[styles.answerButton, getAnswerStyle(index)]}
+                            >
+                                <View style={styles.answerLetter}>
+                                    <Text style={styles.answerLetterText}>{String.fromCharCode(65 + index)}</Text>
+                                </View>
+                                <Text style={styles.answerText}>{answer}</Text>
+                            </Pressable>
+                        </Animated.View>
+                    ))}
+                </View>
+
+                {/* Result Message */}
+                {showResult && (
+                    <View style={styles.resultMessage}>
+                        <Text style={[styles.resultText, { color: isCorrect ? colors.correct : colors.wrong }]}>
+                            {isCorrect ? t('correct') : timeUp ? t('timeUp') : t('wrongAnswer')}
+                        </Text>
+                    </View>
+                )}
+
+                {/* Bottom padding for scroll */}
+                <View style={{ height: 50 }} />
+            </ScrollView>
 
             {/* Withdraw Modal */}
             <Modal
@@ -333,6 +342,12 @@ const styles = StyleSheet.create({
         backgroundColor: colors.bgDark,
         paddingHorizontal: spacing.md,
         paddingTop: spacing.xxl + spacing.md,
+    },
+    scrollView: {
+        flex: 1,
+    },
+    scrollContent: {
+        paddingBottom: 100,
     },
     resultOverlay: {
         ...StyleSheet.absoluteFillObject,

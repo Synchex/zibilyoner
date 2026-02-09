@@ -146,6 +146,7 @@ const styles = StyleSheet.create({
     listContent: {
         padding: spacing.lg,
         paddingTop: 0,
+        paddingBottom: 100,
     },
     runCard: {
         backgroundColor: colors.card,

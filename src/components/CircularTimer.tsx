@@ -13,6 +13,17 @@ export function CircularTimer({ duration, onComplete, size, isLocked }: Circular
     const [timeLeft, setTimeLeft] = useState(duration);
     const progressAnim = useRef(new Animated.Value(1)).current;
     const hasCompletedRef = useRef(false);
+    const onCompleteRef = useRef(onComplete);
+    const isLockedRef = useRef(isLocked);
+
+    // Keep refs updated
+    useEffect(() => {
+        onCompleteRef.current = onComplete;
+    }, [onComplete]);
+
+    useEffect(() => {
+        isLockedRef.current = isLocked;
+    }, [isLocked]);
 
     useEffect(() => {
         // Reset on mount
@@ -33,9 +44,9 @@ export function CircularTimer({ duration, onComplete, size, isLocked }: Circular
             setTimeLeft((prev) => {
                 if (prev <= 1) {
                     clearInterval(interval);
-                    if (!hasCompletedRef.current && !isLocked) {
+                    if (!hasCompletedRef.current && !isLockedRef.current) {
                         hasCompletedRef.current = true;
-                        onComplete();
+                        onCompleteRef.current();
                     }
                     return 0;
                 }
@@ -46,7 +57,7 @@ export function CircularTimer({ duration, onComplete, size, isLocked }: Circular
         return () => {
             clearInterval(interval);
         };
-    }, [duration, onComplete, isLocked]);
+    }, [duration]); // Only depend on duration
 
     const getColor = () => {
         const ratio = timeLeft / duration;
