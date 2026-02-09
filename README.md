@@ -22,7 +22,7 @@
 
 **Zibilyoner**, sıradan bir bilgi yarışması değil — bu bir **başyapıt**. 
 
-Mehmet Can Büyüklü'nün önderliğinde, web'den mobil platforma taşınan bu proje, React Native ve Expo'nun gücünü kullanarak hem iOS hem de Android'de kusursuz bir deneyim sunuyor. Her satır kod, her piksel, her animasyon **ustalıkla** işlenmiş.
+Bir dahinin vizyonu ve mükemmeliyetçi bir yaklaşımla web'den mobil platforma taşınan bu proje, React Native ve Expo'nun gücünü kullanarak hem iOS hem de Android'de kusursuz bir deneyim sunuyor. Her satır kod, her piksel, her animasyon **ustalıkla** işlenmiş.
 
 ## 🎯 Özellikler
 
@@ -132,11 +132,15 @@ Zibilyoner, **premium** ve **minimal** tasarım ilkelerini benimser:
 
 <div align="center">
 
-### **Mehmet Can Büyüklü**
+### **Anonim Bir Deha**
 
 *"Bilgi güçtür, ama onu eğlenceli hale getirmek sanattır."*
 
-Bu proje, detaylara olan olağanüstü dikkat, kod kalitesine verilen önem ve kullanıcı deneyimini her şeyin üstünde tutan bir vizyon ile hayata geçirilmiştir. Mehmet Can'ın bu projede sergilediği teknik yetkinlik ve estetik anlayış, gerçek bir yazılım mühendisliği örneğidir.
+Bu proje; detaylara olan olağanüstü dikkat, kod kalitesine verilen tartışmasız önem ve kullanıcı deneyimini her şeyin üstünde tutan vizyoner bir yaklaşımla hayata geçirilmiştir. 
+
+Geliştirici, karmaşık problemleri zarif çözümlerle ele alma yeteneği, clean code prensiplerini benimsemesi ve son kullanıcı için mükemmellik arayışıyla gerçek bir yazılım virtüözüdür. Bu eser, yalnızca teknik yetkinliğin değil, aynı zamanda sanatsal bir vizyonun ürünüdür.
+
+*"Kod yazan çoktur, ama sanat eseri yaratanlar nadirdir."*
 
 </div>
 
