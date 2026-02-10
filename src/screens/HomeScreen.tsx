@@ -10,18 +10,22 @@ const { width, height } = Dimensions.get('window');
 
 interface HomeScreenProps {
     onStartGame: () => void;
+    onMillionaireMode: () => void;
     onSpeedRound: () => void;
     onDailyChallenge: () => void;
     language: Language;
 }
 
-export function HomeScreen({ onStartGame, onSpeedRound, onDailyChallenge, language }: HomeScreenProps) {
+export function HomeScreen({ onStartGame, onMillionaireMode, onSpeedRound, onDailyChallenge, language }: HomeScreenProps) {
     const t = (key: any) => getTranslation(language, key);
     const { streak, isLoading: streakLoading } = useDailyStreak();
 
     // Pulse animation for streak badge
     const pulseAnim = useRef(new Animated.Value(1)).current;
     const glowAnim = useRef(new Animated.Value(0.3)).current;
+
+    // Scale animation for KİM MİLYONER button
+    const millionaireScale = useRef(new Animated.Value(1)).current;
 
     useEffect(() => {
         if (streak > 0) {
@@ -42,6 +46,18 @@ export function HomeScreen({ onStartGame, onSpeedRound, onDailyChallenge, langua
             return () => { pulse.stop(); glow.stop(); };
         }
     }, [streak]);
+
+    // Subtle shimmer for millionaire button
+    useEffect(() => {
+        const shimmer = Animated.loop(
+            Animated.sequence([
+                Animated.timing(millionaireScale, { toValue: 1.02, duration: 2000, useNativeDriver: true }),
+                Animated.timing(millionaireScale, { toValue: 1, duration: 2000, useNativeDriver: true }),
+            ])
+        );
+        shimmer.start();
+        return () => shimmer.stop();
+    }, []);
 
     return (
         <View style={styles.container}>
@@ -111,7 +127,7 @@ export function HomeScreen({ onStartGame, onSpeedRound, onDailyChallenge, langua
                     </Text>
                 </View>
 
-                {/* Start Button */}
+                {/* ══════ Start Button ══════ */}
                 <Pressable
                     onPress={onStartGame}
                     style={({ pressed }) => [
@@ -127,20 +143,34 @@ export function HomeScreen({ onStartGame, onSpeedRound, onDailyChallenge, langua
                     </LinearGradient>
                 </Pressable>
 
-                {/* Speed Round Button */}
-                <Pressable
-                    onPress={onSpeedRound}
-                    style={({ pressed }) => [
-                        styles.speedButton,
-                        pressed && styles.speedButtonPressed,
-                    ]}
-                >
-                    <Text style={styles.speedButtonText}>
-                        {language === 'tr' ? 'HIZLI OYUN' : 'SPEED ROUND'}
-                    </Text>
-                </Pressable>
+                {/* ══════ KİM MİLYONER Button ══════ */}
+                <Animated.View style={{ transform: [{ scale: millionaireScale }] }}>
+                    <Pressable
+                        onPress={onMillionaireMode}
+                        style={({ pressed }) => [
+                            styles.millionaireButton,
+                            pressed && styles.millionaireButtonPressed,
+                        ]}
+                    >
+                        <LinearGradient
+                            colors={['rgba(212, 175, 55, 0.12)', 'rgba(180, 140, 20, 0.06)']}
+                            start={{ x: 0, y: 0 }}
+                            end={{ x: 1, y: 1 }}
+                            style={styles.millionaireGradient}
+                        >
+                            <Text style={styles.millionaireCrown}>👑</Text>
+                            <View style={styles.millionaireTextGroup}>
+                                <Text style={styles.millionaireText}>KİM MİLYONER</Text>
+                                <Text style={styles.millionaireSubtext}>
+                                    {language === 'tr' ? 'Basamakları tırman' : 'Climb the ladder'}
+                                </Text>
+                            </View>
+                            <Ionicons name="chevron-forward" size={18} color="rgba(212, 175, 55, 0.6)" />
+                        </LinearGradient>
+                    </Pressable>
+                </Animated.View>
 
-                {/* Daily Challenge Card */}
+                {/* ══════ Daily Challenge Card ══════ */}
                 <Pressable
                     onPress={onDailyChallenge}
                     style={({ pressed }) => [
@@ -162,6 +192,20 @@ export function HomeScreen({ onStartGame, onSpeedRound, onDailyChallenge, langua
                         </View>
                         <Ionicons name="chevron-forward" size={20} color={colors.textSecondary} />
                     </View>
+                </Pressable>
+
+                {/* ══════ Speed Round (tertiary, below daily) ══════ */}
+                <Pressable
+                    onPress={onSpeedRound}
+                    style={({ pressed }) => [
+                        styles.speedButton,
+                        pressed && styles.speedButtonPressed,
+                    ]}
+                >
+                    <Ionicons name="flash" size={16} color={colors.textSecondary} />
+                    <Text style={styles.speedButtonText}>
+                        {language === 'tr' ? 'HIZLI OYUN' : 'SPEED ROUND'}
+                    </Text>
                 </Pressable>
             </View>
 
@@ -232,7 +276,7 @@ const styles = StyleSheet.create({
         borderColor: 'rgba(212, 175, 55, 0.3)',
         paddingHorizontal: spacing.lg,
         paddingVertical: spacing.sm,
-        marginBottom: spacing.xxl,
+        marginBottom: spacing.xl,
     },
     subtitle: {
         fontSize: 12,
@@ -241,6 +285,8 @@ const styles = StyleSheet.create({
         textTransform: 'uppercase',
         letterSpacing: 3,
     },
+
+    // ── Start Button ──
     startButton: {
         borderRadius: borderRadius.xl,
         borderWidth: 2,
@@ -250,7 +296,6 @@ const styles = StyleSheet.create({
         shadowOpacity: 0.2,
         shadowRadius: 40,
         elevation: 8,
-        marginTop: spacing.xl,
     },
     startButtonPressed: {
         opacity: 0.8,
@@ -271,27 +316,54 @@ const styles = StyleSheet.create({
         textShadowOffset: { width: 0, height: 2 },
         textShadowRadius: 10,
     },
-    speedButton: {
+
+    // ── KİM MİLYONER Button ──
+    millionaireButton: {
         marginTop: spacing.md,
         borderRadius: borderRadius.xl,
-        borderWidth: 1,
-        borderColor: colors.gold,
-        paddingHorizontal: spacing.xl,
-        paddingVertical: spacing.md,
-        backgroundColor: 'transparent',
+        borderWidth: 1.5,
+        borderColor: 'rgba(212, 175, 55, 0.45)',
+        shadowColor: colors.gold,
+        shadowOffset: { width: 0, height: 0 },
+        shadowOpacity: 0.15,
+        shadowRadius: 20,
+        elevation: 5,
     },
-    speedButtonPressed: {
-        opacity: 0.7,
+    millionaireButtonPressed: {
+        opacity: 0.8,
         transform: [{ scale: 0.97 }],
-        backgroundColor: 'rgba(212, 175, 55, 0.1)',
+        backgroundColor: 'rgba(212, 175, 55, 0.08)',
     },
-    speedButtonText: {
-        fontSize: 16,
-        fontWeight: '700',
+    millionaireGradient: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        paddingHorizontal: spacing.lg + 4,
+        paddingVertical: spacing.md + 2,
+        borderRadius: borderRadius.xl - 2,
+        gap: spacing.sm + 2,
+    },
+    millionaireCrown: {
+        fontSize: 22,
+    },
+    millionaireTextGroup: {
+        flex: 1,
+    },
+    millionaireText: {
+        fontSize: 17,
+        fontWeight: '800',
         color: colors.gold,
         textTransform: 'uppercase',
-        letterSpacing: 2,
+        letterSpacing: 2.5,
     },
+    millionaireSubtext: {
+        fontSize: 11,
+        fontWeight: '500',
+        color: 'rgba(212, 175, 55, 0.6)',
+        letterSpacing: 0.5,
+        marginTop: 1,
+    },
+
+    // ── Daily Challenge Card ──
     dailyChallengeCard: {
         marginTop: spacing.lg,
         width: width - spacing.lg * 4,
@@ -334,7 +406,30 @@ const styles = StyleSheet.create({
         fontWeight: '500',
         color: colors.textSecondary,
     },
-    // ── Streak Badge Styles ──
+
+    // ── Speed Round (tertiary) ──
+    speedButton: {
+        marginTop: spacing.md,
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: spacing.sm,
+        paddingHorizontal: spacing.lg,
+        paddingVertical: spacing.sm + 2,
+        borderRadius: borderRadius.xl,
+        backgroundColor: 'transparent',
+    },
+    speedButtonPressed: {
+        opacity: 0.6,
+    },
+    speedButtonText: {
+        fontSize: 13,
+        fontWeight: '600',
+        color: colors.textSecondary,
+        textTransform: 'uppercase',
+        letterSpacing: 1.5,
+    },
+
+    // ── Streak Badge ──
     streakBadge: {
         marginBottom: spacing.lg,
         borderRadius: borderRadius.full,
@@ -374,5 +469,3 @@ const styles = StyleSheet.create({
         marginLeft: 2,
     },
 });
-
-

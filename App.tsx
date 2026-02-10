@@ -28,6 +28,7 @@ import { QuestionDatabaseScreen } from './src/screens/QuestionDatabaseScreen';
 import { SpeedRoundScreen } from './src/screens/SpeedRoundScreen';
 import { DailyChallengeScreen } from './src/screens/DailyChallengeScreen';
 import { LevelSelectScreen } from './src/screens/LevelSelectScreen';
+import { MillionaireModeScreen } from './src/screens/MillionaireModeScreen';
 
 // Modals
 import { ContinueModal } from './src/components/modals/ContinueModal';
@@ -65,6 +66,7 @@ type GameState =
   | 'level_playing'
   | 'speed_round'
   | 'daily_challenge'
+  | 'millionaire'
   | 'loss'
   | 'results';
 
@@ -365,6 +367,7 @@ function GameTabScreen({ navigation }: any) {
         return (
           <HomeScreen
             onStartGame={handleStartGame}
+            onMillionaireMode={() => setGameState('millionaire')}
             onSpeedRound={() => setGameState('speed_round')}
             onDailyChallenge={() => setGameState('daily_challenge')}
             language={language}
@@ -499,6 +502,14 @@ function GameTabScreen({ navigation }: any) {
             onComplete={(correct, total, earned) => {
               setGameState('home');
             }}
+            onGoHome={() => setGameState('home')}
+          />
+        );
+
+      case 'millionaire':
+        return (
+          <MillionaireModeScreen
+            language={language}
             onGoHome={() => setGameState('home')}
           />
         );
