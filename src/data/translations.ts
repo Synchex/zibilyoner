@@ -128,6 +128,17 @@ export interface Translations {
   jokerAiHint: string;
   jokerUsed: string;
   hintPrefix: string;
+  // Level progression
+  levelMode: string;
+  classicMode: string;
+  classicModeDesc: string;
+  levelModeDesc: string;
+  selectLevel: string;
+  levelLabel: string;
+  levelLocked: string;
+  levelComplete: string;
+  levelProgress: string;
+  chooseGameMode: string;
 }
 
 export const translations: Record<Language, Translations> = {
@@ -259,6 +270,17 @@ export const translations: Record<Language, Translations> = {
     jokerAiHint: 'AI Hint',
     jokerUsed: 'Used',
     hintPrefix: 'Hint:',
+    // Level progression
+    levelMode: 'Level Mode',
+    classicMode: 'Classic Mode',
+    classicModeDesc: '12 questions with prize ladder',
+    levelModeDesc: 'Progressive levels — unlock as you go',
+    selectLevel: 'Select Level',
+    levelLabel: 'Level',
+    levelLocked: 'Complete the previous level first',
+    levelComplete: 'Level Complete!',
+    levelProgress: 'Level {level} — Question {current} / {total}',
+    chooseGameMode: 'Choose Game Mode',
   },
 
   tr: {
@@ -389,6 +411,17 @@ export const translations: Record<Language, Translations> = {
     jokerAiHint: 'AI İpucu',
     jokerUsed: 'Kullanıldı',
     hintPrefix: 'İpucu:',
+    // Level progression
+    levelMode: 'Seviye Modu',
+    classicMode: 'Klasik Mod',
+    classicModeDesc: '12 soru ve ödül merdiveni',
+    levelModeDesc: 'İlerleyerek seviyeleri aç',
+    selectLevel: 'Seviye Seç',
+    levelLabel: 'Seviye',
+    levelLocked: 'Önce önceki seviyeyi tamamla',
+    levelComplete: 'Seviye Tamamlandı!',
+    levelProgress: 'Seviye {level} — Soru {current} / {total}',
+    chooseGameMode: 'Oyun Modu Seç',
   },
 };
 

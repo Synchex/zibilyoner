@@ -27,6 +27,7 @@ import { GameHistoryScreen } from './src/screens/GameHistoryScreen';
 import { QuestionDatabaseScreen } from './src/screens/QuestionDatabaseScreen';
 import { SpeedRoundScreen } from './src/screens/SpeedRoundScreen';
 import { DailyChallengeScreen } from './src/screens/DailyChallengeScreen';
+import { LevelSelectScreen } from './src/screens/LevelSelectScreen';
 
 // Modals
 import { ContinueModal } from './src/components/modals/ContinueModal';
@@ -34,7 +35,8 @@ import { InsufficientCreditsModal } from './src/components/modals/InsufficientCr
 
 // Data
 import { Language, getTranslation } from './src/data/translations';
-import { getQuestions, Question, difficultyMap, categoryMap } from './src/data/questionBank';
+import { getQuestions, getQuestionsForLevel, getAvailableLevelCount, Question, difficultyMap, categoryMap } from './src/data/questionBank';
+import { useLevelProgress, QUESTIONS_PER_LEVEL } from './src/hooks/useLevelProgress';
 import { getCurrentPrize } from './src/data/prizeLadder';
 
 // Styles
@@ -52,6 +54,8 @@ type GameState =
   | 'history_subcategory'
   | 'difficulty'
   | 'playing'
+  | 'level_select'
+  | 'level_playing'
   | 'speed_round'
   | 'daily_challenge'
   | 'loss'
@@ -98,6 +102,7 @@ function GameTabScreen({ navigation }: any) {
   const [wrongSnapshot, setWrongSnapshot] = useState<WrongAnswerSnapshot | null>(null);
   const [selectedSportsSubcategory, setSelectedSportsSubcategory] = useState<SportsSubcategory | undefined>(undefined);
   const [selectedHistorySubcategory, setSelectedHistorySubcategory] = useState<HistorySubcategory | undefined>(undefined);
+  const [selectedLevel, setSelectedLevel] = useState<number>(1);
 
   // Joker system
   const {
@@ -107,6 +112,21 @@ function GameTabScreen({ navigation }: any) {
     useAiHint,
     resetJokers,
   } = useJokers();
+
+  // Level progression
+  const levelProgressKey = {
+    language,
+    category: selectedCategory,
+    subcategory: selectedSportsSubcategory || selectedHistorySubcategory || undefined,
+    difficulty: selectedDifficulty,
+  };
+  const {
+    progress: levelProgress,
+    loaded: levelLoaded,
+    isLevelUnlocked,
+    isLevelCompleted,
+    completeLevel,
+  } = useLevelProgress(levelProgressKey);
 
 
   const handleStartGame = () => {
@@ -136,6 +156,54 @@ function GameTabScreen({ navigation }: any) {
     setSelectedSportsSubcategory(subcategory);
     setSelectedHistorySubcategory(undefined);
     setGameState('difficulty');
+  };
+
+  // Level mode: after difficulty, go to level select
+  const handleSelectLevelMode = (difficulty: Difficulty) => {
+    setSelectedDifficulty(difficulty);
+    setGameState('level_select');
+  };
+
+  const handleSelectLevel = (level: number) => {
+    if (!spendCredits(gameCost)) {
+      setShowInsufficientCreditsModal(true);
+      return;
+    }
+
+    setSelectedLevel(level);
+
+    const questionDifficulty = selectedDifficulty === 'mixed'
+      ? 'mixed'
+      : difficultyMap[selectedDifficulty as keyof typeof difficultyMap] || 'orta';
+
+    const questionCategory = selectedCategory === 'all'
+      ? undefined
+      : categoryMap[selectedCategory as keyof typeof categoryMap];
+
+    const levelQuestions = getQuestionsForLevel({
+      category: questionCategory,
+      difficulty: selectedDifficulty === 'mixed' ? undefined : questionDifficulty,
+      subcategory: selectedSportsSubcategory,
+      historySubcategory: language === 'en' ? selectedHistorySubcategory as any : undefined,
+      historySubcategoryTR: language === 'tr' ? selectedHistorySubcategory as any : undefined,
+      language,
+      level,
+      questionsPerLevel: QUESTIONS_PER_LEVEL,
+    });
+
+    setQuestions(levelQuestions);
+    setCurrentQuestionIndex(0);
+    setCoins(0);
+    setStreak(0);
+    setMaxStreak(0);
+    setCorrectCount(0);
+    setContinueUsed(false);
+    setWrongSnapshot(null);
+    resetRunYuan();
+    startNewRun(selectedCategory, selectedDifficulty, QUESTIONS_PER_LEVEL);
+    resetJokers();
+
+    setGameState('level_playing');
   };
 
   const handleSelectHistorySubcategory = (subcategory: HistorySubcategory) => {
@@ -223,19 +291,34 @@ function GameTabScreen({ navigation }: any) {
   };
 
   const handleNextQuestion = () => {
+    const isLevelMode = gameState === 'level_playing';
+    const totalQs = isLevelMode ? QUESTIONS_PER_LEVEL : TOTAL_QUESTIONS;
+
     if (currentQuestionIndex + 1 >= questions.length) {
-      // Game complete
-      const won = correctCount === TOTAL_QUESTIONS;
-      finalizeRun(won ? 'completed' : 'lost', coins);
-      setGameState('results');
+      // Game / level complete
+      if (isLevelMode) {
+        completeLevel(selectedLevel);
+        finalizeRun('completed', coins);
+        setGameState('level_select');
+      } else {
+        const won = correctCount === totalQs;
+        finalizeRun(won ? 'completed' : 'lost', coins);
+        setGameState('results');
+      }
     } else if (!wrongSnapshot && !continueUsed) {
       // Continue to next question
       setCurrentQuestionIndex(prev => prev + 1);
     } else if (wrongSnapshot) {
-      // Wrong answer - show loss screen
-      const prize = currentQuestionIndex > 0 ? getCurrentPrize(currentQuestionIndex - 1) : 0;
-      finalizeRun('lost', prize);
-      setGameState('loss');
+      if (isLevelMode) {
+        // In level mode, wrong answer ends the level attempt (back to level select)
+        finalizeRun('lost', coins);
+        setGameState('level_select');
+      } else {
+        // Wrong answer - show loss screen
+        const prize = currentQuestionIndex > 0 ? getCurrentPrize(currentQuestionIndex - 1) : 0;
+        finalizeRun('lost', prize);
+        setGameState('loss');
+      }
     }
   };
 
@@ -326,10 +409,78 @@ function GameTabScreen({ navigation }: any) {
         return (
           <DifficultySelection
             onSelectDifficulty={handleSelectDifficulty}
+            onSelectLevelMode={handleSelectLevelMode}
             onBack={() => setGameState('category')}
             onGoHome={() => setGameState('home')}
             language={language}
             category={selectedCategory}
+          />
+        );
+
+      case 'level_select': {
+        const questionDiffForCount = selectedDifficulty === 'mixed'
+          ? 'mixed'
+          : difficultyMap[selectedDifficulty as keyof typeof difficultyMap] || 'orta';
+        const questionCatForCount = selectedCategory === 'all'
+          ? undefined
+          : categoryMap[selectedCategory as keyof typeof categoryMap];
+        const maxLevels = getAvailableLevelCount({
+          category: questionCatForCount,
+          difficulty: selectedDifficulty === 'mixed' ? undefined : questionDiffForCount,
+          subcategory: selectedSportsSubcategory,
+          historySubcategory: language === 'en' ? selectedHistorySubcategory as any : undefined,
+          historySubcategoryTR: language === 'tr' ? selectedHistorySubcategory as any : undefined,
+          language,
+        });
+
+        const t = (key: any) => getTranslation(language, key);
+        const categoryLabel = selectedCategory === 'all'
+          ? t('allCategories')
+          : selectedCategory === 'general'
+            ? t('generalKnowledge')
+            : selectedCategory === 'history'
+              ? t('history')
+              : t('sports');
+        const diffLabel = t(selectedDifficulty);
+
+        return (
+          <LevelSelectScreen
+            language={language}
+            categoryLabel={categoryLabel}
+            difficultyLabel={diffLabel}
+            isLevelUnlocked={isLevelUnlocked}
+            isLevelCompleted={isLevelCompleted}
+            maxLevels={maxLevels}
+            onSelectLevel={handleSelectLevel}
+            onBack={() => setGameState('difficulty')}
+            onGoHome={() => setGameState('home')}
+          />
+        );
+      }
+
+      case 'level_playing':
+        if (questions.length === 0) {
+          return <View style={styles.loading}><ActivityIndicator size="large" color={colors.purple} /></View>;
+        }
+        return (
+          <QuestionScreen
+            key={`lq-${currentQuestionIndex}-${questions[currentQuestionIndex]?.id}`}
+            question={questions[currentQuestionIndex]}
+            questionNumber={currentQuestionIndex + 1}
+            totalQuestions={QUESTIONS_PER_LEVEL}
+            coins={coins}
+            streak={streak}
+            difficulty={selectedDifficulty}
+            onAnswer={handleAnswer}
+            onNextQuestion={handleNextQuestion}
+            onContinueRequest={handleContinueRequest}
+            onWithdraw={handleWithdraw}
+            continueUsed={continueUsed}
+            language={language}
+            jokerState={jokerState}
+            onUseFiftyFifty={useFiftyFifty}
+            onUseExtraTime={useExtraTime}
+            onUseAiHint={useAiHint}
           />
         );
 

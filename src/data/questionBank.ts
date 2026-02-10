@@ -363,6 +363,114 @@ function shuffleWithConstraint(
 }
 
 // ============================================================================
+// Level-Based Question Retrieval
+// ============================================================================
+
+/**
+ * Seeded pseudo-random number generator (mulberry32).
+ * Produces deterministic results for a given seed so level N always yields
+ * the same set of questions.
+ */
+function seededRandom(seed: number): () => number {
+    return () => {
+        seed |= 0;
+        seed = (seed + 0x6d2b79f5) | 0;
+        let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+        t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+        return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+}
+
+export interface GetQuestionsForLevelOptions {
+    category?: Category | 'all';
+    difficulty?: Difficulty | 'all';
+    subcategory?: SportsSubcategory;
+    historySubcategory?: HistorySubcategory;
+    historySubcategoryTR?: HistorySubcategoryTR;
+    language?: QuestionBankLanguage;
+    level: number;           // 1-based level number
+    questionsPerLevel?: number; // default 10
+}
+
+/**
+ * Returns a deterministic set of questions for the given level.
+ * Level 1 always returns the same 10 questions, Level 2 the next 10, etc.
+ * Uses a seeded shuffle so question order is stable across sessions.
+ */
+export function getQuestionsForLevel(options: GetQuestionsForLevelOptions): Question[] {
+    const {
+        category = 'all',
+        difficulty = 'all',
+        subcategory,
+        historySubcategory,
+        historySubcategoryTR,
+        language = 'en',
+        level,
+        questionsPerLevel = 10,
+    } = options;
+
+    // Get all matching questions (unshuffled)
+    const all = getQuestions({
+        category,
+        difficulty,
+        subcategory,
+        historySubcategory,
+        historySubcategoryTR,
+        language,
+        shuffle: false, // we do our own deterministic shuffle
+    });
+
+    // Deterministic shuffle using a seed derived from the filter key
+    const seedStr = `${language}_${category}_${subcategory || 'none'}_${historySubcategory || 'none'}_${historySubcategoryTR || 'none'}_${difficulty}`;
+    let seedNum = 0;
+    for (let i = 0; i < seedStr.length; i++) {
+        seedNum = ((seedNum << 5) - seedNum + seedStr.charCodeAt(i)) | 0;
+    }
+
+    const rng = seededRandom(seedNum);
+    const shuffled = [...all];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(rng() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+
+    // Slice for the requested level
+    const start = (level - 1) * questionsPerLevel;
+    const end = start + questionsPerLevel;
+    const levelQuestions = shuffled.slice(start, end);
+
+    // Shuffle answer options with balanced distribution
+    return shuffleAnswersWithBalance(levelQuestions);
+}
+
+/**
+ * Returns how many levels are available for the given filter options.
+ */
+export function getAvailableLevelCount(options: Omit<GetQuestionsForLevelOptions, 'level'>): number {
+    const {
+        category = 'all',
+        difficulty = 'all',
+        subcategory,
+        historySubcategory,
+        historySubcategoryTR,
+        language = 'en',
+        questionsPerLevel = 10,
+    } = options;
+
+    const all = getQuestions({
+        category,
+        difficulty,
+        subcategory,
+        historySubcategory,
+        historySubcategoryTR,
+        language,
+        shuffle: false,
+    });
+
+    return Math.floor(all.length / questionsPerLevel);
+}
+
+// ============================================================================
 // Legacy Compatibility Mappings
 // ============================================================================
 
