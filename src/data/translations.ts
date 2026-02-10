@@ -141,6 +141,25 @@ export interface Translations {
   chooseGameMode: string;
   totalLevel: string;
   completedLabel: string;
+
+  // Kim Milyoner Mode
+  kimMilyonerTitle: string;
+  kimMilyonerDesc: string;
+  questionLabel: string;
+  congratulations: string;
+  millionaireVictory: string;
+  withdrawn: string;
+  withdrawnAt: string;
+  eliminated: string;
+  eliminatedAt: string;
+  correctAnswerLabel: string;
+  prizeWon: string;
+  mainMenu: string;
+  guaranteed: string;
+  withdrawConfirmTitle: string;
+  withdrawConfirmDesc: string;
+  withdrawAction: string;
+  continueAction: string;
 }
 
 export const translations: Record<Language, Translations> = {
@@ -285,6 +304,25 @@ export const translations: Record<Language, Translations> = {
     chooseGameMode: 'Choose Game Mode',
     totalLevel: 'Total Level',
     completedLabel: 'completed',
+
+    // Kim Milyoner Mode
+    kimMilyonerTitle: 'WHO WANTS TO BE A MILLIONAIRE',
+    kimMilyonerDesc: 'Answer 12 questions correctly to reach the top!\nDifficulty increases gradually.',
+    questionLabel: 'Q',
+    congratulations: 'CONGRATULATIONS!',
+    millionaireVictory: 'You became a millionaire!',
+    withdrawn: 'WITHDRAWN',
+    withdrawnAt: 'Withdrew at Question {level}',
+    eliminated: 'ELIMINATED!',
+    eliminatedAt: 'Eliminated at Question {level}',
+    correctAnswerLabel: 'Correct Answer:',
+    prizeWon: 'Prize Won',
+    mainMenu: 'MAIN MENU',
+    guaranteed: 'Guaranteed: ',
+    withdrawConfirmTitle: 'Quit the Game?',
+    withdrawConfirmDesc: 'You will leave with ¥{amount}.',
+    withdrawAction: 'QUIT',
+    continueAction: 'CONTINUE',
   },
 
   tr: {
@@ -428,6 +466,25 @@ export const translations: Record<Language, Translations> = {
     chooseGameMode: 'Oyun Modu Seç',
     totalLevel: 'Toplam Seviye',
     completedLabel: 'tamamlandı',
+
+    // Kim Milyoner Mode
+    kimMilyonerTitle: 'KİM MİLYONER',
+    kimMilyonerDesc: '12 soruyu doğru yanıtla, zirveye ulaş!\nSoruların zorluğu kademeli olarak artar.',
+    questionLabel: 'Soru',
+    congratulations: 'TEBRİKLER!',
+    millionaireVictory: 'Milyoner oldun!',
+    withdrawn: 'ÇEKİLDİN',
+    withdrawnAt: 'Soru {level}\'den çekildin',
+    eliminated: 'ELENDİN!',
+    eliminatedAt: 'Soru {level}\'de elendin',
+    correctAnswerLabel: 'Doğru Cevap:',
+    prizeWon: 'Kazanılan Ödül',
+    mainMenu: 'ANA MENÜ',
+    guaranteed: 'Garantili: ',
+    withdrawConfirmTitle: 'Çekilmek İstiyorsun?',
+    withdrawConfirmDesc: '¥{amount} ödülünle çekileceksin.',
+    withdrawAction: 'ÇEKİL',
+    continueAction: 'DEVAM ET',
   },
 };
 

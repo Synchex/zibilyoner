@@ -10,7 +10,7 @@ import {
 } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
-import { Language, getTranslation } from '../data/translations';
+import { Language, getTranslation, Translations } from '../data/translations';
 import { Question } from '../data/questionBank';
 import { colors, spacing, borderRadius, shadows } from '../styles/theme';
 import { HeaderBackButton } from '../components/HeaderBackButton';
@@ -73,7 +73,7 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
     const scaleAnim = useRef(new Animated.Value(0.95)).current;
 
     const t = useCallback(
-        (key: string, params?: any) => getTranslation(language, key, params),
+        (key: keyof Translations, params?: any) => getTranslation(language, key, params),
         [language]
     );
 
@@ -236,23 +236,22 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
                     <Text style={styles.introTitle}>KİM MİLYONER</Text>
                     <View style={styles.introDivider} />
 
+
                     <Text style={styles.introDescription}>
-                        {language === 'tr'
-                            ? '12 soruyu doğru yanıtla, zirveye ulaş!\nSoruların zorluğu kademeli olarak artar.'
-                            : 'Answer 12 questions correctly to reach the top!\nDifficulty increases gradually.'}
+                        {t('kimMilyonerDesc')}
                     </Text>
 
                     {/* Difficulty tiers info */}
                     <View style={styles.tierInfo}>
                         {[
-                            { range: '1–3', label: language === 'tr' ? 'Kolay' : 'Easy', color: '#00ff88' },
-                            { range: '4–8', label: language === 'tr' ? 'Orta' : 'Medium', color: '#ffaa00' },
-                            { range: '9–12', label: language === 'tr' ? 'Zor' : 'Hard', color: '#ff4444' },
+                            { range: '1–3', label: t('easy'), color: '#00ff88' },
+                            { range: '4–8', label: t('medium'), color: '#ffaa00' },
+                            { range: '9–12', label: t('hard'), color: '#ff4444' },
                         ].map((tier) => (
                             <View key={tier.range} style={styles.tierRow}>
                                 <View style={[styles.tierDot, { backgroundColor: tier.color }]} />
                                 <Text style={styles.tierLabel}>
-                                    {language === 'tr' ? 'Soru' : 'Q'} {tier.range}
+                                    {t('questionLabel')} {tier.range}
                                 </Text>
                                 <Text style={[styles.tierDifficulty, { color: tier.color }]}>
                                     {tier.label}
@@ -275,7 +274,7 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
                             style={styles.startButtonGradient}
                         >
                             <Text style={styles.startButtonText}>
-                                {language === 'tr' ? 'BAŞLA' : 'START'}
+                                {t('startGame')}
                             </Text>
                         </LinearGradient>
                     </Pressable>
@@ -293,6 +292,20 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
             : isWithdrawn
                 ? getCurrentPrize(currentStep - 1)
                 : getSafeHavenPrize(currentStep, getCurrentPrize);
+
+        let title = '';
+        let subtitle = '';
+
+        if (isWin) {
+            title = t('congratulations');
+            subtitle = t('millionaireVictory');
+        } else if (isWithdrawn) {
+            title = t('withdrawn');
+            subtitle = t('withdrawnAt', { level: currentStep });
+        } else {
+            title = t('eliminated');
+            subtitle = t('eliminatedAt', { level: currentStep + 1 });
+        }
 
         return (
             <View style={styles.container}>
@@ -314,29 +327,17 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
                             { color: isWin ? colors.gold : isWithdrawn ? colors.gold : colors.wrong },
                         ]}
                     >
-                        {isWin
-                            ? language === 'tr' ? 'TEBRİKLER!' : 'CONGRATULATIONS!'
-                            : isWithdrawn
-                                ? language === 'tr' ? 'ÇEKİLDİN' : 'WITHDRAWN'
-                                : language === 'tr' ? 'ELENDİN!' : 'ELIMINATED!'}
+                        {title}
                     </Text>
 
                     <Text style={styles.resultSubtitle}>
-                        {isWin
-                            ? language === 'tr' ? 'Milyoner oldun!' : 'You became a millionaire!'
-                            : isWithdrawn
-                                ? language === 'tr'
-                                    ? `Soru ${currentStep}'den çekildin`
-                                    : `Withdrew at Question ${currentStep}`
-                                : language === 'tr'
-                                    ? `Soru ${currentStep + 1}'de elendin`
-                                    : `Eliminated at Question ${currentStep + 1}`}
+                        {subtitle}
                     </Text>
 
                     {!isWin && !isWithdrawn && currentQuestion && (
                         <View style={styles.correctAnswerBox}>
                             <Text style={styles.correctAnswerLabel}>
-                                {language === 'tr' ? 'Doğru Cevap:' : 'Correct Answer:'}
+                                {t('correctAnswerLabel')}
                             </Text>
                             <Text style={styles.correctAnswerText}>
                                 {currentQuestion.answers[currentQuestion.correctAnswer]}
@@ -346,7 +347,7 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
 
                     <View style={styles.resultPrizeBox}>
                         <Text style={styles.resultPrizeLabel}>
-                            {language === 'tr' ? 'Kazanılan Ödül' : 'Prize Won'}
+                            {t('prizeWon')}
                         </Text>
                         <Text style={styles.resultPrizeAmount}>
                             ¥ {formatPrizeFull(finalPrize)}
@@ -361,7 +362,7 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
                         ]}
                     >
                         <Text style={styles.resultButtonText}>
-                            {language === 'tr' ? 'ANA MENÜ' : 'MAIN MENU'}
+                            {t('mainMenu')}
                         </Text>
                     </Pressable>
 
@@ -375,7 +376,7 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
                         ]}
                     >
                         <Text style={styles.resultButtonSecondaryText}>
-                            {language === 'tr' ? 'TEKRAR OYNA' : 'PLAY AGAIN'}
+                            {t('playAgain')}
                         </Text>
                     </Pressable>
                 </View>
@@ -617,7 +618,7 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
                             style={styles.withdrawButton}
                         >
                             <Text style={styles.withdrawText}>
-                                {language === 'tr' ? 'ÇEKİL' : 'QUIT'}
+                                {t('withdrawAction')}
                             </Text>
                             <Text style={styles.withdrawPrize}>
                                 ¥{formatPrizeFull(getCurrentPrize(currentStep - 1))}
@@ -631,7 +632,7 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
                     <View style={styles.guaranteeRow}>
                         <Ionicons name="shield-checkmark" size={14} color={colors.gold} />
                         <Text style={styles.guaranteeText}>
-                            {language === 'tr' ? 'Garantili: ' : 'Guaranteed: '}
+                            {t('guaranteed')}
                             ¥{formatPrizeFull(guaranteedPrize)}
                         </Text>
                     </View>
@@ -643,12 +644,10 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
                 <View style={styles.modalOverlay}>
                     <View style={styles.modalBox}>
                         <Text style={styles.modalTitle}>
-                            {language === 'tr' ? 'Çekilmek İstiyorsun?' : 'Quit the Game?'}
+                            {t('withdrawConfirmTitle')}
                         </Text>
                         <Text style={styles.modalDesc}>
-                            {language === 'tr'
-                                ? `¥${formatPrizeFull(getCurrentPrize(currentStep - 1))} ödülünle çekileceksin.`
-                                : `You will leave with ¥${formatPrizeFull(getCurrentPrize(currentStep - 1))}.`}
+                            {t('withdrawConfirmDesc', { amount: formatPrizeFull(getCurrentPrize(currentStep - 1)) })}
                         </Text>
                         <View style={styles.modalButtons}>
                             <Pressable
@@ -656,7 +655,7 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
                                 style={[styles.modalBtn, styles.modalBtnCancel]}
                             >
                                 <Text style={styles.modalBtnText}>
-                                    {language === 'tr' ? 'DEVAM ET' : 'CONTINUE'}
+                                    {t('continueAction')}
                                 </Text>
                             </Pressable>
                             <Pressable
@@ -664,7 +663,7 @@ export function MillionaireModeScreen({ language, onGoHome }: MillionaireModeScr
                                 style={[styles.modalBtn, styles.modalBtnConfirm]}
                             >
                                 <Text style={[styles.modalBtnText, { color: colors.gold }]}>
-                                    {language === 'tr' ? 'ÇEKİL' : 'QUIT'}
+                                    {t('withdrawAction')}
                                 </Text>
                             </Pressable>
                         </View>

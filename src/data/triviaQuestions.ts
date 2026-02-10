@@ -48,7 +48,7 @@ function toLegacyQuestion(q: Question): TriviaQuestion {
     answers: q.answers,
     correctAnswer: q.correctAnswer,
     category: categoryMapReverse[q.category],
-    difficulty: difficultyMapReverse[q.difficulty],
+    difficulty: q.difficulty === 'mixed' ? 'medium' : difficultyMapReverse[q.difficulty as Exclude<Difficulty, 'mixed'>],
     subcategory: q.subcategory,
   };
 }

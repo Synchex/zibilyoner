@@ -31,4 +31,4 @@ addQuestion({
 // (Script continues)
 
 fs.writeFileSync('batch_002.json', JSON.stringify(questions, null, 2));
-console.log(\`Generated \${questions.length} questions\`);
+console.log(`Generated ${questions.length} questions`);
