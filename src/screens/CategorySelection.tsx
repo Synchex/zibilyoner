@@ -30,11 +30,11 @@ interface CategoryOption {
 
 const categories: CategoryOption[] = [
     {
-        id: 'general',
-        icon: 'globe-outline',
-        titleKey: 'generalKnowledge',
-        descKey: 'generalKnowledgeDesc',
-        color: colors.purple,
+        id: 'all',
+        icon: 'shuffle-outline',
+        titleKey: 'allCategories',
+        descKey: 'allCategoriesDesc',
+        color: colors.gold,
     },
     {
         id: 'history',
@@ -51,11 +51,11 @@ const categories: CategoryOption[] = [
         color: colors.neonGreen,
     },
     {
-        id: 'all',
-        icon: 'shuffle-outline',
-        titleKey: 'allCategories',
-        descKey: 'allCategoriesDesc',
-        color: colors.gold,
+        id: 'general',
+        icon: 'globe-outline',
+        titleKey: 'generalKnowledge',
+        descKey: 'generalKnowledgeDesc',
+        color: colors.purple,
     },
 ];
 
