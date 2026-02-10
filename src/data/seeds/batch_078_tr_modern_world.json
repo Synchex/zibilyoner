@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 54000,
+    "question": "2022'de Twitter'ı 44 milyar dolara satın alan ünlü girişimci kimdir?",
+    "answers": [
+      "Elon Musk",
+      "Jeff Bezos",
+      "Mark Zuckerberg",
+      "Bill Gates"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "gundem"
+    ]
+  },
+  {
+    "id": 54001,
+    "question": "Yapay zeka sohbet robotu ChatGPT'yi geliştiren şirketin adı nedir?",
+    "answers": [
+      "OpenAI",
+      "DeepMind",
+      "Google",
+      "Meta"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "ai"
+    ]
+  },
+  {
+    "id": 54002,
+    "question": "Metaverse kavramını popülerleştiren ve Facebook'un adını değiştiren şirket hangisidir?",
+    "answers": [
+      "Meta",
+      "Alphabet",
+      "Amazon",
+      "Microsoft"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "internet"
+    ]
+  },
+  {
+    "id": 54003,
+    "question": "Bitcoin'in kimliği bilinmeyen gizemli yaratıcısı kimdir?",
+    "answers": [
+      "Satoshi Nakamoto",
+      "Vitalik Buterin",
+      "Gavin Andresen",
+      "Ross Ulbricht"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "kripto"
+    ]
+  },
+  {
+    "id": 54004,
+    "question": "Dünyanın en popüler video paylaşım platformu YouTube, hangi yıl kurulmuştur?",
+    "answers": [
+      "2005",
+      "2000",
+      "2010",
+      "1998"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "internet"
+    ]
+  },
+  {
+    "id": 54005,
+    "question": "Apple'ın kurucularından olan ve 2011'de hayatını kaybeden vizyoner lider kimdir?",
+    "answers": [
+      "Steve Jobs",
+      "Steve Wozniak",
+      "Tim Cook",
+      "Bill Gates"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "tarih"
+    ]
+  },
+  {
+    "id": 54006,
+    "question": "Instagram'ın 'Hikayeler' (Stories) özelliğini kopyaladığı iddia edilen uygulama hangisidir?",
+    "answers": [
+      "Snapchat",
+      "TikTok",
+      "Vine",
+      "Periscope"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "sosyal_medya"
+    ]
+  },
+  {
+    "id": 54007,
+    "question": "Dünyanın en çok noktasına uçan hava yolu şirketi (ülke sayısı bakımından) hangisidir?",
+    "answers": [
+      "Türk Hava Yolları",
+      "Emirates",
+      "Lufthansa",
+      "American Airlines"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "gundem",
+      "ulasim"
+    ]
+  },
+  {
+    "id": 54008,
+    "question": "Netflix'in dünya çapında fenomen olan Güney Kore yapımı dizisi hangisidir?",
+    "answers": [
+      "Squid Game",
+      "Parasite",
+      "Hellbound",
+      "All of Us Are Dead"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "pop_kultur",
+      "dizi"
+    ]
+  },
+  {
+    "id": 54009,
+    "question": "Kısa video paylaşım uygulaması TikTok hangi ülkenin girişimidir?",
+    "answers": [
+      "Çin",
+      "ABD",
+      "Japonya",
+      "Güney Kore"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "sosyal_medya"
+    ]
+  },
+  {
+    "id": 54010,
+    "question": "Uzaya ticari turist taşıyan ve Jeff Bezos'un sahibi olduğu şirketin adı nedir?",
+    "answers": [
+      "Blue Origin",
+      "SpaceX",
+      "Virgin Galactic",
+      "Boeing"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "uzay",
+      "teknoloji"
+    ]
+  },
+  {
+    "id": 54011,
+    "question": "Mars'a insan göndermeyi hedefleyen SpaceX şirketinin kurucusu kimdir?",
+    "answers": [
+      "Elon Musk",
+      "Richard Branson",
+      "Jeff Bezos",
+      "Peter Thiel"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "uzay",
+      "teknoloji"
+    ]
+  },
+  {
+    "id": 54012,
+    "question": "Elektrikli otomobil üreticisi Tesla'nın ürettiği ilk 'pickup' modelinin adı nedir?",
+    "answers": [
+      "Cybertruck",
+      "Model X",
+      "Roadster",
+      "Semi"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "otomotiv",
+      "teknoloji"
+    ]
+  },
+  {
+    "id": 54013,
+    "question": "Amazon'un kurucusu ve uzun süre dünyanın en zengin insanı olan kişi kimdir?",
+    "answers": [
+      "Jeff Bezos",
+      "Elon Musk",
+      "Bill Gates",
+      "Warren Buffett"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "ekonomi"
+    ]
+  },
+  {
+    "id": 54014,
+    "question": "Android işletim sisteminin geliştiricisi hangi şirkettir?",
+    "answers": [
+      "Google",
+      "Apple",
+      "Samsung",
+      "Microsoft"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "yazilim"
+    ]
+  },
+  {
+    "id": 54015,
+    "question": "Dünyanın ilk trilyon dolarlık şirketi hangisidir?",
+    "answers": [
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "Saudi Aramco"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "ekonomi",
+      "teknoloji"
+    ]
+  },
+  {
+    "id": 54016,
+    "question": "Wikipedia'nın kurucusu kimdir?",
+    "answers": [
+      "Jimmy Wales",
+      "Julian Assange",
+      "Larry Page",
+      "Sergey Brin"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "bilgi"
+    ]
+  },
+  {
+    "id": 54017,
+    "question": "Kripto para piyasasında Bitcoin'den sonra en büyük piyasa değerine sahip olan para birimi hangisidir?",
+    "answers": [
+      "Ethereum",
+      "Ripple",
+      "Litecoin",
+      "Dogecoin"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "kripto",
+      "finans"
+    ]
+  },
+  {
+    "id": 54018,
+    "question": "Bir NFT (Non-Fungible Token) satın aldığınızda aslında neye sahip olursunuz?",
+    "answers": [
+      "Dijital mülkiyet sertifikasına",
+      "Telif hakkına",
+      "Fiziksel bir esere",
+      "Şirket hissesine"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "kripto",
+      "sanat"
+    ]
+  },
+  {
+    "id": 54019,
+    "question": "Google'ın çatı şirketi olan ve borsada işlem gören holdingin adı nedir?",
+    "answers": [
+      "Alphabet",
+      "Google Inc.",
+      "Silicon Valley",
+      "Beta"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "ekonomi"
+    ]
+  },
+  {
+    "id": 54020,
+    "question": "Hangisi Elon Musk'ın şirketlerinden biri değildir?",
+    "answers": [
+      "Amazon",
+      "Tesla",
+      "SpaceX",
+      "Neuralink"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "gundem"
+    ]
+  },
+  {
+    "id": 54021,
+    "question": "Dünyaca ünlü 'League of Legends' oyununun yapımcısı olan şirket hangisidir?",
+    "answers": [
+      "Riot Games",
+      "Blizzard",
+      "Valve",
+      "Ubisoft"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "oyun",
+      "espor"
+    ]
+  },
+  {
+    "id": 54022,
+    "question": "Whatsapp uygulaması 2014 yılında hangi şirket tarafından satın alınmıştır?",
+    "answers": [
+      "Facebook (Meta)",
+      "Google",
+      "Apple",
+      "Microsoft"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "satin_alma"
+    ]
+  },
+  {
+    "id": 54023,
+    "question": "Hangisi bir Apple ürünü değildir?",
+    "answers": [
+      "Galaxy",
+      "iPhone",
+      "iPad",
+      "MacBook"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "urun"
+    ]
+  },
+  {
+    "id": 54024,
+    "question": "Sanal gerçeklik gözlüğü 'Oculus' hangi şirkete aittir?",
+    "answers": [
+      "Meta (Facebook)",
+      "Sony",
+      "HTC",
+      "Samsung"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "vr"
+    ]
+  },
+  {
+    "id": 54025,
+    "question": "Türkiye'nin ürettiği yerli elektrikli otomobilin markası nedir?",
+    "answers": [
+      "Togg",
+      "Devrim",
+      "Anadol",
+      "Toros"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "otomotiv"
+    ]
+  },
+  {
+    "id": 54026,
+    "question": "Spotify hangi ülkenin girişimidir?",
+    "answers": [
+      "İsveç",
+      "ABD",
+      "Almanya",
+      "İngiltere"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "muzik",
+      "teknoloji"
+    ]
+  },
+  {
+    "id": 54027,
+    "question": "Uber uygulamasının temel işlevi nedir?",
+    "answers": [
+      "Ulaşım / Taksi",
+      "Yemek Siparişi",
+      "Otel Rezervasyonu",
+      "Arkadaşlık"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "uygulama",
+      "yasam"
+    ]
+  },
+  {
+    "id": 54028,
+    "question": "Airbnb uygulaması ne için kullanılır?",
+    "answers": [
+      "Konaklama kiralama",
+      "Uçak bileti",
+      "Araç kiralama",
+      "Etkinlik bileti"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "seyahat",
+      "uygulama"
+    ]
+  },
+  {
+    "id": 54029,
+    "question": "İnternet sitelerinin güvenli olduğunu gösteren 'HTTPS' protokolündeki 'S' harfi ne anlama gelir?",
+    "answers": [
+      "Secure (Güvenli)",
+      "System (Sistem)",
+      "Speed (Hız)",
+      "Site"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "yazilim"
+    ]
+  },
+  {
+    "id": 54030,
+    "question": "2020 yılında başlayan ve tüm dünyayı etkisi altına alan salgın hastalığın adı nedir?",
+    "answers": [
+      "COVID-19",
+      "SARS",
+      "MERS",
+      "Ebola"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "saglik",
+      "gundem"
+    ]
+  },
+  {
+    "id": 54031,
+    "question": "İngiltere'nin Avrupa Birliği'nden ayrılması sürecine ne ad verilmiştir?",
+    "answers": [
+      "Brexit",
+      "Grexit",
+      "Euroexit",
+      "Englateral"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "siyaset",
+      "avrupa"
+    ]
+  },
+  {
+    "id": 54032,
+    "question": "ABD'nin ilk siyahi başkanı kimdir?",
+    "answers": [
+      "Barack Obama",
+      "Martin Luther King",
+      "Nelson Mandela",
+      "Colin Powell"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "siyaset",
+      "abd"
+    ]
+  },
+  {
+    "id": 54033,
+    "question": "2011 yılında Arap dünyasında başlayan halk ayaklanmalarına ne ad verilir?",
+    "answers": [
+      "Arap Baharı",
+      "Arap Uyanışı",
+      "Ortadoğu Devrimi",
+      "Çöl Fırtınası"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "tarih",
+      "siyaset"
+    ]
+  },
+  {
+    "id": 54034,
+    "question": "Rusya ile Ukrayna arasındaki büyük çaplı savaş hangi yıl başlamıştır?",
+    "answers": [
+      "2022",
+      "2014",
+      "2020",
+      "2018"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "siyaset",
+      "savas"
+    ]
+  },
+  {
+    "id": 54035,
+    "question": "Japonya'nın Fukuşima Nükleer Santrali kazası hangi yıl yaşanmıştır?",
+    "answers": [
+      "2011",
+      "2005",
+      "1986",
+      "2015"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "felaket",
+      "tarih"
+    ]
+  },
+  {
+    "id": 54036,
+    "question": "Amerikan Ulusal Güvenlik Kurumu (NSA) belgelerini sızdıran ünlü ifşacı kimdir?",
+    "answers": [
+      "Edward Snowden",
+      "Julian Assange",
+      "Chelsea Manning",
+      "Glenn Greenwald"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "gundem",
+      "casusluk"
+    ]
+  },
+  {
+    "id": 54037,
+    "question": "WikiLeaks'in kurucusu olan ve uzun süre Ekvador büyükelçiliğinde yaşayan kişi kimdir?",
+    "answers": [
+      "Julian Assange",
+      "Edward Snowden",
+      "Aaron Swartz",
+      "Mark Zuckerberg"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "siyaset"
+    ]
+  },
+  {
+    "id": 54038,
+    "question": "Notre Dame Katedrali yangını hangi şehirde gerçekleşmiştir?",
+    "answers": [
+      "Paris",
+      "Londra",
+      "Roma",
+      "Barselona"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "olay",
+      "avrupa"
+    ]
+  },
+  {
+    "id": 54039,
+    "question": "2001 yılında İkiz Kuleler saldırısı hangi şehirde gerçekleşmiştir?",
+    "answers": [
+      "New York",
+      "Washington",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "tarih",
+      "teror"
+    ]
+  },
+  {
+    "id": 54040,
+    "question": "Güney Sudan, hangi yılda bağımsızlığını ilan ederek dünyanın en genç ülkesi olmuştur?",
+    "answers": [
+      "2011",
+      "2005",
+      "2015",
+      "2000"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "cografya",
+      "siyaset"
+    ]
+  },
+  {
+    "id": 54041,
+    "question": "İklim aktivisti Greta Thunberg hangi ülkenin vatandaşıdır?",
+    "answers": [
+      "İsveç",
+      "Norveç",
+      "Almanya",
+      "Danimarka"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "cevre",
+      "aktivizm"
+    ]
+  },
+  {
+    "id": 54042,
+    "question": "Kraliçe II. Elizabeth kaç yıl tahtta kaldıktan sonra 2022'de vefat etmiştir?",
+    "answers": [
+      "70",
+      "60",
+      "50",
+      "80"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "kraliyet",
+      "ingiltere"
+    ]
+  },
+  {
+    "id": 54043,
+    "question": "Avrupa Birliği'nin ortak para birimi Euro, fiziksel olarak (banknot ve madeni para) hangi yıl tedavüle girmiştir?",
+    "answers": [
+      "2002",
+      "1999",
+      "2005",
+      "1995"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "ekonomi",
+      "avrupa"
+    ]
+  },
+  {
+    "id": 54044,
+    "question": "Suriye iç savaşı hangi yıl başlamıştır?",
+    "answers": [
+      "2011",
+      "2013",
+      "2009",
+      "2015"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "savas",
+      "ortadogu"
+    ]
+  },
+  {
+    "id": 54045,
+    "question": "2019 yılında ilk kez fotoğrafı çekilen gök cismi nedir?",
+    "answers": [
+      "Kara Delik",
+      "Nötron Yıldızı",
+      "Ötegezegen",
+      "Beyaz Cüce"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "bilim",
+      "uzay"
+    ]
+  },
+  {
+    "id": 54046,
+    "question": "COVID-19 aşısını (mRNA) geliştiren BioNTech şirketinin kurucuları kimlerdir?",
+    "answers": [
+      "Uğur Şahin & Özlem Türeci",
+      "Aziz Sancar",
+      "Canan Dağdeviren",
+      "Gökhan Hotamışlıgil"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "bilim",
+      "turkler"
+    ]
+  },
+  {
+    "id": 54047,
+    "question": "Hangi ülke 2016 yılında Avrupa Futbol Şampiyonası'nı (EURO 2016) kazanmıştır?",
+    "answers": [
+      "Portekiz",
+      "Fransa",
+      "Almanya",
+      "İspanya"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "spor",
+      "futbol"
+    ]
+  },
+  {
+    "id": 54048,
+    "question": "2020 Olimpiyatları, pandemi nedeniyle hangi yıl düzenlenmiştir?",
+    "answers": [
+      "2021",
+      "2022",
+      "İptal edildi",
+      "2020"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "spor",
+      "olimpiyat"
+    ]
+  },
+  {
+    "id": 54049,
+    "question": "Ever Given adlı dev gemi 2021 yılında hangi kanalı tıkayarak dünya ticaretini aksatmıştır?",
+    "answers": [
+      "Süveyş Kanalı",
+      "Panama Kanalı",
+      "Kiel Kanalı",
+      "Korint Kanalı"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "ekonomi",
+      "olay"
+    ]
+  },
+  {
+    "id": 54050,
+    "question": "Paris İklim Anlaşması hangi yıl imzalanmıştır?",
+    "answers": [
+      "2015",
+      "2010",
+      "2020",
+      "2005"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "cevre",
+      "siyaset"
+    ]
+  },
+  {
+    "id": 54051,
+    "question": "Hangi ülke 2022 FIFA Dünya Kupası'na ev sahipliği yapmıştır?",
+    "answers": [
+      "Katar",
+      "Rusya",
+      "Brezilya",
+      "Güney Afrika"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "spor",
+      "futbol"
+    ]
+  },
+  {
+    "id": 54052,
+    "question": "Dünyanın en yüksek binası Burj Khalifa hangi şehirdedir?",
+    "answers": [
+      "Dubai",
+      "Abu Dhabi",
+      "Riyad",
+      "Doha"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "mimari",
+      "sehir"
+    ]
+  },
+  {
+    "id": 54053,
+    "question": "2004 yılında gerçekleşen büyük tsunami felaketi en çok hangi bölgeyi etkilemiştir?",
+    "answers": [
+      "Güneydoğu Asya (Hint Okyanusu)",
+      "Karayipler",
+      "Japonya",
+      "Akdeniz"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "felaket",
+      "cografya"
+    ]
+  },
+  {
+    "id": 54054,
+    "question": "Hangi gezegen 2006 yılında gezegen statüsünden çıkarılmıştır?",
+    "answers": [
+      "Plüton",
+      "Neptün",
+      "Merkür",
+      "Mars"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "bilim",
+      "uzay"
+    ]
+  },
+  {
+    "id": 54055,
+    "question": "Apple'ın ilk iPhone modelini tanıttığı yıl hangisidir?",
+    "answers": [
+      "2007",
+      "2005",
+      "2010",
+      "2003"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "tarih"
+    ]
+  },
+  {
+    "id": 54056,
+    "question": "NASA'nın Mars'a gönderdiği ve 2021'de iniş yapan keşif aracının adı nedir?",
+    "answers": [
+      "Perseverance",
+      "Curiosity",
+      "Opportunity",
+      "Spirit"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "uzay",
+      "bilim"
+    ]
+  },
+  {
+    "id": 54057,
+    "question": "Kadınlara otomobil kullanma iznini en son veren ülke hangisidir (2018)?",
+    "answers": [
+      "Suudi Arabistan",
+      "İran",
+      "Afganistan",
+      "Katar"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "kultur",
+      "yasa"
+    ]
+  },
+  {
+    "id": 54058,
+    "question": "Türkiye'nin ilk astronotu Alper Gezeravcı hangi yıl uzaya gitmiştir?",
+    "answers": [
+      "2024",
+      "2023",
+      "2025",
+      "2022"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "gundem",
+      "uzay"
+    ]
+  },
+  {
+    "id": 54059,
+    "question": "Eurovision 2023 şarkı yarışmasını hangi ülke kazanmıştır?",
+    "answers": [
+      "İsveç (Loreen)",
+      "Finlandiya",
+      "Ukrayna",
+      "İtalya"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "muzik",
+      "yarisma"
+    ]
+  },
+  {
+    "id": 54060,
+    "question": "'Game of Thrones' dizisi hangi yazarın kitaplarından uyarlanmıştır?",
+    "answers": [
+      "George R.R. Martin",
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "Stephen King"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "dizi",
+      "edebiyat"
+    ]
+  },
+  {
+    "id": 54061,
+    "question": "Marvel Sinematik Evreni'nde 'Iron Man' karakterini canlandıran oyuncu kimdir?",
+    "answers": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "marvel"
+    ]
+  },
+  {
+    "id": 54062,
+    "question": "Oscar töreninde sunucu Chris Rock'a tokat atan ünlü oyuncu kimdir?",
+    "answers": [
+      "Will Smith",
+      "Brad Pitt",
+      "Leonardo DiCaprio",
+      "Johnny Depp"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "magazin",
+      "sinema"
+    ]
+  },
+  {
+    "id": 54063,
+    "question": "Dünyaca ünlü K-Pop grubu BTS hangi ülkenin grubudur?",
+    "answers": [
+      "Güney Kore",
+      "Japonya",
+      "Çin",
+      "Tayland"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "muzik",
+      "kpop"
+    ]
+  },
+  {
+    "id": 54064,
+    "question": "Harry Potter serisinin yazarı J.K. Rowling hangi ülkenin vatandaşıdır?",
+    "answers": [
+      "İngiltere",
+      "ABD",
+      "Avustralya",
+      "Kanada"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "edebiyat",
+      "yazar"
+    ]
+  },
+  {
+    "id": 54065,
+    "question": "'La Casa de Papel' dizisinde soygun ekibinin taktığı maske kime aittir?",
+    "answers": [
+      "Salvador Dali",
+      "Picasso",
+      "Van Gogh",
+      "Frida Kahlo"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "dizi",
+      "sanat"
+    ]
+  },
+  {
+    "id": 54066,
+    "question": "Dünyanın en çok hasılat yapan filmi (2024 itibarıyla) hangisidir?",
+    "answers": [
+      "Avatar",
+      "Avengers: Endgame",
+      "Titanic",
+      "Star Wars"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "rekor"
+    ]
+  },
+  {
+    "id": 54067,
+    "question": "James Bond karakterini en son canlandıran oyuncu (2021 itibarıyla) kimdir?",
+    "answers": [
+      "Daniel Craig",
+      "Pierce Brosnan",
+      "Sean Connery",
+      "Roger Moore"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "ajan"
+    ]
+  },
+  {
+    "id": 54068,
+    "question": "Spotify'da tüm zamanların en çok dinlenen şarkısı rekorunu kıran 'Blinding Lights' kime aittir?",
+    "answers": [
+      "The Weeknd",
+      "Ed Sheeran",
+      "Drake",
+      "Justin Bieber"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "muzik",
+      "hit"
+    ]
+  },
+  {
+    "id": 54069,
+    "question": "'Friends' dizisindeki 'Chandler Bing' karakterini canlandıran ve 2023'te hayatını kaybeden oyuncu kimdir?",
+    "answers": [
+      "Matthew Perry",
+      "Matt LeBlanc",
+      "David Schwimmer",
+      "Paul Rudd"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "dizi",
+      "vefat"
+    ]
+  },
+  {
+    "id": 54070,
+    "question": "Barbie filminin yönetmeni kimdir?",
+    "answers": [
+      "Greta Gerwig",
+      "Christopher Nolan",
+      "Quentin Tarantino",
+      "Sofia Coppola"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "yonetmen"
+    ]
+  },
+  {
+    "id": 54071,
+    "question": "Hangi şarkıcı 'Queen of Pop' (Popun Kraliçesi) olarak anılır?",
+    "answers": [
+      "Madonna",
+      "Beyonce",
+      "Lady Gaga",
+      "Britney Spears"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "muzik",
+      "pop"
+    ]
+  },
+  {
+    "id": 54072,
+    "question": "'Breaking Bad' dizisindeki Walter White'ın takma adı nedir?",
+    "answers": [
+      "Heisenberg",
+      "Scarface",
+      "Capone",
+      "Jesse"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "dizi",
+      "karakter"
+    ]
+  },
+  {
+    "id": 54073,
+    "question": "Oscar ödüllü 'Parazit' filmi hangi ülkeye aittir?",
+    "answers": [
+      "Güney Kore",
+      "Japonya",
+      "Çin",
+      "Tayvan"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "odul"
+    ]
+  },
+  {
+    "id": 54074,
+    "question": "Hangisi bir süper kahraman değildir?",
+    "answers": [
+      "Joker",
+      "Batman",
+      "Spider-Man",
+      "Superman"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "cizgi_roman"
+    ]
+  },
+  {
+    "id": 54075,
+    "question": "2024 yılında vizyona giren 'Dune: Çöl Gezegeni Bölüm 2' filminin başrol oyuncusu kimdir?",
+    "answers": [
+      "Timothée Chalamet",
+      "Tom Holland",
+      "Austin Butler",
+      "Zendaya"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "gundem"
+    ]
+  },
+  {
+    "id": 54076,
+    "question": "Rap müzik sanatçısı Eminem'in gerçek adı nedir?",
+    "answers": [
+      "Marshall Mathers",
+      "Curtis Jackson",
+      "Calvin Broadus",
+      "Shawn Carter"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "muzik",
+      "rap"
+    ]
+  },
+  {
+    "id": 54077,
+    "question": "Hangisi 'Yüzüklerin Efendisi' üçlemesinden bir film değildir?",
+    "answers": [
+      "Hobbit",
+      "Yüzük Kardeşliği",
+      "İki Kule",
+      "Kralın Dönüşü"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "fantastik"
+    ]
+  },
+  {
+    "id": 54078,
+    "question": "Dünyaca ünlü DJ David Guetta hangi ülkenin vatandaşıdır?",
+    "answers": [
+      "Fransa",
+      "Hollanda",
+      "ABD",
+      "İsveç"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "muzik",
+      "dj"
+    ]
+  },
+  {
+    "id": 54079,
+    "question": "'Black Mirror' dizisinin ana teması nedir?",
+    "answers": [
+      "Teknolojinin distopik etkileri",
+      "Ortaçağ savaşları",
+      "Dedektiflik hikayeleri",
+      "Romantik komedi"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "dizi",
+      "teknoloji"
+    ]
+  },
+  {
+    "id": 54080,
+    "question": "Oscar ödülünü kazanan ilk siyahi kadın oyuncu kimdir?",
+    "answers": [
+      "Halle Berry",
+      "Viola Davis",
+      "Whoopi Goldberg",
+      "Oprah Winfrey"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "tarih"
+    ]
+  },
+  {
+    "id": 54081,
+    "question": "'Shape of You' şarkısıyla tanınan kızıl saçlı İngiliz şarkıcı kimdir?",
+    "answers": [
+      "Ed Sheeran",
+      "Harry Styles",
+      "Sam Smith",
+      "Lewis Capaldi"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "muzik",
+      "pop"
+    ]
+  },
+  {
+    "id": 54082,
+    "question": "John Wick serisinin başrol oyuncusu kimdir?",
+    "answers": [
+      "Keanu Reeves",
+      "Tom Cruise",
+      "Brad Pitt",
+      "Liam Neeson"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "aksiyon"
+    ]
+  },
+  {
+    "id": 54083,
+    "question": "'Winter is Coming' (Kış Geliyor) sözü hangi diziyle özdeşleşmiştir?",
+    "answers": [
+      "Game of Thrones",
+      "Vikings",
+      "The Witcher",
+      "Stranger Things"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "dizi",
+      "replik"
+    ]
+  },
+  {
+    "id": 54084,
+    "question": "Rihanna'nın kurduğu kozmetik markasının adı nedir?",
+    "answers": [
+      "Fenty Beauty",
+      "Rare Beauty",
+      "Kylie Cosmetics",
+      "Haus Labs"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "moda",
+      "marka"
+    ]
+  },
+  {
+    "id": 54085,
+    "question": "Hangisi bir Marvel karakteri değildir?",
+    "answers": [
+      "Batman",
+      "Iron Man",
+      "Thor",
+      "Hulk"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "cizgi_roman"
+    ]
+  },
+  {
+    "id": 54086,
+    "question": "Jennifer Aniston hangi diziyle dünya çapında üne kavuşmuştur?",
+    "answers": [
+      "Friends",
+      "Seinfeld",
+      "How I Met Your Mother",
+      "The Office"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "dizi",
+      "oyuncu"
+    ]
+  },
+  {
+    "id": 54087,
+    "question": "Leonardo DiCaprio hangi filmle 'En İyi Erkek Oyuncu' Oscar'ını kazanmıştır?",
+    "answers": [
+      "The Revenant (Diriliş)",
+      "Titanic",
+      "Inception",
+      "The Wolf of Wall Street"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sinema",
+      "odul"
+    ]
+  },
+  {
+    "id": 54088,
+    "question": "'Gangnam Style' şarkısıyla YouTube'da rekor kıran sanatçı kimdir?",
+    "answers": [
+      "PSY",
+      "BTS",
+      "Blackpink",
+      "Rain"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "muzik",
+      "viral"
+    ]
+  },
+  {
+    "id": 54089,
+    "question": "Wednesday dizisi hangi kurgusal ailenin kızını anlatır?",
+    "answers": [
+      "Addams Ailesi",
+      "Simpson Ailesi",
+      "Flintstone Ailesi",
+      "Jetgiller"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "dizi",
+      "karakter"
+    ]
+  },
+  {
+    "id": 54090,
+    "question": "Popüler FPS oyunu 'Counter-Strike: Global Offensive' (CS:GO) yerini hangi oyuna bırakmıştır?",
+    "answers": [
+      "Counter-Strike 2",
+      "Valorant",
+      "Overwatch",
+      "Apex Legends"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "oyun",
+      "espor"
+    ]
+  },
+  {
+    "id": 54091,
+    "question": "Twitch platformu ne için kullanılır?",
+    "answers": [
+      "Canlı yayın (oyun vb.)",
+      "İkinci el eşya satışı",
+      "Arkadaş bulma",
+      "Film izleme"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "yayin"
+    ]
+  },
+  {
+    "id": 54092,
+    "question": "'Mukbang' trendi neyi ifade eder?",
+    "answers": [
+      "Yemek yeme yayını",
+      "Dans videosu",
+      "Seyahat vlogu",
+      "Makyaj tüyosu"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "kultur"
+    ]
+  },
+  {
+    "id": 54093,
+    "question": "Dünyanın en çok kahve dükkanına sahip zinciri hangisidir?",
+    "answers": [
+      "Starbucks",
+      "Dunkin'",
+      "Tim Hortons",
+      "Costa Coffee"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "yasam",
+      "marka"
+    ]
+  },
+  {
+    "id": 54094,
+    "question": "Vegan beslenme tarzında ne tüketilmez?",
+    "answers": [
+      "Hayvansal gıdalar (Et, süt, yumurta)",
+      "Gluten",
+      "Şeker",
+      "Kafein"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "yasam",
+      "saglik"
+    ]
+  },
+  {
+    "id": 54095,
+    "question": "Hangisi bir 'Battle Royale' oyunu değildir?",
+    "answers": [
+      "FIFA",
+      "PUBG",
+      "Fortnite",
+      "Call of Duty: Warzone"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "oyun",
+      "tur"
+    ]
+  },
+  {
+    "id": 54096,
+    "question": "IKEA hangi ülkenin markasıdır?",
+    "answers": [
+      "İsveç",
+      "Danimarka",
+      "Almanya",
+      "Norveç"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "marka",
+      "ulke"
+    ]
+  },
+  {
+    "id": 54097,
+    "question": "Uzaktan çalışmayı ifade eden terim hangisidir?",
+    "answers": [
+      "Remote",
+      "Hybrid",
+      "Freelance",
+      "Office"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "is_hayati",
+      "terim"
+    ]
+  },
+  {
+    "id": 54098,
+    "question": "Hangisi Z kuşağını tanımlayan yıllardır (yaklaşık)?",
+    "answers": [
+      "1997-2012",
+      "1980-1996",
+      "1965-1979",
+      "2013-2025"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "sosyoloji",
+      "kusak"
+    ]
+  },
+  {
+    "id": 54099,
+    "question": "Minimalizm yaşam felsefesi neyi savunur?",
+    "answers": [
+      "Sadelik ve az eşya",
+      "Lüks tüketim",
+      "Karmaşa ve kaos",
+      "Sürekli biriktirme"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "yasam",
+      "felsefe"
+    ]
+  },
+  {
+    "id": 54100,
+    "question": "Hangisi bir 'süper gıda' (superfood) olarak bilinir?",
+    "answers": [
+      "Chia tohumu",
+      "Beyaz ekmek",
+      "Patates kızartması",
+      "Gazlı içecek"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "beslenme",
+      "trend"
+    ]
+  },
+  {
+    "id": 54101,
+    "question": "Dünyanın en büyük e-ticaret sitesi Alibaba hangi ülkenindir?",
+    "answers": [
+      "Çin",
+      "ABD",
+      "Japonya",
+      "Hindistan"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "ekonomi"
+    ]
+  },
+  {
+    "id": 54102,
+    "question": "Hangisi bir 'Streaming' platformu değildir?",
+    "answers": [
+      "Wikipedia",
+      "Netflix",
+      "Spotify",
+      "Disney+"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "eglence"
+    ]
+  },
+  {
+    "id": 54103,
+    "question": "Podcasting ne anlama gelir?",
+    "answers": [
+      "Sesli içerik yayını",
+      "Fotoğraf paylaşımı",
+      "Kodlama dili",
+      "E-posta servisi"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "medya"
+    ]
+  },
+  {
+    "id": 54104,
+    "question": "Hangisi bir kahve türü değildir?",
+    "answers": [
+      "Guacamole",
+      "Latte",
+      "Espresso",
+      "Americano"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "yasam",
+      "icecek"
+    ]
+  },
+  {
+    "id": 54105,
+    "question": "Dünyanın en pahalı baharatı olarak bilinen bitki hangisidir?",
+    "answers": [
+      "Safran",
+      "Vanilya",
+      "Kakule",
+      "Tarçın"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "yasam",
+      "gida"
+    ]
+  },
+  {
+    "id": 54106,
+    "question": "Michelin Yıldızı hangi alanda verilen prestijli bir ödüldür?",
+    "answers": [
+      "Restoran / Gastronomi",
+      "Otelcilik",
+      "Otomobil lastiği",
+      "Mimari"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "yasam",
+      "odul"
+    ]
+  },
+  {
+    "id": 54107,
+    "question": "Emoji kelimesi hangi dilden gelmektedir?",
+    "answers": [
+      "Japonca",
+      "İngilizce",
+      "Fransızca",
+      "Korece"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "dil"
+    ]
+  },
+  {
+    "id": 54108,
+    "question": "Selfie (Özçekim) kelimesi hangi yıl Oxford Sözlüğü tarafından yılın kelimesi seçilmiştir?",
+    "answers": [
+      "2013",
+      "2010",
+      "2015",
+      "2008"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "kultur"
+    ]
+  },
+  {
+    "id": 54109,
+    "question": "Hangisi bir 'Akıllı Ev' (Smart Home) ürünü olabilir?",
+    "answers": [
+      "Robot süpürge",
+      "Tüplü televizyon",
+      "Çevirmeli telefon",
+      "Daktilo"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "ev"
+    ]
+  },
+  {
+    "id": 54110,
+    "question": "Yoga ve meditasyon hangi kültürden dünyaya yayılmıştır?",
+    "answers": [
+      "Hint",
+      "Çin",
+      "Japon",
+      "Mısır"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "yasam",
+      "kultur"
+    ]
+  },
+  {
+    "id": 54111,
+    "question": "Glutensiz beslenme kime yöneliktir?",
+    "answers": [
+      "Çölyak hastalarına",
+      "Diyabetlilere",
+      "Kalp hastalarına",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "saglik",
+      "beslenme"
+    ]
+  },
+  {
+    "id": 54112,
+    "question": "e-Devlet kapısına giriş yapmak için kullanılan şifreyi nereden alabilirsiniz?",
+    "answers": [
+      "PTT",
+      "Nüfus Müdürlüğü",
+      "Belediye",
+      "Muhtarlık"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "turkiye",
+      "yasam"
+    ]
+  },
+  {
+    "id": 54113,
+    "question": "Zoom uygulaması özellikle hangi dönemde popülerleşmiştir?",
+    "answers": [
+      "Pandemi",
+      "2000'ler",
+      "Soğuk Savaş",
+      "Endüstri Devrimi"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "gundem"
+    ]
+  },
+  {
+    "id": 54114,
+    "question": "Dünyanın en çok oynanan kutu oyunu (board game) hangisidir?",
+    "answers": [
+      "Monopoly",
+      "Satranç",
+      "Tavla",
+      "Scrabble"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "oyun",
+      "hobi"
+    ]
+  },
+  {
+    "id": 54115,
+    "question": "QR Kod (Karekod) ne işe yarar?",
+    "answers": [
+      "Hızlı bilgiye erişim",
+      "Sadece ödeme yapma",
+      "Fotoğraf çekme",
+      "Müzik çalma"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "arac"
+    ]
+  },
+  {
+    "id": 54116,
+    "question": "Influencer kime denir?",
+    "answers": [
+      "Sosyal medyada etkileyici kişi",
+      "Yazılım mühendisi",
+      "Haber spikeri",
+      "Doktor"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "terim"
+    ]
+  },
+  {
+    "id": 54117,
+    "question": "Hangisi bir 'mem' (meme) karakteri değildir?",
+    "answers": [
+      "Super Mario",
+      "Doge",
+      "Pepe the Frog",
+      "Grumpy Cat"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "mizah"
+    ]
+  },
+  {
+    "id": 54118,
+    "question": "ASMR videolarının amacı nedir?",
+    "answers": [
+      "Rahatlama ve uyku",
+      "Korkutma",
+      "Eğitici bilgi",
+      "Spor motivasyonu"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "trend"
+    ]
+  },
+  {
+    "id": 54119,
+    "question": "K-Drama hangi ülkenin dizilerine verilen addır?",
+    "answers": [
+      "Güney Kore",
+      "Kuzey Kore",
+      "Japonya",
+      "Çin"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "dizi",
+      "kultur"
+    ]
+  },
+  {
+    "id": 54120,
+    "question": "CRISPR teknolojisi hangi alanda devrim yaratmıştır?",
+    "answers": [
+      "Gen düzenleme",
+      "Uzay yolculuğu",
+      "Kuantum bilgisayar",
+      "Nükleer enerji"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "bilim",
+      "genetik"
+    ]
+  },
+  {
+    "id": 54121,
+    "question": "Yapay zekanın insan zekasını geçeceği varsayılan noktaya ne ad verilir?",
+    "answers": [
+      "Teknolojik Tekillik (Singularity)",
+      "Büyük Patlama",
+      "Kıyamet",
+      "Evrim"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "bilim",
+      "felsefe"
+    ]
+  },
+  {
+    "id": 54122,
+    "question": "James Webb Uzay Teleskobu neyin yerini alması için fırlatılmıştır?",
+    "answers": [
+      "Hubble",
+      "Kepler",
+      "Voyager",
+      "Sputnik"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "uzay",
+      "bilim"
+    ]
+  },
+  {
+    "id": 54123,
+    "question": "Nörolink projesi neyi amaçlamaktadır?",
+    "answers": [
+      "Beyin-bilgisayar arayüzü",
+      "Ölümsüzlük",
+      "Işınlanma",
+      "Zaman yolculuğu"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "saglik"
+    ]
+  },
+  {
+    "id": 54124,
+    "question": "Hangisi yenilenebilir enerji kaynağıdır?",
+    "answers": [
+      "Güneş",
+      "Kömür",
+      "Doğalgaz",
+      "Petrol"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "cevre",
+      "enerji"
+    ]
+  },
+  {
+    "id": 54125,
+    "question": "CERN'deki Büyük Hadron Çarpıştırıcısı hangi ülkededir (sınırında)?",
+    "answers": [
+      "İsviçre / Fransa",
+      "ABD / Kanada",
+      "Almanya / Polonya",
+      "Rusya / Çin"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "bilim",
+      "mekan"
+    ]
+  },
+  {
+    "id": 54126,
+    "question": "Higgs Bozonu'nun halk arasındaki popüler adı nedir?",
+    "answers": [
+      "Tanrı Parçacığı",
+      "Hayalet Parçacık",
+      "Süper Parçacık",
+      "Karanlık Madde"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "bilim",
+      "fizik"
+    ]
+  },
+  {
+    "id": 54127,
+    "question": "Grafen maddesinin en önemli özelliği nedir?",
+    "answers": [
+      "Çok ince ve dayanıklı olması",
+      "Suda çözünmesi",
+      "Radyoaktif olması",
+      "Ağır olması"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "bilim",
+      "malzeme"
+    ]
+  },
+  {
+    "id": 54128,
+    "question": "Otonom araç ne demektir?",
+    "answers": [
+      "Sürücüsüz giden araç",
+      "Uçan araba",
+      "Elektrikli araba",
+      "Hızlı araba"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "gelecek"
+    ]
+  },
+  {
+    "id": 54129,
+    "question": "3D Yazıcı ile aşağıdakilerden hangisi üretilebilir?",
+    "answers": [
+      "Hepsi",
+      "Yiyecek",
+      "Ev",
+      "Organ dokusu"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "uretim"
+    ]
+  },
+  {
+    "id": 54130,
+    "question": "Blokzincir (Blockchain) teknolojisinin temel özelliği nedir?",
+    "answers": [
+      "Merkeziyetsiz ve değiştirilemez kayıt",
+      "Gizli mesajlaşma",
+      "Hızlı internet",
+      "Yapay zeka"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "kripto"
+    ]
+  },
+  {
+    "id": 54131,
+    "question": "Sanal gerçeklik ile Artırılmış gerçeklik arasındaki fark nedir?",
+    "answers": [
+      "VR tamamen sanal, AR gerçek üzerine ekleme",
+      "Fark yoktur",
+      "AR daha pahalıdır",
+      "VR sadece oyun içindir"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "vr"
+    ]
+  },
+  {
+    "id": 54132,
+    "question": "İnsanlık tarihinde Ay'a en son hangi yıl ayak basılmıştır (Apollo 17)?",
+    "answers": [
+      "1972",
+      "1969",
+      "1980",
+      "2000"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "uzay",
+      "tarih"
+    ]
+  },
+  {
+    "id": 54133,
+    "question": "Uluslararası Uzay İstasyonu'nda (ISS) sürekli olarak ne yapılır?",
+    "answers": [
+      "Bilimsel deneyler",
+      "Savaş hazırlığı",
+      "Hapis cezası",
+      "Turistik parti"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "uzay",
+      "bilim"
+    ]
+  },
+  {
+    "id": 54134,
+    "question": "Hangisi küresel ısınmanın sonuçlarından biridir?",
+    "answers": [
+      "Buzulların erimesi",
+      "Daha çok kar yağması",
+      "Volkanik patlamalar",
+      "Depremler"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "cevre",
+      "iklim"
+    ]
+  },
+  {
+    "id": 54135,
+    "question": "Karbon ayak izi neyi ifade eder?",
+    "answers": [
+      "Doğaya salınan sera gazı miktarı",
+      "Ayakkabı numarası",
+      "Orman yangını",
+      "Kömür madeni"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "cevre",
+      "terim"
+    ]
+  },
+  {
+    "id": 54136,
+    "question": "Turing Testi neyi ölçmek için tasarlanmıştır?",
+    "answers": [
+      "Makinenin insan gibi düşünüp düşünemediğini",
+      "Bilgisayarın hızını",
+      "İnternet bağlantısını",
+      "Ekran çözünürlüğünü"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "ai",
+      "bilim"
+    ]
+  },
+  {
+    "id": 54137,
+    "question": "Deepfake teknolojisi ne yapar?",
+    "answers": [
+      "Yüz ve ses değiştirme / sahtecilik",
+      "Derin deniz araştırması",
+      "Yeraltı madenciliği",
+      "Uzay gözlemi"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "ai",
+      "teknoloji"
+    ]
+  },
+  {
+    "id": 54138,
+    "question": "5G teknolojisinin 4G'den en büyük farkı nedir?",
+    "answers": [
+      "Daha yüksek hız ve düşük gecikme",
+      "Daha ucuz olması",
+      "Daha az radyasyon",
+      "Sadece telefonlarda çalışması"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "iletisim"
+    ]
+  },
+  {
+    "id": 54139,
+    "question": "Nesnelerin İnterneti (IoT) ne demektir?",
+    "answers": [
+      "Cihazların birbirleriyle haberleşmesi",
+      "Hızlı internet",
+      "Sanal alışveriş",
+      "Sosyal medya"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "terim"
+    ]
+  },
+  {
+    "id": 54140,
+    "question": "Boston Dynamics şirketi ne üretmektedir?",
+    "answers": [
+      "Gelişmiş robotlar",
+      "Bilgisayar oyunu",
+      "Cep telefonu",
+      "Spor ayakkabı"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "robot"
+    ]
+  },
+  {
+    "id": 54141,
+    "question": "Sophia adlı robotun en ilginç özelliği nedir?",
+    "answers": [
+      "Vatandaşlık alan ilk robot olması (Suudi Arabistan)",
+      "Uçabilmesi",
+      "Yemek yapabilmesi",
+      "Su altında çalışması"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "robot",
+      "gundem"
+    ]
+  },
+  {
+    "id": 54142,
+    "question": "Big Data (Büyük Veri) ne anlama gelir?",
+    "answers": [
+      "Devasa boyuttaki veri setlerinin analizi",
+      "Büyük hard disk",
+      "Uzun e-postalar",
+      "Ansiklopedi"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "veri"
+    ]
+  },
+  {
+    "id": 54143,
+    "question": "Kuantum bilgisayarların klasik bilgisayarlardan farkı nedir?",
+    "answers": [
+      "Qubit kullanması ve çok daha hızlı işlem",
+      "Daha küçük olması",
+      "Daha ucuz olması",
+      "Pilsiz çalışması"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "zor",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "bilim",
+      "bilgisayar"
+    ]
+  },
+  {
+    "id": 54144,
+    "question": "Dark Web (Karanlık Ağ) ne demektir?",
+    "answers": [
+      "İnternetin gizli ve şifreli katmanı",
+      "Gece modu",
+      "Elektrik kesintisi",
+      "Kötü web siteleri"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "orta",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "guvenlik"
+    ]
+  },
+  {
+    "id": 54145,
+    "question": "Siber güvenlikte 'Phishing' (Oltalama) nedir?",
+    "answers": [
+      "Sahte e-posta/site ile bilgi çalma",
+      "Balık tutma oyunu",
+      "Virüs taraması",
+      "Şifre oluşturma"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "guvenlik",
+      "internet"
+    ]
+  },
+  {
+    "id": 54146,
+    "question": "Hangisi bir bulut depolama (Cloud) hizmetidir?",
+    "answers": [
+      "Google Drive",
+      "WinRAR",
+      "Paint",
+      "Notepad"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "yazilim"
+    ]
+  },
+  {
+    "id": 54147,
+    "question": "VPN ne işe yarar?",
+    "answers": [
+      "İnternet trafiğini şifreleyip gizleme",
+      "Bilgisayarı hızlandırma",
+      "Virüs temizleme",
+      "Oyun indirme"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "internet",
+      "arac"
+    ]
+  },
+  {
+    "id": 54148,
+    "question": "Giyilebilir teknoloji ürününe örnek hangisidir?",
+    "answers": [
+      "Akıllı saat",
+      "Masaüstü bilgisayar",
+      "Tablet",
+      "Yazıcı"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "teknoloji",
+      "urun"
+    ]
+  },
+  {
+    "id": 54149,
+    "question": "Türkiye'nin insansız hava aracı (İHA/SİHA) markası hangisidir?",
+    "answers": [
+      "Bayraktar",
+      "Altay",
+      "Atak",
+      "Hürkuş"
+    ],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": [
+      "modern",
+      "guncel",
+      "teknoloji",
+      "savunma",
+      "teknoloji"
+    ]
+  }
+]

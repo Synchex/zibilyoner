@@ -49,6 +49,7 @@ import batch068 from './seeds/batch_068_tr_pop_culture_2000s.json';
 import batch069 from './seeds/batch_069_tr_famous_people.json';
 import batch070 from './seeds/batch_070_tr_proverbs_idioms.json';
 import batch071 from './seeds/batch_071_tr_mixed_expert.json';
+import batch078 from './seeds/batch_078_tr_modern_world.json';
 
 // Import shared types and helpers
 import type { Question, Category, Difficulty, SportsSubcategory } from './questionBank';
@@ -237,6 +238,7 @@ const importedQuestions = [
     ...importBatch(batch069 as RawQuestion[]),
     ...importBatch(batch070 as RawQuestion[]),
     ...importBatch(batch071 as RawQuestion[]),
+    ...importBatch(batch078 as RawQuestion[]),
 ];
 
 // Apply advanced deduplication
