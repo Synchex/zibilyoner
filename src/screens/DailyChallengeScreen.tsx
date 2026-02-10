@@ -12,6 +12,7 @@ import {
     COINS_PER_CORRECT,
     BONUS_COINS_ALL_CORRECT
 } from '../hooks/useDailyChallenge';
+import { useDailyStreak } from '../hooks/useDailyStreak';
 
 interface DailyChallengeScreenProps {
     language: Language;
@@ -30,6 +31,7 @@ export function DailyChallengeScreen({ language, onComplete, onGoHome }: DailyCh
         generateTodayQuestions,
         saveDailyResult
     } = useDailyChallenge();
+    const { recordSuccess } = useDailyStreak();
 
     const [currentIndex, setCurrentIndex] = useState(0);
     const [correctCount, setCorrectCount] = useState(0);
@@ -113,6 +115,10 @@ export function DailyChallengeScreen({ language, onComplete, onGoHome }: DailyCh
 
                 // Save result
                 await saveDailyResult(finalCorrect, finalEarned);
+
+                // Record streak success
+                await recordSuccess();
+
                 setGameComplete(true);
             } else {
                 setCurrentIndex(prev => prev + 1);

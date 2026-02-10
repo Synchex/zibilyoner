@@ -1,0 +1,802 @@
+[
+    {
+        "id": 51051,
+        "question": "Hangisi bir 'Nobel' ödülü kategorisi değildir?",
+        "answers": [
+            "Matematik",
+            "Edebiyat",
+            "Barış",
+            "Fizik"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 51052,
+        "question": "'Mona Lisa' tablosunun diğer adı nedir?",
+        "answers": [
+            "La Gioconda",
+            "Venüs'ün Doğuşu",
+            "Son Akşam Yemeği",
+            "İnci Küpeli Kız"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "zor",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 51053,
+        "question": "Hangi ülke hem Asya hem Avrupa kıtasında toprağa sahip değildir?",
+        "answers": [
+            "Yunanistan",
+            "Türkiye",
+            "Rusya",
+            "Kazakistan"
+        ],
+        "correctAnswer": 0,
+        "category": "cografya",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 51054,
+        "question": "Dünyanın en derin noktası olan Mariana Çukuru hangi okyanustadır?",
+        "answers": [
+            "Büyük Okyanus",
+            "Atlas Okyanusu",
+            "Hint Okyanusu",
+            "Arktik Okyanusu"
+        ],
+        "correctAnswer": 0,
+        "category": "cografya",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 51055,
+        "question": "Hangi elementin simgesi 'Au'dur?",
+        "answers": [
+            "Altın",
+            "Gümüş",
+            "Bakır",
+            "Demir"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51056,
+        "question": "'Hücre'yi keşfeden bilim insanı kimdir?",
+        "answers": [
+            "Robert Hooke",
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Charles Darwin"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51057,
+        "question": "Türkiye'nin en yüksek dağı Ağrı Dağı sönmüş bir ...?",
+        "answers": [
+            "Volkandır",
+            "Kıvrım dağıdır",
+            "Kırık dağıdır",
+            "Platodur"
+        ],
+        "correctAnswer": 0,
+        "category": "cografya",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 51058,
+        "question": "Hangisi bir 'Doğal Afet' değildir?",
+        "answers": [
+            "Trafik Kazası",
+            "Deprem",
+            "Sel",
+            "Heyelan"
+        ],
+        "correctAnswer": 0,
+        "category": "cografya",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 51059,
+        "question": "'Pi' sayısının yaklaşık değeri kaçtır?",
+        "answers": [
+            "3,14",
+            "3,41",
+            "3,12",
+            "3,50"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51060,
+        "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+        "answers": [
+            "Mars",
+            "Venüs",
+            "Jüpiter",
+            "Merkür"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51061,
+        "question": "Türkiye'nin plaka kodu 01 olan ili hangisidir?",
+        "answers": [
+            "Adana",
+            "Ankara",
+            "Antalya",
+            "Adıyaman"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 51062,
+        "question": "Hangi yıl Türkiye'de Cumhuriyet ilan edilmiştir?",
+        "answers": [
+            "1923",
+            "1920",
+            "1919",
+            "1922"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 51063,
+        "question": "'İnce Memed' hangi ilimizde geçer?",
+        "answers": [
+            "Adana (Çukurova)",
+            "İzmir",
+            "İstanbul",
+            "Ankara"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 51064,
+        "question": "Hangi spor dalında 'Ace' terimi kullanılır?",
+        "answers": [
+            "Tenis",
+            "Futbol",
+            "Basketbol",
+            "Yüzme"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "spor"
+        ]
+    },
+    {
+        "id": 51065,
+        "question": "NBA takımlarından 'Lakers' hangi şehirdedir?",
+        "answers": [
+            "Los Angeles",
+            "New York",
+            "Chicago",
+            "Boston"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "spor"
+        ]
+    },
+    {
+        "id": 51066,
+        "question": "Satrançta en güçlü taş hangisidir?",
+        "answers": [
+            "Vezir",
+            "Şah",
+            "Kale",
+            "At"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "spor"
+        ]
+    },
+    {
+        "id": 51067,
+        "question": "'Hafıza Sarayı' tekniğini kimin kullandığı söylenir?",
+        "answers": [
+            "Sherlock Holmes (Kurgusal) / Cicero",
+            "Einstein",
+            "Newton",
+            "Mozart"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 51068,
+        "question": "Hangisi bir 'Programlama Dili' değildir?",
+        "answers": [
+            "HTML (İşaretleme Dili)",
+            "Python",
+            "Java",
+            "C++"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 51069,
+        "question": "İnternetin 'babası' olarak bilinen protokol nedir?",
+        "answers": [
+            "TCP/IP",
+            "HTTP",
+            "FTP",
+            "SMTP"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 51070,
+        "question": "Elon Musk hangi şirketin CEO'sudur?",
+        "answers": [
+            "Tesla / SpaceX",
+            "Amazon",
+            "Apple",
+            "Microsoft"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 51071,
+        "question": "Oscar ödüllerini dağıtan kurum hangisidir?",
+        "answers": [
+            "Akademi",
+            "Altın Küre",
+            "Cannes",
+            "Emmy"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 51072,
+        "question": "'Demir Lady' lakaplı İngiltere Başbakanı kimdir?",
+        "answers": [
+            "Margaret Thatcher",
+            "Theresa May",
+            "Kraliçe Elizabeth",
+            "Angela Merkel"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 51073,
+        "question": "Berlin Duvarı hangi yıl yıkılmıştır?",
+        "answers": [
+            "1989",
+            "1990",
+            "1985",
+            "1991"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 51074,
+        "question": "Hangi ülke kahvesiyle meşhurdur?",
+        "answers": [
+            "Brezilya",
+            "İngiltere",
+            "Çin",
+            "Rusya"
+        ],
+        "correctAnswer": 0,
+        "category": "cografya",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 51075,
+        "question": "'Suç ve Ceza' romanının başkahramanı kimdir?",
+        "answers": [
+            "Raskolnikov",
+            "Sonya",
+            "Razumihin",
+            "Dunya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 51076,
+        "question": "Hangi ressam kulağını kesmiştir?",
+        "answers": [
+            "Van Gogh",
+            "Picasso",
+            "Dali",
+            "Rembrandt"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 51077,
+        "question": "Biyolojide 'DNA' açılımı nedir?",
+        "answers": [
+            "Deoksiribonükleik Asit",
+            "Ribonükleik Asit",
+            "Dinükleik Asit",
+            "Deoksiriboz"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51078,
+        "question": "Işığın saniyedeki hızı yaklaşık ne kadardır?",
+        "answers": [
+            "300.000 km",
+            "150.000 km",
+            "1.000.000 km",
+            "30.000 km"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51079,
+        "question": "Hangi gezegenin halkaları vardır?",
+        "answers": [
+            "Satürn",
+            "Mars",
+            "Venüs",
+            "Merkür"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51080,
+        "question": "'Hamlet' oyununun yazarı kimdir?",
+        "answers": [
+            "Shakespeare",
+            "Goethe",
+            "Moliere",
+            "Çehov"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 51081,
+        "question": "Hangisi bir 'İklim' tipi değildir?",
+        "answers": [
+            "Tundra",
+            "Muson",
+            "Akdeniz",
+            "Kasırga"
+        ],
+        "correctAnswer": 3,
+        "category": "cografya",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 51082,
+        "question": "Japonya'nın para birimi nedir?",
+        "answers": [
+            "Yen",
+            "Won",
+            "Yuan",
+            "Dolar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 51083,
+        "question": "'Avatar' filminin yönetmeni kimdir?",
+        "answers": [
+            "James Cameron",
+            "Steven Spielberg",
+            "Christopher Nolan",
+            "George Lucas"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 51084,
+        "question": "Titanic gemisi hangi yıl batmıştır?",
+        "answers": [
+            "1912",
+            "1905",
+            "1920",
+            "1899"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 51085,
+        "question": "Hangi element 'O' simgesiyle gösterilir?",
+        "answers": [
+            "Oksijen",
+            "Osmiyum",
+            "Oganesson",
+            "Oksit"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51086,
+        "question": "Sıfırın altındaki sıcaklıklar hangi işaretle gösterilir?",
+        "answers": [
+            "Eksi (-)",
+            "Artı (+)",
+            "Çarpı (x)",
+            "Bölü (/)"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51087,
+        "question": "Hangi organımız kanı pompalar?",
+        "answers": [
+            "Kalp",
+            "Akciğer",
+            "Karaciğer",
+            "Böbrek"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51088,
+        "question": "İnsan vücudundaki en büyük kemik hangisidir?",
+        "answers": [
+            "Uyluk Kemiği",
+            "Kaval Kemiği",
+            "Kafatası",
+            "Kaburga"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51089,
+        "question": "Gökkuşağında kaç renk vardır?",
+        "answers": [
+            "7",
+            "6",
+            "5",
+            "8"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 51090,
+        "question": "Türkiye'nin en uzun nehri hangisidir (Türkiye sınırları içinde doğup dökülen)?",
+        "answers": [
+            "Kızılırmak",
+            "Fırat",
+            "Dicle",
+            "Sakarya"
+        ],
+        "correctAnswer": 0,
+        "category": "cografya",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 51091,
+        "question": "Anıtkabir hangi ilimizdedir?",
+        "answers": [
+            "Ankara",
+            "İstanbul",
+            "İzmir",
+            "Samsun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 51092,
+        "question": "Hangi yıl 'Y2K' problemi yaşanmıştır?",
+        "answers": [
+            "2000",
+            "1999",
+            "2001",
+            "2010"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 51093,
+        "question": "Facebook'un kurucusu kimdir?",
+        "answers": [
+            "Mark Zuckerberg",
+            "Steve Jobs",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 51094,
+        "question": "Hangi ülke 'Çizme' şeklindedir?",
+        "answers": [
+            "İtalya",
+            "İspanya",
+            "Fransa",
+            "Yunanistan"
+        ],
+        "correctAnswer": 0,
+        "category": "cografya",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 51095,
+        "question": "'Yüzüklerin Efendisi' serisinin yazarı kimdir?",
+        "answers": [
+            "J.R.R. Tolkien",
+            "J.K. Rowling",
+            "George R.R. Martin",
+            "C.S. Lewis"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 51096,
+        "question": "Matrix filmindeki ana karakterin adı nedir?",
+        "answers": [
+            "Neo",
+            "Morpheus",
+            "Trinity",
+            "Smith"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 51097,
+        "question": "Hangi enstrümanın 6 teli vardır (genellikle)?",
+        "answers": [
+            "Gitar",
+            "Keman",
+            "Banjo",
+            "Ukulele"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 51098,
+        "question": "Hangi satranç taşı 'L' şeklinde gider?",
+        "answers": [
+            "At",
+            "Fil",
+            "Kale",
+            "Vezir"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "spor"
+        ]
+    },
+    {
+        "id": 51099,
+        "question": "Türkiye'nin uluslararası telefon kodu nedir?",
+        "answers": [
+            "+90",
+            "+1",
+            "+44",
+            "+49"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 51100,
+        "question": "Bir futbol maçı normal süresi kaç dakikadır?",
+        "answers": [
+            "90",
+            "45",
+            "100",
+            "60"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "spor"
+        ]
+    }
+]

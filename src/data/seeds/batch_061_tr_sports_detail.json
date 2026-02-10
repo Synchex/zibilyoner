@@ -1,0 +1,802 @@
+[
+    {
+        "id": 50551,
+        "question": "Futbolda ceza sahası içinde kalecinin topu eline alabildiği süre (top tutma) kuralı kaç saniyedir?",
+        "answers": [
+            "6 saniye",
+            "10 saniye",
+            "20 saniye",
+            "Süre yok"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50552,
+        "question": "VAR sisteminin açılımı nedir?",
+        "answers": [
+            "Video Assistant Referee",
+            "Video Action Replay",
+            "Very Accurate Referee",
+            "Virtual Assistant Referee"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50553,
+        "question": "Formula 1'de 'Pole Pozisyonu' ne demektir?",
+        "answers": [
+            "Yarışa en önde başlama hakkı",
+            "Yarışı birinci bitirme",
+            "En hızlı turu atma",
+            "Pist dışına çıkma"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "motor_sporlari"
+        ]
+    },
+    {
+        "id": 50554,
+        "question": "Basketbolda 3 sayı çizgisi NBA'de kaç metredir?",
+        "answers": [
+            "7.24 metre",
+            "6.75 metre",
+            "6.25 metre",
+            "7.00 metre"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "basketbol"
+        ]
+    },
+    {
+        "id": 50555,
+        "question": "Teniste 40-40 eşitliğe ne denir?",
+        "answers": [
+            "Deuce",
+            "Tie-break",
+            "Advantage",
+            "Set"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "tenis"
+        ]
+    },
+    {
+        "id": 50556,
+        "question": "Hangi spor dalında 'Ippon' puanı maçın bittiği anlamına gelir?",
+        "answers": [
+            "Judo",
+            "Karate",
+            "Tekvando",
+            "Güreş"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "dovus_sporlari"
+        ]
+    },
+    {
+        "id": 50557,
+        "question": "Snooker oyununda 'Siyah' top kaç puandır?",
+        "answers": [
+            "7",
+            "6",
+            "5",
+            "1"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "bilardo"
+        ]
+    },
+    {
+        "id": 50558,
+        "question": "NBA tarihinin en çok sayı atan oyuncusu kimdir?",
+        "answers": [
+            "LeBron James",
+            "Kareem Abdul-Jabbar",
+            "Karl Malone",
+            "Kobe Bryant"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "basketbol"
+        ]
+    },
+    {
+        "id": 50559,
+        "question": "Hangi futbolcu Dünya Kupası'nı 3 kez kazanmıştır?",
+        "answers": [
+            "Pele",
+            "Maradona",
+            "Ronaldo",
+            "Zidane"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50560,
+        "question": "Yüzmede serbest stilde en hızlı yüzme tekniği hangisidir?",
+        "answers": [
+            "Serbest (Krawl)",
+            "Sırtüstü",
+            "Kurbağalama",
+            "Kelebek"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "yuzme"
+        ]
+    },
+    {
+        "id": 50561,
+        "question": "Olimpiyat Oyunları kaç yılda bir düzenlenir?",
+        "answers": [
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "olimpiyat"
+        ]
+    },
+    {
+        "id": 50562,
+        "question": "Voleybolda 'Libero' oyuncusu ne yapamaz?",
+        "answers": [
+            "Servis atamaz ve smaç vuramaz",
+            "Manşet alamaz",
+            "Oyundan çıkamaz",
+            "Pas veremez"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "voleybol"
+        ]
+    },
+    {
+        "id": 50563,
+        "question": "Hangi Türk basketbolcu 'Memo' lakabıyla bilinir?",
+        "answers": [
+            "Mehmet Okur",
+            "Hidayet Türkoğlu",
+            "Mirsad Türkcan",
+            "Kerem Gönlüm"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "basketbol"
+        ]
+    },
+    {
+        "id": 50564,
+        "question": "2020 Tokyo Olimpiyatları'nda Mete Gazoz kime karşı final kazanmıştır?",
+        "answers": [
+            "Mauro Nespoli (İtalya)",
+            "Brady Ellison",
+            "Kim Woo-jin",
+            "Atanu Das"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "okculuk"
+        ]
+    },
+    {
+        "id": 50565,
+        "question": "Tour de France (Fransa Bisiklet Turu) lideri hangi renk mayo giyer?",
+        "answers": [
+            "Sarı",
+            "Pembe",
+            "Kırmızı",
+            "Yeşil"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "bisiklet"
+        ]
+    },
+    {
+        "id": 50566,
+        "question": "Boksta 'Nakavt' (KO) ne demektir?",
+        "answers": [
+            "Rakibin 10 saniye içinde kalkamaması",
+            "Maçın puanla bitmesi",
+            "Havlu atılması",
+            "Diskalifiye"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "boks"
+        ]
+    },
+    {
+        "id": 50567,
+        "question": "Hangi futbol takımı 'Kırmızılar' (The Reds) olarak bilinir?",
+        "answers": [
+            "Liverpool",
+            "Manchester United",
+            "Arsenal",
+            "Bayern Münih"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50568,
+        "question": "Messi hangi yıl Arjantin ile Dünya Kupası'nı kazanmıştır?",
+        "answers": [
+            "2022",
+            "2014",
+            "2018",
+            "2010"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50569,
+        "question": "Golfte 'Birdie' ne demektir?",
+        "answers": [
+            "Par'ın bir vuruş altı (-1)",
+            "Par'ın iki vuruş altı (-2)",
+            "Par seviyesi",
+            "Par'ın bir vuruş üstü (+1)"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "golf"
+        ]
+    },
+    {
+        "id": 50570,
+        "question": "Amerikan Futbolu şampiyonluk maçına ne denir?",
+        "answers": [
+            "Super Bowl",
+            "NBA Finals",
+            "World Series",
+            "Stanley Cup"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "amerikan_futbolu"
+        ]
+    },
+    {
+        "id": 50571,
+        "question": "Hangi Türk güreşçi 'Koca Yusuf' olarak bilinir?",
+        "answers": [
+            "Yusuf İsmail",
+            "Kurtdereli Mehmet",
+            "Adalı Halil",
+            "Hergeleci İbrahim"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "gures"
+        ]
+    },
+    {
+        "id": 50572,
+        "question": "Bir maraton kaç mildir? (Yaklaşık)",
+        "answers": [
+            "26.2 mil",
+            "13.1 mil",
+            "20 mil",
+            "30 mil"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "atletizm"
+        ]
+    },
+    {
+        "id": 50573,
+        "question": "Hangi takım Şampiyonlar Ligi'ni en çok kazanmıştır?",
+        "answers": [
+            "Real Madrid",
+            "Milan",
+            "Liverpool",
+            "Barcelona"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50574,
+        "question": "Voleybol filesinin erkeklerde yüksekliği ne kadardır?",
+        "answers": [
+            "2.43 m",
+            "2.24 m",
+            "2.35 m",
+            "2.50 m"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "voleybol"
+        ]
+    },
+    {
+        "id": 50575,
+        "question": "Futbol topunun çevresi ne kadardır?",
+        "answers": [
+            "68-70 cm",
+            "60-62 cm",
+            "75-77 cm",
+            "55-58 cm"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50576,
+        "question": "Türkiye Kadın Voleybol Takımı 2023'te hangi turnuvanın şampiyonu olmuştur?",
+        "answers": [
+            "Milletler Ligi (VNL) ve Avrupa Şampiyonası",
+            "Olimpiyat",
+            "Dünya Kupası",
+            "Grand Prix"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "voleybol"
+        ]
+    },
+    {
+        "id": 50577,
+        "question": "Yüzmede 'Kurbağalama' stilinde kollar nasıl hareket eder?",
+        "answers": [
+            "Suyun altından yanlara ve geriye",
+            "Sudan çıkarak öne",
+            "Sırayla öne",
+            "Vücut yanında sabit"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "yuzme"
+        ]
+    },
+    {
+        "id": 50578,
+        "question": "Hangi ülke 2022 FIFA Dünya Kupası'na ev sahipliği yapmıştır?",
+        "answers": [
+            "Katar",
+            "Rusya",
+            "Brezilya",
+            "Güney Afrika"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50579,
+        "question": "Basketbolda 'Double-Double' ne demektir?",
+        "answers": [
+            "İki istatistikte çift haneli sayıya ulaşmak",
+            "İki sayı atmak",
+            "İki faul yapmak",
+            "İkinci periyot"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "basketbol"
+        ]
+    },
+    {
+        "id": 50580,
+        "question": "Arda Turan hangi İspanyol takımında oynamıştır?",
+        "answers": [
+            "Atletico Madrid ve Barcelona",
+            "Real Madrid",
+            "Sevilla",
+            "Valencia"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50581,
+        "question": "Eskrimde kullanılan silahlardan biri değildir?",
+        "answers": [
+            "Kılıç (Broadsword)",
+            "Flöre",
+            "Epe",
+            "Kılıç (Sabre)"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "eskrim"
+        ]
+    },
+    {
+        "id": 50582,
+        "question": "Satrançta 'Rok' hareketi hangi taşla yapılır?",
+        "answers": [
+            "Şah ve Kale",
+            "Vezir ve Kale",
+            "Şah ve Fil",
+            "Şah ve At"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "satranc"
+        ]
+    },
+    {
+        "id": 50583,
+        "question": "Hangi spor 'Buz Hokeyi'ne benzer ama çim üzerinde oynanır?",
+        "answers": [
+            "Çim Hokeyi",
+            "Lakros",
+            "Kriket",
+            "Ragbi"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "hokey"
+        ]
+    },
+    {
+        "id": 50584,
+        "question": "Kriket maçları kaç gün sürebilir (Test Cricket)?",
+        "answers": [
+            "5 gün",
+            "1 gün",
+            "90 dakika",
+            "3 saat"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "kriket"
+        ]
+    },
+    {
+        "id": 50585,
+        "question": "Türkiye Süper Lig'inde 2009-2010 sezonu şampiyonu kimdir?",
+        "answers": [
+            "Bursaspor",
+            "Fenerbahçe",
+            "Galatasaray",
+            "Beşiktaş"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50586,
+        "question": "Hangi basketbolcu 'Air' lakabıyla bilinir?",
+        "answers": [
+            "Michael Jordan",
+            "Kobe Bryant",
+            "LeBron James",
+            "Magic Johnson"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "basketbol"
+        ]
+    },
+    {
+        "id": 50587,
+        "question": "Teniste 'Grand Slam' kazananları arasında hangi turnuva yoktur?",
+        "answers": [
+            "Madrid Open",
+            "Wimbledon",
+            "Roland Garros",
+            "US Open"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "tenis"
+        ]
+    },
+    {
+        "id": 50588,
+        "question": "Hangi otomobil markası Ferrari'nin ezeli rakibidir?",
+        "answers": [
+            "Lamborghini",
+            "Porsche",
+            "Mercedes",
+            "Red Bull"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "motor_sporlari"
+        ]
+    },
+    {
+        "id": 50589,
+        "question": "Muhammed Ali'nin asıl adı nedir?",
+        "answers": [
+            "Cassius Marcellus Clay Jr.",
+            "Mike Tyson",
+            "Joe Frazier",
+            "George Foreman"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "boks"
+        ]
+    },
+    {
+        "id": 50590,
+        "question": "Hangi takım Türkiye'de 100. yılında şampiyon olmuştur?",
+        "answers": [
+            "Beşiktaş ve Fenerbahçe",
+            "Sadece Beşiktaş",
+            "Sadece Galatasaray",
+            "Hepsi"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50591,
+        "question": "Basketbolda hücum süresi kaç saniyedir?",
+        "answers": [
+            "24",
+            "30",
+            "20",
+            "14"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "basketbol"
+        ]
+    },
+    {
+        "id": 50592,
+        "question": "2008 Avrupa Futbol Şampiyonası'nda Türkiye kaçıncı olmuştur?",
+        "answers": [
+            "Yarı Finalist (3.-4.)",
+            "Şampiyon",
+            "İkinci",
+            "Grup Sonuncusu"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50593,
+        "question": "Hangi spor 'Tatami' üzerinde yapılır?",
+        "answers": [
+            "Judo",
+            "Boks",
+            "Güreş",
+            "Eskrim"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "dovus_sporlari"
+        ]
+    },
+    {
+        "id": 50594,
+        "question": "Okçulukta hedefin tam ortasındaki sarı daire kaç puandır?",
+        "answers": [
+            "10",
+            "12",
+            "100",
+            "50"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "okculuk"
+        ]
+    },
+    {
+        "id": 50595,
+        "question": "Hangi takım NBA'de Boston Celtics ile en çok şampiyonluk sayısına sahiptir?",
+        "answers": [
+            "Los Angeles Lakers",
+            "Chicago Bulls",
+            "Golden State Warriors",
+            "San Antonio Spurs"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "tags": [
+            "basketbol"
+        ]
+    },
+    {
+        "id": 50596,
+        "question": "Futbolda sarı kart ne anlama gelir?",
+        "answers": [
+            "İhtar (Uyarı)",
+            "Oyundan atılma",
+            "Gol iptali",
+            "Penaltı"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50597,
+        "question": "Usain Bolt hangi ülke vatandaşıdır?",
+        "answers": [
+            "Jamaika",
+            "ABD",
+            "Kenya",
+            "İngiltere"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "atletizm"
+        ]
+    },
+    {
+        "id": 50598,
+        "question": "Hangi Türk futbolcu 'İmparator' lakabıyla bilinir?",
+        "answers": [
+            "Oğuz Çetin",
+            "Fatih Terim",
+            "Rıdvan Dilmen",
+            "Sergen Yalçın"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "futbol"
+        ]
+    },
+    {
+        "id": 50599,
+        "question": "Wimbledon Tenis Turnuvası hangi zeminde oynanır?",
+        "answers": [
+            "Çim",
+            "Toprak",
+            "Sert",
+            "Halı"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "tenis"
+        ]
+    },
+    {
+        "id": 50600,
+        "question": "Hangi spor dalında 'Ace' terimi kullanılır?",
+        "answers": [
+            "Tenis",
+            "Futbol",
+            "Basketbol",
+            "Yüzme"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "tenis"
+        ]
+    }
+]

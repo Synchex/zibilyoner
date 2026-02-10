@@ -1,0 +1,802 @@
+[
+    {
+        "id": 50801,
+        "question": "Hangi tatlı sütün kazanı dibinde yanmasıyla elde edilen lezzetten adını alır?",
+        "answers": [
+            "Kazandibi",
+            "Sütlaç",
+            "Muhallebi",
+            "Keşkül"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50802,
+        "question": "Cağ Kebabı hangi ilimize özgüdür?",
+        "answers": [
+            "Erzurum",
+            "Bursa",
+            "Adana",
+            "Şanlıurfa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50803,
+        "question": "Hangi yemek 'Patlıcan' ile yapılmaz?",
+        "answers": [
+            "Mantı",
+            "İmam Bayıldı",
+            "Karnıyarık",
+            "Hünkar Beğendi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50804,
+        "question": "Tantuni hangi şehrimizin meşhur yemeğidir?",
+        "answers": [
+            "Mersin",
+            "Adana",
+            "Hatay",
+            "Antalya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50805,
+        "question": "Hamsiköy Sütlacı hangi ilimizle özdeşleşmiştir?",
+        "answers": [
+            "Trabzon",
+            "Rize",
+            "Ordu",
+            "Giresun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50806,
+        "question": "'Baklava' hangi ilimizle tescillidir?",
+        "answers": [
+            "Gaziantep",
+            "Şanlıurfa",
+            "Bursa",
+            "İstanbul"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50807,
+        "question": "Hangisi bir çorba çeşidi değildir?",
+        "answers": [
+            "İmam Bayıldı",
+            "Ezogelin",
+            "Mercimek",
+            "Tarhana"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50808,
+        "question": "'Çiğ Köfte' geleneksel olarak hangi et ile yapılır (eskiden)?",
+        "answers": [
+            "Çiğ kırmızı et",
+            "Tavuk",
+            "Balık",
+            "Hindi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50809,
+        "question": "Kayseri ilimiz hangi yiyeceği ile meşhurdur?",
+        "answers": [
+            "Mantı ve Pastırma",
+            "Kebap",
+            "Köfte",
+            "Pide"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50810,
+        "question": "'Höşmerim' tatlısı hangi bölgemize aittir?",
+        "answers": [
+            "Balıkesir / Marmara",
+            "Ege",
+            "Karadeniz",
+            "Doğu Anadolu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50811,
+        "question": "Hangi baharat safrandan sonra dünyanın en pahalı baharatlarından biridir?",
+        "answers": [
+            "Vanilya",
+            "Karabiber",
+            "Kekik",
+            "Nane"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50812,
+        "question": "İskender Kebap hangi ilimizin meşhur yemeğidir?",
+        "answers": [
+            "Bursa",
+            "İstanbul",
+            "Ankara",
+            "Konya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50813,
+        "question": "'Yuvalama' çorbası hangi ilimize özgüdür?",
+        "answers": [
+            "Gaziantep",
+            "Adana",
+            "Konya",
+            "Kayseri"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50814,
+        "question": "Hangi yemek Karadeniz bölgesine özgüdür?",
+        "answers": [
+            "Kuymak (Muhlama)",
+            "Alinazik",
+            "Testi Kebabı",
+            "Tandır"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50815,
+        "question": "'Büryan Kebabı' hangi ilimizle anılır?",
+        "answers": [
+            "Siirt",
+            "Bitlis",
+            "Diyarbakır",
+            "Mardin"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50816,
+        "question": "Boyoz hangi ilimizin kahvaltı klasiğidir?",
+        "answers": [
+            "İzmir",
+            "İstanbul",
+            "Bursa",
+            "Ankara"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50817,
+        "question": "Künefe hangi ilimizle özdeşleşmiştir?",
+        "answers": [
+            "Hatay",
+            "Gaziantep",
+            "Şanlıurfa",
+            "Adana"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50818,
+        "question": "Yaprak Sarma en güzel hangi yaprakla yapılır?",
+        "answers": [
+            "Asma Yaprağı",
+            "Lahana",
+            "Pazı",
+            "Dut Yaprağı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50819,
+        "question": "Hangi içecek Türk kültüründe 'Kırk yıl hatırı var' sözüyle bilinir?",
+        "answers": [
+            "Türk Kahvesi",
+            "Çay",
+            "Ayran",
+            "Şerbet"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50820,
+        "question": "'Perde Pilavı' hangi ilimize özgü bir lezzettir?",
+        "answers": [
+            "Siirt",
+            "Batman",
+            "Diyarbakır",
+            "Mardin"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50821,
+        "question": "Peynir Helvası hangi yöremize aittir?",
+        "answers": [
+            "Trakya (Tekirdağ/Çanakkale)",
+            "Ege",
+            "Karadeniz",
+            "Doğu Anadolu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50822,
+        "question": "'Mumbar Dolması' hangi sakatattan yapılır?",
+        "answers": [
+            "Bağırsak",
+            "Mide",
+            "Karaciğer",
+            "Akciğer"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50823,
+        "question": "Hangi ilimizde 'Etli Ekmek' meşhurdur?",
+        "answers": [
+            "Konya",
+            "Kayseri",
+            "Sivas",
+            "Kastamonu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50824,
+        "question": "Testi Kebabı hangi yöremizle özdeşleşmiştir?",
+        "answers": [
+            "Kapadokya (Yozgat/Nevşehir)",
+            "Ege",
+            "Akdeniz",
+            "Güneydoğu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50825,
+        "question": "Hangi tatlı 'Şambali' adıyla bilinir?",
+        "answers": [
+            "Şam Tatlısı",
+            "Revani",
+            "Kalburabastı",
+            "Tulumba"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50826,
+        "question": "Ezine Peyniri hangi ilimizde üretilir?",
+        "answers": [
+            "Çanakkale",
+            "Edirne",
+            "Balıkesir",
+            "Kırklareli"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50827,
+        "question": "'Ankara Tava' hangi etle yapılır?",
+        "answers": [
+            "Kuzu eti",
+            "Tavuk",
+            "Balık",
+            "Dana kıyma"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50828,
+        "question": "Mırra nedir?",
+        "answers": [
+            "Acı Kahve",
+            "Tatlı",
+            "Çorba",
+            "Şerbet"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50829,
+        "question": "Hangi ilimiz 'Kaymak' ile meşhurdur?",
+        "answers": [
+            "Afyonkarahisar",
+            "Eskişehir",
+            "Kütahya",
+            "Uşak"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50830,
+        "question": "'Cezerye' tatlısının ana maddesi nedir?",
+        "answers": [
+            "Havuç",
+            "İncir",
+            "Kayısı",
+            "Üzüm"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50831,
+        "question": "Pişmaniye hangi ilimizle özdeşleşmiştir?",
+        "answers": [
+            "Kocaeli (İzmit)",
+            "Bursa",
+            "Eskişehir",
+            "Sakarya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50832,
+        "question": "Hangi yemek bir 'Zeytinyağlı' çeşididir?",
+        "answers": [
+            "Yaprak Sarma",
+            "Karnıyarık",
+            "Mantı",
+            "İskender"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50833,
+        "question": "'Fıstıklı Kebap' hangi ilimizde meşhurdur?",
+        "answers": [
+            "Gaziantep",
+            "Adana",
+            "Şanlıurfa",
+            "Diyarbakır"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50834,
+        "question": "Hangi meyve 'Amasya' ile özdeşleşmiştir?",
+        "answers": [
+            "Elma",
+            "Armut",
+            "Kiraz",
+            "Şeftali"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50835,
+        "question": "Tarhana çorbasının ana malzemesi nedir?",
+        "answers": [
+            "Yoğurt ve un karışımı",
+            "Mercimek",
+            "Domates",
+            "Pirinç"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50836,
+        "question": "'Beyran' çorbası hangi ilimizin kahvaltı geleneğidir?",
+        "answers": [
+            "Gaziantep",
+            "Konya",
+            "Kayseri",
+            "Kahramanmaraş"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50837,
+        "question": "Hangi balık türü Boğaz'da 'Lüfer'in küçüğü olarak bilinir?",
+        "answers": [
+            "Çinekop",
+            "Palamut",
+            "Hamsi",
+            "Levrek"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50838,
+        "question": "Salgam Suyu hangi ilimizle özdeşleşmiştir?",
+        "answers": [
+            "Adana",
+            "Mersin",
+            "Hatay",
+            "Gaziantep"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50839,
+        "question": "Hangi tatlı 'Trileçe' Balkan kökenlidir?",
+        "answers": [
+            "Elbette Trileçe",
+            "Baklava",
+            "Künefe",
+            "Kadayıf"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50840,
+        "question": "Menemen yemeğinin adı hangi ilimizin ilçesinden gelir?",
+        "answers": [
+            "İzmir",
+            "Manisa",
+            "Balıkesir",
+            "Çanakkale"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50841,
+        "question": "Hangi köfte 'Islama Köfte' olarak bilinir?",
+        "answers": [
+            "Adapazarı",
+            "İnegöl",
+            "Tekirdağ",
+            "Akçaabat"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50842,
+        "question": "Hangi ilimizde 'Kuyu Kebabı' meşhurdur?",
+        "answers": [
+            "Kastamonu",
+            "Çorum",
+            "Sinop",
+            "Samsun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50843,
+        "question": "Maraş Dondurması'nın özelliği nedir?",
+        "answers": [
+            "Keçi sütü ve salep içermesi",
+            "Sıcak yenmesi",
+            "İçinde fıstık olması",
+            "Yoğurttan yapılması"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50844,
+        "question": "'Kabak Tatlısı' en çok hangi ilimizde yapılır (Tahinli)?",
+        "answers": [
+            "Sakarya / Aydın",
+            "Antalya",
+            "Rize",
+            "Erzurum"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50845,
+        "question": "Hangi yemek 'Analı Kızlı' olarak bilinir?",
+        "answers": [
+            "İçli köfteli bir çorba/yemek",
+            "Bir pilav çeşidi",
+            "Tatlı",
+            "Dolma çeşidi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50846,
+        "question": "Sumak hangi bitkiden elde edilir?",
+        "answers": [
+            "Sumak ağacı meyvesi",
+            "Biber",
+            "Domates",
+            "Patlıcan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50847,
+        "question": "Hangi çay türü Rize'de üretilir?",
+        "answers": [
+            "Siyah Çay",
+            "Yeşil Çay",
+            "Beyaz Çay",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50848,
+        "question": "'Keşkek' yemeği genellikle hangi organizasyonlarda yapılır?",
+        "answers": [
+            "Düğünler",
+            "Cenazeler",
+            "Doğum günleri",
+            "Mezuniyetler"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50849,
+        "question": "Hangi ilimizin 'Simidi' meşhurdur?",
+        "answers": [
+            "Ankara ve Samsun",
+            "İstanbul",
+            "İzmir",
+            "Bursa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50850,
+        "question": "'Sütlü Nuriye' tatlısı hangi tatlıya benzer?",
+        "answers": [
+            "Baklava",
+            "Künefe",
+            "Revani",
+            "Kazandibi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    }
+]

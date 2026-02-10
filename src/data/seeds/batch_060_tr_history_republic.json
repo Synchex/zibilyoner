@@ -1,0 +1,803 @@
+[
+    {
+        "id": 50501,
+        "question": "Hangi yılda kadınlara milletvekili seçme ve seçilme hakkı verilmiştir?",
+        "answers": [
+            "1934",
+            "1930",
+            "1923",
+            "1945"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50502,
+        "question": "Hatay Cumhuriyeti'nin ilk ve tek cumhurbaşkanı kimdir?",
+        "answers": [
+            "Tayfur Sökmen",
+            "Abdurrahman Melek",
+            "Şükrü Nayman",
+            "Rauf Orbay"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50503,
+        "question": "Türkiye'nin Kore Savaşı'na asker göndermesi hangi uluslararası örgüte üyeliğini sağlamıştır?",
+        "answers": [
+            "NATO",
+            "BM",
+            "AB",
+            "CENTO"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50504,
+        "question": "Saltanatın kaldırılmasıyla ne sona ermiştir?",
+        "answers": [
+            "Osmanlı Hanedanlığı'nın yönetimi",
+            "Halifelik",
+            "Cumhuriyet",
+            "TBMM"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50505,
+        "question": "Hangi antlaşma ile Hatay Türkiye'ye katılmıştır?",
+        "answers": [
+            "Ankara Antlaşması (Fransa ile 1939 süreci)",
+            "Lozan",
+            "Montrö",
+            "Kars"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50506,
+        "question": "Atatürk'ün 'Yurtta Sulh, Cihanda Sulh' sözü ne anlama gelir?",
+        "answers": [
+            "Yurtta Barış, Dünyada Barış",
+            "Savaş",
+            "Ekonomi",
+            "Eğitim"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50507,
+        "question": "Türkiye Cumhuriyeti'nin ikinci cumhurbaşkanı kimdir?",
+        "answers": [
+            "İsmet İnönü",
+            "Celal Bayar",
+            "Cemal Gürsel",
+            "Cevdet Sunay"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50508,
+        "question": "Köy Enstitüleri hangi yıl kurulmuştur?",
+        "answers": [
+            "1940",
+            "1923",
+            "1938",
+            "1950"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50509,
+        "question": "Çok partili hayata geçişin ilk genel seçimi hangi yıl yapılmıştır (kesintisiz dönem)?",
+        "answers": [
+            "1946",
+            "1950",
+            "1923",
+            "1960"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50510,
+        "question": "Demokrat Parti hangi yıl iktidara gelmiştir?",
+        "answers": [
+            "1950",
+            "1946",
+            "1960",
+            "1954"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50511,
+        "question": "1960 Darbesi'nden sonra idam edilen başbakan kimdir?",
+        "answers": [
+            "Adnan Menderes",
+            "Fatin Rüştü Zorlu",
+            "Hasan Polatkan",
+            "Celal Bayar"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50512,
+        "question": "Türk lirasından altı sıfır ne zaman atılmıştır?",
+        "answers": [
+            "2005",
+            "2001",
+            "2010",
+            "1999"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50513,
+        "question": "Türkiye'nin AB'ye adaylık statüsü kazandığı zirve hangisidir?",
+        "answers": [
+            "Helsinki Zirvesi (1999)",
+            "Kopenhag Zirvesi",
+            "Maastricht",
+            "Nice"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50514,
+        "question": "Nüfus Mübadelesi hangi ülke ile yapılmıştır?",
+        "answers": [
+            "Yunanistan",
+            "Bulgaristan",
+            "Suriye",
+            "Rusya"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50515,
+        "question": "Hangi başbakan 'Karaoğlan' lakabıyla bilinir?",
+        "answers": [
+            "Bülent Ecevit",
+            "Süleyman Demirel",
+            "Necmettin Erbakan",
+            "Alparslan Türkeş"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50516,
+        "question": "Kardak Krizi hangi yıl ve hangi ülkeyle yaşanmıştır?",
+        "answers": [
+            "1996 - Yunanistan",
+            "1974 - Yunanistan",
+            "1980 - Yunanistan",
+            "1999 - Yunanistan"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50517,
+        "question": "Türkiye'nin ilk sivil cumhurbaşkanı kimdir?",
+        "answers": [
+            "Celal Bayar",
+            "Turgut Özal",
+            "Süleyman Demirel",
+            "Abdullah Gül"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50518,
+        "question": "Hangi tarihte Ankara başkent olmuştur?",
+        "answers": [
+            "13 Ekim 1923",
+            "29 Ekim 1923",
+            "23 Nisan 1920",
+            "9 Eylül 1922"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50519,
+        "question": "Medeni Kanun hangi yıl kabul edilmiştir?",
+        "answers": [
+            "1926",
+            "1923",
+            "1930",
+            "1934"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50520,
+        "question": "Harf Devrimi hangi yıl yapılmıştır?",
+        "answers": [
+            "1928",
+            "1923",
+            "1925",
+            "1930"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50521,
+        "question": "Soyadı Kanunu ile Mustafa Kemal'e 'Atatürk' soyadını kim vermiştir?",
+        "answers": [
+            "TBMM",
+            "İsmet İnönü",
+            "Kendi almıştır",
+            "Halk oylaması"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50522,
+        "question": "Hangi olay 'Şeyh Sait İsyanı' nedeniyle çıkarılan kanundur?",
+        "answers": [
+            "Takrir-i Sükun",
+            "Teşkilat-ı Esasiye",
+            "Hıyanet-i Vataniye",
+            "Firariler Kanunu"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50523,
+        "question": "Türkiye'nin ilk kadın pilotu Sabiha Gökçen'in manevi babası kimdir?",
+        "answers": [
+            "Atatürk",
+            "İsmet İnönü",
+            "Kazım Karabekir",
+            "Fevzi Çakmak"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50524,
+        "question": "Hangi banka Cumhuriyet döneminin ilk özel bankasıdır?",
+        "answers": [
+            "İş Bankası",
+            "Ziraat Bankası",
+            "Sümerbank",
+            "Etibank"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50525,
+        "question": "Montrö Boğazlar Sözleşmesi hangi yıl imzalanmıştır?",
+        "answers": [
+            "1936",
+            "1923",
+            "1939",
+            "1945"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50526,
+        "question": "Gap Projesi (Güneydoğu Anadolu Projesi) hangi nehirler üzerindedir?",
+        "answers": [
+            "Fırat ve Dicle",
+            "Seyhan ve Ceyhan",
+            "Kızılırmak ve Yeşilırmak",
+            "Sakarya ve Porsuk"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "cografya",
+            "ekonomi"
+        ]
+    },
+    {
+        "id": 50527,
+        "question": "Türkiye'de televizyon yayınları ilk hangi kurumla başladı?",
+        "answers": [
+            "İTÜ TV",
+            "TRT",
+            "Star",
+            "Show TV"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50528,
+        "question": "Hangi yıl 'Susurluk Kazası' olmuştur?",
+        "answers": [
+            "1996",
+            "1990",
+            "1993",
+            "1999"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50529,
+        "question": "12 Eylül 1980 Darbesi'nin lideri kimdir?",
+        "answers": [
+            "Kenan Evren",
+            "Cemal Gürsel",
+            "Memduh Tağmaç",
+            "Tahsin Şahinkaya"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50530,
+        "question": "Hangi parti '9 Işık' doktrinini savunmuştur?",
+        "answers": [
+            "MHP",
+            "CHP",
+            "MSP",
+            "DYP"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "siyaset"
+        ]
+    },
+    {
+        "id": 50531,
+        "question": "Anıtkabir'in inşası kaç yılında tamamlanmıştır?",
+        "answers": [
+            "1953",
+            "1938",
+            "1945",
+            "1960"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50532,
+        "question": "Kıbrıs Barış Harekatı sırasındaki başbakan kimdir?",
+        "answers": [
+            "Bülent Ecevit",
+            "Süleyman Demirel",
+            "Necmettin Erbakan",
+            "Turgut Özal"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50533,
+        "question": "Hangi şairimiz İstiklal Marşı için yarışmaya katılmamıştır (başta)?",
+        "answers": [
+            "Mehmet Akif Ersoy",
+            "Kazım Karabekir",
+            "Hüseyin Suat",
+            "Muhittin Baha"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50534,
+        "question": "Halkevleri hangi yıl kurulmuştur?",
+        "answers": [
+            "1932",
+            "1923",
+            "1940",
+            "1950"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50535,
+        "question": "Varlık Vergisi hangi dönemde uygulanmıştır?",
+        "answers": [
+            "II. Dünya Savaşı yılları (1942)",
+            "I. Dünya Savaşı",
+            "Kurtuluş Savaşı",
+            "1980 Sonrası"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50536,
+        "question": "Türkiye'de ilk renkli televizyon yayını ne zaman başlamıştır?",
+        "answers": [
+            "1981 (Deneme) / 1984 (Düzenli)",
+            "1970",
+            "1990",
+            "1968"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50537,
+        "question": "Sertab Erener Eurovision'u hangi yıl kazanmıştır?",
+        "answers": [
+            "2003",
+            "2000",
+            "2004",
+            "1999"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50538,
+        "question": "Galatasaray UEFA Kupası'nı hangi takımı yenerek almıştır?",
+        "answers": [
+            "Arsenal",
+            "Real Madrid",
+            "Leeds United",
+            "Bologna"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50539,
+        "question": "Hangi yıl Türkiye'de büyük Marmara Depremi yaşanmıştır?",
+        "answers": [
+            "1999",
+            "1998",
+            "2001",
+            "1990"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50540,
+        "question": "Türkiye'nin 8. Cumhurbaşkanı Turgut Özal hangi yıl vefat etmiştir?",
+        "answers": [
+            "1993",
+            "1990",
+            "1989",
+            "1995"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50541,
+        "question": "Nuri Demirağ ne ile tanınır?",
+        "answers": [
+            "İlk uçak fabrikası ve demiryolları",
+            "Otomobil fabrikası",
+            "Baraj inşaatı",
+            "Gemi yapımı"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50542,
+        "question": "Vecihi Hürkuş kimdir?",
+        "answers": [
+            "Türk havacılık tarihinin önemli ismi",
+            "İlk başbakan",
+            "Ressam",
+            "Müzisyen"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50543,
+        "question": "Hangi darbe 'Post-Modern Darbe' olarak adlandırılır?",
+        "answers": [
+            "28 Şubat 1997",
+            "12 Eylül 1980",
+            "27 Mayıs 1960",
+            "15 Temmuz 2016"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50544,
+        "question": "15 Temmuz 2016 darbe girişiminde köprünün adı ne olarak değişmiştir?",
+        "answers": [
+            "15 Temmuz Şehitler Köprüsü",
+            "Fatih Sultan Mehmet Köprüsü",
+            "Yavuz Sultan Selim Köprüsü",
+            "Atatürk Köprüsü"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50545,
+        "question": "Ayasofya hangi yıl tekrar cami (kebir) statüsüne kavuşmuştur?",
+        "answers": [
+            "2020",
+            "2019",
+            "2021",
+            "2018"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50546,
+        "question": "Taksim Gezi Parkı olayları hangi yıl yaşanmıştır?",
+        "answers": [
+            "2013",
+            "2010",
+            "2015",
+            "2011"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50547,
+        "question": "Marmaray hangi yıl açılmıştır?",
+        "answers": [
+            "2013",
+            "2010",
+            "2015",
+            "2009"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50548,
+        "question": "Avrasya Tüneli hangi araçlar içindir?",
+        "answers": [
+            "Otomobiller ve minibüsler",
+            "Metro",
+            "Yaya",
+            "Bisiklet"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50549,
+        "question": "1915 Çanakkale Köprüsü hangi yıl açılmıştır?",
+        "answers": [
+            "2022",
+            "2020",
+            "2023",
+            "2021"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50550,
+        "question": "Cumhuriyetin kuruluşunun 50. yılında yapılan köprü hangisidir?",
+        "answers": [
+            "Boğaziçi Köprüsü (1. Köprü)",
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim",
+            "Galata"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    }
+]

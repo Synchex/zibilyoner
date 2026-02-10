@@ -1,0 +1,802 @@
+[
+    {
+        "id": 50301,
+        "question": "Osmanlı Devleti'nde ilk anayasa hangisidir?",
+        "answers": [
+            "Kanun-i Esasi",
+            "Teşkilat-ı Esasiye",
+            "Sened-i İttifak",
+            "Tanzimat Fermanı"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50302,
+        "question": "Türkiye Büyük Millet Meclisi (TBMM) ne zaman açıldı?",
+        "answers": [
+            "23 Nisan 1920",
+            "23 Nisan 1923",
+            "29 Ekim 1923",
+            "19 Mayıs 1919"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50303,
+        "question": "İstanbul hangi padişah tarafından kuşatılmış ama alınamamıştır?",
+        "answers": [
+            "Yıldırım Bayezid",
+            "II. Murat",
+            "Fatih Sultan Mehmet",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50304,
+        "question": "Lozan Antlaşması hangi ülkede imzalanmıştır?",
+        "answers": [
+            "İsviçre",
+            "Fransa",
+            "İngiltere",
+            "İtalya"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50305,
+        "question": "Yavuz Sultan Selim'in '8 yıla 80 yıllık iş sığdıran padişah' denmesinin sebebi nedir?",
+        "answers": [
+            "Çok yer fethetmesi",
+            "Hazineyi doldurması",
+            "Kısa sürede büyük işler yapması",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50306,
+        "question": "Çanakkale Savaşı'nda 275 kiloluk top mermisini kaldıran kahraman kimdir?",
+        "answers": [
+            "Seyit Onbaşı",
+            "Yahya Çavuş",
+            "Ezineli Yahya",
+            "Nezahat Onbaşı"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50307,
+        "question": "Osmanlı'nın son padişahı kimdir?",
+        "answers": [
+            "Vahdettin (VI. Mehmet)",
+            "Abdülmecid Efendi",
+            "II. Abdülhamit",
+            "V. Mehmet Reşat"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50308,
+        "question": "Hititlerin başkenti neresidir?",
+        "answers": [
+            "Hattuşaş",
+            "Gordion",
+            "Sardes",
+            "Tuşpa"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "ilk_cag"
+        ]
+    },
+    {
+        "id": 50309,
+        "question": "Kurtuluş Savaşı'nda kadın kahramanlarımızdan 'Şerife Bacı' nerede donarak şehit olmuştur?",
+        "answers": [
+            "İnebolu-Kastamonu Yolu",
+            "Sakarya Cephesi",
+            "İzmir Yolu",
+            "Erzurum"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50310,
+        "question": "Fatih Sultan Mehmet'in hocası kimdir?",
+        "answers": [
+            "Akşemseddin",
+            "Molla Gürani",
+            "Molla Hüsrev",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50311,
+        "question": "Osmanlı'da çocuklar okula başlarken yapılan törene ne denir?",
+        "answers": [
+            "Amin Alayı",
+            "Sünnet Alayı",
+            "Kılıç Alayı",
+            "Surre Alayı"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50312,
+        "question": "Türkiye'nin NATO'ya girmesinde etkili olan savaş hangisidir?",
+        "answers": [
+            "Kore Savaşı",
+            "Kıbrıs Savaşı",
+            "Kurtuluş Savaşı",
+            "Körfez Savaşı"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50313,
+        "question": "Osmanlı Devletinde 'Muhteşem Süleyman' olarak bilinen padişah kimdir?",
+        "answers": [
+            "I. Süleyman (Kanuni)",
+            "II. Süleyman",
+            "Çelebi Mehmet",
+            "I. Ahmet"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50314,
+        "question": "Tarihteki ilk Türk devleti hangisidir?",
+        "answers": [
+            "Asya Hun Devleti",
+            "Göktürkler",
+            "Uygurlar",
+            "Selçuklular"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "ilk_cag"
+        ]
+    },
+    {
+        "id": 50315,
+        "question": "Malazgirt Savaşı'nda Bizans imparatoru kimdi?",
+        "answers": [
+            "Romen Diyojen",
+            "Herakleios",
+            "Konstantin",
+            "Justinyen"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "selcuklu"
+        ]
+    },
+    {
+        "id": 50316,
+        "question": "Hangi beylik Osmanlı'ya çeyiz yoluyla katılmıştır?",
+        "answers": [
+            "Germiyanoğulları",
+            "Karesioğulları",
+            "Hamitoğulları",
+            "Aydınoğulları"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50317,
+        "question": "Balkan Savaşları sonucunda kaybettiğimiz topraklardan biri değildir?",
+        "answers": [
+            "Arnavutluk",
+            "Makedonya",
+            "Batı Trakya",
+            "İzmir"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50318,
+        "question": "Türkiye'nin ilk muhalefet partisi (Cumhuriyet dönemi çok partili hayatta) hangisidir? (Soru: Çok partili hayata geçiş denemeleri)",
+        "answers": [
+            "Terakkiperver Cumhuriyet Fırkası",
+            "Serbest Cumhuriyet Fırkası",
+            "Demokrat Parti",
+            "Milli Kalkınma Partisi"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50319,
+        "question": "Soyadı Kanunu kaç yılında kabul edilmiştir?",
+        "answers": [
+            "1934",
+            "1923",
+            "1928",
+            "1930"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50320,
+        "question": "Osmanlı'da 'Deli' lakaplı değil, 'Deliler' adlı askeri birliğin özelliği nedir?",
+        "answers": [
+            "Cesur ve korkusuz olmaları",
+            "Akıl hastası olmaları",
+            "Paralı asker olmaları",
+            "Denizci olmaları"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50321,
+        "question": "Hangi padişah döneminde Kıyafet Kanunu (Fes inkarı, şapka değil, Osmanlı modernleşmesi) II. Mahmut?",
+        "answers": [
+            "II. Mahmut",
+            "III. Selim",
+            "Abdülmecid",
+            "Vahdettin"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50322,
+        "question": "Atatürk'ün 'Benim naciz vücudum elbet bir gün toprak olacaktır' sözünü nerede söylemiştir?",
+        "answers": [
+            "İzmir Suikasti girişimi sonrası",
+            "Bursa Nutku",
+            "Onuncu Yıl Nutku",
+            "Meclis Açılışı"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50323,
+        "question": "Erzurum Kongresi'nde alınan en önemli karar nedir?",
+        "answers": [
+            "Milli sınırlar içinde vatan bir bütündür, bölünemez",
+            "Manda ve himaye kabul edilemez (Sivas'ta kesinleşti)",
+            "Meclis açılmalıdır",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50324,
+        "question": "Hangi padişah kendi heykelini yaptırmıştır? (Büst)",
+        "answers": [
+            "Abdülaziz",
+            "II. Mahmut",
+            "Abdülmecid",
+            "V. Murat"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50325,
+        "question": "Kadeş Antlaşması hangi iki devlet arasında imzalandı?",
+        "answers": [
+            "Hitit - Mısır",
+            "Hitit - Asur",
+            "Mısır - Sümer",
+            "Babil - Asur"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "ilk_cag"
+        ]
+    },
+    {
+        "id": 50326,
+        "question": "Osmanlı Devleti'nin Afrika'da kaybettiği son toprak parçası neresidir?",
+        "answers": [
+            "Trablusgarp",
+            "Mısır",
+            "Tunus",
+            "Cezayir"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50327,
+        "question": "Osmanlı'nın ilk resmi gazetesi hangisidir?",
+        "answers": [
+            "Takvim-i Vekayi",
+            "Ceride-i Havadis",
+            "Tercüman-ı Ahval",
+            "Tasvir-i Efkar"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50328,
+        "question": "Anadolu Selçuklu Devleti'nin başkenti neresiydi?",
+        "answers": [
+            "Konya",
+            "Sivas",
+            "Kayseri",
+            "Erzurum"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "selcuklu"
+        ]
+    },
+    {
+        "id": 50329,
+        "question": "Moğollarla yapılan Kösedağ Savaşı'nın sonucu nedir?",
+        "answers": [
+            "Anadolu Selçuklu dağılma sürecine girdi",
+            "Osmanlı kuruldu",
+            "Anadolu Türk birliği sağlandı",
+            "Bizans yıkıldı"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "selcuklu"
+        ]
+    },
+    {
+        "id": 50330,
+        "question": "Osmanlı'da 'Şeyhülislam' kimdir?",
+        "answers": [
+            "Dini konularda en yetkili kişi",
+            "Ordu komutanı",
+            "Maliye bakanı",
+            "Padişah yardımcısı"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50331,
+        "question": "Gedik Ahmet Paşa hangi padişahın komutanıdır?",
+        "answers": [
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim",
+            "Kanuni",
+            "II. Murat"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50332,
+        "question": "Lale Devri'nin ünlü şairi kimdir?",
+        "answers": [
+            "Nedim",
+            "Fuzuli",
+            "Baki",
+            "Nefi"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50333,
+        "question": "Hangi savaşta Mustafa Kemal 'Hattı müdafaa yoktur, sathı müdafaa vardır' demiştir?",
+        "answers": [
+            "Sakarya Meydan Muharebesi",
+            "Büyük Taarruz",
+            "Kütahya-Eskişehir",
+            "I. İnönü"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50334,
+        "question": "Osmanlı'da Enderun nedir?",
+        "answers": [
+            "Saray Okulu",
+            "Askeri Kışla",
+            "Hastane",
+            "Hapishane"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50335,
+        "question": "Kıbrıs hangi tarihte tamamen Türk kontrolünden çıkmıştır (İngiltere ilhakı)?",
+        "answers": [
+            "1914",
+            "1878",
+            "1923",
+            "1950"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50336,
+        "question": "İlk Türk kadın tiyatrocu kimdir?",
+        "answers": [
+            "Afife Jale",
+            "Cahide Sonku",
+            "Bedia Muvahhit",
+            "Adile Naşit"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50337,
+        "question": "Hangi padişah döneminde 31 Mart Vakası yaşanmıştır?",
+        "answers": [
+            "II. Abdülhamit",
+            "V. Mehmet Reşat",
+            "Vahdettin",
+            "Abdülaziz"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50338,
+        "question": "Türkiye'nin ilk yerli arabası Devrim neden seri üretime geçemedi?",
+        "answers": [
+            "Benzin koyulması unutulduğu/bittiği için (lansmanda)",
+            "Motoru bozulduğu için",
+            "Para yetmediği için",
+            "İzin verilmediği için"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50339,
+        "question": "Hangi devlet Türkiye'yi tanıyan ilk Müslüman devlettir?",
+        "answers": [
+            "Afganistan",
+            "Pakistan",
+            "İran",
+            "Mısır"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50340,
+        "question": "Osmanlı'da 'Vaka-i Vakvakiye' (Çınar Vakası) nedir?",
+        "answers": [
+            "Askerlerin devlet adamlarını çınar ağacına asması",
+            "Büyük İstanbul Yangını",
+            "Deprem",
+            "Sel Felaketi"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50341,
+        "question": "Mustafa Kemal'in 'Geldikleri gibi giderler' sözünü nerede söylemiştir?",
+        "answers": [
+            "İstanbul (İşgal donanmasını görünce)",
+            "Çanakkale",
+            "Samsun",
+            "İzmir"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50342,
+        "question": "Hangi antlaşma ile Boğazlar Komisyonu kaldırılmış ve yetki Türkiye'ye geçmiştir?",
+        "answers": [
+            "Montrö Boğazlar Sözleşmesi",
+            "Lozan",
+            "Sevr",
+            "Mudanya"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50343,
+        "question": "Osmanlı'da 'Devşirme Sistemi' ne demektir?",
+        "answers": [
+            "Hristiyan çocukların alınıp eğitilerek asker/yönetici yapılması",
+            "Vergi toplama sistemi",
+            "Toprak sistemi",
+            "Hukuk sistemi"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50344,
+        "question": "Hangi padişah döneminde Ayasofya camiye çevrilmiştir?",
+        "answers": [
+            "Fatih Sultan Mehmet",
+            "Kanuni",
+            "Yavuz",
+            "Orhan Gazi"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50345,
+        "question": "Sivas Kongresi'nin önemi nedir?",
+        "answers": [
+            "Ulusal bir kongredir",
+            "Manda reddedilmiştir",
+            "Temsil Heyeti tüm yurdu temsil eder hale gelmiştir",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50346,
+        "question": "Osmanlı'da 'İltizam' sistemi nedir?",
+        "answers": [
+            "Vergi toplama hakkının kiralanması",
+            "Asker alma sistemi",
+            "Toprak dağıtımı",
+            "Adalet sistemi"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50347,
+        "question": "İzmir İktisat Kongresi hangi yıl yapılmıştır?",
+        "answers": [
+            "1923",
+            "1924",
+            "1925",
+            "1930"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50348,
+        "question": "Menemen Olayı'nda şehit edilen teğmen kimdir?",
+        "answers": [
+            "Mustafa Fehmi Kubilay",
+            "Hasan Tahsin",
+            "Şahin Bey",
+            "Sütçü İmam"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50349,
+        "question": "Hangi padişah ' Veli' lakabıyla bilinir?",
+        "answers": [
+            "II. Bayezid",
+            "I. Ahmet",
+            "Genç Osman",
+            "IV. Murat"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50350,
+        "question": "Türk Tarih Kurumu ne zaman kurulmuştur?",
+        "answers": [
+            "1931",
+            "1932",
+            "1923",
+            "1938"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    }
+]

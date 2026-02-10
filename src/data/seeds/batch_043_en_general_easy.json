@@ -1,0 +1,802 @@
+[
+    {
+        "id": 40151,
+        "question": "What is the name of the wizard in Harry Potter?",
+        "answers": [
+            "Harry",
+            "Ron",
+            "Hagrid",
+            "Dumbledore"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture"
+        ]
+    },
+    {
+        "id": 40152,
+        "question": "What is the capital of Russia?",
+        "answers": [
+            "Moscow",
+            "Saint Petersburg",
+            "Kazan",
+            "Sochi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40153,
+        "question": "Which animal is pink and likes mud?",
+        "answers": [
+            "Pig",
+            "Cow",
+            "Sheep",
+            "Horse"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40154,
+        "question": "What is the opposite of 'happy'?",
+        "answers": [
+            "Sad",
+            "Glad",
+            "Joyful",
+            "Excited"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40155,
+        "question": "Which instrument do you beat with sticks?",
+        "answers": [
+            "Guitar",
+            "Piano",
+            "Flute",
+            "Drums"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40156,
+        "question": "What is the largest country by land area?",
+        "answers": [
+            "USA",
+            "China",
+            "Russia",
+            "Canada"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40157,
+        "question": "How many players in a soccer team?",
+        "answers": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sports"
+        ]
+    },
+    {
+        "id": 40158,
+        "question": "Which fruit is named after its color?",
+        "answers": [
+            "Apple",
+            "Orange",
+            "Banana",
+            "Grape"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40159,
+        "question": "What is the currency of the USA?",
+        "answers": [
+            "Euro",
+            "Yen",
+            "Dollar",
+            "Pound"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40160,
+        "question": "Who lives at 221B Baker Street?",
+        "answers": [
+            "Sherlock Holmes",
+            "Dracula",
+            "Frankenstein",
+            "Watson"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40161,
+        "question": "What color is a polar bear?",
+        "answers": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40162,
+        "question": "Which planet is known as the Blue Planet?",
+        "answers": [
+            "Mars",
+            "Venus",
+            "Neptune",
+            "Earth"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40163,
+        "question": "How many sides does a pentagon have?",
+        "answers": [
+            "4",
+            "5",
+            "6",
+            "8"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "math"
+        ]
+    },
+    {
+        "id": 40164,
+        "question": "What is the boiling point of water?",
+        "answers": [
+            "50°C",
+            "75°C",
+            "100°C",
+            "200°C"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40165,
+        "question": "Which country is famous for Pizza?",
+        "answers": [
+            "France",
+            "Spain",
+            "Italy",
+            "Greece"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40166,
+        "question": "What is the main ingredient in chocolate?",
+        "answers": [
+            "Sugar",
+            "Cocoa",
+            "Milk",
+            "Vanilla"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40167,
+        "question": "Who painted the Starry Night?",
+        "answers": [
+            "Monet",
+            "Van Gogh",
+            "Picasso",
+            "Dali"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40168,
+        "question": "What do you use to cut meat?",
+        "answers": [
+            "Spoon",
+            "Fork",
+            "Knife",
+            "Chopsticks"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40169,
+        "question": "Which animal is the King of the Beasts?",
+        "answers": [
+            "Tiger",
+            "Lion",
+            "Bear",
+            "Wolf"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40170,
+        "question": "What is the capital of Germany?",
+        "answers": [
+            "Munich",
+            "Berlin",
+            "Hamburg",
+            "Frankfurt"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40171,
+        "question": "How many strings does a violin have?",
+        "answers": [
+            "4",
+            "5",
+            "6",
+            "8"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40172,
+        "question": "Which of these is a gas?",
+        "answers": [
+            "Water",
+            "Ice",
+            "Steam",
+            "Snow"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40173,
+        "question": "What is the opposite of 'dark'?",
+        "answers": [
+            "Light",
+            "Night",
+            "Black",
+            "Grey"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40174,
+        "question": "Which bird is wise?",
+        "answers": [
+            "Owl",
+            "Eagle",
+            "Hawk",
+            "Crow"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40175,
+        "question": "What do you wear on your hands?",
+        "answers": [
+            "Socks",
+            "Gloves",
+            "Hat",
+            "Scarf"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40176,
+        "question": "Which month is Halloween in?",
+        "answers": [
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40177,
+        "question": "What is the largest ocean animal?",
+        "answers": [
+            "Shark",
+            "Whale",
+            "Dolphin",
+            "Seal"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40178,
+        "question": "How many cents in a dollar?",
+        "answers": [
+            "10",
+            "50",
+            "100",
+            "1000"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "math"
+        ]
+    },
+    {
+        "id": 40179,
+        "question": "Which planet is the Red Planet?",
+        "answers": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40180,
+        "question": "Who is the main character in The Lion King?",
+        "answers": [
+            "Mufasa",
+            "Simba",
+            "Scar",
+            "Timon"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture"
+        ]
+    },
+    {
+        "id": 40181,
+        "question": "What is the capital of Canada?",
+        "answers": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40182,
+        "question": "Which animal has a hump?",
+        "answers": [
+            "Horse",
+            "Camel",
+            "Cow",
+            "Donkey"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40183,
+        "question": "What color is an emerald?",
+        "answers": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40184,
+        "question": "How many legs does a dog have?",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40185,
+        "question": "Which superhero flies and has a cape?",
+        "answers": [
+            "Batman",
+            "Superman",
+            "Spiderman",
+            "Iron Man"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture"
+        ]
+    },
+    {
+        "id": 40186,
+        "question": "What is the sweet liquid made by bees?",
+        "answers": [
+            "Milk",
+            "Honey",
+            "Juice",
+            "Water"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40187,
+        "question": "Which shape looks like an egg?",
+        "answers": [
+            "Circle",
+            "Oval",
+            "Square",
+            "Triangle"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40188,
+        "question": "What is the capital of Egypt?",
+        "answers": [
+            "Alexandria",
+            "Luxor",
+            "Cairo",
+            "Giza"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40189,
+        "question": "Which bird can talk?",
+        "answers": [
+            "Sparrow",
+            "Parrot",
+            "Eagle",
+            "Owl"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40190,
+        "question": "What is the fastest mode of transport?",
+        "answers": [
+            "Car",
+            "Train",
+            "Plane",
+            "Ship"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40191,
+        "question": "Which organ helps you think?",
+        "answers": [
+            "Heart",
+            "Lungs",
+            "Brain",
+            "Stomach"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40192,
+        "question": "What do you use to unlock a door?",
+        "answers": [
+            "Hammer",
+            "Key",
+            "Screwdriver",
+            "Nail"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40193,
+        "question": "Which animal sleeps standing up?",
+        "answers": [
+            "Dog",
+            "Cat",
+            "Horse",
+            "Mouse"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40194,
+        "question": "What is the main language of Germany?",
+        "answers": [
+            "English",
+            "French",
+            "German",
+            "Italian"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40195,
+        "question": "Which of these is a flower?",
+        "answers": [
+            "Rose",
+            "Apple",
+            "Carrot",
+            "Grass"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "nature"
+        ]
+    },
+    {
+        "id": 40196,
+        "question": "What color is the moon at night?",
+        "answers": [
+            "Green",
+            "Blue",
+            "White",
+            "Red"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40197,
+        "question": "Who is the villain in Peter Pan?",
+        "answers": [
+            "Captain Hook",
+            "Jafar",
+            "Scar",
+            "Ursula"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture"
+        ]
+    },
+    {
+        "id": 40198,
+        "question": "What is the capital of Australia?",
+        "answers": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40199,
+        "question": "How many days in leap year?",
+        "answers": [
+            "364",
+            "365",
+            "366",
+            "367"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40200,
+        "question": "Which animal has black and white stripes?",
+        "answers": [
+            "Tiger",
+            "Lion",
+            "Zebra",
+            "Horse"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    }
+]

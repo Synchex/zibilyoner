@@ -1,0 +1,803 @@
+[
+    {
+        "id": 50851,
+        "question": "Hangi hayvan 'Ormanların Kralı' olarak bilinir?",
+        "answers": [
+            "Aslan",
+            "Kaplan",
+            "Ayı",
+            "Kurt"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50852,
+        "question": "Dünyanın en hızlı koşan hayvanı hangisidir?",
+        "answers": [
+            "Çita",
+            "Aslan",
+            "Gazel",
+            "Leopar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50853,
+        "question": "Van Kedisi'nin en belirgin özelliği nedir?",
+        "answers": [
+            "Gözlerinin farklı renkte olması",
+            "Çok uzun olması",
+            "Sürekli uyuması",
+            "Tüysüz olması"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50854,
+        "question": "Hangi kuş türü taklit yeteneğiyle bilinir?",
+        "answers": [
+            "Papağan",
+            "Kartal",
+            "Serçe",
+            "Karga"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50855,
+        "question": "Hangi hayvan kış uykusuna yatar?",
+        "answers": [
+            "Ayı",
+            "Kurt",
+            "Tavşan",
+            "Geyik"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50856,
+        "question": "Kangalları ile meşhur ilimiz hangisidir?",
+        "answers": [
+            "Sivas",
+            "Kayseri",
+            "Konya",
+            "Ankara"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50857,
+        "question": "Hangi hayvan memelidir ama uçar?",
+        "answers": [
+            "Yarasa",
+            "Kuş",
+            "Sinek",
+            "Arı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50858,
+        "question": "Denizatı nasıl ürer?",
+        "answers": [
+            "Erkekleri doğum yapar",
+            "Dişileri yumurtlar",
+            "Bölünerek ürer",
+            "Tomurcuklanır"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50859,
+        "question": "Caretta Caretta kaplumbağaları yumurtlamak için nereye gelir?",
+        "answers": [
+            "İztuzu Plajı (Dalyan)",
+            "Patara",
+            "Olimpos",
+            "Alanya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50860,
+        "question": "Hangi bitki çayı sakinleştirici etkisiyle bilinir?",
+        "answers": [
+            "Papatya",
+            "Siyah Çay",
+            "Kuşburnu",
+            "Kekik"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50861,
+        "question": "Türkiye'de 'Kelaynak' kuşları nerede koruma altındadır?",
+        "answers": [
+            "Birecik (Şanlıurfa)",
+            "Manyas",
+            "Sultan Sazlığı",
+            "İğneada"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50862,
+        "question": "Hangi ağaç türü Türkiye'de en yaygındır?",
+        "answers": [
+            "Meşe",
+            "Çam",
+            "Kayın",
+            "Kavak"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50863,
+        "question": "Arıların ürettiği tatlı besin nedir?",
+        "answers": [
+            "Bal",
+            "Reçel",
+            "Pekmez",
+            "Şeker"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50864,
+        "question": "Hangi hayvan 'Çöl Gemisi' olarak adlandırılır?",
+        "answers": [
+            "Deve",
+            "At",
+            "Eşek",
+            "Fil"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50865,
+        "question": "Panda hangi ülkenin sembolüdür?",
+        "answers": [
+            "Çin",
+            "Japonya",
+            "Hindistan",
+            "Avustralya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50866,
+        "question": "Hangi hayvan 'Bukalemun' gibi renk değiştirir?",
+        "answers": [
+            "Ahtapot",
+            "Yılan",
+            "Kaplumbağa",
+            "Kurbağa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50867,
+        "question": "Dünyanın en büyük okyanusu hangisidir?",
+        "answers": [
+            "Büyük Okyanus (Pasifik)",
+            "Atlas Okyanusu",
+            "Hint Okyanusu",
+            "Arktik Okyanusu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50868,
+        "question": "Hangi bitki 'C vitamini' deposudur?",
+        "answers": [
+            "Portakal",
+            "Muz",
+            "Elma",
+            "Armut"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50869,
+        "question": "Tuz Gölü hangi bölgemizdedir?",
+        "answers": [
+            "İç Anadolu",
+            "Ege",
+            "Akdeniz",
+            "Marmara"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50870,
+        "question": "Hangi hayvanın 8 kolu vardır?",
+        "answers": [
+            "Ahtapot",
+            "Yengeç",
+            "Istakoz",
+            "Denizanası"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50871,
+        "question": "Hangi kuş uçamaz?",
+        "answers": [
+            "Penguen",
+            "Karga",
+            "Martı",
+            "Leylek"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50872,
+        "question": "Zürafaların en belirgin özelliği nedir?",
+        "answers": [
+            "Uzun boyunlu olması",
+            "Hızlı koşması",
+            "Yüzmesi",
+            "Uçması"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50873,
+        "question": "Hangi hayvanın hafızası çok güçlüdür?",
+        "answers": [
+            "Fil",
+            "Balık",
+            "Kedi",
+            "Köpek"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50874,
+        "question": "Hangi çiçek 'Lale Devri'ne adını vermiştir?",
+        "answers": [
+            "Lale",
+            "Gül",
+            "Karanfil",
+            "Menekşe"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "tarih",
+            "doga"
+        ]
+    },
+    {
+        "id": 50875,
+        "question": "Karadeniz'de en çok avlanan balık hangisidir?",
+        "answers": [
+            "Hamsi",
+            "İstavrit",
+            "Palamut",
+            "Mezgit"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50876,
+        "question": "Hangi hayvanın yavrusu annesinin kesesinde büyür?",
+        "answers": [
+            "Kanguru",
+            "Ayı",
+            "Aslan",
+            "Maymun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50877,
+        "question": "Anzer Balı hangi ilimizin yaylalarında üretilir?",
+        "answers": [
+            "Rize",
+            "Artvin",
+            "Trabzon",
+            "Ordu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50878,
+        "question": "Hangi ağaç türü 'Palamut' meyvesi verir?",
+        "answers": [
+            "Meşe",
+            "Çam",
+            "Kavak",
+            "Söğüt"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50879,
+        "question": "Hangi hayvanın dişleri ömür boyu uzar?",
+        "answers": [
+            "Kemirgenler (Tavşan/Fare)",
+            "Kedi",
+            "Köpek",
+            "At"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50880,
+        "question": "Koalalar en çok hangi ağacın yaprağını yer?",
+        "answers": [
+            "Okaliptüs",
+            "Çam",
+            "Meşe",
+            "Bambu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50881,
+        "question": "Hangi ilimizde 'Sığla Ağacı' (Günlük Ağacı) ormanları bulunur?",
+        "answers": [
+            "Muğla (Köyceğiz)",
+            "Antalya",
+            "İzmir",
+            "Bursa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50882,
+        "question": "Hangi kuş türü 'Ebabil' sürekli uçar?",
+        "answers": [
+            "Ebabil",
+            "Serçe",
+            "Karga",
+            "Martı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50883,
+        "question": "Hangi balık türü elektrik üretir?",
+        "answers": [
+            "Elektrikli Yılan Balığı",
+            "Levrek",
+            "Çipura",
+            "Sazan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50884,
+        "question": "Hangi böcek bal yapar?",
+        "answers": [
+            "Arı",
+            "Kelebek",
+            "Sinek",
+            "Karınca"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50885,
+        "question": "Dünyanın en zehirli yılanı hangisi olabilir?",
+        "answers": [
+            "Kral Kobra / Taipan",
+            "Piton",
+            "Anakonda",
+            "Engerek"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50886,
+        "question": "Hangi hayvan 'Orman Mühendisi' olarak bilinir?",
+        "answers": [
+            "Kunduz",
+            "Sincap",
+            "Ayı",
+            "Kurt"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50887,
+        "question": "Hangi çiçek Japonya'nın sembolüdür (Sakura)?",
+        "answers": [
+            "Kiraz Çiçeği",
+            "Gül",
+            "Lale",
+            "Karanfil"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50888,
+        "question": "Hangi ağacın yaprakları iğne şeklindedir?",
+        "answers": [
+            "Çam",
+            "Çınar",
+            "Kavak",
+            "Meşe"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50889,
+        "question": "Hangi hayvanın boynuzları her yıl düşüp yeniden çıkar?",
+        "answers": [
+            "Geyik",
+            "Keçi",
+            "İnek",
+            "Koyun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50890,
+        "question": "'Yayla Muz'u olarak bilinen meyve nedir?",
+        "answers": [
+            "Işkın",
+            "Muz",
+            "Elma",
+            "Armut"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50891,
+        "question": "Hangi hayvan hem karada hem suda yaşar?",
+        "answers": [
+            "Kurbağa",
+            "Balık",
+            "Kuş",
+            "Kedi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50892,
+        "question": "Hangi bitki çayı uyku açar?",
+        "answers": [
+            "Yeşil Çay / Siyah Çay",
+            "Papatya",
+            "Melisa",
+            "Ihlamur"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50893,
+        "question": "Hangi hayvanın kanı mavidir?",
+        "answers": [
+            "Ahtapot",
+            "İnsan",
+            "Köpek",
+            "Kuş"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50894,
+        "question": "Hangi meyve C vitamini açısından en zengindir?",
+        "answers": [
+            "Kuşburnu",
+            "Portakal",
+            "Limon",
+            "Elma"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50895,
+        "question": "Türkiye'de 'Tiftik Keçisi' (Ankara Keçisi) nerede meşhurdur?",
+        "answers": [
+            "Ankara",
+            "Konya",
+            "İzmir",
+            "Antalya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50896,
+        "question": "Hangi hayvan 'İnatçı' olmasıyla bilinir?",
+        "answers": [
+            "Keçi",
+            "Koyun",
+            "İnek",
+            "At"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50897,
+        "question": "Hangi çiçek 'Hüzün' sembolüdür (genelde)?",
+        "answers": [
+            "Ters Lale (Ağlayan Gelin)",
+            "Gül",
+            "Papatya",
+            "Karanfil"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50898,
+        "question": "Hangi hayvanın yumurtası en büyüktür?",
+        "answers": [
+            "Devekuşu",
+            "Tavuk",
+            "Kaz",
+            "Hindi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50899,
+        "question": "Hangi balık 'Vatoz' gibi yassıdır?",
+        "answers": [
+            "Kalkan",
+            "Hamsi",
+            "Levrek",
+            "Somon"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50900,
+        "question": "Hangi hayvan 'Sadık Dost' olarak bilinir?",
+        "answers": [
+            "Köpek",
+            "Kedi",
+            "Kuş",
+            "Balık"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    }
+]

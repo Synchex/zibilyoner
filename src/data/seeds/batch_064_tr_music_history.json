@@ -1,0 +1,808 @@
+[
+    {
+        "id": 50701,
+        "question": "Hangi sanatçı 'Sanat Güneşi' olarak bilinir?",
+        "answers": [
+            "Zeki Müren",
+            "Bülent Ersoy",
+            "Müzeyyen Senar",
+            "Barış Manço"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50702,
+        "question": "'Üsküdar'a Gider İken' şarkısının diğer adı nedir?",
+        "answers": [
+            "Katibim",
+            "Ada Sahillerinde",
+            "Beyoğlu'nda Gezersin",
+            "Çeçen Kızı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50703,
+        "question": "Eurovision Şarkı Yarışması'na Türkiye ilk kez hangi yıl katıldı?",
+        "answers": [
+            "1975",
+            "1980",
+            "1990",
+            "2003"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50704,
+        "question": "Barış Manço'nun kurduğu müzik grubu hangisidir?",
+        "answers": [
+            "Kurtalan Ekspres",
+            "Moğollar",
+            "Üç Hürel",
+            "Mavi Işıklar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50705,
+        "question": "Hangi enstrüman Türk Halk Müziği'nin temel çalgısıdır?",
+        "answers": [
+            "Bağlama",
+            "Gitar",
+            "Piyano",
+            "Keman"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50706,
+        "question": "'Minik Serçe' lakaplı sanatçımız kimdir?",
+        "answers": [
+            "Sezen Aksu",
+            "Ajda Pekkan",
+            "Nilüfer",
+            "Nükhet Duru"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50707,
+        "question": "Cem Karaca hangi şarkısıyla bilinir?",
+        "answers": [
+            "Tamirci Çırağı",
+            "Gülpembe",
+            "Sarı Çizmeli Mehmet Ağa",
+            "Dönence"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50708,
+        "question": "Türk Beşleri arasında yer alan besteci kimdir?",
+        "answers": [
+            "Adnan Saygun",
+            "Fazıl Say",
+            "İdil Biret",
+            "Suna Kan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50709,
+        "question": "'Diva' lakaplı Türk sanat müziği sanatçısı kimdir?",
+        "answers": [
+            "Bülent Ersoy",
+            "Emel Sayın",
+            "Muazzez Abacı",
+            "Gönül Yazar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50710,
+        "question": "Hangi şarkı Tarkan'a aittir?",
+        "answers": [
+            "Şımarık",
+            "Aya Benzer",
+            "Araba",
+            "Onursuz Olmasın Aşk"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50711,
+        "question": "'Sarı Gelin' türküsü hangi yöreye aittir?",
+        "answers": [
+            "Erzurum",
+            "İzmir",
+            "Trabzon",
+            "Şanlıurfa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50712,
+        "question": "Neşet Ertaş hangi enstrümanı çalardı?",
+        "answers": [
+            "Bağlama",
+            "Ud",
+            "Kanun",
+            "Ney"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50713,
+        "question": "'Mihriban' şiirinin yazarı ve bestekarı kimlerdir?",
+        "answers": [
+            "Abdurrahim Karakoç - Musa Eroğlu",
+            "Aşık Veysel - Neşet Ertaş",
+            "Nazım Hikmet - Cem Karaca",
+            "Orhan Veli - Fazıl Say"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik",
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50714,
+        "question": "Türkiye'de rap müziğin öncülerinden biri kimdir?",
+        "answers": [
+            "Ceza",
+            "Tarkan",
+            "Murat Boz",
+            "Kenan Doğulu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50715,
+        "question": "Klasik Batı Müziği'nde 'Dört Mevsim' konçertosu kime aittir?",
+        "answers": [
+            "Vivaldi",
+            "Mozart",
+            "Beethoven",
+            "Bach"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50716,
+        "question": "Hangi enstrüman üflemelidir?",
+        "answers": [
+            "Ney",
+            "Darbuka",
+            "Kemençe",
+            "Tambur"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50717,
+        "question": "'Bodrum Bodrum' şarkısı hangi gruba aittir?",
+        "answers": [
+            "MFÖ",
+            "Athena",
+            "Duman",
+            "Mor ve Ötesi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50718,
+        "question": "Müzeyyen Senar hangi müzik türünün efsanesidir?",
+        "answers": [
+            "Türk Sanat Müziği",
+            "Türk Halk Müziği",
+            "Pop",
+            "Rock"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50719,
+        "question": "Hangi şarkıcı 'Süperstar' lakabıyla bilinir?",
+        "answers": [
+            "Ajda Pekkan",
+            "Sezen Aksu",
+            "Nilüfer",
+            "Zerrin Özer"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50720,
+        "question": "Aşık Veysel'in en bilinen türküsü hangisidir?",
+        "answers": [
+            "Uzun İnce Bir Yoldayım",
+            "Gesi Bağları",
+            "Mihriban",
+            "Zahidem"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50721,
+        "question": "İstiklal Marşı'nın bestecisi kimdir?",
+        "answers": [
+            "Osman Zeki Üngör",
+            "Mehmet Akif Ersoy",
+            "Ali Rıfat Çağatay",
+            "Cemal Reşit Rey"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik",
+            "tarih"
+        ]
+    },
+    {
+        "id": 50722,
+        "question": "Türk Marşı'nı besteleyen ünlü klasik müzik bestecisi kimdir?",
+        "answers": [
+            "Mozart",
+            "Beethoven",
+            "Bach",
+            "Chopin"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50723,
+        "question": "Kemençe hangi bölgemizin simgesidir?",
+        "answers": [
+            "Karadeniz",
+            "Ege",
+            "Akdeniz",
+            "Doğu Anadolu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50724,
+        "question": "Hangi sanatçı 'Ceviz Oynamaya mı Geldin' türküsünü yorumlamıştır?",
+        "answers": [
+            "Müslüm Gürses",
+            "Ahmet Kaya",
+            "İbrahim Tatlıses",
+            "Ferdi Tayfur"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50725,
+        "question": "Eurovision'da 'For Real' şarkısıyla 2. olan grup hangisidir?",
+        "answers": [
+            "Athena",
+            "Manga",
+            "Mor ve Ötesi",
+            "Yüksek Sadakat"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50726,
+        "question": "Batı müziğinde notalar kaç çizgi üzerine yazılır (Dizek)?",
+        "answers": [
+            "5",
+            "4",
+            "6",
+            "7"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50727,
+        "question": "Hangi enstrüman yaylı çalgılar grubundadır?",
+        "answers": [
+            "Keman",
+            "Gitar",
+            "Piyano",
+            "Flüt"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50728,
+        "question": "'Ele Güne Karşı' şarkısı hangi gruba aittir?",
+        "answers": [
+            "MFÖ",
+            "Yeni Türkü",
+            "Ezginin Günlüğü",
+            "Bulutsuzluk Özlemi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50729,
+        "question": "Fazıl Say hangi enstrümanı çalar?",
+        "answers": [
+            "Piyano",
+            "Keman",
+            "Gitar",
+            "Viyolonsel"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50730,
+        "question": "Hangi şarkıcı 'İmparator' lakabıyla bilinir?",
+        "answers": [
+            "İbrahim Tatlıses",
+            "Müslüm Gürses",
+            "Orhan Gencebay",
+            "Ferdi Tayfur"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50731,
+        "question": "'Arkası Gelmez Dertlerimin' şarkısını kim söylemiştir?",
+        "answers": [
+            "Ferdi Özbeğen",
+            "Zeki Müren",
+            "Müzeyyen Senar",
+            "Safiye Ayla"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50732,
+        "question": "Hangi enstrüman vurmalı çalgıdır?",
+        "answers": [
+            "Davul",
+            "Keman",
+            "Zurna",
+            "Ud"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50733,
+        "question": "Beethoven'ın 9. Senfonisi'nin son bölümü ne olarak bilinir?",
+        "answers": [
+            "Neşeye Övgü (Ode to Joy)",
+            "Ay Işığı Sonatı",
+            "Kader Senfonisi",
+            "Eroica"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50734,
+        "question": "Hangi Türk rock grubu 'Cambaz' şarkısını söylemiştir?",
+        "answers": [
+            "Mor ve Ötesi",
+            "Manga",
+            "Duman",
+            "Kurban"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50735,
+        "question": "Ud hangi tür müzikte sıkça kullanılır?",
+        "answers": [
+            "Türk Sanat Müziği",
+            "Rock",
+            "Caz",
+            "Blues"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50736,
+        "question": "'Lambaya Püf De' şarkısı kime aittir?",
+        "answers": [
+            "Barış Manço",
+            "Erkin Koray",
+            "Cem Karaca",
+            "Moğollar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50737,
+        "question": "Hangi şarkıcı 'Müslüm Baba' olarak bilinir?",
+        "answers": [
+            "Müslüm Gürses",
+            "Orhan Gencebay",
+            "Ferdi Tayfur",
+            "Hakkı Bulut"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50738,
+        "question": "Mehter marşlarında kullanılan en büyük davula ne denir?",
+        "answers": [
+            "Kös",
+            "Nakkare",
+            "Davul",
+            "Zil"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50739,
+        "question": "Hangi sanatçı 'Popun Kraliçesi' olarak bilinir (Dünyada)?",
+        "answers": [
+            "Madonna",
+            "Beyonce",
+            "Lady Gaga",
+            "Rihanna"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50740,
+        "question": "Türkiye'nin ilk kadın opera sanatçısı kimdir?",
+        "answers": [
+            "Semiha Berksoy",
+            "Leyla Gencer",
+            "Suna Korad",
+            "Ayhan Aydan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik",
+            "sanat"
+        ]
+    },
+    {
+        "id": 50741,
+        "question": "Hangi enstrümanın tuşları siyah ve beyazdır?",
+        "answers": [
+            "Piyano",
+            "Gitar",
+            "Keman",
+            "Arp"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50742,
+        "question": "'Aşkın Kanunu' şarkısını yeniden popüler yapan film hangisi olabilir?",
+        "answers": [
+            "Neredesin Firuze",
+            "Eşkıya",
+            "Vizontele",
+            "Her Şey Çok Güzel Olacak"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik",
+            "sinema"
+        ]
+    },
+    {
+        "id": 50743,
+        "question": "Hangi grup 'Resimdeki Gözyaşları' şarkısını Cem Karaca ile söylemiştir?",
+        "answers": [
+            "Apaşlar",
+            "Moğollar",
+            "Kurtalan Ekspres",
+            "Dervişan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50744,
+        "question": "Zülfü Livaneli hangi enstrümanı ile özdeşleşmiştir?",
+        "answers": [
+            "Bağlama",
+            "Gitar",
+            "Piyano",
+            "Keman"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50745,
+        "question": "Hangi şarkı Eurovision'da Türkiye'ye birincilik getirdi?",
+        "answers": [
+            "Everyway That I Can",
+            "Dinle",
+            "Seninle Bir Dakika",
+            "Petr'oil"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50746,
+        "question": "'Yolcu Yolunda Gerek' şarkısı kime aittir?",
+        "answers": [
+            "Nilüfer",
+            "Sezen Aksu",
+            "Ajda Pekkan",
+            "Nükhet Duru"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50747,
+        "question": "Hangi efsanevi rock grubu 'Freddie Mercury' solistliğindeydi?",
+        "answers": [
+            "Queen",
+            "Rolling Stones",
+            "Beatles",
+            "Pink Floyd"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50748,
+        "question": "İstanbul Devlet Opera ve Balesi nerede sahne alır (tarihi bina)?",
+        "answers": [
+            "Atatürk Kültür Merkezi (AKM)",
+            "Cemal Reşit Rey",
+            "Harbiye Açık Hava",
+            "Lütfi Kırdar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sanat",
+            "muzik"
+        ]
+    },
+    {
+        "id": 50749,
+        "question": "'Şinanay' şarkısının sözleri kime aittir?",
+        "answers": [
+            "Melih Cevdet Anday",
+            "Orhan Veli",
+            "Nazım Hikmet",
+            "Cemal Süreya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik",
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50750,
+        "question": "Hangi müzik türü ABD'nin New Orleans şehrinden dünyaya yayılmıştır?",
+        "answers": [
+            "Caz",
+            "Rock",
+            "Pop",
+            "Tekno"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    }
+]

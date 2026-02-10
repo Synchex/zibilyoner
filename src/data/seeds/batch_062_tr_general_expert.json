@@ -1,0 +1,802 @@
+[
+    {
+        "id": 50601,
+        "question": "Hangi filozof 'Düşünüyorum, öyleyse varım' (Cogito, ergo sum) sözünün sahibidir?",
+        "answers": [
+            "Descartes",
+            "Sokrates",
+            "Platon",
+            "Aristoteles"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "felsefe"
+        ]
+    },
+    {
+        "id": 50602,
+        "question": "Dünyanın bilinen en eski destanı hangisidir?",
+        "answers": [
+            "Gılgamış Destanı",
+            "İlyada",
+            "Odysseia",
+            "Mahabharata"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50603,
+        "question": "Hangi ressam 'Yıldızlı Gece' (Starry Night) tablosunu yapmıştır?",
+        "answers": [
+            "Van Gogh",
+            "Picasso",
+            "Da Vinci",
+            "Monet"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 50604,
+        "question": "Hangi ülke 2011 yılında bağımsızlığını ilan ederek dünyanın en yeni ülkesi olmuştur?",
+        "answers": [
+            "Güney Sudan",
+            "Kosova",
+            "Doğu Timor",
+            "Karadağ"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50605,
+        "question": "Hangi elementin simgesi 'Au'dur ve Latince 'Aurum'dan gelir?",
+        "answers": [
+            "Altın",
+            "Gümüş",
+            "Bakır",
+            "Alüminyum"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50606,
+        "question": "Hangi müzik aleti 'Stradivarius' markasıyla efsaneleşmiştir?",
+        "answers": [
+            "Keman",
+            "Piyano",
+            "Gitar",
+            "Flüt"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50607,
+        "question": "Hangi yazar 'Suç ve Ceza' romanının yazarıdır?",
+        "answers": [
+            "Dostoyevski",
+            "Tolstoy",
+            "Gogol",
+            "Çehov"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50608,
+        "question": "Bir ışık yılı yaklaşık kaç kilometredir?",
+        "answers": [
+            "9.5 trilyon km",
+            "1 milyon km",
+            "150 milyon km",
+            "1 milyar km"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50609,
+        "question": "Hangi savaşta Napolyon Bonapart son yenilgisini almıştır?",
+        "answers": [
+            "Waterloo",
+            "Austerlitz",
+            "Leipzig",
+            "Borodino"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50610,
+        "question": "Hangi organ 'Safra' sıvısını üretir?",
+        "answers": [
+            "Karaciğer",
+            "Safra Kesesi",
+            "Mide",
+            "Pankreas"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50611,
+        "question": "Hangi ülke 'Bin Göller Ülkesi' olarak bilinir?",
+        "answers": [
+            "Finlandiya",
+            "İsveç",
+            "Kanada",
+            "Norveç"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50612,
+        "question": "Hangi mitolojik karakter gücünü saçlarından alırdı?",
+        "answers": [
+            "Samson",
+            "Herkül",
+            "Aşil",
+            "Odysseus"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "mitoloji"
+        ]
+    },
+    {
+        "id": 50613,
+        "question": "DNA'daki dört bazdan biri değildir?",
+        "answers": [
+            "Urasil (RNA'da bulunur)",
+            "Adenin",
+            "Guanin",
+            "Sitozin"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50614,
+        "question": "Hangi gezegen Güneş Sistemi'nde yan yatmış varil gibi döner?",
+        "answers": [
+            "Uranüs",
+            "Neptün",
+            "Satürn",
+            "Venüs"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50615,
+        "question": "Hangi sanat akımı Salvador Dali ile özdeşleşmiştir?",
+        "answers": [
+            "Sürrealizm",
+            "Kübizm",
+            "Empresyonizm",
+            "Dadaizm"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 50616,
+        "question": "Hangi ülke hem Asya hem de Okyanusya kıtasında sayılabilir (coğrafi tartışma)?",
+        "answers": [
+            "Endonezya",
+            "Filipinler",
+            "Japonya",
+            "Malezya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50617,
+        "question": "Hangi yazar '1984' ve 'Hayvan Çiftliği' kitaplarını yazmıştır?",
+        "answers": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "Isaac Asimov"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50618,
+        "question": "Hangi elementin atom numarası 6'dır ve yaşamın temel yapı taşıdır?",
+        "answers": [
+            "Karbon",
+            "Oksijen",
+            "Azot",
+            "Hidrojen"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50619,
+        "question": "Hangi şehir 'Yedi Tepeli Şehir' olarak bilinir (Roma dışında)?",
+        "answers": [
+            "İstanbul",
+            "Lizbon",
+            "Amman",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50620,
+        "question": "Hangi hayvan 'Marsupial' (Keseli) grubuna girer?",
+        "answers": [
+            "Kanguru",
+            "Koala",
+            "Vombat",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50621,
+        "question": "Hangi bilim insanı radyasyonu keşfettiği için Nobel almıştır (eşiyle)?",
+        "answers": [
+            "Marie Curie",
+            "Einstein",
+            "Tesla",
+            "Roentgen"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50622,
+        "question": "Hangi ülke 'Kahve'nin anavatanı sayılır?",
+        "answers": [
+            "Etiyopya",
+            "Brezilya",
+            "Kolombiya",
+            "Yemen"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50623,
+        "question": "Hangi satranç şampiyonu yapay zeka Deep Blue'ya yenilmiştir?",
+        "answers": [
+            "Garry Kasparov",
+            "Magnus Carlsen",
+            "Bobby Fischer",
+            "Anatoly Karpov"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50624,
+        "question": "Hangi film serisinde 'Jedi' şövalyeleri vardır?",
+        "answers": [
+            "Star Wars",
+            "Star Trek",
+            "Dune",
+            "Matrix"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50625,
+        "question": "Hangi organ insülin hormonunu salgılar?",
+        "answers": [
+            "Pankreas",
+            "Karaciğer",
+            "Böbrek",
+            "Tiroid"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50626,
+        "question": "Hangi uygarlık Machu Picchu kentini kurmuştur?",
+        "answers": [
+            "İnkalar",
+            "Mayalar",
+            "Aztekler",
+            "Olmekler"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50627,
+        "question": "Hangi müzik grubu 'Bohemian Rhapsody' şarkısını yapmıştır?",
+        "answers": [
+            "Queen",
+            "Beatles",
+            "Pink Floyd",
+            "Led Zeppelin"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50628,
+        "question": "Hangi element 'Hg' simgesiyle gösterilir?",
+        "answers": [
+            "Cıva",
+            "Gümüş",
+            "Helyum",
+            "Hidrojen"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50629,
+        "question": "Hangi gezegenin uydusu 'Titan'dır?",
+        "answers": [
+            "Satürn",
+            "Jüpiter",
+            "Neptün",
+            "Uranüs"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50630,
+        "question": "Hangi yazar 'Sefiller' (Les Misérables) romanını yazmıştır?",
+        "answers": [
+            "Victor Hugo",
+            "Balzac",
+            "Zola",
+            "Dumas"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50631,
+        "question": "Hangi ülke Avrupa Birliği üyesi değildir?",
+        "answers": [
+            "Norveç",
+            "İsveç",
+            "Finlandiya",
+            "Danimarka"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50632,
+        "question": "Hangi hayvan en hızlı kara hayvanıdır?",
+        "answers": [
+            "Çita",
+            "Aslan",
+            "Gazel",
+            "Leopar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50633,
+        "question": "Hangi kemik insan vücudundaki en uzun kemiktir?",
+        "answers": [
+            "Uyluk (Femur)",
+            "Kaval",
+            "Pazı",
+            "Omurga"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50634,
+        "question": "Hangi şehir 'Big Ben' saat kulesiyle ünlüdür?",
+        "answers": [
+            "Londra",
+            "Paris",
+            "New York",
+            "Berlin"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50635,
+        "question": "Hangi gaz 'Gülme Gazı' olarak bilinir?",
+        "answers": [
+            "Azot Protoksit (N2O)",
+            "Helyum",
+            "Karbondioksit",
+            "Metan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50636,
+        "question": "Hangi ressam 'Çığlık' (The Scream) tablosunu yapmıştır?",
+        "answers": [
+            "Edvard Munch",
+            "Van Gogh",
+            "Picasso",
+            "Dali"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 50637,
+        "question": "Hangi ülke 'Piramitler' ile ünlüdür?",
+        "answers": [
+            "Mısır",
+            "Meksika",
+            "Sudan",
+            "Peru"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50638,
+        "question": "Hangi element elmas ve grafitin yapı taşıdır?",
+        "answers": [
+            "Karbon",
+            "Silisyum",
+            "Kükürt",
+            "Fosfor"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50639,
+        "question": "Hangi gezegen 'Sabah Yıldızı' olarak da bilinir?",
+        "answers": [
+            "Venüs",
+            "Merkür",
+            "Mars",
+            "Jüpiter"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50640,
+        "question": "Hangi yazar 'Harry Potter' serisini yazmıştır?",
+        "answers": [
+            "J.K. Rowling",
+            "Tolkien",
+            "C.S. Lewis",
+            "Roald Dahl"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50641,
+        "question": "Hangi ülke 'Akçaağaç Yaprağı'nı bayrağında taşır?",
+        "answers": [
+            "Kanada",
+            "ABD",
+            "Avustralya",
+            "Yeni Zelanda"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50642,
+        "question": "Hangi müzik aleti tuşludur?",
+        "answers": [
+            "Piyano",
+            "Gitar",
+            "Keman",
+            "Flüt"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50643,
+        "question": "Hangi element 'K' simgesiyle gösterilir (Latince Kalium)?",
+        "answers": [
+            "Potasyum",
+            "Kalsiyum",
+            "Kripton",
+            "Kobalt"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50644,
+        "question": "Hangi hayvan 'Kral' lakabıyla bilinir?",
+        "answers": [
+            "Aslan",
+            "Kaplan",
+            "Fil",
+            "Kartal"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50645,
+        "question": "Hangi şehir 'Özgürlük Heykeli' ile ünlüdür?",
+        "answers": [
+            "New York",
+            "Washington",
+            "Los Angeles",
+            "Chicago"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50646,
+        "question": "Hangi yazar 'Küçük Prens' kitabını yazmıştır?",
+        "answers": [
+            "Antoine de Saint-Exupéry",
+            "Victor Hugo",
+            "Jules Verne",
+            "Camus"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50647,
+        "question": "Hangi element 'He' simgesiyle gösterilir?",
+        "answers": [
+            "Helyum",
+            "Hidrojen",
+            "Hafniyum",
+            "Holmiyum"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50648,
+        "question": "Hangi hayvan 'Bambu' yer?",
+        "answers": [
+            "Panda",
+            "Koala",
+            "Maymun",
+            "Fil"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50649,
+        "question": "Hangi ülke 'Eyfel Kulesi' ile ünlüdür?",
+        "answers": [
+            "Fransa",
+            "İtalya",
+            "İspanya",
+            "Almanya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50650,
+        "question": "Hangi gezegen 'Gaz Devi' değildir?",
+        "answers": [
+            "Mars",
+            "Jüpiter",
+            "Satürn",
+            "Neptün"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    }
+]

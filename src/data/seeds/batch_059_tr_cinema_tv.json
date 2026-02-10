@@ -1,0 +1,805 @@
+[
+    {
+        "id": 50451,
+        "question": "Hababam Sınıfı filminde 'Güdük Necmi' karakterini kim oynamıştır?",
+        "answers": [
+            "Halit Akçatepe",
+            "Kemal Sunal",
+            "Tarık Akan",
+            "Feridun Şavlı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50452,
+        "question": "Hangi dizi Türkiye'de en uzun süre yayınlanan dizilerden biridir?",
+        "answers": [
+            "Arka Sokaklar",
+            "Aşk-ı Memnu",
+            "Ezel",
+            "Yaprak Dökümü"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50453,
+        "question": "Netflix'in ilk Türk orijinal dizisi hangisidir?",
+        "answers": [
+            "Muhafız (The Protector)",
+            "Atiye",
+            "Bir Başkadır",
+            "Aşk 101"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50454,
+        "question": "'Eşkıya' filminin başrol oyuncusu kimdir?",
+        "answers": [
+            "Şener Şen",
+            "Uğur Yücel",
+            "Cem Yılmaz",
+            "Haluk Bilginer"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50455,
+        "question": "Hangi oyuncu 'James Bond' serisinde oynamıştır?",
+        "answers": [
+            "Daniel Craig",
+            "Tom Cruise",
+            "Brad Pitt",
+            "Leonardo DiCaprio"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50456,
+        "question": "'Titanik' filminin yönetmeni kimdir?",
+        "answers": [
+            "James Cameron",
+            "Steven Spielberg",
+            "Nolan",
+            "Tarantino"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50457,
+        "question": "Hangi Türk filmi Berlin Film Festivali'nde 'Altın Ayı' ödülünü kazanmıştır?",
+        "answers": [
+            "Bal (Semih Kaplanoğlu)",
+            "Susuz Yaz",
+            "Duvara Karşı",
+            "Yol"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50458,
+        "question": "Behzat Ç. dizisinin geçtiği il hangisidir?",
+        "answers": [
+            "Ankara",
+            "İstanbul",
+            "İzmir",
+            "Adana"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50459,
+        "question": "'Yüzüklerin Efendisi' serisinin yazarı kimdir?",
+        "answers": [
+            "J.R.R. Tolkien",
+            "J.K. Rowling",
+            "George R.R. Martin",
+            "Stephen King"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat",
+            "sinema"
+        ]
+    },
+    {
+        "id": 50460,
+        "question": "Hangi sanatçı 'Sezen Aksu'nun öğrencisi değildir?",
+        "answers": [
+            "Hadise",
+            "Sertab Erener",
+            "Levent Yüksel",
+            "Aşkın Nur Yengi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50461,
+        "question": "'Kış Uykusu' filminin yönetmeni kimdir?",
+        "answers": [
+            "Nuri Bilge Ceylan",
+            "Zeki Demirkubuz",
+            "Ferzan Özpetek",
+            "Çağan Irmak"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50462,
+        "question": "Kurtlar Vadisi dizisindeki 'Polat Alemdar' karakterini kim canlandırmıştır?",
+        "answers": [
+            "Necati Şaşmaz",
+            "Gürkan Uygun",
+            "Oktay Kaynarca",
+            "Kenan Çoban"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50463,
+        "question": "Harry Potter serisindeki büyücülük okulunun adı nedir?",
+        "answers": [
+            "Hogwarts",
+            "Durmstrang",
+            "Beauxbatons",
+            "Azkaban"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50464,
+        "question": "Hangi film bir hapishane kaçışını anlatır?",
+        "answers": [
+            "Esaretin Bedeli",
+            "Yeşil Yol",
+            "Titanik",
+            "Dövüş Kulübü"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50465,
+        "question": "Adile Naşit'in 'Kuzucuklarım' diyerek sunduğu program hangisidir?",
+        "answers": [
+            "Uykudan Önce",
+            "Masal Saati",
+            "Çocuk Saati",
+            "Adile Teyze"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50466,
+        "question": "'Organize İşler' filminin yönetmeni kimdir?",
+        "answers": [
+            "Yılmaz Erdoğan",
+            "Cem Yılmaz",
+            "Şahan Gökbakar",
+            "Mahsun Kırmızıgül"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50467,
+        "question": "Hangi oyuncu 'Joker' rolüyle Oscar kazanmıştır?",
+        "answers": [
+            "Joaquin Phoenix",
+            "Heath Ledger",
+            "Jack Nicholson",
+            "Jared Leto"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50468,
+        "question": "'Babam ve Oğlum' filminin yönetmeni kimdir?",
+        "answers": [
+            "Çağan Irmak",
+            "Nuri Bilge Ceylan",
+            "Yavuz Turgul",
+            "Mustafa Altıoklar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50469,
+        "question": "Hangi dizi Çernobil felaketini anlatır?",
+        "answers": [
+            "Chernobyl",
+            "Dark",
+            "Breaking Bad",
+            "Stranger Things"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50470,
+        "question": "'Gibi' dizisindeki 'Yılmaz' karakterini kim oynamaktadır?",
+        "answers": [
+            "Feyyaz Yiğit",
+            "Kıvanç Kılınç",
+            "Ahmet Kürşat Öçalan",
+            "Çağlar Çorumlu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50471,
+        "question": "Yeşilçam'da 'Dört Yapraklı Yonca'dan biri değildir?",
+        "answers": [
+            "Gülşen Bubikoğlu",
+            "Fatma Girik",
+            "Türkan Şoray",
+            "Filiz Akın"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50472,
+        "question": "'Matrix' filmindeki 'Neo' karakterini kim oynamıştır?",
+        "answers": [
+            "Keanu Reeves",
+            "Brad Pitt",
+            "Tom Cruise",
+            "Will Smith"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50473,
+        "question": "Hangi Türk komedi serisinde 'Recep İvedik' karakteri vardır?",
+        "answers": [
+            "Recep İvedik",
+            "Çakallarla Dans",
+            "Kolpaçino",
+            "Düğün Dernek"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50474,
+        "question": "'Issız Adam' filminde çalan meşhur şarkı hangisidir?",
+        "answers": [
+            "Anlamazdın (Ayla Dikmen)",
+            "Bana Yalan Söylediler",
+            "Son Mektup",
+            "Yalnızlık Senfonisi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema",
+            "muzik"
+        ]
+    },
+    {
+        "id": 50475,
+        "question": "Hangi yabancı dizi bir uyuşturucu üreticisini anlatır?",
+        "answers": [
+            "Breaking Bad",
+            "Game of Thrones",
+            "Friends",
+            "Lost"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50476,
+        "question": "'Selvi Boylum Al Yazmalım' filminin müziğini kim yapmıştır?",
+        "answers": [
+            "Cahit Berkay",
+            "Melih Kibar",
+            "Attila Özdemiroğlu",
+            "Garo Mafyan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "sinema",
+            "muzik"
+        ]
+    },
+    {
+        "id": 50477,
+        "question": "Hangi oyuncu 'Diriliş Ertuğrul'da başroldür?",
+        "answers": [
+            "Engin Altan Düzyatan",
+            "Burak Özçivit",
+            "Kenan İmirzalıoğlu",
+            "Kıvanç Tatlıtuğ"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50478,
+        "question": "Star Wars serisindeki kötü karakter kimdir?",
+        "answers": [
+            "Darth Vader",
+            "Luke Skywalker",
+            "Yoda",
+            "Han Solo"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50479,
+        "question": "'Pardon' filmindeki meşhur replik nedir?",
+        "answers": [
+            "Adalet mülkün temelidir ama...",
+            "Ağlama Melis",
+            "Organize işler bunlar",
+            "Para para para"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50480,
+        "question": "Hangi yönetmen 'Vavien' filmini yönetmiştir?",
+        "answers": [
+            "Taylan Biraderler",
+            "Zeki Demirkubuz",
+            "Nuri Bilge Ceylan",
+            "Reha Erdem"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50481,
+        "question": "Acun Ilıcalı'nın sunduğu yarışma programı hangisidir?",
+        "answers": [
+            "Survivor",
+            "Kim Milyoner Olmak İster",
+            "Çarkıfelek",
+            "Passaparola"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50482,
+        "question": "'Ölü Ozanlar Derneği' filmindeki öğretmen karakteri kimdir?",
+        "answers": [
+            "Robin Williams",
+            "Tom Hanks",
+            "Al Pacino",
+            "Robert De Niro"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50483,
+        "question": "Hangi film serisinde 'Hobbitler' vardır?",
+        "answers": [
+            "Yüzüklerin Efendisi",
+            "Harry Potter",
+            "Narnia Günlükleri",
+            "Açlık Oyunları"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50484,
+        "question": "Münir Özkul ve Adile Naşit'in turşucu kavgası yaptığı film hangisidir?",
+        "answers": [
+            "Neşeli Günler",
+            "Gülen Gözler",
+            "Bizim Aile",
+            "Mavi Boncuk"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50485,
+        "question": "'La Casa de Papel' dizisi hangi ülkenin yapımıdır?",
+        "answers": [
+            "İspanya",
+            "İtalya",
+            "Meksika",
+            "Brezilya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50486,
+        "question": "Cem Yılmaz'ın uzay temalı filmi hangisidir?",
+        "answers": [
+            "G.O.R.A.",
+            "Vizontele",
+            "Hokkabaz",
+            "Pek Yakında"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50487,
+        "question": "Hangi oyuncu 'Muhteşem Yüzyıl'da Hürrem Sultan'ı oynamıştır?",
+        "answers": [
+            "Meryem Uzerli",
+            "Beren Saat",
+            "Tuba Büyüküstün",
+            "Cansu Dere"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50488,
+        "question": "Oscar ödüllerini veren kuruluş hangi ülkededir?",
+        "answers": [
+            "ABD",
+            "İngiltere",
+            "Fransa",
+            "Kanada"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50489,
+        "question": "'Tosun Paşa' filminde 'Yeşil Vadi' kimindir?",
+        "answers": [
+            "Seferoğulları ve Tellioğulları kavgası",
+            "Tosun Paşa'nın",
+            "Daver Bey'in",
+            "Lütfü'nün"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50490,
+        "question": "Hangi dizi 'Winter is coming' sözüyle bilinir?",
+        "answers": [
+            "Game of Thrones",
+            "Vikings",
+            "The Witcher",
+            "Spartacus"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50491,
+        "question": "Şener Şen'in 'Badi Ekrem' rolünü oynadığı film hangisidir?",
+        "answers": [
+            "Hababam Sınıfı",
+            "Şabanoğlu Şaban",
+            "Süt Kardeşler",
+            "Çöpçüler Kralı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50492,
+        "question": "Hangi filmde 'Forrest Gump' karakteri koşar?",
+        "answers": [
+            "Forrest Gump",
+            "Yeşil Yol",
+            "Er Ryan'ı Kurtarmak",
+            "Cast Away"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50493,
+        "question": "Hangi oyuncu 'Çukur' dizisinde Yamaç Koçovalı'dır?",
+        "answers": [
+            "Aras Bulut İynemli",
+            "Erkan Kolçak Köstendil",
+            "Ercan Kesal",
+            "Rıza Kocaoğlu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50494,
+        "question": "'Çiçek Abbas' filminde Şener Şen'in mesleği nedir?",
+        "answers": [
+            "Minibüs Şoförü",
+            "Çöpçü",
+            "Zabıta",
+            "Bakkal"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50495,
+        "question": "Marvel evrenindeki 'Demir Adam' kimdir?",
+        "answers": [
+            "Tony Stark",
+            "Steve Rogers",
+            "Bruce Banner",
+            "Peter Parker"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50496,
+        "question": "Hangi yönetmen 'Pulp Fiction' filmini çekmiştir?",
+        "answers": [
+            "Quentin Tarantino",
+            "Martin Scorsese",
+            "Stanley Kubrick",
+            "Christopher Nolan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50497,
+        "question": "'Yol' filminin senaryosunu kim yazmıştır?",
+        "answers": [
+            "Yılmaz Güney",
+            "Şerif Gören",
+            "Tarık Akan",
+            "Atıf Yılmaz"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50498,
+        "question": "Friends dizisindeki karakterlerden biri değildir?",
+        "answers": [
+            "Ted",
+            "Ross",
+            "Rachel",
+            "Joey"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50499,
+        "question": "Hangi film Antalya Altın Portakal'da rekor ödül almıştır?",
+        "answers": [
+            "Yazı Tura (11 ödül)",
+            "Kader",
+            "Masumiyet",
+            "Eşkıya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50500,
+        "question": "'Godfather' (Baba) filmindeki baba karakteri kimdir?",
+        "answers": [
+            "Don Vito Corleone",
+            "Michael Corleone",
+            "Sonny Corleone",
+            "Tom Hagen"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": 50251,
+        "question": "Hangisi bir Türk Sanat Müziği makamı değildir?",
+        "answers": [
+            "Hicaz",
+            "Nihavend",
+            "Uşşak",
+            "Allegro"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50252,
+        "question": "Hababam Sınıfı filminde 'İnek Şaban' karakterini kim canlandırmıştır?",
+        "answers": [
+            "Halit Akçatepe",
+            "Kemal Sunal",
+            "Münir Özkul",
+            "Tarık Akan"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50253,
+        "question": "Hangi yazarımız 'Saatleri Ayarlama Enstitüsü'nü yazmıştır?",
+        "answers": [
+            "Ahmet Hamdi Tanpınar",
+            "Sait Faik Abasıyanık",
+            "Oğuz Atay",
+            "Peyami Safa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50254,
+        "question": "Neşet Ertaş hangi müzik türünün efsanesidir?",
+        "answers": [
+            "Pop",
+            "Arabesk",
+            "Türk Halk Müziği",
+            "Caz"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50255,
+        "question": "Altın Portakal Film Festivali hangi ilimizde düzenlenir?",
+        "answers": [
+            "İstanbul",
+            "Adana",
+            "Antalya",
+            "İzmir"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50256,
+        "question": "Hangi şairimiz 'Vatan Şairi' olarak anılır?",
+        "answers": [
+            "Mehmet Akif Ersoy",
+            "Namık Kemal",
+            "Ziya Gökalp",
+            "Tevfik Fikret"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50257,
+        "question": "Cem Karaca hangi müzik grubunun solistliğini yapmıştır?",
+        "answers": [
+            "MFÖ",
+            "Moğollar",
+            "Kurtalan Ekspres",
+            "3 Hürel"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50258,
+        "question": "Yeşilçam'ın Sultan'ı lakaplı oyuncu kimdir?",
+        "answers": [
+            "Filiz Akın",
+            "Hülya Koçyiğit",
+            "Türkan Şoray",
+            "Fatma Girik"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50259,
+        "question": "Hangi roman Halide Edip Adıvar'a aittir?",
+        "answers": [
+            "Çalıkuşu",
+            "Sinekli Bakkal",
+            "Kiralık Konak",
+            "Yaban"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50260,
+        "question": "Barış Manço'nun kurduğu müzik grubu hangisidir?",
+        "answers": [
+            "Moğollar",
+            "Kurtalan Ekspres",
+            "Dadaşlar",
+            "Kaygısızlar"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50261,
+        "question": "Hangi filmde Şener Şen 'Züğürt Ağa'yı oynamıştır?",
+        "answers": [
+            "Züğürt Ağa",
+            "Eşkıya",
+            "Muhsin Bey",
+            "Kibar Feyzo"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50262,
+        "question": "Cahit Sıtkı Tarancı'nın ünlü şiiri 'Yaş Otuz Beş' hangi dizede biter?",
+        "answers": [
+            "Yolun yarısı eder",
+            "Dante gibi ortasındayız ömrün",
+            "Gençlik gelip geçti",
+            "Neylersin ölüm herkesin başında"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50263,
+        "question": "Türk Beşleri hangi sanat dalında eser vermiştir?",
+        "answers": [
+            "Resim",
+            "Edebiyat",
+            "Klasik Müzik",
+            "Sinema"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50264,
+        "question": "'Selvi Boylum Al Yazmalım' filminin başrol erkek oyuncusu kimdir?",
+        "answers": [
+            "Tarık Akan",
+            "Cüneyt Arkın",
+            "Kadir İnanır",
+            "Ediz Hun"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50265,
+        "question": "Yunus Emre hangi yüzyılda yaşamıştır?",
+        "answers": [
+            "11. yy",
+            "13. yy",
+            "15. yy",
+            "17. yy"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50266,
+        "question": "Eurovision'da Türkiye'ye ikincilik getiren grup hangisidir?",
+        "answers": [
+            "Athena",
+            "Mor ve Ötesi",
+            "Manga",
+            "Yüksek Sadakat"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50267,
+        "question": "'Kürk Mantolu Madonna' kitabının yazarı kimdir?",
+        "answers": [
+            "Sabahattin Ali",
+            "Orhan Pamuk",
+            "Aziz Nesin",
+            "Yaşar Kemal"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50268,
+        "question": "Hangi yönetmen Cannes Film Festivali'nde ödül almıştır?",
+        "answers": [
+            "Ertem Eğilmez",
+            "Nuri Bilge Ceylan",
+            "Mustafa Altıoklar",
+            "Sinan Çetin"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50269,
+        "question": "Mevlana'nın ünlü eseri hangisidir?",
+        "answers": [
+            "Mesnevi",
+            "Divan-ı Kebir",
+            "Fihi Ma Fih",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50270,
+        "question": "Minik Serçe lakaplı sanatçımız kimdir?",
+        "answers": [
+            "Sezen Aksu",
+            "Nilüfer",
+            "Ajda Pekkan",
+            "Nükhet Duru"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50271,
+        "question": "Hangi yazarımız 'Tutunamayanlar' romanı ile tanınır?",
+        "answers": [
+            "Oğuz Atay",
+            "Yusuf Atılgan",
+            "Tezer Özlü",
+            "Adalet Ağaoğlu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50272,
+        "question": "Gora, Arog ve Yahşi Batı filmlerinin senaristi kimdir?",
+        "answers": [
+            "Şahan Gökbakar",
+            "Cem Yılmaz",
+            "Ata Demirer",
+            "Yılmaz Erdoğan"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50273,
+        "question": "Tarkan'ın soyadı nedir?",
+        "answers": [
+            "Tevetoğlu",
+            "Yılmaz",
+            "Kaya",
+            "Demir"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50274,
+        "question": "Hangi kitap Orhan Pamuk'a aittir?",
+        "answers": [
+            "Masumiyet Müzesi",
+            "Huzur",
+            "Aylak Adam",
+            "Bereketli Topraklar Üzerinde"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50275,
+        "question": "Dünyaca ünlü piyanistimiz kimdir?",
+        "answers": [
+            "Fazıl Say",
+            "İdil Biret",
+            "Gülsin Onay",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50276,
+        "question": "Hangi oyuncu 'Turist Ömer' karakteriyle özdeşleşmiştir?",
+        "answers": [
+            "Sadri Alışık",
+            "Ayhan Işık",
+            "Vahi Öz",
+            "Öztürk Serengil"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50277,
+        "question": "'Han Duvarları' şiiri kime aittir?",
+        "answers": [
+            "Faruk Nafiz Çamlıbel",
+            "Orhan Veli",
+            "Yahya Kemal",
+            "Necip Fazıl"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50278,
+        "question": "Zeki Müren hangi lakapla anılır?",
+        "answers": [
+            "Sanat Güneşi",
+            "Patişah",
+            "İmparator",
+            "Kral"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50279,
+        "question": "Tosun Paşa filmindeki 'Gerçek Tosun Paşa' kimdir?",
+        "answers": [
+            "Kemal Sunal",
+            "Şener Şen",
+            "Oktar Durukan",
+            "Adile Naşit"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50280,
+        "question": "Nasrettin Hoca fıkraları hangi ilimizle özdeşleşmiştir?",
+        "answers": [
+            "Kayseri",
+            "Konya (Akşehir)",
+            "Ankara",
+            "Eskişehir"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50281,
+        "question": "'Vurun Kahpeye' eseri kime aittir?",
+        "answers": [
+            "Halide Edip Adıvar",
+            "Reşat Nuri Güntekin",
+            "Yakup Kadri",
+            "Refik Halit Karay"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50282,
+        "question": "'Çöpçüler Kralı' filmindeki zabıta amiri karakteri kimdir?",
+        "answers": [
+            "Şener Şen",
+            "Kemal Sunal",
+            "İlyas Salman",
+            "Erdal Özyağcılar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50283,
+        "question": "Hangi enstrüman Türk Halk Müziği'nin temel çalgısıdır?",
+        "answers": [
+            "Keman",
+            "Bağlama",
+            "Ud",
+            "Kanun"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50284,
+        "question": "'Dokuzuncu Hariciye Koğuşu' kimin eseridir?",
+        "answers": [
+            "Peyami Safa",
+            "Tarık Buğra",
+            "Memduh Şevket Esendal",
+            "Halit Ziya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50285,
+        "question": "Leyla ile Mecnun dizisinin senaristi kimdir?",
+        "answers": [
+            "Burak Aksak",
+            "Onur Ünlü",
+            "Selçuk Aydemir",
+            "Gülse Birsel"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "televizyon"
+        ]
+    },
+    {
+        "id": 50286,
+        "question": "Müslüm Gürses'in hayatını anlatan film hangisidir?",
+        "answers": [
+            "Müslüm",
+            "Baba",
+            "Arabesk",
+            "Muhterem"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50287,
+        "question": "Hangi yazarımız 'Nobel Barış Ödülü'ne aday gösterilmemiştir?",
+        "answers": [
+            "Yaşar Kemal",
+            "Orhan Pamuk (Edebiyat aldı)",
+            "Leyla Zana",
+            "Nazım Hikmet"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50288,
+        "question": "Divan Edebiyatı'nda 'Su Kasidesi' kime aittir?",
+        "answers": [
+            "Fuzuli",
+            "Baki",
+            "Nedim",
+            "Şeyh Galip"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50289,
+        "question": "Hangi şarkıcı 'Megastar' olarak anılır?",
+        "answers": [
+            "Tarkan",
+            "Mustafa Sandal",
+            "Kenan Doğulu",
+            "Serdar Ortaç"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50290,
+        "question": "'Vizontele' filmi nerede çekilmiştir?",
+        "answers": [
+            "Van (Gevaş)",
+            "Hakkari",
+            "Mardin",
+            "Şırnak"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50291,
+        "question": "Hangi ressamız 'Çingene Kızı' mozaiği ile ünlüdür? (Yanlış soru, mozaik anonimdir, soru: Çingene Kızı hangi müzededir?)",
+        "answers": [
+            "Zeugma Müzesi",
+            "Ayasofya",
+            "Topkapı",
+            "Arkeoloji Müzesi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 50292,
+        "question": "'Memleketimden İnsan Manzaraları' kimin şiir kitabıdır?",
+        "answers": [
+            "Nazım Hikmet",
+            "Atilla İlhan",
+            "Can Yücel",
+            "Turgut Uyar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50293,
+        "question": "Hangi sanatçı 'Süperstar' lakabıyla bilinir?",
+        "answers": [
+            "Ajda Pekkan",
+            "Sezen Aksu",
+            "Nilüfer",
+            "Zerrin Özer"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50294,
+        "question": "Nuri Bilge Ceylan'ın Altın Palmiye kazanan filmi hangisidir?",
+        "answers": [
+            "Kış Uykusu",
+            "Uzak",
+            "Üç Maymun",
+            "Bir Zamanlar Anadolu'da"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50295,
+        "question": "İstiklal Marşı'nın bestecisi kimdir?",
+        "answers": [
+            "Osman Zeki Üngör",
+            "Ali Rıfat Çağatay",
+            "Cemal Reşit Rey",
+            "Adnan Saygun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50296,
+        "question": "Karagöz ve Hacivat oyununda Karagöz'ün okumamiş halk tipini temsil ettiği doğru mudur?",
+        "answers": [
+            "Doğru",
+            "Yanlış (Hacivat temsil eder)",
+            "Tersi",
+            "Bilinmiyor"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50297,
+        "question": "Hangi yazarımız 'Anayurt Oteli'ni yazmıştır?",
+        "answers": [
+            "Yusuf Atılgan",
+            "Oğuz Atay",
+            "Bilge Karasu",
+            "Vüs'at O. Bener"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50298,
+        "question": "Mimar Sinan'ın 'Çıraklık Eserim' dediği cami hangisidir?",
+        "answers": [
+            "Şehzade Camii",
+            "Süleymaniye",
+            "Selimiye",
+            "Mihrimah Sultan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 50299,
+        "question": "'Fikrimin İnce Gülü' şarkısının söz yazarı kimdir? (Roman yazarı Adalet Ağaoğlu'dur, şarkı anonim/türkü)",
+        "answers": [
+            "İsmail Hakkı Bey",
+            "Muallim İsmail Hakkı Bey",
+            "Sadettin Kaynak",
+            "Anonim/Rumeli Türküsü"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50300,
+        "question": "Avrupa Yakası dizisinin senaristi kimdir?",
+        "answers": [
+            "Gülse Birsel",
+            "Birol Güven",
+            "Gani Müjde",
+            "Sinan Çetin"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "televizyon"
+        ]
+    }
+]

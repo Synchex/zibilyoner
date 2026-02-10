@@ -1,0 +1,802 @@
+[
+    {
+        "id": 40401,
+        "question": "What is the capital of Sweden?",
+        "answers": [
+            "Oslo",
+            "Stockholm",
+            "Copenhagen",
+            "Helsinki"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40402,
+        "question": "Who invented the steam engine?",
+        "answers": [
+            "James Watt",
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40403,
+        "question": "Which is the largest desert in the world?",
+        "answers": [
+            "Sahara",
+            "Gobi",
+            "Antarctic Desert",
+            "Arabian"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40404,
+        "question": "What is the chemical symbol for Silver?",
+        "answers": [
+            "Au",
+            "Ag",
+            "Si",
+            "Sr"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40405,
+        "question": "Who directed 'Jurassic Park'?",
+        "answers": [
+            "George Lucas",
+            "Steven Spielberg",
+            "James Cameron",
+            "Peter Jackson"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture"
+        ]
+    },
+    {
+        "id": 40406,
+        "question": "Which organ filters blood?",
+        "answers": [
+            "Heart",
+            "Lungs",
+            "Kidneys",
+            "Stomach"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40407,
+        "question": "What is the capital of South Korea?",
+        "answers": [
+            "Tokyo",
+            "Seoul",
+            "Beijing",
+            "Bangkok"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40408,
+        "question": "Who wrote 'The Lord of the Rings'?",
+        "answers": [
+            "J.K. Rowling",
+            "J.R.R. Tolkien",
+            "C.S. Lewis",
+            "George R.R. Martin"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40409,
+        "question": "Which planet is the hottest?",
+        "answers": [
+            "Mercury",
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40410,
+        "question": "What is the main ingredient in Guacamole?",
+        "answers": [
+            "Tomato",
+            "Avocado",
+            "Onion",
+            "Pepper"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40411,
+        "question": "Who was the first woman to fly solo across the Atlantic?",
+        "answers": [
+            "Amelia Earhart",
+            "Bessie Coleman",
+            "Harriet Quimby",
+            "Jacqueline Cochran"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40412,
+        "question": "Which country is famous for chocolate?",
+        "answers": [
+            "France",
+            "Belgium",
+            "Italy",
+            "Spain"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40413,
+        "question": "What is the deepest ocean trench?",
+        "answers": [
+            "Mariana Trench",
+            "Puerto Rico Trench",
+            "Java Trench",
+            "Tonga Trench"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40414,
+        "question": "Who painted 'The Scream'?",
+        "answers": [
+            "Edvard Munch",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40415,
+        "question": "Which animal is the fastest swimmer?",
+        "answers": [
+            "Shark",
+            "Dolphin",
+            "Sailfish",
+            "Whale"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40416,
+        "question": "What is the capital of Norway?",
+        "answers": [
+            "Copenhagen",
+            "Stockholm",
+            "Oslo",
+            "Helsinki"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40417,
+        "question": "Who wrote 'Moby Dick'?",
+        "answers": [
+            "Herman Melville",
+            "Mark Twain",
+            "Charles Dickens",
+            "Ernest Hemingway"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40418,
+        "question": "Which planet is known as the Gas Giant?",
+        "answers": [
+            "Mars",
+            "Earth",
+            "Jupiter",
+            "Venus"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40419,
+        "question": "What is the currency of Switzerland?",
+        "answers": [
+            "Euro",
+            "Dollar",
+            "Franc",
+            "Pound"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40420,
+        "question": "Who is the Greek god of war?",
+        "answers": [
+            "Zeus",
+            "Ares",
+            "Apollo",
+            "Hermes"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "legends"
+        ]
+    },
+    {
+        "id": 40421,
+        "question": "Which country has the most islands?",
+        "answers": [
+            "Indonesia",
+            "Philippines",
+            "Sweden",
+            "Finland"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40422,
+        "question": "What is the largest bird in the world?",
+        "answers": [
+            "Eagle",
+            "Ostrich",
+            "Emu",
+            "Albatross"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40423,
+        "question": "Who discovered radium?",
+        "answers": [
+            "Albert Einstein",
+            "Marie Curie",
+            "Isaac Newton",
+            "Louis Pasteur"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40424,
+        "question": "Which city is known as the Eternal City?",
+        "answers": [
+            "Paris",
+            "Athens",
+            "Rome",
+            "Jerusalem"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40425,
+        "question": "What is the hardest mineral?",
+        "answers": [
+            "Quartz",
+            "Topaz",
+            "Diamond",
+            "Corundum"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40426,
+        "question": "Who wrote 'The Catcher in the Rye'?",
+        "answers": [
+            "J.D. Salinger",
+            "F. Scott Fitzgerald",
+            "Ernest Hemingway",
+            "John Steinbeck"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40427,
+        "question": "Which planet is farthest from the Sun?",
+        "answers": [
+            "Uranus",
+            "Neptune",
+            "Saturn",
+            "Jupiter"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40428,
+        "question": "What is the capital of Portugal?",
+        "answers": [
+            "Porto",
+            "Lisbon",
+            "Madrid",
+            "Barcelona"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40429,
+        "question": "Who painted 'The Girl with a Pearl Earring'?",
+        "answers": [
+            "Rembrandt",
+            "Vermeer",
+            "Van Gogh",
+            "Picasso"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40430,
+        "question": "Which is the smallest bone in the human body?",
+        "answers": [
+            "Stapes",
+            "Femur",
+            "Tibia",
+            "Humerus"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40431,
+        "question": "What is the currency of China?",
+        "answers": [
+            "Yen",
+            "Won",
+            "Yuan",
+            "Dollar"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40432,
+        "question": "Who directed 'The Godfather'?",
+        "answers": [
+            "Martin Scorsese",
+            "Francis Ford Coppola",
+            "Steven Spielberg",
+            "Quentin Tarantino"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture"
+        ]
+    },
+    {
+        "id": 40433,
+        "question": "Which country is famous for Tulips?",
+        "answers": [
+            "France",
+            "Germany",
+            "Netherlands",
+            "Belgium"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40434,
+        "question": "What is the longest river in Africa?",
+        "answers": [
+            "Nile",
+            "Congo",
+            "Niger",
+            "Zambezi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40435,
+        "question": "Who wrote 'War and Peace'?",
+        "answers": [
+            "Fyodor Dostoevsky",
+            "Leo Tolstoy",
+            "Anton Chekhov",
+            "Vladimir Nabokov"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40436,
+        "question": "Which gas makes balloons float?",
+        "answers": [
+            "Hydrogen",
+            "Oxygen",
+            "Helium",
+            "Nitrogen"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40437,
+        "question": "What is the capital of Thailand?",
+        "answers": [
+            "Hanoi",
+            "Bangkok",
+            "Jakarta",
+            "Manila"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40438,
+        "question": "Who was the first black president of South Africa?",
+        "answers": [
+            "Desmond Tutu",
+            "Nelson Mandela",
+            "Thabo Mbeki",
+            "Jacob Zuma"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40439,
+        "question": "Which element has the symbol 'Na'?",
+        "answers": [
+            "Nitrogen",
+            "Sodium",
+            "Nickel",
+            "Neon"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40440,
+        "question": "What is the highest waterfall in the world?",
+        "answers": [
+            "Niagara Falls",
+            "Victoria Falls",
+            "Angel Falls",
+            "Iguazu Falls"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40441,
+        "question": "Who wrote 'The Divine Comedy'?",
+        "answers": [
+            "Homer",
+            "Virgil",
+            "Dante Alighieri",
+            "Ovid"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40442,
+        "question": "Which planet rotates on its side?",
+        "answers": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40443,
+        "question": "What is the capital of Argentina?",
+        "answers": [
+            "Santiago",
+            "Lima",
+            "Buenos Aires",
+            "Bogota"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40444,
+        "question": "Who painted 'The Night Watch'?",
+        "answers": [
+            "Vermeer",
+            "Rembrandt",
+            "Van Gogh",
+            "Rubens"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40445,
+        "question": "Which animal is the national symbol of Canada?",
+        "answers": [
+            "Moose",
+            "Beaver",
+            "Bear",
+            "Eagle"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40446,
+        "question": "What is the main language of Egypt?",
+        "answers": [
+            "English",
+            "French",
+            "Arabic",
+            "Spanish"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40447,
+        "question": "Who discovered the electron?",
+        "answers": [
+            "J.J. Thomson",
+            "Ernest Rutherford",
+            "Niels Bohr",
+            "James Chadwick"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40448,
+        "question": "Which country is known as the Land of Fire and Ice?",
+        "answers": [
+            "Norway",
+            "Iceland",
+            "Greenland",
+            "Finland"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40449,
+        "question": "What is the speed of sound?",
+        "answers": [
+            "343 m/s",
+            "299,792 km/s",
+            "100 km/h",
+            "1000 km/h"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40450,
+        "question": "Who founded Amazon?",
+        "answers": [
+            "Bill Gates",
+            "Jeff Bezos",
+            "Elon Musk",
+            "Mark Zuckerberg"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "technology"
+        ]
+    }
+]

@@ -1,0 +1,803 @@
+[
+    {
+        "id": 50001,
+        "question": "Türkiye'nin başkenti neresidir?",
+        "answers": [
+            "İstanbul",
+            "İzmir",
+            "Ankara",
+            "Bursa"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50002,
+        "question": "Hangi ilimiz 'Kayısı' ile meşhurdur?",
+        "answers": [
+            "Konya",
+            "Malatya",
+            "Gaziantep",
+            "Rize"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya",
+            "yemek"
+        ]
+    },
+    {
+        "id": 50003,
+        "question": "İstiklal Marşı'mızın şairi kimdir?",
+        "answers": [
+            "Namık Kemal",
+            "Mehmet Akif Ersoy",
+            "Ziya Gökalp",
+            "Orhan Veli"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50004,
+        "question": "Türkiye'nin en yüksek dağı hangisidir?",
+        "answers": [
+            "Erciyes",
+            "Palandöken",
+            "Ağrı Dağı",
+            "Uludağ"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50005,
+        "question": "Hangi hayvan 'Ormanlar Kralı' olarak bilinir?",
+        "answers": [
+            "Kaplan",
+            "Fil",
+            "Aslan",
+            "Ayı"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50006,
+        "question": "Bir haftada kaç gün vardır?",
+        "answers": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 50007,
+        "question": "Hangi renk trafik ışığında 'Dur' anlamına gelir?",
+        "answers": [
+            "Yeşil",
+            "Sarı",
+            "Kırmızı",
+            "Mavi"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 50008,
+        "question": "Van Gölü hangi bölgemizdedir?",
+        "answers": [
+            "Ege",
+            "Akdeniz",
+            "Doğu Anadolu",
+            "Karadeniz"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50009,
+        "question": "Anıtkabir hangi ilimizdedir?",
+        "answers": [
+            "İstanbul",
+            "Samsun",
+            "Ankara",
+            "Çanakkale"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50010,
+        "question": "Türkiye'nin plaka kodu nedir?",
+        "answers": [
+            "TR",
+            "TC",
+            "TY",
+            "TK"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 50011,
+        "question": "Hangi meyve C vitamini deposudur?",
+        "answers": [
+            "Muz",
+            "Portakal",
+            "Elma",
+            "Armut"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50012,
+        "question": "Nasrettin Hoca eşeğe nasıl biner?",
+        "answers": [
+            "Düz",
+            "Yan",
+            "Ters",
+            "Ayakta"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50013,
+        "question": "Hangi ilimizde Peri Bacaları bulunur?",
+        "answers": [
+            "Antalya",
+            "Nevşehir",
+            "Muğla",
+            "Mardin"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50014,
+        "question": "Su kaç derecede kaynar?",
+        "answers": [
+            "50",
+            "80",
+            "100",
+            "120"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50015,
+        "question": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+        "answers": [
+            "İsmet İnönü",
+            "Kazım Karabekir",
+            "Mustafa Kemal Atatürk",
+            "Fevzi Çakmak"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50016,
+        "question": "Hangisi bir kış meyvesidir?",
+        "answers": [
+            "Karpuz",
+            "Mandalina",
+            "Çilek",
+            "Kiraz"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50017,
+        "question": "İstanbul'un fethi kaç yılında gerçekleşmiştir?",
+        "answers": [
+            "1071",
+            "1299",
+            "1453",
+            "1923"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50018,
+        "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+        "answers": [
+            "Venüs",
+            "Mars",
+            "Jüpiter",
+            "Satürn"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50019,
+        "question": "Türkiye'nin en uzun nehri hangisidir (sınırlarımız içindeki)?",
+        "answers": [
+            "Fırat",
+            "Dicle",
+            "Kızılırmak",
+            "Sakarya"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50020,
+        "question": "Mona Lisa tablosunu kim yapmıştır?",
+        "answers": [
+            "Michelangelo",
+            "Picasso",
+            "Leonardo da Vinci",
+            "Van Gogh"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 50021,
+        "question": "E-Devlet şifresi nereden alınır?",
+        "answers": [
+            "Nüfus Müdürlüğü",
+            "PTT",
+            "Belediye",
+            "Muhtarlık"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yasam"
+        ]
+    },
+    {
+        "id": 50022,
+        "question": "Hangi ilimiz 'Çay' ile özdeşleşmiştir?",
+        "answers": [
+            "Trabzon",
+            "Rize",
+            "Ordu",
+            "Giresun"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50023,
+        "question": "Dünyanın uydusu hangisidir?",
+        "answers": [
+            "Güneş",
+            "Ay",
+            "Mars",
+            "Kutup Yıldızı"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50024,
+        "question": "Futbol maçları kaç dakika sürer (normal süre)?",
+        "answers": [
+            "45",
+            "60",
+            "90",
+            "100"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "spor"
+        ]
+    },
+    {
+        "id": 50025,
+        "question": "Hangi para birimi Avrupa Birliği'nde kullanılır?",
+        "answers": [
+            "Dolar",
+            "Euro",
+            "Sterlin",
+            "Frank"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "ekonomi"
+        ]
+    },
+    {
+        "id": 50026,
+        "question": "Türkiye hangi kıtalarda toprağı olan bir ülkedir?",
+        "answers": [
+            "Asya-Afrika",
+            "Asya-Avrupa",
+            "Avrupa-Afrika",
+            "Asya-Amerika"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50027,
+        "question": "Pamuk en çok hangi bölgemizde yetişir?",
+        "answers": [
+            "Karadeniz",
+            "Güneydoğu Anadolu",
+            "İç Anadolu",
+            "Doğu Anadolu"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "tarim"
+        ]
+    },
+    {
+        "id": 50028,
+        "question": "Hababam Sınıfı'nın yazarı kimdir?",
+        "answers": [
+            "Reşat Nuri Güntekin",
+            "Rıfat Ilgaz",
+            "Yaşar Kemal",
+            "Aziz Nesin"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50029,
+        "question": "Nobel ödülü alan ilk Türk kimdir?",
+        "answers": [
+            "Aziz Sancar",
+            "Orhan Pamuk",
+            "Fazıl Say",
+            "Nuri Bilge Ceylan"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50030,
+        "question": "Hangi elementin simgesi 'Au'dur?",
+        "answers": [
+            "Gümüş",
+            "Altın",
+            "Bakır",
+            "Demir"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50031,
+        "question": "Sümela Manastırı hangi ilimizdedir?",
+        "answers": [
+            "Trabzon",
+            "Rize",
+            "Artvin",
+            "Giresun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50032,
+        "question": "İzmir'in kurtuluş günü hangisidir?",
+        "answers": [
+            "19 Mayıs",
+            "30 Ağustos",
+            "9 Eylül",
+            "29 Ekim"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50033,
+        "question": "Aşk-ı Memnu romanının yazarı kimdir?",
+        "answers": [
+            "Halit Ziya Uşaklıgil",
+            "Namık Kemal",
+            "Recaizade Mahmut Ekrem",
+            "Yakup Kadri Karaosmanoğlu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50034,
+        "question": "Periyodik tabloda ilk element hangisidir?",
+        "answers": [
+            "Helyum",
+            "Hidrojen",
+            "Oksijen",
+            "Lityum"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50035,
+        "question": "Türkiye'nin en kalabalık şehri hangisidir?",
+        "answers": [
+            "Ankara",
+            "İzmir",
+            "İstanbul",
+            "Bursa"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "nufus"
+        ]
+    },
+    {
+        "id": 50036,
+        "question": "Hangisi bir doğal afettir?",
+        "answers": [
+            "Trafik Kazası",
+            "Deprem",
+            "Savaş",
+            "Yangın (İnsan kaynaklı)"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50037,
+        "question": "Eurovision'da birincilik kazanan Türk sanatçı kimdir?",
+        "answers": [
+            "Ajda Pekkan",
+            "Sertab Erener",
+            "Athena",
+            "Şebnem Paker"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "muzik"
+        ]
+    },
+    {
+        "id": 50038,
+        "question": "Hangi ilimiz 'Fıstık' ile meşhurdur?",
+        "answers": [
+            "Şanlıurfa",
+            "Gaziantep",
+            "Adana",
+            "Siirt"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50039,
+        "question": "Dünyanın en derin çukuru hangisidir?",
+        "answers": [
+            "Mariana Çukuru",
+            "Porto Riko Çukuru",
+            "Tonga Çukuru",
+            "Philippine Çukuru"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50040,
+        "question": "Telefonu kim icat etmiştir?",
+        "answers": [
+            "Edison",
+            "Graham Bell",
+            "Tesla",
+            "Marconi"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50041,
+        "question": "Lületaşı en çok hangi ilimizde çıkarılır?",
+        "answers": [
+            "Kütahya",
+            "Eskişehir",
+            "Afyon",
+            "Bilecik"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50042,
+        "question": "Hangi gezegenin halkaları vardır?",
+        "answers": [
+            "Mars",
+            "Venüs",
+            "Satürn",
+            "Merkür"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50043,
+        "question": "Türkiye'nin en büyük gölü hangisidir?",
+        "answers": [
+            "Tuz Gölü",
+            "Beyşehir Gölü",
+            "Van Gölü",
+            "Eğirdir Gölü"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50044,
+        "question": "Hangi şehrimiz 'Mevlana' ile özdeşleşmiştir?",
+        "answers": [
+            "Kayseri",
+            "Sivas",
+            "Konya",
+            "Karaman"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50045,
+        "question": "İnsan vücudundaki en büyük organ hangisidir?",
+        "answers": [
+            "Kalp",
+            "Beyin",
+            "Deri",
+            "Karaciğer"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50046,
+        "question": "Hangi ülke Asya kıtasında değildir?",
+        "answers": [
+            "Japonya",
+            "Çin",
+            "Hindistan",
+            "Almanya"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50047,
+        "question": "Tuz Gölü hangi bölgemizdedir?",
+        "answers": [
+            "Akdeniz",
+            "İç Anadolu",
+            "Ege",
+            "Marmara"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50048,
+        "question": "Magna Carta hangi ülkede imzalanmıştır?",
+        "answers": [
+            "Fransa",
+            "Almanya",
+            "İngiltere",
+            "İtalya"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50049,
+        "question": "Ayasofya hangi imparatorluk zamanında yapılmıştır?",
+        "answers": [
+            "Osmanlı",
+            "Roma",
+            "Bizans",
+            "Selçuklu"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50050,
+        "question": "Türkiye NATO'ya kaç yılında üye olmuştur?",
+        "answers": [
+            "1945",
+            "1952",
+            "1960",
+            "1974"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "tarih"
+        ]
+    }
+]

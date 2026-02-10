@@ -27,6 +27,28 @@ import batch018 from './seeds/batch_018_tr_sports_basketball.json';
 import batch019 from './seeds/batch_019_tr_sports_general.json';
 import batch020 from './seeds/batch_020_tr_sports_legends.json';
 import batch021 from './seeds/batch_021_gk_revamp.json';
+import batch050 from './seeds/batch_050_tr_general_mixed.json';
+import batch051 from './seeds/batch_051_tr_history_mixed.json';
+import batch052 from './seeds/batch_052_tr_sports_mixed.json';
+import batch053 from './seeds/batch_053_tr_general_hard.json';
+import batch054 from './seeds/batch_054_tr_geography.json';
+import batch055 from './seeds/batch_055_tr_culture_arts.json';
+import batch056 from './seeds/batch_056_tr_history_detail.json';
+import batch057 from './seeds/batch_057_tr_general_mixed_2.json';
+import batch058 from './seeds/batch_058_tr_science.json';
+import batch059 from './seeds/batch_059_tr_cinema_tv.json';
+import batch060 from './seeds/batch_060_tr_history_republic.json';
+import batch061 from './seeds/batch_061_tr_sports_detail.json';
+import batch062 from './seeds/batch_062_tr_general_expert.json';
+import batch063 from './seeds/batch_063_tr_geography_hard.json';
+import batch064 from './seeds/batch_064_tr_music_history.json';
+import batch065 from './seeds/batch_065_tr_literature_classics.json';
+import batch066 from './seeds/batch_066_tr_cuisine.json';
+import batch067 from './seeds/batch_067_tr_nature_animals.json';
+import batch068 from './seeds/batch_068_tr_pop_culture_2000s.json';
+import batch069 from './seeds/batch_069_tr_famous_people.json';
+import batch070 from './seeds/batch_070_tr_proverbs_idioms.json';
+import batch071 from './seeds/batch_071_tr_mixed_expert.json';
 
 // Import shared types and helpers
 import type { Question, Category, Difficulty, SportsSubcategory } from './questionBank';
@@ -193,6 +215,28 @@ const importedQuestions = [
     ...importBatch(batch019 as RawQuestion[]),
     ...importBatch(batch020 as RawQuestion[]),
     ...importBatch(batch021 as RawQuestion[]),
+    ...importBatch(batch050 as RawQuestion[]),
+    ...importBatch(batch051 as RawQuestion[]),
+    ...importBatch(batch052 as RawQuestion[]),
+    ...importBatch(batch053 as RawQuestion[]),
+    ...importBatch(batch054 as RawQuestion[]),
+    ...importBatch(batch055 as RawQuestion[]),
+    ...importBatch(batch056 as RawQuestion[]),
+    ...importBatch(batch057 as RawQuestion[]),
+    ...importBatch(batch058 as RawQuestion[]),
+    ...importBatch(batch059 as RawQuestion[]),
+    ...importBatch(batch060 as RawQuestion[]),
+    ...importBatch(batch061 as RawQuestion[]),
+    ...importBatch(batch062 as RawQuestion[]),
+    ...importBatch(batch063 as RawQuestion[]),
+    ...importBatch(batch064 as RawQuestion[]),
+    ...importBatch(batch065 as RawQuestion[]),
+    ...importBatch(batch066 as RawQuestion[]),
+    ...importBatch(batch067 as RawQuestion[]),
+    ...importBatch(batch068 as RawQuestion[]),
+    ...importBatch(batch069 as RawQuestion[]),
+    ...importBatch(batch070 as RawQuestion[]),
+    ...importBatch(batch071 as RawQuestion[]),
 ];
 
 // Apply advanced deduplication

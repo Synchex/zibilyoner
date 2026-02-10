@@ -88,12 +88,32 @@ import {
 // Import generated batches
 import batch030 from './seeds/batch_030_en_history_generated.json';
 import batch031 from './seeds/batch_031_en_history_expansion.json';
+import batch040 from './seeds/batch_040_en_general_easy.json';
+import batch041 from './seeds/batch_041_en_general_easy.json';
+import batch042 from './seeds/batch_042_en_general_easy.json';
+import batch043 from './seeds/batch_043_en_general_easy.json';
+import batch044 from './seeds/batch_044_en_general_medium.json';
+import batch045 from './seeds/batch_045_en_general_medium.json';
+import batch046 from './seeds/batch_046_en_general_medium.json';
+import batch047 from './seeds/batch_047_en_general_medium.json';
+import batch048 from './seeds/batch_048_en_general_medium.json';
+import batch049 from './seeds/batch_049_en_general_medium.json';
 
 // Combine static base questions with imported batches
 const allQuestions: Question[] = [
     ...baseQuestions,
     ...(batch030 as Question[]),
     ...(batch031 as Question[]),
+    ...(batch040 as Question[]),
+    ...(batch041 as Question[]),
+    ...(batch042 as Question[]),
+    ...(batch043 as Question[]),
+    ...(batch044 as Question[]),
+    ...(batch045 as Question[]),
+    ...(batch046 as Question[]),
+    ...(batch047 as Question[]),
+    ...(batch048 as Question[]),
+    ...(batch049 as Question[]),
 ];
 
 // Apply advanced deduplication

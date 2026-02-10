@@ -1,0 +1,802 @@
+[
+    {
+        "id": 40101,
+        "question": "What is the capital of Great Britain?",
+        "answers": [
+            "London",
+            "Manchester",
+            "Liverpool",
+            "Edinburgh"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40102,
+        "question": "How many states are in the USA?",
+        "answers": [
+            "48",
+            "50",
+            "52",
+            "60"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40103,
+        "question": "Which animal is the symbol of the USA?",
+        "answers": [
+            "Lion",
+            "Eagle",
+            "Bear",
+            "Wolf"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40104,
+        "question": "What is the hardest natural substance?",
+        "answers": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Silver"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40105,
+        "question": "Which planet has rings?",
+        "answers": [
+            "Venus",
+            "Mars",
+            "Saturn",
+            "Mercury"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40106,
+        "question": "What do you use to see things?",
+        "answers": [
+            "Nose",
+            "Ears",
+            "Eyes",
+            "Mouth"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40107,
+        "question": "Which fruit is green on the outside and red on the inside?",
+        "answers": [
+            "Kiwi",
+            "Watermelon",
+            "Apple",
+            "Grape"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40108,
+        "question": "How many days are in a year?",
+        "answers": [
+            "300",
+            "365",
+            "400",
+            "500"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40109,
+        "question": "What is the tallest animal?",
+        "answers": [
+            "Elephant",
+            "Giraffe",
+            "Lion",
+            "Zebra"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40110,
+        "question": "Which shape has four equal sides?",
+        "answers": [
+            "Rectangle",
+            "Square",
+            "Triangle",
+            "Circle"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "math"
+        ]
+    },
+    {
+        "id": 40111,
+        "question": "Who created Facebook?",
+        "answers": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Mark Zuckerberg",
+            "Elon Musk"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40112,
+        "question": "What do caterpillars turn into?",
+        "answers": [
+            "Spiders",
+            "Butterflies",
+            "Bees",
+            "Ants"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40113,
+        "question": "Which ocean is the largest?",
+        "answers": [
+            "Indian",
+            "Atlantic",
+            "Pacific",
+            "Arctic"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40114,
+        "question": "What is the main language of Brazil?",
+        "answers": [
+            "Spanish",
+            "French",
+            "Portuguese",
+            "Italian"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40115,
+        "question": "What is the symbol for gold?",
+        "answers": [
+            "Au",
+            "Ag",
+            "Fe",
+            "Cu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40116,
+        "question": "Who painted the Mona Lisa?",
+        "answers": [
+            "Van Gogh",
+            "Picasso",
+            "Da Vinci",
+            "Rembrandt"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40117,
+        "question": "What is the capital of Spain?",
+        "answers": [
+            "Barcelona",
+            "Madrid",
+            "Seville",
+            "Valencia"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40118,
+        "question": "How many centimeters in a meter?",
+        "answers": [
+            "10",
+            "100",
+            "1000",
+            "50"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "math"
+        ]
+    },
+    {
+        "id": 40119,
+        "question": "Which animal is man's best friend?",
+        "answers": [
+            "Cat",
+            "Dog",
+            "Fish",
+            "Bird"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40120,
+        "question": "What do pandas eat?",
+        "answers": [
+            "Grass",
+            "Bamboo",
+            "Meat",
+            "Fruit"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40121,
+        "question": "Which planet is famous for its red color?",
+        "answers": [
+            "Mars",
+            "Jupiter",
+            "Venus",
+            "Pluto"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40122,
+        "question": "Who wrote Romeo and Juliet?",
+        "answers": [
+            "Dickens",
+            "Shakespeare",
+            "Twain",
+            "Hemingway"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40123,
+        "question": "Which country is shaped like a boot?",
+        "answers": [
+            "France",
+            "Spain",
+            "Italy",
+            "Greece"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40124,
+        "question": "What causes tides?",
+        "answers": [
+            "Sun",
+            "Moon",
+            "Earth",
+            "Wind"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40125,
+        "question": "Which is the fastest land animal?",
+        "answers": [
+            "Lion",
+            "Leopard",
+            "Cheetah",
+            "Tiger"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40126,
+        "question": "What is the freezing point of water in Fahrenheit?",
+        "answers": [
+            "0",
+            "10",
+            "32",
+            "100"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40127,
+        "question": "How many players are on a basketball team?",
+        "answers": [
+            "4",
+            "5",
+            "6",
+            "11"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sports"
+        ]
+    },
+    {
+        "id": 40128,
+        "question": "Which bird is the symbol of peace?",
+        "answers": [
+            "Eagle",
+            "Owl",
+            "Dove",
+            "Crow"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40129,
+        "question": "What connects your foot to your leg?",
+        "answers": [
+            "Knee",
+            "Ankle",
+            "Elbow",
+            "Wrist"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40130,
+        "question": "Which planet is the largest?",
+        "answers": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40131,
+        "question": "What gas do plants breathe in?",
+        "answers": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40132,
+        "question": "Which country has the Pyramids?",
+        "answers": [
+            "Greece",
+            "Italy",
+            "Egypt",
+            "Mexico"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40133,
+        "question": "What is the currency of the UK?",
+        "answers": [
+            "Euro",
+            "Dollar",
+            "Pound",
+            "Yen"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40134,
+        "question": "Who was the first man on the moon?",
+        "answers": [
+            "Buzz Aldrin",
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "John Glenn"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40135,
+        "question": "Which sea creature has 8 legs?",
+        "answers": [
+            "Squid",
+            "Octopus",
+            "Crab",
+            "Fish"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40136,
+        "question": "What is the capital of China?",
+        "answers": [
+            "Shanghai",
+            "Beijing",
+            "Hong Kong",
+            "Tokyo"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40137,
+        "question": "How many seconds in a minute?",
+        "answers": [
+            "30",
+            "45",
+            "60",
+            "90"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "math"
+        ]
+    },
+    {
+        "id": 40138,
+        "question": "Which fruit is dried to make raisins?",
+        "answers": [
+            "Plum",
+            "Grape",
+            "Apple",
+            "Fig"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40139,
+        "question": "What do you use to row a boat?",
+        "answers": [
+            "Paddle",
+            "Stick",
+            "Pole",
+            "Rope"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40140,
+        "question": "Which of these is a reptile?",
+        "answers": [
+            "Frog",
+            "Snake",
+            "Fish",
+            "Bird"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40141,
+        "question": "What is the center of an atom called?",
+        "answers": [
+            "Electron",
+            "Proton",
+            "Nucleus",
+            "Neutron"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40142,
+        "question": "Who invented the light bulb?",
+        "answers": [
+            "Tesla",
+            "Edison",
+            "Bell",
+            "Einstein"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40143,
+        "question": "Which big cat has stripes?",
+        "answers": [
+            "Lion",
+            "Leopard",
+            "Tiger",
+            "Cheetah"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40144,
+        "question": "How many continents are there?",
+        "answers": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40145,
+        "question": "What is the official language of Mexico?",
+        "answers": [
+            "English",
+            "Spanish",
+            "Portuguese",
+            "French"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40146,
+        "question": "Which month has 28 days?",
+        "answers": [
+            "January",
+            "February",
+            "March",
+            "April"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40147,
+        "question": "What is the plural of 'child'?",
+        "answers": [
+            "Childs",
+            "Children",
+            "Kid",
+            "Baby"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "language"
+        ]
+    },
+    {
+        "id": 40148,
+        "question": "Which is the hottest planet?",
+        "answers": [
+            "Mercury",
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40149,
+        "question": "What do we use to smell?",
+        "answers": [
+            "Eyes",
+            "Ears",
+            "Nose",
+            "Mouth"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40150,
+        "question": "Who is the Greek god of the sea?",
+        "answers": [
+            "Zeus",
+            "Hades",
+            "Poseidon",
+            "Apollo"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "legends"
+        ]
+    }
+]

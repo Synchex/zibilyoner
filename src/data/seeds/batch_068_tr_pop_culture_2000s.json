@@ -1,0 +1,809 @@
+[
+    {
+        "id": 50901,
+        "question": "2000'li yılların başında fenomen olan 'Biri Bizi Gözetliyor' (BBG) evinin ilk galibi kimdir?",
+        "answers": [
+            "Melih",
+            "Eray",
+            "Hülya",
+            "Tarık"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50902,
+        "question": "'Avrupa Yakası' dizisinde 'Burhan Altıntop' karakterini kim canlandırmıştır?",
+        "answers": [
+            "Engin Günaydın",
+            "Ata Demirer",
+            "Gazanfer Özcan",
+            "Hakan Yılmaz"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50903,
+        "question": "Hangi dizi 2000'lerde 'Çaycı Hüseyin' karakteriyle akıllara kazınmıştır?",
+        "answers": [
+            "Çocuklar Duymasın",
+            "En Son Babalar Duyar",
+            "Ayrılsak da Beraberiz",
+            "Yarım Elma"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50904,
+        "question": "'Yabancı Damat' dizisindeki damat karakterinin adı neydi?",
+        "answers": [
+            "Niko",
+            "Alex",
+            "Dimitri",
+            "Yorgo"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50905,
+        "question": "2002 Dünya Kupası'nda Türkiye kaçıncı olmuştur?",
+        "answers": [
+            "3.",
+            "2.",
+            "4.",
+            "Şampiyon"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur",
+            "spor"
+        ]
+    },
+    {
+        "id": 50906,
+        "question": "'Popstar Türkiye' yarışmasının ilk sezon birincisi kimdir?",
+        "answers": [
+            "Abidin",
+            "Bayhan",
+            "Firdevs",
+            "Elena"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50907,
+        "question": "'G.O.R.A.' filminde Cem Yılmaz'ın canlandırdığı ana karakterin adı nedir?",
+        "answers": [
+            "Arif Işık",
+            "Erşan Kuneri",
+            "Komutan Logar",
+            "Garavel"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50908,
+        "question": "Hangi grup 'Yalan' şarkısıyla 2000'lerde büyük çıkış yapmıştır?",
+        "answers": [
+            "Athena",
+            "Duman",
+            "Mor ve Ötesi",
+            "Kargo"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur",
+            "muzik"
+        ]
+    },
+    {
+        "id": 50909,
+        "question": "'Asmalı Konak' dizisinin başrolleri kimlerdi?",
+        "answers": [
+            "Özcan Deniz - Nurgül Yeşilçay",
+            "Kenan İmirzalıoğlu - Zeynep Tokuş",
+            "Tamer Karadağlı - Pınar Altuğ",
+            "Haluk Bilginer - Türkan Şoray"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50910,
+        "question": "Eurovision 2003 birincisi Sertab Erener'in koreografisinde kullanılan aksesuarlar neydi?",
+        "answers": [
+            "Pembe Kurdeleler",
+            "Ziller",
+            "Tefler",
+            "Yelpazeler"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50911,
+        "question": "'Ekmek Teknesi' dizisinde 'Heredot Cevdet'i kim canlandırmıştır?",
+        "answers": [
+            "Hasan Kaçan",
+            "Şafak Sezer",
+            "Peker Açıkalın",
+            "Kadir Çöpdemir"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50912,
+        "question": "Hangi şarkıcı 'Dansöz' şarkısıyla 2000'lerin ortasında hit olmuştur?",
+        "answers": [
+            "Serdar Ortaç",
+            "Tarkan",
+            "Mustafa Sandal",
+            "Kenan Doğulu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50913,
+        "question": "'Kurtlar Vadisi' dizisinde 'Çakır' karakterini kim canlandırmıştır?",
+        "answers": [
+            "Oktay Kaynarca",
+            "Necati Şaşmaz",
+            "Gürkan Uygun",
+            "Kenan Çoban"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50914,
+        "question": "2000'lerde 'Of Of' şarkısıyla çıkış yapan şarkıcı kimdir?",
+        "answers": [
+            "Gülşen",
+            "Demet Akalın",
+            "Hande Yener",
+            "Sıla"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50915,
+        "question": "'Selena' dizisinde Selena karakterini kim canlandırmıştır?",
+        "answers": [
+            "Sinem Kobal",
+            "Merve Boluğur",
+            "Gizem Karaca",
+            "Serenay Sarıkaya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50916,
+        "question": "Hangi film 2005 yılında 'Babam ve Oğlum' ile gişe rekorları kırmıştır?",
+        "answers": [
+            "Babam ve Oğlum",
+            "Vizontele",
+            "G.O.R.A.",
+            "Organize İşler"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50917,
+        "question": "'Doktorlar' dizisinde 'Levent' karakterini kim canlandırmıştır?",
+        "answers": [
+            "Kutsi",
+            "Burak Özçivit",
+            "İlker İnanoğlu",
+            "Bekir Aksoy"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50918,
+        "question": "2008 Avrupa Futbol Şampiyonası'nda Türkiye hangi aşamaya kadar yükseldi?",
+        "answers": [
+            "Yarı Final",
+            "Çeyrek Final",
+            "Final",
+            "Grup"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur",
+            "spor"
+        ]
+    },
+    {
+        "id": 50919,
+        "question": "'Var Mısın Yok Musun' yarışmasını kim sunmuştur?",
+        "answers": [
+            "Acun Ilıcalı",
+            "Mehmet Ali Erbil",
+            "Beyazıt Öztürk",
+            "Okan Bayülgen"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50920,
+        "question": "'Yaprak Dökümü' dizisinde ailenin babası Ali Rıza Bey'i kim canlandırmıştır?",
+        "answers": [
+            "Halil Ergün",
+            "Çetin Tekindor",
+            "Şener Şen",
+            "Rutkay Aziz"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50921,
+        "question": "'Aşk-ı Memnu' dizisinde finalde intihar eden karakter kimdir?",
+        "answers": [
+            "Bihter",
+            "Behlül",
+            "Adnan",
+            "Nihal"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50922,
+        "question": "Cep telefonlarının yaygınlaştığı 2000'lerde en popüler 'Yılan Oyunu' hangi markayla özdeşleşmiştir?",
+        "answers": [
+            "Nokia",
+            "Ericsson",
+            "Samsung",
+            "Motorola"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur",
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50923,
+        "question": "'Recep İvedik' karakteri ilk olarak hangi programda ortaya çıkmıştır?",
+        "answers": [
+            "Dikkat Şahan Çıkabilir",
+            "Komedi Dükkanı",
+            "Beyaz Show",
+            "Olacak O Kadar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50924,
+        "question": "2000 yılında Galatasaray hangi kupayı kazanmıştır (Avrupa)?",
+        "answers": [
+            "UEFA Kupası ve Süper Kupa",
+            "Şampiyonlar Ligi",
+            "Kupa Galipleri Kupası",
+            "Intertoto Kupası"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur",
+            "spor"
+        ]
+    },
+    {
+        "id": 50925,
+        "question": "'Sihirli Annem' dizisindeki perinin adı neydi?",
+        "answers": [
+            "Betüş",
+            "Suzan",
+            "Eda",
+            "Toprak"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50926,
+        "question": "'Beyaz Gelincik' dizisinin başrol oyuncusu kimdir?",
+        "answers": [
+            "Mehmet Günsür",
+            "Erkan Petekkaya",
+            "Halit Ergenç",
+            "Nejat İşler"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50927,
+        "question": "Hangi şarkıcı 2000'lerde 'Çakkıdı' şarkısıyla dans ettirmiştir?",
+        "answers": [
+            "Kenan Doğulu",
+            "Tarkan",
+            "Mustafa Sandal",
+            "Serdar Ortaç"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50928,
+        "question": "'Yedi Numara' dizisi hangi türdedir?",
+        "answers": [
+            "Komedi",
+            "Dram",
+            "Aksiyon",
+            "Korku"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50929,
+        "question": "2009 yılında 'Düm Tek Tek' ile Eurovision'a katılan sanatçı kimdir?",
+        "answers": [
+            "Hadise",
+            "Murat Boz",
+            "Atiye",
+            "Manga"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50930,
+        "question": "'Aliye' dizisinde çocuklarını almaya çalışan anneyi kim oynamıştır?",
+        "answers": [
+            "Sanem Çelik",
+            "Bennu Yıldırımlar",
+            "Ceyda Düvenci",
+            "Nurgül Yeşilçay"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50931,
+        "question": "Hangi talk-show programı Cuma geceleriyle özdeşleşmiştir?",
+        "answers": [
+            "Beyaz Show",
+            "Makina",
+            "Zaga",
+            "Disko Kralı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50932,
+        "question": "'Issız Adam' filminde çalan ve tekrar popüler olan şarkı hangisidir?",
+        "answers": [
+            "Anlamazdın (Ayla Dikmen)",
+            "Bana Yalan Söylediler",
+            "Sevdim Seni Bir Kere",
+            "Sultan-ı Yegah"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50933,
+        "question": "'Binbir Gece' dizisinde Şehrazat karakterini kim oynamıştır?",
+        "answers": [
+            "Bergüzar Korel",
+            "Cansu Dere",
+            "Tuba Büyüküstün",
+            "Beren Saat"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50934,
+        "question": "2000'lerde 'Buralardan Giderim' şarkısıyla bilinen sanatçı kimdir?",
+        "answers": [
+            "Nil Karaibrahimgil",
+            "Göksel",
+            "Candan Erçetin",
+            "Sertab Erener"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50935,
+        "question": "'Geniş Aile' dizisindeki 'Cevahir' karakterinin lakabı neydi?",
+        "answers": [
+            "Cücü",
+            "Koyu Bilal",
+            "Ulvi",
+            "Mürsel"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50936,
+        "question": "Hangi grup 'Bir İstanbul Masalı' dizisinin müziklerini yapmıştır?",
+        "answers": [
+            "Kıraç",
+            "Toygar Işıklı",
+            "Demir Demirkan",
+            "Gökhan Kırdar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50937,
+        "question": "'Çemberimde Gül Oya' dizisinin yönetmeni kimdir?",
+        "answers": [
+            "Çağan Irmak",
+            "Osman Sınav",
+            "Tomris Giritlioğlu",
+            "Faruk Teber"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50938,
+        "question": "'Hayat Bilgisi' dizisindeki 'Afet Hoca' karakterini kim canlandırmıştır?",
+        "answers": [
+            "Perran Kutman",
+            "Demet Akbağ",
+            "Yasemin Yalçın",
+            "Oya Başar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50939,
+        "question": "2000 yılında olimpiyatlarda altın madalya alan haltercimiz kimdir?",
+        "answers": [
+            "Halil Mutlu",
+            "Naim Süleymanoğlu",
+            "Taner Sağır",
+            "Nurcan Taylan"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur",
+            "spor"
+        ]
+    },
+    {
+        "id": 50940,
+        "question": "'Yılan Hikayesi' dizisinde Memoli'nin köylü kızı partneri kimdi?",
+        "answers": [
+            "Zeyno (Meltem Cumbul)",
+            "Elif (Ece Uslu)",
+            "Zeynep (Sanem Çelik)",
+            "Ayşe (Aydan Şener)"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50941,
+        "question": "'Eyvah Eyvah' film serisi hangi ilimizde geçer (çoğunlukla)?",
+        "answers": [
+            "Çanakkale (Geyikli)",
+            "İzmir",
+            "Muğla",
+            "Balıkesir"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50942,
+        "question": "Hangi şarkıcı 'Kuzu Kuzu' şarkısıyla 2001 yılına damga vurmuştur?",
+        "answers": [
+            "Tarkan",
+            "Mustafa Sandal",
+            "Hakan Peker",
+            "Çelik"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50943,
+        "question": "'Tatlı Hayat' dizisinde İhsan Yıldırım karakterini kim oynamıştır?",
+        "answers": [
+            "Haluk Bilginer",
+            "Türkan Şoray",
+            "Çolpan İlhan",
+            "Emre Altuğ"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50944,
+        "question": "2000'lerin başında gençler arasında popüler olan mesajlaşma programı hangisiydi?",
+        "answers": [
+            "MSN Messenger",
+            "ICQ",
+            "Skype",
+            "IRC"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur",
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50945,
+        "question": "'Hatırla Sevgili' dizisi hangi dönemleri anlatır?",
+        "answers": [
+            "50'ler, 60'lar, 70'ler",
+            "80'ler",
+            "90'lar",
+            "Osmanlı Dönemi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50946,
+        "question": "Hangi şarkıcı 'Depresyondayım' şarkısıyla tanınmıştır?",
+        "answers": [
+            "Göksel",
+            "Nazan Öncel",
+            "Aylin Aslım",
+            "Şebnem Ferah"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50947,
+        "question": "'İkinci Bahar' dizisinde Türkan Şoray ile başrolü kim paylaşmıştır?",
+        "answers": [
+            "Şener Şen",
+            "Kadir İnanır",
+            "Cüneyt Arkın",
+            "Tarık Akan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50948,
+        "question": "'Beyaz Gölge' dizisinden esinlenilen yerli dizi hangisidir?",
+        "answers": [
+            "Koçum Benim",
+            "Lise Defteri",
+            "Hayat Bilgisi",
+            "Kampüsistan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50949,
+        "question": "2000'lerde 'Arap Saçı' şarkısını coverlayan rock grubu hangisidir?",
+        "answers": [
+            "Funda Arar (Kıraç ile değil, Funda Arar coverı popülerdi ama Rock olarak: Erkin Koray orijinal, dizi için kullanılan versiyon Funda Arar)",
+            "Haluk Levent",
+            "Barış Akarsu",
+            "Ogün Sanlısoy"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_kultur"
+        ]
+    },
+    {
+        "id": 50950,
+        "question": "'Organize İşler' filminde Süpermen Samet'i kim oynamıştır?",
+        "answers": [
+            "Tolga Çevik",
+            "Yılmaz Erdoğan",
+            "Cem Yılmaz",
+            "Altan Erkekli"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_kultur"
+        ]
+    }
+]

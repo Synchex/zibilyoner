@@ -1,0 +1,802 @@
+[
+    {
+        "id": 50351,
+        "question": "Türkiye'nin telefon kodu kaçtır?",
+        "answers": [
+            "+90",
+            "+1",
+            "+49",
+            "+33"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 50352,
+        "question": "Hangi ülkenin bayrağında ay ve yıldız yoktur?",
+        "answers": [
+            "Türkiye",
+            "Azerbaycan",
+            "Pakistan",
+            "Japonya"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 50353,
+        "question": "Bir futbol takımı sahaya kaç kişiyle çıkar?",
+        "answers": [
+            "10",
+            "11",
+            "12",
+            "9"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "spor"
+        ]
+    },
+    {
+        "id": 50354,
+        "question": "Hangi elementin simgesi 'H'dir?",
+        "answers": [
+            "Hidrojen",
+            "Helyum",
+            "Hafniyum",
+            "Holmiyum"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50355,
+        "question": "Suyun donma noktası kaç derecedir?",
+        "answers": [
+            "0",
+            "10",
+            "-5",
+            "4"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50356,
+        "question": "Hangi oyun taşı 'Şah'tır?",
+        "answers": [
+            "Satranç",
+            "Dama",
+            "Tavla",
+            "Domino"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hobi"
+        ]
+    },
+    {
+        "id": 50357,
+        "question": "Türkiye'nin en uzun nehri Fırat nereye dökülür?",
+        "answers": [
+            "Basra Körfezi",
+            "Karadeniz",
+            "Akdeniz",
+            "Ege Denizi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50358,
+        "question": "Ramazan Bayramı'ndan sonraki bayram hangisidir?",
+        "answers": [
+            "Kurban Bayramı",
+            "Zafer Bayramı",
+            "Cumhuriyet Bayramı",
+            "Nevruz"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50359,
+        "question": "Üzümü ile meşhur peygamber hangisidir? (Mecazi: Hangi peygamber sabrıyla bilinir?)",
+        "answers": [
+            "Hz. Eyüp",
+            "Hz. İbrahim",
+            "Hz. Musa",
+            "Hz. İsa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "din"
+        ]
+    },
+    {
+        "id": 50360,
+        "question": "Hangi gezegen Güneş'e en yakındır?",
+        "answers": [
+            "Merkür",
+            "Venüs",
+            "Dünya",
+            "Mars"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50361,
+        "question": "Türkiye'de kaç coğrafi bölge vardır?",
+        "answers": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50362,
+        "question": "Hangisi bir doğal sayıdır?",
+        "answers": [
+            "-5",
+            "1/2",
+            "0",
+            "0.5"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "matematik"
+        ]
+    },
+    {
+        "id": 50363,
+        "question": "Bir yıl kaç haftadır?",
+        "answers": [
+            "52",
+            "48",
+            "50",
+            "54"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 50364,
+        "question": "Hangi hayvan kanatlıdır ama kuş değildir?",
+        "answers": [
+            "Yarasa",
+            "Penguen",
+            "Devekuşu",
+            "Tavuk"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50365,
+        "question": "Türkiye'nin en kalabalık ikinci şehri hangisidir?",
+        "answers": [
+            "Ankara",
+            "İzmir",
+            "Bursa",
+            "Antalya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "nufus"
+        ]
+    },
+    {
+        "id": 50366,
+        "question": "Hangi meyve 'Egzotik' olarak sınıflandırılır?",
+        "answers": [
+            "Elma",
+            "Armut",
+            "Ananas",
+            "Üzüm"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50367,
+        "question": "Hangi ilimizde 'Kapadokya' yer alır?",
+        "answers": [
+            "Nevşehir",
+            "Kayseri",
+            "Aksaray",
+            "Niğde"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50368,
+        "question": "Hangi spor dalında 'Rövaşata' vardır?",
+        "answers": [
+            "Futbol",
+            "Basketbol",
+            "Tenis",
+            "Voleybol"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "spor"
+        ]
+    },
+    {
+        "id": 50369,
+        "question": "Hangi mevsimde yapraklar sararır ve dökülür?",
+        "answers": [
+            "Sonbahar",
+            "Kış",
+            "İlkbahar",
+            "Yaz"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "doga"
+        ]
+    },
+    {
+        "id": 50370,
+        "question": "Hangi alet yön bulmamıza yarar?",
+        "answers": [
+            "Pusula",
+            "Termometre",
+            "Barometre",
+            "Kronometre"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 50371,
+        "question": "Türkiye'nin en batı ucu hangi ilimizdedir?",
+        "answers": [
+            "Çanakkale (Gökçeada)",
+            "İzmir",
+            "Edirne",
+            "Muğla"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50372,
+        "question": "Hangi gezegenin halkaları meşhurdur?",
+        "answers": [
+            "Satürn",
+            "Mars",
+            "Venüs",
+            "Merkür"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50373,
+        "question": "İstiklal Marşı kaç kıtadır?",
+        "answers": [
+            "10",
+            "8",
+            "4",
+            "2"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50374,
+        "question": "Hangi ilimizin plaka kodu 34'tür?",
+        "answers": [
+            "İstanbul",
+            "İzmir",
+            "Bursa",
+            "Antalya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 50375,
+        "question": "Hangi hayvan kış uykusuna yatar?",
+        "answers": [
+            "Ayı",
+            "Kurt",
+            "Aslan",
+            "Kartal"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50376,
+        "question": "Dünyanın en yüksek dağı hangisidir?",
+        "answers": [
+            "Everest",
+            "K2",
+            "Alpler",
+            "Kilimanjaro"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50377,
+        "question": "Hangi renk ana renk değildir?",
+        "answers": [
+            "Yeşil",
+            "Kırmızı",
+            "Mavi",
+            "Sarı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 50378,
+        "question": "Türkiye'nin ilk kadın başbakanı kimdir?",
+        "answers": [
+            "Tansu Çiller",
+            "Meral Akşener",
+            "Rahşan Ecevit",
+            "Behice Boran"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "siyaset"
+        ]
+    },
+    {
+        "id": 50379,
+        "question": "Hangi organ solunum sisteminin parçasıdır?",
+        "answers": [
+            "Akciğer",
+            "Kalp",
+            "Mide",
+            "Karaciğer"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50380,
+        "question": "Hangi ilimizde 'Anıtkabir' bulunur?",
+        "answers": [
+            "Ankara",
+            "İstanbul",
+            "İzmir",
+            "Çanakkale"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50381,
+        "question": "Hangi ay 28 veya 29 çeker?",
+        "answers": [
+            "Şubat",
+            "Mart",
+            "Nisan",
+            "Ocak"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 50382,
+        "question": "Hangi maden elektriği en iyi iletir (kullanılanlar arasında)?",
+        "answers": [
+            "Bakır",
+            "Altın",
+            "Gümüş",
+            "Demir"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50383,
+        "question": "Türkiye'nin en uzun sınır komşusu hangisidir?",
+        "answers": [
+            "Suriye",
+            "İran",
+            "Irak",
+            "Yunanistan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50384,
+        "question": "Hangi hayvanın yavrusuna 'Enik' denir?",
+        "answers": [
+            "Köpek/Kedi",
+            "At",
+            "İnek",
+            "Koyun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50385,
+        "question": "Hangi şehir 'Gazi' unvanına sahiptir?",
+        "answers": [
+            "Antep",
+            "Urfa",
+            "Maraş",
+            "Adana"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50386,
+        "question": "Hangi gezegen 'Akşam Yıldızı' olarak da bilinir?",
+        "answers": [
+            "Venüs",
+            "Mars",
+            "Jüpiter",
+            "Satürn"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50387,
+        "question": "Hangi tatlı Gaziantep ile özdeşleşmiştir?",
+        "answers": [
+            "Baklava",
+            "Künefe",
+            "Sütlaç",
+            "Kazandibi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50388,
+        "question": "Hangi ilimizde deniz yoktur?",
+        "answers": [
+            "Eskişehir",
+            "Mersin",
+            "Trabzon",
+            "İzmir"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50389,
+        "question": "Dünyanın en büyük okyanusu hangisidir?",
+        "answers": [
+            "Büyük Okyanus (Pasifik)",
+            "Atlas Okyanusu",
+            "Hint Okyanusu",
+            "Arktik Okyanusu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50390,
+        "question": "Hangi Türk büyüğü 'Ne olursan ol yine gel' demiştir?",
+        "answers": [
+            "Mevlana",
+            "Yunus Emre",
+            "Hacı Bektaş Veli",
+            "Ahmet Yesevi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50391,
+        "question": "Hangi araç ray üzerinde gider?",
+        "answers": [
+            "Tren",
+            "Otobüs",
+            "Uçak",
+            "Gemi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "ulasim"
+        ]
+    },
+    {
+        "id": 50392,
+        "question": "Hangi elementin simgesi 'O'dur?",
+        "answers": [
+            "Oksijen",
+            "Osmiyum",
+            "Oganesson",
+            "Oksit"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50393,
+        "question": "Hangi ilimizde 'Aspendos' antik tiyatrosu bulunur?",
+        "answers": [
+            "Antalya",
+            "Muğla",
+            "İzmir",
+            "Aydın"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50394,
+        "question": "Hangi hayvanın dişisi 'İnek'tir?",
+        "answers": [
+            "Sığır",
+            "Koyun",
+            "At",
+            "Keçi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50395,
+        "question": "Hangi ilimiz 'Çay' üretimiyle bilinir?",
+        "answers": [
+            "Rize",
+            "Ordu",
+            "Giresun",
+            "Samsun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "tarim"
+        ]
+    },
+    {
+        "id": 50396,
+        "question": "Türkiye'nin en büyük gölü hangisidir?",
+        "answers": [
+            "Van Gölü",
+            "Tuz Gölü",
+            "Beyşehir",
+            "Eğirdir"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50397,
+        "question": "Hangi renk beyaz ile siyahın karışımıdır?",
+        "answers": [
+            "Gri",
+            "Kahverengi",
+            "Mor",
+            "Pembe"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 50398,
+        "question": "Hangi ilimizde 'Pamukkale' bulunur?",
+        "answers": [
+            "Denizli",
+            "Burdur",
+            "Isparta",
+            "Afyon"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50399,
+        "question": "Hangi hayvan 'Miyav' der?",
+        "answers": [
+            "Kedi",
+            "Köpek",
+            "Kuş",
+            "İnek"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50400,
+        "question": "Hangi ilimiz başkenttir?",
+        "answers": [
+            "Ankara",
+            "İstanbul",
+            "İzmir",
+            "Bursa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    }
+]

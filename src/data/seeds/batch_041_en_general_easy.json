@@ -1,0 +1,802 @@
+[
+    {
+        "id": 40051,
+        "question": "Which animal has a trunk?",
+        "answers": [
+            "Elephant",
+            "Giraffe",
+            "Rhino",
+            "Hippo"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40052,
+        "question": "What comes after the letter B?",
+        "answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40053,
+        "question": "Which fruit is red and has seeds on the outside?",
+        "answers": [
+            "Banana",
+            "Strawberry",
+            "Orange",
+            "Kiwi"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40054,
+        "question": "What is the opposite of 'up'?",
+        "answers": [
+            "Down",
+            "Left",
+            "Right",
+            "Over"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40055,
+        "question": "How many months are in a year?",
+        "answers": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40056,
+        "question": "Which of these is a primary color?",
+        "answers": [
+            "Green",
+            "Purple",
+            "Red",
+            "Orange"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40057,
+        "question": "What do fish use to breathe?",
+        "answers": [
+            "Lungs",
+            "Gills",
+            "Nose",
+            "Mouth"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40058,
+        "question": "Which season is the coldest?",
+        "answers": [
+            "Summer",
+            "Winter",
+            "Spring",
+            "Autumn"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40059,
+        "question": "What is the name of the toy cowboy in Toy Story?",
+        "answers": [
+            "Buzz",
+            "Woody",
+            "Jessie",
+            "Rex"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture"
+        ]
+    },
+    {
+        "id": 40060,
+        "question": "What do you use to cut paper?",
+        "answers": [
+            "Hammer",
+            "Scissors",
+            "Spoon",
+            "Fork"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40061,
+        "question": "Which animal says 'quack'?",
+        "answers": [
+            "Dog",
+            "Cat",
+            "Duck",
+            "Cow"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40062,
+        "question": "What shape is a soccer ball?",
+        "answers": [
+            "Square",
+            "Triangle",
+            "Round",
+            "Flat"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sports"
+        ]
+    },
+    {
+        "id": 40063,
+        "question": "What color are bananas when ripe?",
+        "answers": [
+            "Green",
+            "Purple",
+            "Yellow",
+            "Blue"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40064,
+        "question": "Who is Mickey Mouse's girlfriend?",
+        "answers": [
+            "Daisy",
+            "Minnie",
+            "Clarabelle",
+            "Goofy"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture"
+        ]
+    },
+    {
+        "id": 40065,
+        "question": "How many eyes do humans normally have?",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40066,
+        "question": "What is H2O commonly known as?",
+        "answers": [
+            "Salt",
+            "Sugar",
+            "Water",
+            "Air"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40067,
+        "question": "Which of these flies?",
+        "answers": [
+            "Car",
+            "Train",
+            "Plane",
+            "Boat"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40068,
+        "question": "What is the name of our galaxy?",
+        "answers": [
+            "Andromeda",
+            "Milky Way",
+            "Whirlpool",
+            "Sombrero"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40069,
+        "question": "Which animal has a long neck?",
+        "answers": [
+            "Lion",
+            "Giraffe",
+            "Bear",
+            "Wolf"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40070,
+        "question": "What is 5 + 5?",
+        "answers": [
+            "5",
+            "10",
+            "15",
+            "20"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "math"
+        ]
+    },
+    {
+        "id": 40071,
+        "question": "What color is the sky on a clear day?",
+        "answers": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40072,
+        "question": "Which profession fights fires?",
+        "answers": [
+            "Doctor",
+            "Teacher",
+            "Firefighter",
+            "Chef"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40073,
+        "question": "What do you use to make a call?",
+        "answers": [
+            "Toaster",
+            "Phone",
+            "Lamp",
+            "Chair"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40074,
+        "question": "Where does a king live?",
+        "answers": [
+            "Apartment",
+            "Castle",
+            "Tent",
+            "Cave"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40075,
+        "question": "What covers a bird's body?",
+        "answers": [
+            "Fur",
+            "Scales",
+            "Feathers",
+            "Skin"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40076,
+        "question": "Which of these is a musical instrument?",
+        "answers": [
+            "Hammer",
+            "Drum",
+            "Drill",
+            "Saw"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40077,
+        "question": "What is the opposite of 'fast'?",
+        "answers": [
+            "Slow",
+            "High",
+            "Low",
+            "Far"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40078,
+        "question": "Which planet do we live on?",
+        "answers": [
+            "Mars",
+            "Venus",
+            "Earth",
+            "Saturn"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40079,
+        "question": "What do you eat soup with?",
+        "answers": [
+            "Fork",
+            "Knife",
+            "Exhaust",
+            "Spoon"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40080,
+        "question": "Which animal is the largest land animal?",
+        "answers": [
+            "Rhino",
+            "Hippo",
+            "Elephant",
+            "Giraffe"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40081,
+        "question": "What color are traffic lights for 'stop'?",
+        "answers": [
+            "Green",
+            "Yellow",
+            "Red",
+            "Blue"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40082,
+        "question": "How many toes do you have on one foot?",
+        "answers": [
+            "4",
+            "5",
+            "6",
+            "10"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40083,
+        "question": "Which is a hot drink?",
+        "answers": [
+            "Ice Cream",
+            "Tea",
+            "Soda",
+            "Juice"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40084,
+        "question": "What do plants need to grow?",
+        "answers": [
+            "Candy",
+            "Water",
+            "Soda",
+            "Milk"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40085,
+        "question": "Which superhero is green and angry?",
+        "answers": [
+            "Superman",
+            "Hulk",
+            "Batman",
+            "Flash"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture"
+        ]
+    },
+    {
+        "id": 40086,
+        "question": "What is the day after Friday?",
+        "answers": [
+            "Thursday",
+            "Sunday",
+            "Saturday",
+            "Monday"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40087,
+        "question": "Which animal gives us wool?",
+        "answers": [
+            "Cow",
+            "Sheep",
+            "Pig",
+            "Horse"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40088,
+        "question": "What shape is a box?",
+        "answers": [
+            "Circle",
+            "Triangle",
+            "Square",
+            "Oval"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40089,
+        "question": "What is the opposite of 'big'?",
+        "answers": [
+            "Small",
+            "Tall",
+            "Fat",
+            "Wide"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40090,
+        "question": "Which room do you cook in?",
+        "answers": [
+            "Bathroom",
+            "Bedroom",
+            "Kitchen",
+            "Living Room"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40091,
+        "question": "What is the color of grass?",
+        "answers": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40092,
+        "question": "Who is the king of the gods in Greek mythology?",
+        "answers": [
+            "Poseidon",
+            "Hades",
+            "Zeus",
+            "Apollo"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "legends"
+        ]
+    },
+    {
+        "id": 40093,
+        "question": "What do you use to dry yourself after a shower?",
+        "answers": [
+            "Paper",
+            "Towel",
+            "Blanket",
+            "Rug"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40094,
+        "question": "Which farm animal says 'oink'?",
+        "answers": [
+            "Cow",
+            "Pig",
+            "Sheep",
+            "Duck"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40095,
+        "question": "What is 1 + 1?",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "11"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "math"
+        ]
+    },
+    {
+        "id": 40096,
+        "question": "What is the main color of a fire truck?",
+        "answers": [
+            "Blue",
+            "Red",
+            "Yellow",
+            "Green"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40097,
+        "question": "Which fruit keeps the doctor away?",
+        "answers": [
+            "Orange",
+            "Banana",
+            "Apple",
+            "Grape"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40098,
+        "question": "What do chickens lay?",
+        "answers": [
+            "Milk",
+            "Eggs",
+            "Wool",
+            "Honey"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40099,
+        "question": "What does a clock tell?",
+        "answers": [
+            "Temperature",
+            "Weather",
+            "Time",
+            "Weight"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40100,
+        "question": "Which is the smallest planet in our solar system?",
+        "answers": [
+            "Mars",
+            "Venus",
+            "Mercury",
+            "Earth"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    }
+]

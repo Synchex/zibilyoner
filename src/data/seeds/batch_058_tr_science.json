@@ -1,0 +1,803 @@
+[
+    {
+        "id": 50401,
+        "question": "Türkiye'nin ilk yerli haberleşme uydusu hangisidir?",
+        "answers": [
+            "Türksat 6A",
+            "Göktürk-1",
+            "Rasat",
+            "Bilsat"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim",
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50402,
+        "question": "Aziz Sancar hangi alanda Nobel Ödülü almıştır?",
+        "answers": [
+            "Fizik",
+            "Kimya",
+            "Biyoloji",
+            "Barış"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50403,
+        "question": "TÜBİTAK'ın açılımı nedir?",
+        "answers": [
+            "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu",
+            "Türkiye Bilim ve Teknik Kurumu",
+            "Türk Bilim Araştırma Merkezi",
+            "Teknoloji ve Bilim Kurumu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50404,
+        "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+        "answers": [
+            "Mars",
+            "Venüs",
+            "Jüpiter",
+            "Satürn"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50405,
+        "question": "Suyun kimyasal formülü nedir?",
+        "answers": [
+            "H2O",
+            "CO2",
+            "O2",
+            "NaCl"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50406,
+        "question": "İnternetin atası sayılan ağ hangisidir?",
+        "answers": [
+            "ARPANET",
+            "ETHERNET",
+            "INTRANAET",
+            "SKYNET"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orla",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50407,
+        "question": "Türkiye'nin ilk yerli otomobili TOGG'un fabrikası hangi ilimizdedir?",
+        "answers": [
+            "Bursa (Gemlik)",
+            "Kocaeli",
+            "İstanbul",
+            "Sakarya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "ayta",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50408,
+        "question": "Hangi kan grubu 'Genel Alıcı'dır?",
+        "answers": [
+            "AB Pozitif",
+            "0 Negatif",
+            "A Pozitif",
+            "B Negatif"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50409,
+        "question": "DNA'nın yapısını kimler bulmuştur?",
+        "answers": [
+            "Watson ve Crick",
+            "Pasteur ve Koch",
+            "Darwin ve Mendel",
+            "Newton ve Einstein"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50410,
+        "question": "Işık hızı saniyede yaklaşık kaç kilometredir?",
+        "answers": [
+            "300.000",
+            "150.000",
+            "1.000",
+            "1.000.000"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50411,
+        "question": "Hangi vitamin eksikliği 'Skorbut' hastalığına yol açar?",
+        "answers": [
+            "C",
+            "D",
+            "A",
+            "B12"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50412,
+        "question": "Türkiye'nin ilk nükleer santrali nerede yapılmaktadır?",
+        "answers": [
+            "Akkuyu (Mersin)",
+            "Sinop",
+            "İğneada",
+            "Zonguldak"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50413,
+        "question": "Bilgisayarın beyni olarak bilinen parça hangisidir?",
+        "answers": [
+            "İşlemci (CPU)",
+            "RAM",
+            "Sabit Disk",
+            "Ekran Kartı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50414,
+        "question": "Hangi elementin sembolü 'Ag'dir?",
+        "answers": [
+            "Gümüş",
+            "Altın",
+            "Argon",
+            "Alüminyum"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50415,
+        "question": "Dünyanın en büyük hayvanı hangisidir?",
+        "answers": [
+            "Mavi Balina",
+            "Fil",
+            "Zürafa",
+            "Köpekbalığı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50416,
+        "question": "Hangi gezegen Güneş Sistemi'nin en soğuk gezegenidir (cüce gezegenler hariç)?",
+        "answers": [
+            "Uranüs",
+            "Neptün",
+            "Satürn",
+            "Mars"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50417,
+        "question": "Yapay Zeka'nın babası kabul edilen bilim insanı kimdir?",
+        "answers": [
+            "Alan Turing",
+            "Bill Gates",
+            "Steve Jobs",
+            "Elon Musk"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50418,
+        "question": "Türkiye'nin Antarktika'daki bilim üssü hangi adadadır?",
+        "answers": [
+            "Horseshoe Adası",
+            "King George Adası",
+            "Adelaide Adası",
+            "Alexander Adası"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50419,
+        "question": "Hangi maden bor rezervi bakımından Türkiye dünyada birincidir?",
+        "answers": [
+            "Bor",
+            "Krom",
+            "Bakır",
+            "Altın"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50420,
+        "question": "Hangi bilim dalı fosilleri inceler?",
+        "answers": [
+            "Paleontoloji",
+            "Arkeoloji",
+            "Jeoloji",
+            "Antropoloji"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50421,
+        "question": "Güneş ışınlarının dünyaya ulaşması kaç dakika sürer?",
+        "answers": [
+            "8 dakika",
+            "1 dakika",
+            "1 saat",
+            "12 saat"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50422,
+        "question": "Hangi Türk matematikçi 'Arf Sabiti'ni bulmuştur?",
+        "answers": [
+            "Cahit Arf",
+            "Kerim Erim",
+            "Ali Kuşçu",
+            "Salih Zeki"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50423,
+        "question": "Yerçekimi kanununu kim bulmuştur?",
+        "answers": [
+            "Newton",
+            "Galileo",
+            "Einstein",
+            "Kepler"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50424,
+        "question": "Hangi organımız kanı pompalar?",
+        "answers": [
+            "Kalp",
+            "Akciğer",
+            "Beyin",
+            "Mide"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50425,
+        "question": "Cep telefonlarında kullanılan işletim sistemi hangisi değildir?",
+        "answers": [
+            "Windows 98",
+            "Android",
+            "iOS",
+            "HarmonyOS"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50426,
+        "question": "Türkiye'nin uzaya gönderdiği ilk yerli gözlem uydusu hangisidir?",
+        "answers": [
+            "Rasat",
+            "Göktürk-2",
+            "Bilsat",
+            "Türksat 1"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50427,
+        "question": "Hücrenin enerji santrali neresidir?",
+        "answers": [
+            "Mitokondri",
+            "Çekirdek",
+            "Ribozom",
+            "Lizozom"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50428,
+        "question": "Periyodik tabloda kaç element vardır? (Yaklaşık)",
+        "answers": [
+            "118",
+            "100",
+            "150",
+            "92"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50429,
+        "question": "Hangi gaz atmosferde en çok bulunur?",
+        "answers": [
+            "Azot",
+            "Oksijen",
+            "Karbondioksit",
+            "Argon"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50430,
+        "question": "TEKNOFEST ilk kez hangi yıl düzenlenmiştir?",
+        "answers": [
+            "2018",
+            "2015",
+            "2020",
+            "2010"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50431,
+        "question": "Hangisi yenilenebilir enerji kaynağıdır?",
+        "answers": [
+            "Güneş",
+            "Doğalgaz",
+            "Kömür",
+            "Petrol"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50432,
+        "question": "Hangi Türk hekim 'Behçet Hastalığı'nı tanımlamıştır?",
+        "answers": [
+            "Hulusi Behçet",
+            "Mazhar Osman",
+            "Siyami Ersek",
+            "Türkan Saylan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50433,
+        "question": "Dünyanın en zehirli hayvanlarından biri olan 'Kutu Denizanası' nerede yaşar?",
+        "answers": [
+            "Avustralya kıyıları",
+            "Akdeniz",
+            "Karadeniz",
+            "Hazar Denizi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50434,
+        "question": "Hangi gezegenin halkası yoktur?",
+        "answers": [
+            "Mars",
+            "Satürn",
+            "Jüpiter",
+            "Uranüs"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50435,
+        "question": "Elektrik akımını ölçen alet nedir?",
+        "answers": [
+            "Ampermetre",
+            "Voltmetre",
+            "Barometre",
+            "Termometre"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50436,
+        "question": "Türkiye'nin sismik araştırma gemisinin adı nedir?",
+        "answers": [
+            "Oruç Reis",
+            "Barbaros",
+            "Piri Reis",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50437,
+        "question": "Hangi hayvan memeli değildir?",
+        "answers": [
+            "Timsah",
+            "Yunus",
+            "Balina",
+            "Yarasa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50438,
+        "question": "Suyun kaldırma kuvvetini kim bulmuştur?",
+        "answers": [
+            "Arşimet",
+            "Pascal",
+            "Newton",
+            "Tesla"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50439,
+        "question": "Hangi elementin simgesi 'Fe'dir?",
+        "answers": [
+            "Demir",
+            "Flor",
+            "Fosfor",
+            "Kalsiyum"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50440,
+        "question": "İHA'nın açılımı nedir?",
+        "answers": [
+            "İnsansız Hava Aracı",
+            "İleri Hava Aracı",
+            "İnsani Hava Aracı",
+            "İlk Hava Aracı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50441,
+        "question": "Hangi gezegende 'Büyük Kırmızı Leke' bulunur?",
+        "answers": [
+            "Jüpiter",
+            "Mars",
+            "Venüs",
+            "Satürn"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50442,
+        "question": "Hangi bilim insanı kuduz aşısını bulmuştur?",
+        "answers": [
+            "Louis Pasteur",
+            "Edward Jenner",
+            "Robert Koch",
+            "Alexander Fleming"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50443,
+        "question": "Dinamo elektriği hangi enerji türünden üretir?",
+        "answers": [
+            "Hareket",
+            "Güneş",
+            "Isı",
+            "Kimyasal"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50444,
+        "question": "Hangi Türk mühendis 'Cezeri' olarak bilinir ve sibernetiğin kurucusudur?",
+        "answers": [
+            "El-Cezeri",
+            "Farabi",
+            "İbni Sina",
+            "Biruni"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50445,
+        "question": "Hangi kan hücresi vücudu mikroplara karşı korur?",
+        "answers": [
+            "Akyuvar",
+            "Alyuvar",
+            "Trombosit",
+            "Plazma"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50446,
+        "question": "Türkiye'nin ilk yerli savaş uçağının adı nedir (proje)?",
+        "answers": [
+            "KAAN (MMU)",
+            "Hürkuş",
+            "Hürjet",
+            "Anka"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50447,
+        "question": "Hangi hayvanın 3 kalbi vardır?",
+        "answers": [
+            "Ahtapot",
+            "Solucan",
+            "At",
+            "İnsan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50448,
+        "question": "Evrenin oluşum teorisinin adı nedir?",
+        "answers": [
+            "Big Bang",
+            "Evrim",
+            "İzafiyet",
+            "Kuantum"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50449,
+        "question": "Hangi element oda sıcaklığında sıvı haldedir?",
+        "answers": [
+            "Cıva",
+            "Demir",
+            "Altın",
+            "Bakır"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50450,
+        "question": "Türkiye'de internet ilk hangi üniversitede kullanıldı?",
+        "answers": [
+            "ODTÜ",
+            "Boğaziçi",
+            "İTÜ",
+            "Bilkent"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "teknoloji"
+        ]
+    }
+]

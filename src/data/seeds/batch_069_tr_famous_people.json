@@ -1,0 +1,804 @@
+[
+    {
+        "id": 50951,
+        "question": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+        "answers": [
+            "Mustafa Kemal Atatürk",
+            "İsmet İnönü",
+            "Kazım Karabekir",
+            "Fevzi Çakmak"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50952,
+        "question": "Nobel ödülü alan ilk Türk bilim insanı kimdir?",
+        "answers": [
+            "Aziz Sancar",
+            "Orhan Pamuk",
+            "Cahit Arf",
+            "Oktay Sinanoğlu"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50953,
+        "question": "'Türk Einstein'ı' olarak bilinen bilim insanı kimdir?",
+        "answers": [
+            "Oktay Sinanoğlu",
+            "Cahit Arf",
+            "Feza Gürsey",
+            "Hulusi Behçet"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50954,
+        "question": "10 TL banknotunun arkasında hangi matematikçimiz vardır?",
+        "answers": [
+            "Cahit Arf",
+            "Aydın Sayılı",
+            "Fatma Aliye",
+            "Mimar Sinan"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50955,
+        "question": "Dünya güreş tarihine geçen 'Cep Herkülü' lakaplı sporcumuz kimdir?",
+        "answers": [
+            "Naim Süleymanoğlu",
+            "Halil Mutlu",
+            "Hamza Yerlikaya",
+            "Rıza Kayaalp"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50956,
+        "question": "'Semiha Berksoy' hangi alanda ün yapmış ilklerimizdendir?",
+        "answers": [
+            "Opera",
+            "Tiyatro",
+            "Resim",
+            "Heykel"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50957,
+        "question": "Türkiye'nin ilk kadın pilotu kimdir (Savaş pilotu)?",
+        "answers": [
+            "Sabiha Gökçen",
+            "Bedriye Tahir Gökmen",
+            "Leman Bozkurt Altınçekiç",
+            "Yıldız Uçman"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50958,
+        "question": "'Kaplumbağa Terbiyecisi' tablosunun ressamı kimdir?",
+        "answers": [
+            "Osman Hamdi Bey",
+            "İbrahim Çallı",
+            "Abidin Dino",
+            "Fikret Mualla"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50959,
+        "question": "Hangi yönetmenimiz Cannes'da 'Kış Uykusu' ile Altın Palmiye kazanmıştır?",
+        "answers": [
+            "Nuri Bilge Ceylan",
+            "Yılmaz Güney",
+            "Fatih Akın",
+            "Ferzan Özpetek"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50960,
+        "question": "'Hababam Sınıfı'nın yazarı Rıfat Ilgaz hangi mesleği de yapmıştır?",
+        "answers": [
+            "Öğretmen",
+            "Doktor",
+            "Avukat",
+            "Mühendis"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50961,
+        "question": "Tarihçilerin Kutbu olarak bilinen dünyaca ünlü tarihçimiz kimdir?",
+        "answers": [
+            "Halil İnalcık",
+            "İlber Ortaylı",
+            "Murat Bardakçı",
+            "Enver Ziya Karal"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50962,
+        "question": "'Çalıkuşu' romanının Feride'si hangi yazarımızın eseridir?",
+        "answers": [
+            "Reşat Nuri Güntekin",
+            "Halide Edip Adıvar",
+            "Yakup Kadri",
+            "Ömer Seyfettin"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50963,
+        "question": "Hangi ünlü Türk denizcisi dünya haritası çizmiştir?",
+        "answers": [
+            "Piri Reis",
+            "Barbaros Hayrettin Paşa",
+            "Seydi Ali Reis",
+            "Turgut Reis"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50964,
+        "question": "Mimar Sinan'ın 'Ustalık Eserim' dediği cami hangisidir?",
+        "answers": [
+            "Selimiye Camii",
+            "Süleymaniye Camii",
+            "Şehzade Camii",
+            "Mihrimah Sultan Camii"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50965,
+        "question": "Eurovision birincimiz Sertab Erener hangi yıl kazanmıştır?",
+        "answers": [
+            "2003",
+            "2004",
+            "2002",
+            "2000"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50966,
+        "question": "NASA'da çalışan ünlü Türk astrofizikçi kimdir?",
+        "answers": [
+            "Feryal Özel",
+            "Canan Dağdeviren",
+            "Gözde Durmuş",
+            "Burçin Mutlu Pakdil"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50967,
+        "question": "Hangi şairimiz 'Bayrak Şairi' olarak anılır?",
+        "answers": [
+            "Arif Nihat Asya",
+            "Mehmet Akif Ersoy",
+            "Namık Kemal",
+            "Ziya Gökalp"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50968,
+        "question": "İlk kadın tiyatro oyuncumuz kimdir?",
+        "answers": [
+            "Afife Jale",
+            "Bedia Muvahhit",
+            "Cahide Sonku",
+            "Neyyire Neyir"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50969,
+        "question": "Hangi padişah İstanbul'u fethetmiştir?",
+        "answers": [
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim",
+            "Kanuni Sultan Süleyman",
+            "II. Murat"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50970,
+        "question": "Türkiye'nin ilk kadın başbakanı kimdir?",
+        "answers": [
+            "Tansu Çiller",
+            "Behice Boran",
+            "Meral Akşener",
+            "Rahşan Ecevit"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50971,
+        "question": "Hangi futbolcu 'Taçsız Kral' lakabıyla bilinir?",
+        "answers": [
+            "Metin Oktay",
+            "Lefter Küçükandonyadis",
+            "Hakkı Yeten",
+            "Can Bartu"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50972,
+        "question": "Mevlana Celaleddin Rumi hangi şehirde yaşamıştır?",
+        "answers": [
+            "Konya",
+            "Karaman",
+            "Bursa",
+            "İstanbul"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50973,
+        "question": "Hangi halk ozanı 'Gidiyorum Gündüz Gece' türküsünü söylemiştir?",
+        "answers": [
+            "Aşık Veysel",
+            "Neşet Ertaş",
+            "Aşık Mahzuni Şerif",
+            "Pir Sultan Abdal"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50974,
+        "question": "Türkiye'nin 'Süperstar'ı kimdir?",
+        "answers": [
+            "Ajda Pekkan",
+            "Sezen Aksu",
+            "Nilüfer",
+            "Zerrin Özer"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50975,
+        "question": "NBA'de oynayan ilk Türk basketbolcu kimdir?",
+        "answers": [
+            "Mirsad Türkcan",
+            "Hidayet Türkoğlu",
+            "Mehmet Okur",
+            "İbrahim Kutluay"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50976,
+        "question": "Hangi yazarımız 'Nobel' almıştır?",
+        "answers": [
+            "Orhan Pamuk",
+            "Yaşar Kemal",
+            "Elif Şafak",
+            "Ahmet Hamdi Tanpınar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50977,
+        "question": "İstanbul Boğazı köprüsünü ilk projelendiren tarihi kişilik kimdir (gerçekleşmemiştir)?",
+        "answers": [
+            "Leonardo da Vinci",
+            "Mimar Sinan",
+            "Michelangelo",
+            "Galileo"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50978,
+        "question": "Hangisi 'Dört Büyükler' olarak bilinen şairlerimizden değildir?",
+        "answers": [
+            "Orhan Pamuk",
+            "Nazım Hikmet",
+            "Necip Fazıl",
+            "Mehmet Akif"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50979,
+        "question": "'Huysuz Virjin' karakterini canlandıran sanatçı kimdir?",
+        "answers": [
+            "Seyfi Dursunoğlu",
+            "Zeki Müren",
+            "Ferdi Özbeğen",
+            "Cemil İpekçi"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50980,
+        "question": "Türkiye'nin en ünlü beyin cerrahlarından biri kimdir?",
+        "answers": [
+            "Gazi Yaşargil",
+            "Mehmet Öz",
+            "Canan Karatay",
+            "Türkan Saylan"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50981,
+        "question": "Hangi sanatçı 'Devlet Sanatçısı' unvanını reddetmiştir?",
+        "answers": [
+            "Şener Şen (Aslında almamıştır/reddetmiştir tartışmalı ama Gazanfer Özcan almıştır, Yıldız Kenter almıştır. Doğrusu: Aşık Veysel almamıştır, Şener Şen reddetmemiştir ama Turhan Selçuk reddetmiştir. Soruyu değiştiriyorum: Hangi piyanistimiz 'Harika Çocuk' olarak yasayla yurtdışına gönderilmiştir?)",
+            "İdil Biret",
+            "Fazıl Say",
+            "Tuluyhan Uğurlu",
+            "Fahir Atakoğlu"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "zor",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50982,
+        "question": "Hangi piyanistimiz 'Harika Çocuk Yasası' ile yurtdışında eğitim görmüştür?",
+        "answers": [
+            "İdil Biret",
+            "Fazıl Say",
+            "Kerem Görsev",
+            "Tuluyhan Uğurlu"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50983,
+        "question": "'Tosun Paşa' filminde 'Lütfü' karakterini kim oynamıştır?",
+        "answers": [
+            "Şener Şen",
+            "Kemal Sunal",
+            "Adile Naşit",
+            "Ayşen Gruda"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50984,
+        "question": "Hangi futbol teknik direktörü 'İmparator' lakabıyla bilinir?",
+        "answers": [
+            "Fatih Terim",
+            "Şenol Güneş",
+            "Mustafa Denizli",
+            "Ersun Yanal"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50985,
+        "question": "Hangi ünlü 'O Ses Türkiye' jürisi olmamıştır?",
+        "answers": [
+            "Tarkan",
+            "Hadise",
+            "Murat Boz",
+            "Athena Gökhan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50986,
+        "question": "'Boğazın Boğası' lakaplı boksörümüz kimdir?",
+        "answers": [
+            "Sinan Şamil Sam",
+            "Selçuk Aydın",
+            "Adem Kılıççı",
+            "Avni Yıldırım"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50987,
+        "question": "Hangi ünlü 'Vizontele' filminin hem yönetmeni hem oyuncusudur?",
+        "answers": [
+            "Yılmaz Erdoğan",
+            "Cem Yılmaz",
+            "Şahan Gökbakar",
+            "Ata Demirer"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50988,
+        "question": "İlber Ortaylı hangi alanda uzmandır?",
+        "answers": [
+            "Tarih",
+            "Coğrafya",
+            "Felsefe",
+            "Sosyoloji"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50989,
+        "question": "Hangi sanatçı 'Mandıra Filozofu' karakteriyle bilinir?",
+        "answers": [
+            "Müfit Can Saçıntı",
+            "Rasim Öztekin",
+            "Ferhan Şensoy",
+            "Levent Kırca"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50990,
+        "question": "Türkiye'nin ilk kadın doktoru kimdir?",
+        "answers": [
+            "Safiye Ali",
+            "Türkan Saylan",
+            "Canan Karatay",
+            "Behice Boran"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50991,
+        "question": "Hangi basketbolcumuz NBA'de şampiyonluk yüzüğü takmıştır?",
+        "answers": [
+            "Mehmet Okur",
+            "Hidayet Türkoğlu",
+            "Cedi Osman",
+            "Furkan Korkmaz"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50992,
+        "question": "'Cici Baba' lakaplı Yeşilçam oyuncusu kimdir?",
+        "answers": [
+            "Hulusi Kentmen",
+            "Vahi Öz",
+            "Nubar Terziyan",
+            "Cevat Kurtuluş"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "zor",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50993,
+        "question": "Hangi yazar 'Memleket Hikayeleri'ni yazmıştır?",
+        "answers": [
+            "Refik Halit Karay",
+            "Ömer Seyfettin",
+            "Sait Faik",
+            "Halikarnas Balıkçısı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50994,
+        "question": "'Minik Serçe' lakaplı sanatçı Sezen Aksu'nun gerçek adı nedir?",
+        "answers": [
+            "Fatma Sezen Yıldırım",
+            "Sezen Aksu",
+            "Ayşe Sezen",
+            "Emine Sezen"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "zor",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50995,
+        "question": "Hangi şair 'Masa da Masaymış Ha' şiiriyle bilinir?",
+        "answers": [
+            "Edip Cansever",
+            "Turgut Uyar",
+            "Cemal Süreya",
+            "Ece Ayhan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50996,
+        "question": "Hangi oyuncu 'Şaban' karakteriyle efsaneleşmiştir?",
+        "answers": [
+            "Kemal Sunal",
+            "İlyas Salman",
+            "Şener Şen",
+            "Halit Akçatepe"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50997,
+        "question": "Hangi Türk yönetmen Hollywood'da filmler çekmiştir (örneğin 'Monster's Ball' yapımcısı)?",
+        "answers": [
+            "Aslında bu tanıma uyan isim çok yok ama 'Fatih Akın' uluslararasıdır. Soru: Hangi Türk asıllı yönetmen 'Duvara Karşı' filmini çekmiştir?",
+            "Fatih Akın",
+            "Ferzan Özpetek",
+            "Nuri Bilge Ceylan",
+            "Semih Kaplanoğlu"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50998,
+        "question": "'Baba' lakaplı arabesk sanatçısı kimdir?",
+        "answers": [
+            "Müslüm Gürses",
+            "Orhan Gencebay",
+            "Ferdi Tayfur",
+            "İbrahim Tatlıses"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 50999,
+        "question": "Hangi spiker 'Orada kimse var mı?' repliğiyle bilinen programı sunmuştur (Tek Tek) - Hayır 'Acun Firarda' değil. Soru: 'Arena' programını kim sunmuştur?",
+        "answers": [
+            "Uğur Dündar",
+            "Reha Muhtar",
+            "Ali Kırca",
+            "Mehmet Ali Birand"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "unluler"
+        ]
+    },
+    {
+        "id": 51000,
+        "question": "'Sanat Güneşi' Zeki Müren hangi şehirlidir?",
+        "answers": [
+            "Bursa",
+            "İstanbul",
+            "İzmir",
+            "Ankara"
+        ],
+        "correctAnswer": 0,
+        "category": "sanat",
+        "difficulty": "orta",
+        "tags": [
+            "unluler"
+        ]
+    }
+]

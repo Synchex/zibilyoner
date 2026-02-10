@@ -1,0 +1,803 @@
+[
+    {
+        "id": 50051,
+        "question": "Osmanlı Devleti'nin kurucusu kimdir?",
+        "answers": [
+            "Orhan Gazi",
+            "Osman Bey",
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50052,
+        "question": "Malazgirt Meydan Muharebesi kaç yılında yapılmıştır?",
+        "answers": [
+            "1071",
+            "1299",
+            "1453",
+            "1923"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "selcuklu"
+        ]
+    },
+    {
+        "id": 50053,
+        "question": "Mustafa Kemal Atatürk'ün Samsun'a çıktığı tarih nedir?",
+        "answers": [
+            "23 Nisan 1920",
+            "19 Mayıs 1919",
+            "29 Ekim 1923",
+            "30 Ağustos 1922"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50054,
+        "question": "İstanbul'u fethederek çağ açıp çağ kapatan padişah kimdir?",
+        "answers": [
+            "Kanuni Sultan Süleyman",
+            "Yavuz Sultan Selim",
+            "Fatih Sultan Mehmet",
+            "II. Murat"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50055,
+        "question": "Cumhuriyet kaç yılında ilan edilmiştir?",
+        "answers": [
+            "1919",
+            "1920",
+            "1922",
+            "1923"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50056,
+        "question": "Anadolu'nun kapılarını Türklere açan savaş hangisidir?",
+        "answers": [
+            "Miryokefalon",
+            "Dandanakan",
+            "Malazgirt",
+            "Kösedağ"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "selcuklu"
+        ]
+    },
+    {
+        "id": 50057,
+        "question": "Osmanlı Devleti'nde ilk halife olan padişah kimdir?",
+        "answers": [
+            "Kanuni Sultan Süleyman",
+            "Yavuz Sultan Selim",
+            "Fatih Sultan Mehmet",
+            "IV. Murat"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50058,
+        "question": "Çanakkale Zaferi hangi savaşın bir cephesidir?",
+        "answers": [
+            "I. Dünya Savaşı",
+            "II. Dünya Savaşı",
+            "Kurtuluş Savaşı",
+            "Balkan Savaşları"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50059,
+        "question": "Mimar Sinan'ın 'Ustalık Eserim' dediği cami hangisidir?",
+        "answers": [
+            "Süleymaniye",
+            "Şehzade",
+            "Selimiye",
+            "Sultanahmet"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli",
+            "kultur"
+        ]
+    },
+    {
+        "id": 50060,
+        "question": "Tarihteki ilk yazılı antlaşma hangisidir?",
+        "answers": [
+            "Kadeş",
+            "Zitvatorok",
+            "Karlofça",
+            "Lozan"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "ilk_cag"
+        ]
+    },
+    {
+        "id": 50061,
+        "question": "Fransız İhtilali kaç yılında gerçekleşmiştir?",
+        "answers": [
+            "1789",
+            "1839",
+            "1914",
+            "1453"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yeni_cag"
+        ]
+    },
+    {
+        "id": 50062,
+        "question": "Misak-ı Milli sınırları nerede kabul edildi?",
+        "answers": [
+            "Sivas Kongresi",
+            "Erzurum Kongresi",
+            "Son Osmanlı Mebusan Meclisi",
+            "TBMM"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50063,
+        "question": "Parayı icat eden uygarlık hangisidir?",
+        "answers": [
+            "Hititler",
+            "Lidyalılar",
+            "Frigler",
+            "Sümerler"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "ilk_cag"
+        ]
+    },
+    {
+        "id": 50064,
+        "question": "Osmanlı'da 'Lale Devri' hangi padişah zamanındadır?",
+        "answers": [
+            "III. Ahmet",
+            "I. Mahmut",
+            "III. Selim",
+            "II. Osman"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50065,
+        "question": "İlk Türk kadın pilot kimdir?",
+        "answers": [
+            "Sabiha Gökçen",
+            "Bedriye Tahir Gökmen",
+            "Leman Bozkurt Altınçekiç",
+            "Yıldız Uçman"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50066,
+        "question": "Kanuni Sultan Süleyman'ın eşi Hürrem Sultan'ın asıl adı nedir?",
+        "answers": [
+            "Roxelana",
+            "Anastasia",
+            "Sofia",
+            "Teodora"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50067,
+        "question": "Nutuk hangi yılları anlatır?",
+        "answers": [
+            "1919-1927",
+            "1919-1923",
+            "1919-1938",
+            "1915-1923"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50068,
+        "question": "Osmanlı Devleti'nin ilk başkenti neresidir?",
+        "answers": [
+            "Bursa",
+            "Edirne",
+            "Söğüt",
+            "İznik"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50069,
+        "question": "Anadolu'da kurulan ilk Türk beyliği hangisidir?",
+        "answers": [
+            "Dânişmentliler",
+            "Saltuklular",
+            "Mengücekliler",
+            "Artuklular"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "selcuklu"
+        ]
+    },
+    {
+        "id": 50070,
+        "question": "Dünyanın bilinen en eski tapınağı Göbeklitepe hangi ilimizdedir?",
+        "answers": [
+            "Mardin",
+            "Diyarbakır",
+            "Şanlıurfa",
+            "Gaziantep"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "ilk_cag"
+        ]
+    },
+    {
+        "id": 50071,
+        "question": "Osmanlı'da matbaayı getiren kişi kimdir?",
+        "answers": [
+            "İbrahim Müteferrika",
+            "Katip Çelebi",
+            "Evliya Çelebi",
+            "Lale Çılgını"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50072,
+        "question": "Piri Reis'in ünlü eseri hangisidir?",
+        "answers": [
+            "Kitab-ı Bahriye",
+            "Seyahatname",
+            "Cihannüma",
+            "Divan-ı Lügati't-Türk"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50073,
+        "question": "Mısır'ı fethederek halifeliği Osmanlı'ya getiren padişah kimdir?",
+        "answers": [
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim",
+            "Kanuni Sultan Süleyman",
+            "II. Bayezid"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50074,
+        "question": "Atatürk'ün doğduğu şehir hangisidir?",
+        "answers": [
+            "Manastır",
+            "Sofya",
+            "Selanik",
+            "Üsküp"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50075,
+        "question": "Osmanlı ordusundaki en seçkin yaya birliğine ne denir?",
+        "answers": [
+            "Sipahi",
+            "Yeniçeri",
+            "Akıncı",
+            "Lağımcı"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50076,
+        "question": "Hangi savaş sonucunda Ankara başkent olmuştur?",
+        "answers": [
+            "I. İnönü",
+            "Sakarya",
+            "Büyük Taarruz",
+            "Kurtuluş Savaşı (Genel)"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50077,
+        "question": "İstanbul'un eski adı nedir?",
+        "answers": [
+            "Konstantinopolis",
+            "Adrianopolis",
+            "Smyrna",
+            "Angora"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "ilk_cag"
+        ]
+    },
+    {
+        "id": 50078,
+        "question": "Kıbrıs Barış Harekatı kaç yılında yapılmıştır?",
+        "answers": [
+            "1960",
+            "1974",
+            "1980",
+            "1955"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50079,
+        "question": "Hatay'ın anavatana katıldığı yıl hangisidir?",
+        "answers": [
+            "1938",
+            "1939",
+            "1940",
+            "1937"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50080,
+        "question": "Tarihlerin babası olarak bilinen antik yazar kimdir?",
+        "answers": [
+            "Herodot",
+            "Homeros",
+            "Thales",
+            "Hipokrat"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "ilk_cag"
+        ]
+    },
+    {
+        "id": 50081,
+        "question": "Hangi padişah döneminde Yeniçeri Ocağı kaldırılmıştır?",
+        "answers": [
+            "II. Mahmut",
+            "III. Selim",
+            "Abdülmecid",
+            "II. Abdülhamit"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50082,
+        "question": "İlk Türk kadın başbakan kimdir?",
+        "answers": [
+            "Tansu Çiller",
+            "Meral Akşener",
+            "Rahşan Ecevit",
+            "Behice Boran"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50083,
+        "question": "Divan-ı Lügati't-Türk'ü kim yazmıştır?",
+        "answers": [
+            "Kaşgarlı Mahmut",
+            "Yusuf Has Hacip",
+            "Edip Ahmet Yükneki",
+            "Ahmet Yesevi"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50084,
+        "question": "Osmanlı'da donanma komutanına ne ad verilir?",
+        "answers": [
+            "Kaptan-ı Derya",
+            "Sadrazam",
+            "Nişancı",
+            "Reisülküttab"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50085,
+        "question": "Kurtuluş Savaşı'nı bitiren antlaşma hangisidir?",
+        "answers": [
+            "Sevr",
+            "Mondros",
+            "Lozan",
+            "Mudanya"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50086,
+        "question": "Hangi uygarlık yazıyı icat etmiştir?",
+        "answers": [
+            "Sümerler",
+            "Mısırlılar",
+            "Babiller",
+            "Asurlular"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "ilk_cag"
+        ]
+    },
+    {
+        "id": 50087,
+        "question": "Gaziantep'e 'Gazi' unvanı ne zaman verilmiştir?",
+        "answers": [
+            "1921",
+            "1923",
+            "1973",
+            "1984"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50088,
+        "question": "Topkapı Sarayı'nı kim yaptırmıştır?",
+        "answers": [
+            "Fatih Sultan Mehmet",
+            "Kanuni Sultan Süleyman",
+            "II. Beyazıt",
+            "Yavuz Sultan Selim"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50089,
+        "question": "Hangi padişah 'Genç Osman' olarak bilinir?",
+        "answers": [
+            "I. Osman",
+            "II. Osman",
+            "III. Osman",
+            "IV. Osman"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50090,
+        "question": "Atatürk 'Ordular, ilk hedefiniz Akdeniz'dir, ileri!' emrini hangi savaşta vermiştir?",
+        "answers": [
+            "Sakarya",
+            "I. İnönü",
+            "Başkomutanlık Meydan Muharebesi",
+            "Çanakkale"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50091,
+        "question": "Dolmabahçe Sarayı hangi padişah döneminde yapılmıştır?",
+        "answers": [
+            "Abdülmecid",
+            "Abdülaziz",
+            "V. Murat",
+            "II. Abdülhamit"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50092,
+        "question": "Türkiye'nin ilk yerli otomobili Devrim hangi yıl üretilmiştir?",
+        "answers": [
+            "1961",
+            "1958",
+            "1963",
+            "1971"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50093,
+        "question": "Plevne Kahramanı kimdir?",
+        "answers": [
+            "Gazi Osman Paşa",
+            "Fahrettin Paşa",
+            "Kazım Karabekir",
+            "Enver Paşa"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50094,
+        "question": "İlk Osmanlı parası hangi padişah döneminde basıldı?",
+        "answers": [
+            "Osman Bey",
+            "Orhan Bey",
+            "I. Murat",
+            "Yıldırım Bayezid"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50095,
+        "question": "İstanbul'un Fethi ile hangi çağ kapanmıştır?",
+        "answers": [
+            "Orta Çağ",
+            "Yeni Çağ",
+            "Yakın Çağ",
+            "İlk Çağ"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "orta_cag"
+        ]
+    },
+    {
+        "id": 50096,
+        "question": "Hangi antlaşma ile Osmanlı Devleti fiilen sona ermiştir?",
+        "answers": [
+            "Mondros",
+            "Sevr",
+            "Mudanya",
+            "Lozan"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50097,
+        "question": "Çanakkale Geçilmez sözü hangi savaşta söylenmiştir?",
+        "answers": [
+            "I. Dünya Savaşı",
+            "II. Dünya Savaşı",
+            "Kurtuluş Savaşı",
+            "Balkan Savaşı"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50098,
+        "question": "Hangi şehir Şehzadeler Şehri olarak bilinir?",
+        "answers": [
+            "Amasya",
+            "Manisa",
+            "Trabzon",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50099,
+        "question": "Saltanatın kaldırılması hangi yıldır?",
+        "answers": [
+            "1922",
+            "1923",
+            "1924",
+            "1925"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50100,
+        "question": "Sümerlerin ünlü destanı hangisidir?",
+        "answers": [
+            "Gılgamış",
+            "İlyada",
+            "Oğuz Kağan",
+            "Ergenekon"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "ilk_cag"
+        ]
+    }
+]

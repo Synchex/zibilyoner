@@ -1,0 +1,803 @@
+[
+    {
+        "id": 50151,
+        "question": "Hangi Osmanlı padişahı 'Avcı' lakabıyla bilinir?",
+        "answers": [
+            "IV. Mehmet",
+            "II. Osman",
+            "I. İbrahim",
+            "III. Ahmet"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50152,
+        "question": "Türkiye'nin ilk kadın bakanı kimdir?",
+        "answers": [
+            "Tansu Çiller",
+            "Türkan Akyol",
+            "İmren Aykut",
+            "Nermin Neftçi"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "siyaset"
+        ]
+    },
+    {
+        "id": 50153,
+        "question": "Dünyanın çevresini dolaşan ilk denizci kimdir?",
+        "answers": [
+            "Macellan",
+            "Vasco da Gama",
+            "Kristof Kolomb",
+            "Marco Polo"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "kesifler"
+        ]
+    },
+    {
+        "id": 50154,
+        "question": "Hangi elementin atom numarası 1'dir?",
+        "answers": [
+            "Helyum",
+            "Hidrojen",
+            "Oksijen",
+            "Karbon"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50155,
+        "question": "Divan Edebiyatı'nda hiciv (eleştiri) ustası kimdir?",
+        "answers": [
+            "Fuzuli",
+            "Baki",
+            "Nedim",
+            "Nefi"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50156,
+        "question": "Hangi ülke 'Doğan Güneşin Ülkesi' olarak anılır?",
+        "answers": [
+            "Çin",
+            "Japonya",
+            "Güney Kore",
+            "Tayland"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50157,
+        "question": "Türkiye'nin en büyük adası hangisidir?",
+        "answers": [
+            "Gökçeada",
+            "Bozcaada",
+            "Büyükada",
+            "Avşa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50158,
+        "question": "Hangi ressam 'Kaplumbağa Terbiyecisi' tablosunu yapmıştır?",
+        "answers": [
+            "Osman Hamdi Bey",
+            "İbrahim Çallı",
+            "Şeker Ahmet Paşa",
+            "Fikret Mualla"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 50159,
+        "question": "Kuantum teorisinin kurucusu kim kabul edilir?",
+        "answers": [
+            "Einstein",
+            "Newton",
+            "Max Planck",
+            "Heisenberg"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50160,
+        "question": "Hangi şehir 'Güller Diyarı' olarak bilinir?",
+        "answers": [
+            "Konya",
+            "Isparta",
+            "Burdur",
+            "Antalya"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50161,
+        "question": "İlahi Komedya'nın yazarı kimdir?",
+        "answers": [
+            "Dante",
+            "Boccaccio",
+            "Petrarca",
+            "Machiavelli"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50162,
+        "question": "Hangi savaşta Mustafa Kemal'e 'Gazilik' unvanı verilmiştir?",
+        "answers": [
+            "Çanakkale",
+            "Sakarya",
+            "Büyük Taarruz",
+            "Trablusgarp"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50163,
+        "question": "Periyodik cetvelde 'Fe' hangi elementtir?",
+        "answers": [
+            "Fosfor",
+            "Flor",
+            "Demir",
+            "Kalay"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50164,
+        "question": "Hangisi UNESCO Dünya Mirası Listesi'nde yer almaz?",
+        "answers": [
+            "Göbeklitepe",
+            "Nemrut Dağı",
+            "Kapadokya",
+            "Anıtkabir"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50165,
+        "question": "Hangi Türk filmi Oscar'a aday adayı gösterilen ilk filmdir?",
+        "answers": [
+            "Susuz Yaz",
+            "Yol",
+            "Umut",
+            "Eşkıya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "sinema"
+        ]
+    },
+    {
+        "id": 50166,
+        "question": "Dünyanın en uzun nehirlerinden Amazon hangi kıtadadır?",
+        "answers": [
+            "Afrika",
+            "Güney Amerika",
+            "Kuzey Amerika",
+            "Asya"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50167,
+        "question": "Hangi Türk şair 'Mavi Gözlü Dev' olarak anılır?",
+        "answers": [
+            "Nazım Hikmet",
+            "Orhan Veli",
+            "Cemal Süreya",
+            "Attila İlhan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50168,
+        "question": "Hangi gezegen Güneş Sistemi'nin en büyüğüdür?",
+        "answers": [
+            "Satürn",
+            "Jüpiter",
+            "Neptün",
+            "Uranüs"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50169,
+        "question": "Türkiye'nin en çok yağış alan bölgesi hangisidir?",
+        "answers": [
+            "Akdeniz",
+            "Ege",
+            "Marmara",
+            "Karadeniz"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50170,
+        "question": "Hangi padişah döneminde ilk nüfus sayımı yapılmıştır?",
+        "answers": [
+            "II. Mahmut",
+            "III. Selim",
+            "Abdülmecid",
+            "II. Abdülhamit"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50171,
+        "question": "Nobel Edebiyat Ödülü'nü kazanan ilk Türk yazar?",
+        "answers": [
+            "Yaşar Kemal",
+            "Orhan Pamuk",
+            "Aziz Nesin",
+            "Halide Edip"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50172,
+        "question": "Hangi vitamin güneş ışığıyla vücutta üretilir?",
+        "answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "saglik"
+        ]
+    },
+    {
+        "id": 50173,
+        "question": "Kıbrıs'ın fethi hangi padişah döneminde gerçekleşmiştir?",
+        "answers": [
+            "Kanuni Sultan Süleyman",
+            "II. Selim",
+            "III. Murat",
+            "Fatih Sultan Mehmet"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50174,
+        "question": "Mona Lisa tablosu hangi müzede sergilenmektedir?",
+        "answers": [
+            "Louvre (Paris)",
+            "Prado (Madrid)",
+            "British Museum (Londra)",
+            "Vatikan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sanat"
+        ]
+    },
+    {
+        "id": 50175,
+        "question": "Türkiye'nin ilk yerli uçağını kim yapmıştır?",
+        "answers": [
+            "Nuri Demirağ",
+            "Vecihi Hürkuş",
+            "Şakir Zümre",
+            "Sabiha Gökçen"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50176,
+        "question": "Hangi savaş 'Subaylar Savaşı' olarak bilinir?",
+        "answers": [
+            "Sakarya",
+            "Büyük Taarruz",
+            "I. İnönü",
+            "Çanakkale"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50177,
+        "question": "Dünyanın en tuzlu denizi hangisidir?",
+        "answers": [
+            "Kızıldeniz",
+            "Lut Gölü (Ölü Deniz)",
+            "Akdeniz",
+            "Hazar Denizi"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50178,
+        "question": "Hangi elementin simgesi 'Na'dır?",
+        "answers": [
+            "Neon",
+            "Azot",
+            "Sodyum",
+            "Nikel"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50179,
+        "question": "Türkiye'nin en uzun kara sınırı hangi ülkeyledir?",
+        "answers": [
+            "İran",
+            "Irak",
+            "Suriye",
+            "Yunanistan"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50180,
+        "question": "Hangi Türk bilim insanı 'Dahi Türk' olarak NASA'da çalışmıştır?",
+        "answers": [
+            "Oktay Sinanoğlu",
+            "Cahit Arf",
+            "Hulusi Behçet",
+            "Feza Gürsey"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50181,
+        "question": "Osmanlı'da ilk kağıt para (Kaime) ne zaman basıldı?",
+        "answers": [
+            "Abdülmecid",
+            "Abdülaziz",
+            "V. Murat",
+            "II. Mahmut"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50182,
+        "question": "Hangi şehirimizde 'Balıklıgöl' bulunur?",
+        "answers": [
+            "Mardin",
+            "Diyarbakır",
+            "Şanlıurfa",
+            "Adıyaman"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50183,
+        "question": "Troya Antik Kenti hangi ilimizdedir?",
+        "answers": [
+            "İzmir",
+            "Aydın",
+            "Çanakkale",
+            "Balıkesir"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "turizm",
+            "tarih"
+        ]
+    },
+    {
+        "id": 50184,
+        "question": "İstiklal Marşı hangi savaşın ardından kabul edilmiştir?",
+        "answers": [
+            "I. İnönü",
+            "II. İnönü",
+            "Sakarya",
+            "Kütahya-Eskişehir"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "yakin_cag"
+        ]
+    },
+    {
+        "id": 50185,
+        "question": "Hangi hayvan 'bozkırın tezenesi' lakabını taşımaz (bu lakap Neşet Ertaş'ındır)? Şaka şaka, en hızlı kara hayvanı?",
+        "answers": [
+            "Aslan",
+            "Çita",
+            "Leopar",
+            "At"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50186,
+        "question": "Hangi organ kandaki şekeri düzenler?",
+        "answers": [
+            "Karaciğer",
+            "Pankreas",
+            "Böbrek",
+            "Mide"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50187,
+        "question": "Osmanlı Devleti hangi antlaşma ile Batı'nın üstünlüğünü kabul etmiştir?",
+        "answers": [
+            "Karlofça",
+            "Pasarofça",
+            "Lozan",
+            "Zitvatorok"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50188,
+        "question": "Hangi ilimizde 'Yedi Göller' bulunur?",
+        "answers": [
+            "Bolu",
+            "Düzce",
+            "Sakarya",
+            "Kastamonu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50189,
+        "question": "Türkiye'nin ilk yerli uydusu (gözlem) hangisidir?",
+        "answers": [
+            "Türksat 1A",
+            "Rasat",
+            "Göktürk-2",
+            "Bilsat"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50190,
+        "question": "Hangi yazarımız 'İnce Memed' eserini yazmıştır?",
+        "answers": [
+            "Orhan Kemal",
+            "Yaşar Kemal",
+            "Kemal Tahir",
+            "Sait Faik"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50191,
+        "question": "Hangi padişah döneminde Tanzimat Fermanı ilan edilmiştir?",
+        "answers": [
+            "II. Mahmut",
+            "Abdülmecid",
+            "Abdülaziz",
+            "V. Murat"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50192,
+        "question": "Dünyanın en kalabalık ülkesi hangisidir (2024)?",
+        "answers": [
+            "Çin",
+            "Hindistan",
+            "ABD",
+            "Endonezya"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50193,
+        "question": "Hangi element 'O' simgesiyle gösterilir?",
+        "answers": [
+            "Osmiyum",
+            "Oksijen",
+            "Oganesson",
+            "Oksit"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "bilim"
+        ]
+    },
+    {
+        "id": 50194,
+        "question": "Türkiye'nin en batı ucu neresidir?",
+        "answers": [
+            "Gökçeada (İnce Burun)",
+            "Baba Burun",
+            "Sinop (İnce Burun)",
+            "Datça"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50195,
+        "question": "Hangi Osmanlı padişahı İstanbul'da öldürülen ilk padişahtır?",
+        "answers": [
+            "Genç Osman (II. Osman)",
+            "III. Selim",
+            "I. İbrahim",
+            "Abdulaziz"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "osmanli"
+        ]
+    },
+    {
+        "id": 50196,
+        "question": "Türkiye'nin en yüksek barajı hangisidir (2024)?",
+        "answers": [
+            "Atatürk",
+            "Keban",
+            "Yusufeli",
+            "Deriner"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50197,
+        "question": "Hangi para birimi Japonya'ya aittir?",
+        "answers": [
+            "Yuan",
+            "Won",
+            "Yen",
+            "Baht"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "ekonomi"
+        ]
+    },
+    {
+        "id": 50198,
+        "question": "Türkiye haritası şekil olarak neye benzer?",
+        "answers": [
+            "Kare",
+            "Dikdörtgen",
+            "Üçgen",
+            "Daire"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50199,
+        "question": "Hangi hayvanın hafızası çok güçlüdür?",
+        "answers": [
+            "Balık",
+            "Fil",
+            "Maymun",
+            "Köpek"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "hayvanlar"
+        ]
+    },
+    {
+        "id": 50200,
+        "question": "Cumhuriyetin 100. yılı hangi tarihtir?",
+        "answers": [
+            "2019",
+            "2020",
+            "2023",
+            "2024"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yakin_cag"
+        ]
+    }
+]

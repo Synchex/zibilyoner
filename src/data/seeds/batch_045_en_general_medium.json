@@ -1,0 +1,802 @@
+[
+    {
+        "id": 40251,
+        "question": "What is the capital of Argentina?",
+        "answers": [
+            "Santiago",
+            "Lima",
+            "Buenos Aires",
+            "Bogota"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40252,
+        "question": "Who discovered gravity?",
+        "answers": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40253,
+        "question": "Which planet is known as the Ringed Planet?",
+        "answers": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40254,
+        "question": "What is the smallest continent?",
+        "answers": [
+            "Europe",
+            "Antarctica",
+            "Australia",
+            "South America"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40255,
+        "question": "Which famous ship sank in 1912?",
+        "answers": [
+            "Lusitania",
+            "Titanic",
+            "Britannic",
+            "Olympic"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40256,
+        "question": "Who painted the Mona Lisa?",
+        "answers": [
+            "Vincent van Gogh",
+            "Leonardo da Vinci",
+            "Pablo Picasso",
+            "Claude Monet"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40257,
+        "question": "What is the currency of the United Kingdom?",
+        "answers": [
+            "Euro",
+            "Dollar",
+            "Pound Sterling",
+            "Franc"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40258,
+        "question": "Which animal is the symbol of World Wildlife Fund (WWF)?",
+        "answers": [
+            "Tiger",
+            "Elephant",
+            "Panda",
+            "Whale"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40259,
+        "question": "Where is the Great Barrier Reef located?",
+        "answers": [
+            "USA",
+            "Australia",
+            "Brazil",
+            "Indonesia"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40260,
+        "question": "What is the longest river in South America?",
+        "answers": [
+            "Nile",
+            "Mississippi",
+            "Amazon",
+            "Yangtze"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40261,
+        "question": "Who wrote 'Hamlet'?",
+        "answers": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Mark Twain",
+            "Homer"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40262,
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "answers": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Argon"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40263,
+        "question": "What is the capital of Spain?",
+        "answers": [
+            "Barcelona",
+            "Madrid",
+            "Seville",
+            "Valencia"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40264,
+        "question": "How many players are on a baseball team?",
+        "answers": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sports"
+        ]
+    },
+    {
+        "id": 40265,
+        "question": "Which element matches the symbol 'Ag'?",
+        "answers": [
+            "Gold",
+            "Silver",
+            "Argon",
+            "Aluminum"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40266,
+        "question": "Who was the first woman in space?",
+        "answers": [
+            "Sally Ride",
+            "Valentina Tereshkova",
+            "Mae Jemison",
+            "Kalpana Chawla"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40267,
+        "question": "What is the highest mountain in the world?",
+        "answers": [
+            "K2",
+            "Mount Kilimanjaro",
+            "Mount Everest",
+            "Mount Fuji"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40268,
+        "question": "Which country is home to the Kangaroo?",
+        "answers": [
+            "New Zealand",
+            "Australia",
+            "South Africa",
+            "Canada"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40269,
+        "question": "What is the main component of the sun?",
+        "answers": [
+            "Oxygen",
+            "Helium",
+            "Hydrogen",
+            "Carbon"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40270,
+        "question": "Who founded Microsoft?",
+        "answers": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Mark Zuckerberg",
+            "Jeff Bezos"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40271,
+        "question": "Which city is known as the Big Apple?",
+        "answers": [
+            "Los Angeles",
+            "Chicago",
+            "New York City",
+            "Miami"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40272,
+        "question": "What is the hardest rock?",
+        "answers": [
+            "Granite",
+            "Limestone",
+            "Diamond",
+            "Marble"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40273,
+        "question": "Which organ pumps blood around the body?",
+        "answers": [
+            "Brain",
+            "Lungs",
+            "Heart",
+            "Liver"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40274,
+        "question": "Who sang 'Thriller'?",
+        "answers": [
+            "Prince",
+            "Michael Jackson",
+            "Madonna",
+            "Elvis Presley"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture"
+        ]
+    },
+    {
+        "id": 40275,
+        "question": "What is the capital of Italy?",
+        "answers": [
+            "Venice",
+            "Milan",
+            "Rome",
+            "Florence"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40276,
+        "question": "Which war ended in 1945?",
+        "answers": [
+            "World War I",
+            "World War II",
+            "Vietnam War",
+            "Korean War"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40277,
+        "question": "What is the symbol for water?",
+        "answers": [
+            "H2O",
+            "CO2",
+            "O2",
+            "NaCl"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40278,
+        "question": "Who is the Greek god of the sea?",
+        "answers": [
+            "Zeus",
+            "Hades",
+            "Poseidon",
+            "Apollo"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "legends"
+        ]
+    },
+    {
+        "id": 40279,
+        "question": "Which country has the most lakes?",
+        "answers": [
+            "USA",
+            "Canada",
+            "Russia",
+            "Brazil"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40280,
+        "question": "What is the fastest animal on land?",
+        "answers": [
+            "Lion",
+            "Cheetah",
+            "Gazelle",
+            "Leopard"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40281,
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answers": [
+            "Harper Lee",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald",
+            "Mark Twain"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40282,
+        "question": "Which planet is the Coldest?",
+        "answers": [
+            "Uranus",
+            "Neptune",
+            "Saturn",
+            "Mars"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40283,
+        "question": "What is the capital of China?",
+        "answers": [
+            "Shanghai",
+            "Beijing",
+            "Hong Kong",
+            "Shenzhen"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40284,
+        "question": "Who sculpted David?",
+        "answers": [
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Donatello",
+            "Raphael"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40285,
+        "question": "Which blood type is the universal donor?",
+        "answers": [
+            "A",
+            "B",
+            "AB",
+            "O Negative"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40286,
+        "question": "What is the currency of Russia?",
+        "answers": [
+            "Euro",
+            "Dollar",
+            "Ruble",
+            "Yen"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40287,
+        "question": "Which explorer discovered America in 1492?",
+        "answers": [
+            "Marco Polo",
+            "Christopher Columbus",
+            "Vasco da Gama",
+            "Ferdinand Magellan"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40288,
+        "question": "What is the national flower of England?",
+        "answers": [
+            "Tulip",
+            "Rose",
+            "Lily",
+            "Daisy"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40289,
+        "question": "Which planet has the most moons?",
+        "answers": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40290,
+        "question": "Who is the author of '1984'?",
+        "answers": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "J.K. Rowling"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40291,
+        "question": "What is the largest country in Africa?",
+        "answers": [
+            "Nigeria",
+            "Algeria",
+            "Egypt",
+            "South Africa"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40292,
+        "question": "Which instrument is used to measure temperature?",
+        "answers": [
+            "Barometer",
+            "Thermometer",
+            "Hygrometer",
+            "Anemometer"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40293,
+        "question": "What is the capital of Turkey?",
+        "answers": [
+            "Istanbul",
+            "Ankara",
+            "Izmir",
+            "Antalya"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40294,
+        "question": "Who was the first person to run a mile in under 4 minutes?",
+        "answers": [
+            "Roger Bannister",
+            "Usain Bolt",
+            "Carl Lewis",
+            "Jesse Owens"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sports"
+        ]
+    },
+    {
+        "id": 40295,
+        "question": "Which element has the atomic number 1?",
+        "answers": [
+            "Helium",
+            "Oxygen",
+            "Hydrogen",
+            "Carbon"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40296,
+        "question": "What is the main language of Mexico?",
+        "answers": [
+            "English",
+            "Portuguese",
+            "Spanish",
+            "French"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40297,
+        "question": "Who wrote 'The Odyssey'?",
+        "answers": [
+            "Plato",
+            "Aristotle",
+            "Homer",
+            "Socrates"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40298,
+        "question": "Which city is known as the City of Love?",
+        "answers": [
+            "Rome",
+            "Venice",
+            "Paris",
+            "London"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40299,
+        "question": "What is the freezing point of water?",
+        "answers": [
+            "0°C",
+            "10°C",
+            "32°C",
+            "100°C"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40300,
+        "question": "Which animal is the largest primate?",
+        "answers": [
+            "Orangutan",
+            "Chimpanzee",
+            "Gorilla",
+            "Baboon"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "animals"
+        ]
+    }
+]

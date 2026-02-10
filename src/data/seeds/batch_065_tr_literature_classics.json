@@ -1,0 +1,805 @@
+[
+    {
+        "id": 50751,
+        "question": "Nobel Edebiyat Ödülü'nü kazanan ilk ve tek Türk yazar kimdir?",
+        "answers": [
+            "Orhan Pamuk",
+            "Yaşar Kemal",
+            "Elif Şafak",
+            "Ahmet Hamdi Tanpınar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50752,
+        "question": "'Çalıkuşu' romanının yazarı kimdir?",
+        "answers": [
+            "Reşat Nuri Güntekin",
+            "Halide Edip Adıvar",
+            "Yakup Kadri Karaosmanoğlu",
+            "Ömer Seyfettin"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50753,
+        "question": "'İnce Memed' kimin eseridir?",
+        "answers": [
+            "Yaşar Kemal",
+            "Kemal Tahir",
+            "Orhan Kemal",
+            "Sabahattin Ali"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50754,
+        "question": "Türk edebiyatının ilk yerli romanı hangisidir?",
+        "answers": [
+            "Taaşşuk-ı Talat ve Fitnat",
+            "İntibah",
+            "Araba Sevdası",
+            "Mai ve Siyah"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50755,
+        "question": "Hangi şairimiz 'Vatan Şairi' olarak anılır?",
+        "answers": [
+            "Namık Kemal",
+            "Mehmet Akif Ersoy",
+            "Tevfik Fikret",
+            "Yahya Kemal Beyatlı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50756,
+        "question": "'Kürk Mantolu Madonna' kitabının yazarı kimdir?",
+        "answers": [
+            "Sabahattin Ali",
+            "Oğuz Atay",
+            "Peyami Safa",
+            "Sait Faik Abasıyanık"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50757,
+        "question": "İstiklal Marşı hangi şiir kitabında yer almaz (Safahat'a alınmamıştır)?",
+        "answers": [
+            "Safahat",
+            "Çile",
+            "Bütün Şiirleri",
+            "Kendi Gök Kubbemiz"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50758,
+        "question": "'Tutunamayanlar' romanı kime aittir?",
+        "answers": [
+            "Oğuz Atay",
+            "Yusuf Atılgan",
+            "Adalet Ağaoğlu",
+            "Bilge Karasu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50759,
+        "question": "Hangi yazar 'Hababam Sınıfı'nı yazmıştır?",
+        "answers": [
+            "Rıfat Ilgaz",
+            "Aziz Nesin",
+            "Muzaffer İzgü",
+            "Haldun Taner"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50760,
+        "question": "'Saatleri Ayarlama Enstitüsü' kimin eseridir?",
+        "answers": [
+            "Ahmet Hamdi Tanpınar",
+            "Abdülhak Şinasi Hisar",
+            "Refik Halit Karay",
+            "Memduh Şevket Esendal"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50761,
+        "question": "'Aşk-ı Memnu' romanının yazarı kimdir?",
+        "answers": [
+            "Halid Ziya Uşaklıgil",
+            "Mehmet Rauf",
+            "Recaizade Mahmut Ekrem",
+            "Namık Kemal"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50762,
+        "question": "Hangi şair 'Otuz Beş Yaş' şiiriyle tanınır?",
+        "answers": [
+            "Cahit Sıtkı Tarancı",
+            "Ahmet Muhip Dıranas",
+            "Necip Fazıl Kısakürek",
+            "Attila İlhan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50763,
+        "question": "'Eylül' romanı Türk edebiyatındaki ilk hangi tür romandır?",
+        "answers": [
+            "Psikolojik Roman",
+            "Tarihi Roman",
+            "Köy Romanı",
+            "Macera Romanı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50764,
+        "question": "'Sinekli Bakkal' kimin eseridir?",
+        "answers": [
+            "Halide Edip Adıvar",
+            "Reşat Nuri Güntekin",
+            "Peyami Safa",
+            "Yakup Kadri Karaosmanoğlu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50765,
+        "question": "Mevlana'nın en ünlü eseri hangisidir?",
+        "answers": [
+            "Mesnevi",
+            "Divan-ı Hikmet",
+            "Kutadgu Bilig",
+            "Seyahatname"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50766,
+        "question": "Yunus Emre hangi yüzyılda yaşamıştır?",
+        "answers": [
+            "13. ve 14. yüzyıl",
+            "10. yüzyıl",
+            "16. yüzyıl",
+            "19. yüzyıl"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50767,
+        "question": "'Şair Evlenmesi' adlı tiyatro eseri kime aittir?",
+        "answers": [
+            "Şinasi",
+            "Namık Kemal",
+            "Recaizade Mahmut Ekrem",
+            "Abdülhak Hamit Tarhan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50768,
+        "question": "'Dokuzuncu Hariciye Koğuşu' kimin eseridir?",
+        "answers": [
+            "Peyami Safa",
+            "Sait Faik Abasıyanık",
+            "Tarık Buğra",
+            "Kemal Tahir"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50769,
+        "question": "Hangi şair 'Mavi Gözlü Dev' olarak bilinir?",
+        "answers": [
+            "Nazım Hikmet",
+            "Orhan Veli",
+            "Cemal Süreya",
+            "Turgut Uyar"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50770,
+        "question": "'Seyahatname' kimin eseridir?",
+        "answers": [
+            "Evliya Çelebi",
+            "Katip Çelebi",
+            "Piri Reis",
+            "Kaşgarlı Mahmut"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50771,
+        "question": "Türk kağıt paralarının üzerinde resmi olan kadın yazarımız kimdir (50 TL)?",
+        "answers": [
+            "Fatma Aliye Topuz",
+            "Halide Edip Adıvar",
+            "Afet İnan",
+            "Sabiha Gökçen"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat",
+            "genel"
+        ]
+    },
+    {
+        "id": 50772,
+        "question": "'Yaban' romanı hangi dönemi anlatır?",
+        "answers": [
+            "Kurtuluş Savaşı",
+            "Lale Devri",
+            "Tanzimat",
+            "Cumhuriyet Sonrası"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50773,
+        "question": "Hangi yazar dünya çapında 'Simyacı' kitabıyla tanınır?",
+        "answers": [
+            "Paulo Coelho",
+            "Gabriel Garcia Marquez",
+            "Haruki Murakami",
+            "Franz Kafka"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50774,
+        "question": "'Keloğlan' masalları hangi edebi türe girer?",
+        "answers": [
+            "Halk Edebiyatı",
+            "Divan Edebiyatı",
+            "Tanzimat Edebiyatı",
+            "Servet-i Fünun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50775,
+        "question": "'Aylak Adam' kimin eseridir?",
+        "answers": [
+            "Yusuf Atılgan",
+            "Oğuz Atay",
+            "Vüs'at O. Bener",
+            "Bilge Karasu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50776,
+        "question": "Hangi şair 'Sakarya Türküsü'nü yazmıştır?",
+        "answers": [
+            "Necip Fazıl Kısakürek",
+            "Mehmet Akif Ersoy",
+            "Arif Nihat Asya",
+            "Faruk Nafiz Çamlıbel"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50777,
+        "question": "Dede Korkut Hikayeleri kaç hikayeden oluşur (Dresden nüshası)?",
+        "answers": [
+            "12",
+            "10",
+            "40",
+            "24"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50778,
+        "question": "'Nutuk' kime aittir?",
+        "answers": [
+            "Mustafa Kemal Atatürk",
+            "İsmet İnönü",
+            "Kazım Karabekir",
+            "Rauf Orbay"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat",
+            "tarih"
+        ]
+    },
+    {
+        "id": 50779,
+        "question": "Hangi yazarımız mizah öyküleriyle tanınır?",
+        "answers": [
+            "Aziz Nesin",
+            "Orhan Kemal",
+            "Sait Faik",
+            "Memduh Şevket Esendal"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50780,
+        "question": "'Kaşağı' hikayesi kime aittir?",
+        "answers": [
+            "Ömer Seyfettin",
+            "Refik Halit Karay",
+            "Sait Faik Abasıyanık",
+            "Haldun Taner"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50781,
+        "question": "Türk Dil Kurumu hangi yıl kurulmuştur?",
+        "answers": [
+            "1932",
+            "1923",
+            "1940",
+            "1950"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat",
+            "tarih"
+        ]
+    },
+    {
+        "id": 50782,
+        "question": "Hangi şairimiz 'Garip' akımının kurucusudur?",
+        "answers": [
+            "Orhan Veli Kanık",
+            "Cemal Süreya",
+            "Edip Cansever",
+            "Ece Ayhan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50783,
+        "question": "'Memleketimden İnsan Manzaraları' kimin eseridir?",
+        "answers": [
+            "Nazım Hikmet",
+            "Ahmed Arif",
+            "Attila İlhan",
+            "Can Yücel"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50784,
+        "question": "Dünyanın ilk modern romanı kabul edilen eser hangisidir?",
+        "answers": [
+            "Don Kişot",
+            "Sefiller",
+            "Anna Karenina",
+            "Suç ve Ceza"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50785,
+        "question": "'Huzur' romanı kime aittir?",
+        "answers": [
+            "Ahmet Hamdi Tanpınar",
+            "Peyami Safa",
+            "Tarık Buğra",
+            "Kemal Tahir"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50786,
+        "question": "'Han Duvarları' şiiri kime aittir?",
+        "answers": [
+            "Faruk Nafiz Çamlıbel",
+            "Yahya Kemal Beyatlı",
+            "Ahmet Haşim",
+            "Tevfik Fikret"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50787,
+        "question": "İlk çeviri romanımız olan 'Telemak'ı kim çevirmiştir?",
+        "answers": [
+            "Yusuf Kamil Paşa",
+            "Şinasi",
+            "Ahmet Vefik Paşa",
+            "Recaizade Mahmut Ekrem"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50788,
+        "question": "Hangi yazar 'Nobel Edebiyat Ödülü'nü reddetmiştir?",
+        "answers": [
+            "Jean-Paul Sartre",
+            "Albert Camus",
+            "Ernest Hemingway",
+            "Orhan Pamuk"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50789,
+        "question": "'Fatih-Harbiye' romanı kime aittir?",
+        "answers": [
+            "Peyami Safa",
+            "Yakup Kadri Karaosmanoğlu",
+            "Halide Edip Adıvar",
+            "Reşat Nuri Güntekin"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50790,
+        "question": "Dünyaca ünlü 'Romeo ve Juliet' eseri kime aittir?",
+        "answers": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Mark Twain",
+            "Jane Austen"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50791,
+        "question": "'Beyaz Gemi' kimin eseridir?",
+        "answers": [
+            "Cengiz Aytmatov",
+            "Dostoyevski",
+            "Tolstoy",
+            "Gogol"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50792,
+        "question": "Karagöz oyunundaki eğitimli, yarı aydın tip kimdir?",
+        "answers": [
+            "Hacivat",
+            "Karagöz",
+            "Beberuhi",
+            "Tuzsuz Deli Bekir"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50793,
+        "question": "'İkinci Yeni' şiir akımının temsilcilerinden biridir?",
+        "answers": [
+            "Cemal Süreya",
+            "Orhan Veli",
+            "Nazım Hikmet",
+            "Attila İlhan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50794,
+        "question": "'Agatha Christie' hangi türde eserler vermiştir?",
+        "answers": [
+            "Polisiye",
+            "Bilim Kurgu",
+            "Romantik",
+            "Tarih"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50795,
+        "question": "Türk edebiyatının ilk sözlüğü hangisidir?",
+        "answers": [
+            "Divan-ı Lügati't-Türk",
+            "Muhakemetü'l-Lugateyn",
+            "Lehçe-i Osmani",
+            "Kamus-ı Türki"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50796,
+        "question": "'Kuyucaklı Yusuf' romanı kime aittir?",
+        "answers": [
+            "Sabahattin Ali",
+            "Orhan Kemal",
+            "Sadri Ertem",
+            "Fakir Baykurt"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50797,
+        "question": "Hangi yazar 'Masumiyet Müzesi'ni yazmıştır?",
+        "answers": [
+            "Orhan Pamuk",
+            "Elif Şafak",
+            "Ahmet Ümit",
+            "Zülfü Livaneli"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50798,
+        "question": "'Fareler ve İnsanlar' kimin eseridir?",
+        "answers": [
+            "John Steinbeck",
+            "George Orwell",
+            "Hemingway",
+            "Faulkner"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50799,
+        "question": "Hangi şairimiz 'Sultan-ı Şuara' (Şairler Sultanı) olarak anılmıştır?",
+        "answers": [
+            "Baki",
+            "Fuzuli",
+            "Nedim",
+            "Nefi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    },
+    {
+        "id": 50800,
+        "question": "'Araba Sevdası' romanındaki yanlış batılılaşan karakter kimdir?",
+        "answers": [
+            "Bihruz Bey",
+            "Behlül",
+            "Adnan Bey",
+            "Mümtaz"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "edebiyat"
+        ]
+    }
+]

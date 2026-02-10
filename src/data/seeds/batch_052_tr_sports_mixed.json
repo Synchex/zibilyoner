@@ -1,0 +1,702 @@
+[
+    {
+        "id": 50101,
+        "question": "Süper Lig'de en çok şampiyon olan takım hangisidir (2024 itibariyle)?",
+        "answers": [
+            "Fenerbahçe",
+            "Galatasaray",
+            "Beşiktaş",
+            "Trabzonspor"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50102,
+        "question": "Naim Süleymanoğlu hangi spor dalında efsanedir?",
+        "answers": [
+            "Güreş",
+            "Halter",
+            "Boks",
+            "Judo"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50103,
+        "question": "UEFA Kupası'nı kazanan ilk ve tek Türk takımı hangisidir?",
+        "answers": [
+            "Fenerbahçe",
+            "Galatasaray",
+            "Beşiktaş",
+            "Bursaspor"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50104,
+        "question": "Filenin Sultanları hangi spor dalının milli takımıdır?",
+        "answers": [
+            "Basketbol",
+            "Voleybol",
+            "Hentbol",
+            "Futbol"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50105,
+        "question": "Hangi renkler Fenerbahçe'nin renkleridir?",
+        "answers": [
+            "Sarı-Kırmızı",
+            "Siyah-Beyaz",
+            "Sarı-Lacivert",
+            "Bordo-Mavi"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50106,
+        "question": "Türkiye A Milli Futbol Takımı Dünya üçüncüsü ne zaman oldu?",
+        "answers": [
+            "1998",
+            "2002",
+            "2006",
+            "2010"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50107,
+        "question": "Basketbolda bir takım sahada kaç kişiyle oynar?",
+        "answers": [
+            "5",
+            "6",
+            "7",
+            "11"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "basketball"
+    },
+    {
+        "id": 50108,
+        "question": "EuroLeague şampiyonu olan ilk Türk basketbol takımı hangisidir?",
+        "answers": [
+            "Anadolu Efes",
+            "Fenerbahçe Beko",
+            "Galatasaray",
+            "Beşiktaş"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "basketball"
+    },
+    {
+        "id": 50109,
+        "question": "Kırkpınar Yağlı Güreşleri hangi ilimizde yapılır?",
+        "answers": [
+            "Antalya",
+            "Edirne",
+            "Samsun",
+            "Balıkesir"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50110,
+        "question": "Formula 1 Türkiye Grand Prix'si hangi pistte yapılmıştır?",
+        "answers": [
+            "İstanbul Park",
+            "İzmir Pınarbaşı",
+            "Körfez Pisti",
+            "Antalya Park"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "legends_records"
+    },
+    {
+        "id": 50111,
+        "question": "Altın Top (Ballon d'Or) ödülünü en çok kazanan futbolcu kimdir?",
+        "answers": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Pele",
+            "Maradona"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "general_football"
+    },
+    {
+        "id": 50112,
+        "question": "Hangi takım 4 büyükler içinde yer almaz?",
+        "answers": [
+            "Trabzonspor",
+            "Başakşehir",
+            "Beşiktaş",
+            "Fenerbahçe"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50113,
+        "question": "Hamza Yerlikaya hangi spor dalında olimpiyat şampiyonudur?",
+        "answers": [
+            "Halter",
+            "Güreş",
+            "Boks",
+            "Okçuluk"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50114,
+        "question": "NBA'de oynayan ilk Türk basketbolcu kimdir?",
+        "answers": [
+            "Hidayet Türkoğlu",
+            "Mehmet Okur",
+            "Mirsad Türkcan",
+            "Cedi Osman"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "zor",
+        "subcategory": "basketball"
+    },
+    {
+        "id": 50115,
+        "question": "Arda Güler hangi İspanyol takımına transfer olmuştur (2023)?",
+        "answers": [
+            "Barcelona",
+            "Real Madrid",
+            "Atletico Madrid",
+            "Sevilla"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50116,
+        "question": "Mete Gazoz hangi spor dalında olimpiyat altını kazanmıştır?",
+        "answers": [
+            "Atıcılık",
+            "Okçuluk",
+            "Eskrim",
+            "Cirit"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50117,
+        "question": "100 metre dünya rekoru kime aittir?",
+        "answers": [
+            "Tyson Gay",
+            "Usain Bolt",
+            "Carl Lewis",
+            "Justin Gatlin"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "legends_records"
+    },
+    {
+        "id": 50118,
+        "question": "Türkiye Kupası'nı en çok kazanan takım hangisidir?",
+        "answers": [
+            "Galatasaray",
+            "Fenerbahçe",
+            "Beşiktaş",
+            "Trabzonspor"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50119,
+        "question": "Teniste 'Grand Slam' turnuvaları kaç tanedir?",
+        "answers": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "general_sports"
+    },
+    {
+        "id": 50120,
+        "question": "Süper Lig'de 'Kral' lakaplı golcü kimdir?",
+        "answers": [
+            "Hakan Şükür",
+            "Tanju Çolak",
+            "Metin Oktay",
+            "Burak Yılmaz"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50121,
+        "question": "Boks maçları nerede yapılır?",
+        "answers": [
+            "Kort",
+            "Saha",
+            "Ring",
+            "Pist"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "general_sports"
+    },
+    {
+        "id": 50122,
+        "question": "Michael Jordan hangi sporda efsanedir?",
+        "answers": [
+            "Futbol",
+            "Beyzbol",
+            "Basketbol",
+            "Golf"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "basketball"
+    },
+    {
+        "id": 50123,
+        "question": "Hangi futbolcuya 'Maradona' lakabı takılmıştır?",
+        "answers": [
+            "Sergen Yalçın",
+            "Hagi",
+            "Alex",
+            "Emre Belözoğlu"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "zor",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50124,
+        "question": "Olimpiyat halkaları kaç renkten oluşur?",
+        "answers": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "legends_records"
+    },
+    {
+        "id": 50125,
+        "question": "Potanın Perileri hangi takımın lakabıdır?",
+        "answers": [
+            "A Milli Kadın Voleybol",
+            "A Milli Kadın Basketbol",
+            "A Milli Kadın Hentbol",
+            "Fenerbahçe Kadın Basketbol"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50126,
+        "question": "Fatih Terim hangi takımla UEFA Kupası kazanmıştır?",
+        "answers": [
+            "Fiorentina",
+            "Milan",
+            "Galatasaray",
+            "Milli Takım"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50127,
+        "question": "Süper Lig'de bir sezonda en çok puan toplayan takım unvanı kime aittir (2024)?",
+        "answers": [
+            "Galatasaray",
+            "Fenerbahçe",
+            "Beşiktaş",
+            "Trabzonspor"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "zor",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50128,
+        "question": "Hangi spor dalında 'libero' oyuncusu vardır?",
+        "answers": [
+            "Futbol",
+            "Basketbol",
+            "Voleybol",
+            "Hentbol"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "general_sports"
+    },
+    {
+        "id": 50129,
+        "question": "Muhammed Ali hangi sporu yapardı?",
+        "answers": [
+            "Güreş",
+            "Boks",
+            "Karate",
+            "Judo"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "legends_records"
+    },
+    {
+        "id": 50130,
+        "question": "Türkiye'nin ev sahipliği yaptığı ilk uluslararası organizasyon hangisidir?",
+        "answers": [
+            "Akdeniz Oyunları",
+            "Universiade",
+            "Eurovision",
+            "Balkan Oyunları"
+        ],
+        "correctAnswer": 3,
+        "category": "spor",
+        "difficulty": "zor",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50131,
+        "question": "Rıza Kayaalp hangi stilde güreşir?",
+        "answers": [
+            "Serbest",
+            "Grekoromen",
+            "Yağlı",
+            "Karakucak"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50132,
+        "question": "Futbolda ofsayt kuralı neyle ilgilidir?",
+        "answers": [
+            "Elle oynamak",
+            "Hakeme itiraz",
+            "Rakip kale çizgisine yakınlık",
+            "Faul yapmak"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "football"
+    },
+    {
+        "id": 50133,
+        "question": "NBA şampiyonu olan ilk Türk basketbolcu kimdir?",
+        "answers": [
+            "Hidayet Türkoğlu",
+            "Mehmet Okur",
+            "Ersan İlyasova",
+            "Ömer Aşık"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "basketball"
+    },
+    {
+        "id": 50134,
+        "question": "Beşiktaş'ın stadının adı nedir?",
+        "answers": [
+            "Türk Telekom",
+            "Vodafone Park (Tüpraş)",
+            "Şükrü Saracoğlu",
+            "Olimpiyat"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50135,
+        "question": "Golf sporunda topu deliğe sokmaya çalışılan alana ne denir?",
+        "answers": [
+            "Kort",
+            "Green",
+            "Ring",
+            "Saha"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "zor",
+        "subcategory": "general_sports"
+    },
+    {
+        "id": 50136,
+        "question": "Taha Akgül hangi dalda olimpiyat şampiyonudur?",
+        "answers": [
+            "Boks",
+            "Tekvando",
+            "Güreş",
+            "Halter"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50137,
+        "question": "Futbol kalesinin genişliği ne kadardır?",
+        "answers": [
+            "5.50 m",
+            "7.32 m",
+            "6.15 m",
+            "8.00 m"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "zor",
+        "subcategory": "football"
+    },
+    {
+        "id": 50138,
+        "question": "Hangi takımın renkleri Bordo-Mavidir?",
+        "answers": [
+            "Kayserispor",
+            "Mersin İdman Yurdu",
+            "Trabzonspor",
+            "Karabükspor"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50139,
+        "question": "Maraton koşusu kaç kilometredir?",
+        "answers": [
+            "21 km",
+            "40 km",
+            "42.195 km",
+            "50 km"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "zor",
+        "subcategory": "legends_records"
+    },
+    {
+        "id": 50140,
+        "question": "Hangi Türk futbolcu Barcelona'da oynamıştır?",
+        "answers": [
+            "Rüştü Reçber",
+            "Hakan Şükür",
+            "Emre Belözoğlu",
+            "Tugay Kerimoğlu"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50141,
+        "question": "Voleybolda bir set kaç sayıda biter (tie-break hariç)?",
+        "answers": [
+            "15",
+            "21",
+            "25",
+            "30"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50142,
+        "question": "Basketbol potasının yerden yüksekliği ne kadardır?",
+        "answers": [
+            "2.95 m",
+            "3.05 m",
+            "3.15 m",
+            "3.00 m"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "zor",
+        "subcategory": "basketball"
+    },
+    {
+        "id": 50143,
+        "question": "Süper Lig'in ilk şampiyonu kimdir?",
+        "answers": [
+            "Galatasaray",
+            "Beşiktaş",
+            "Fenerbahçe",
+            "Trabzonspor"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "zor",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50144,
+        "question": "Hangi spor dalında 'smaç' terimi kullanılır?",
+        "answers": [
+            "Futbol",
+            "Basketbol",
+            "Hentbol",
+            "Hepsi"
+        ],
+        "correctAnswer": 1,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "basketball"
+    },
+    {
+        "id": 50145,
+        "question": "Kenan Sofuoğlu hangi spor dalında dünya şampiyonudur?",
+        "answers": [
+            "Formula 1",
+            "Ralli",
+            "Motosiklet",
+            "Bisiklet"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "legends_records"
+    },
+    {
+        "id": 50146,
+        "question": "Busenaz Sürmeneli hangi dalda olimpiyat şampiyonudur?",
+        "answers": [
+            "Boks",
+            "Güreş",
+            "Halter",
+            "Judo"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "turkish_sports"
+    },
+    {
+        "id": 50147,
+        "question": "Alex de Souza hangi takımın efsanesidir?",
+        "answers": [
+            "Galatasaray",
+            "Beşiktaş",
+            "Fenerbahçe",
+            "Trabzonspor"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50148,
+        "question": "Bir bowling oyununda maksimum skor kaçtır?",
+        "answers": [
+            "200",
+            "250",
+            "300",
+            "350"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "zor",
+        "subcategory": "general_sports"
+    },
+    {
+        "id": 50149,
+        "question": "Hangi takım 'Timsah' yürüyüşü ile bilinir?",
+        "answers": [
+            "Bursaspor",
+            "Antalyaspor",
+            "Göztepe",
+            "Altay"
+        ],
+        "correctAnswer": 0,
+        "category": "spor",
+        "difficulty": "orta",
+        "subcategory": "turkish_football"
+    },
+    {
+        "id": 50150,
+        "question": "Halterde 'Cep Herkülü' kimdir?",
+        "answers": [
+            "Halil Mutlu",
+            "Taner Sağır",
+            "Naim Süleymanoğlu",
+            "Hafız Süleymanoğlu"
+        ],
+        "correctAnswer": 2,
+        "category": "spor",
+        "difficulty": "kolay",
+        "subcategory": "turkish_sports"
+    }
+]

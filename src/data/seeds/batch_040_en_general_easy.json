@@ -1,0 +1,452 @@
+[
+  {
+    "id": 40001,
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "answers": ["Tiger", "Lion", "Elephant", "Giraffe"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["animals"]
+  },
+  {
+    "id": 40002,
+    "question": "What is the result of 2 + 2?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["math"]
+  },
+  {
+    "id": 40003,
+    "question": "Which planet is closest to the Sun?",
+    "answers": ["Venus", "Mars", "Mercury", "Earth"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["science"]
+  },
+  {
+    "id": 40004,
+    "question": "How many days are there in a week?",
+    "answers": ["5", "7", "10", "12"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40005,
+    "question": "What is the chemical symbol for water?",
+    "answers": ["H2O", "CO2", "O2", "NaCl"],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["science"]
+  },
+  {
+    "id": 40006,
+    "question": "Which color is opposite to black?",
+    "answers": ["Red", "Blue", "White", "Green"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40007,
+    "question": "What do bees collect to make honey?",
+    "answers": ["Pollen", "Nectar", "Water", "Leaves"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["animals"]
+  },
+  {
+    "id": 40008,
+    "question": "Which shape has three sides?",
+    "answers": ["Square", "Circle", "Triangle", "Rectangle"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["math"]
+  },
+  {
+    "id": 40009,
+    "question": "In which season does it typically snow?",
+    "answers": ["Summer", "Spring", "Autumn", "Winter"],
+    "correctAnswer": 3,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40010,
+    "question": "What is the capital of Italy?",
+    "answers": ["Venice", "Milan", "Rome", "Naples"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["geography"]
+  },
+  {
+    "id": 40011,
+    "question": "Which fruit is yellow and curved?",
+    "answers": ["Apple", "Banana", "Grape", "Orange"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["food"]
+  },
+  {
+    "id": 40012,
+    "question": "What do you use to brush your teeth?",
+    "answers": ["Hairbrush", "Toothbrush", "Paintbrush", "Broom"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40013,
+    "question": "Where do fish live?",
+    "answers": ["Air", "Land", "Water", "Space"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["animals"]
+  },
+  {
+    "id": 40014,
+    "question": "How many legs does a spider have?",
+    "answers": ["4", "6", "8", "10"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["animals"]
+  },
+  {
+    "id": 40015,
+    "question": "Which is the largest animal on Earth?",
+    "answers": ["Elephant", "Blue Whale", "Giraffe", "Shark"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["animals"]
+  },
+  {
+    "id": 40016,
+    "question": "What is the freezing point of water?",
+    "answers": ["0°C", "10°C", "32°C", "100°C"],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["science"]
+  },
+  {
+    "id": 40017,
+    "question": "Who is Batman's secret identity?",
+    "answers": ["Clark Kent", "Peter Parker", "Bruce Wayne", "Tony Stark"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["pop_culture"]
+  },
+  {
+    "id": 40018,
+    "question": "Before Monday, what day is it?",
+    "answers": ["Tuesday", "Wednesday", "Sunday", "Friday"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40019,
+    "question": "Which organ pumps blood around the body?",
+    "answers": ["Lungs", "Brain", "Heart", "Liver"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["science"]
+  },
+  {
+    "id": 40020,
+    "question": "What is the main language spoken in the USA?",
+    "answers": ["Spanish", "French", "English", "German"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["geography"]
+  },
+  {
+    "id": 40021,
+    "question": "How many colors are in a rainbow?",
+    "answers": ["5", "6", "7", "8"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["science"]
+  },
+  {
+    "id": 40022,
+    "question": "Which country is home to the Kangaroo?",
+    "answers": ["USA", "Australia", "China", "Brazil"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["animals"]
+  },
+  {
+    "id": 40023,
+    "question": "What is the opposite of 'hot'?",
+    "answers": ["Warm", "Cold", "Dry", "Wet"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40024,
+    "question": "Which superhero climbs walls like a spider?",
+    "answers": ["Superman", "Batman", "Spider-Man", "Iron Man"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["pop_culture"]
+  },
+  {
+    "id": 40025,
+    "question": "What do cows produce that we drink?",
+    "answers": ["Water", "Juice", "Milk", "Soda"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["food"]
+  },
+  {
+    "id": 40026,
+    "question": "Which bird cannot fly?",
+    "answers": ["Eagle", "Sparrow", "Penguin", "Pigeon"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["animals"]
+  },
+  {
+    "id": 40027,
+    "question": "What celestial body orbits the Earth?",
+    "answers": ["Sun", "Moon", "Mars", "Jupiter"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["science"]
+  },
+  {
+    "id": 40028,
+    "question": "How many hours are in a day?",
+    "answers": ["12", "24", "48", "60"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40029,
+    "question": "Which instrument has black and white keys?",
+    "answers": ["Guitar", "Violin", "Piano", "Flute"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["art"]
+  },
+  {
+    "id": 40030,
+    "question": "Who lives in a pineapple under the sea?",
+    "answers": ["Patrick Star", "SpongeBob SquarePants", "Squidward", "Mr. Krabs"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["pop_culture"]
+  },
+  {
+    "id": 40031,
+    "question": "What is 10 minus 5?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["math"]
+  },
+  {
+    "id": 40032,
+    "question": "Which of these is a vegetable?",
+    "answers": ["Apple", "Carrot", "Banana", "Grape"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["food"]
+  },
+  {
+    "id": 40033,
+    "question": "What falls from the sky during rain?",
+    "answers": ["Snow", "Water", "Ice", "Dust"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40034,
+    "question": "Which country has a flag with stars and stripes?",
+    "answers": ["UK", "Canada", "USA", "France"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["geography"]
+  },
+  {
+    "id": 40035,
+    "question": "What sound does a dog make?",
+    "answers": ["Meow", "Moo", "Woof", "Quack"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["animals"]
+  },
+  {
+    "id": 40036,
+    "question": "How many fingers do humans typically have on one hand?",
+    "answers": ["4", "5", "6", "10"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["science"]
+  },
+  {
+    "id": 40037,
+    "question": "What is the color of the sun?",
+    "answers": ["Blue", "Green", "Yellow", "Purple"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40038,
+    "question": "Which of these animals lays eggs?",
+    "answers": ["Dog", "Cat", "Chicken", "Cow"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["animals"]
+  },
+  {
+    "id": 40039,
+    "question": "What do you wear on your feet?",
+    "answers": ["Gloves", "Hat", "Shoes", "Scarf"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40040,
+    "question": "Which Disney princess has a glass slipper?",
+    "answers": ["Snow White", "Cinderella", "Belle", "Ariel"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["pop_culture"]
+  },
+  {
+    "id": 40041,
+    "question": "What is the capital of Japan?",
+    "answers": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["geography"]
+  },
+  {
+    "id": 40042,
+    "question": "Which geometric shape is round?",
+    "answers": ["Square", "Circle", "Triangle", "Rectangle"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["math"]
+  },
+  {
+    "id": 40043,
+    "question": "What is the main ingredient in bread?",
+    "answers": ["Flour", "Sugar", "Pepper", "Rice"],
+    "correctAnswer": 0,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["food"]
+  },
+  {
+    "id": 40044,
+    "question": "Which season comes after Summer?",
+    "answers": ["Spring", "Winter", "Autumn", "Monsoon"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40045,
+    "question": "How many wheels does a bicycle have?",
+    "answers": ["1", "2", "3", "4"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40046,
+    "question": "What is the largest cat species?",
+    "answers": ["Lion", "Tiger", "Leopard", "Cheetah"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["animals"]
+  },
+  {
+    "id": 40047,
+    "question": "What do you use to write on a blackboard?",
+    "answers": ["Pen", "Pencil", "Chalk", "Marker"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40048,
+    "question": "Which of these is a liquid?",
+    "answers": ["Stone", "Water", "Wood", "Metal"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["science"]
+  },
+  {
+    "id": 40049,
+    "question": "Who delivers gifts on Christmas?",
+    "answers": ["Easter Bunny", "Santa Claus", "Tooth Fairy", "Cupid"],
+    "correctAnswer": 1,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  },
+  {
+    "id": 40050,
+    "question": "What is the first letter of the alphabet?",
+    "answers": ["B", "C", "A", "Z"],
+    "correctAnswer": 2,
+    "category": "genel_kultur",
+    "difficulty": "kolay",
+    "tags": ["general"]
+  }
+]

@@ -1,0 +1,819 @@
+[
+    {
+        "id": 50201,
+        "question": "Türkiye'nin yüzölçümü bakımından en büyük ili hangisidir?",
+        "answers": [
+            "Ankara",
+            "Konya",
+            "Sivas",
+            "Erzurum"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50202,
+        "question": "Hangi ilimizde deniz kıyısı yoktur?",
+        "answers": [
+            "Tekirdağ",
+            "Kırklareli",
+            "Manisa",
+            "Hatay"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50203,
+        "question": "Düden Şelalesi hangi ilimizdedir?",
+        "answers": [
+            "Muğla",
+            "Antalya",
+            "Mersin",
+            "Adana"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya",
+            "turizm"
+        ]
+    },
+    {
+        "id": 50204,
+        "question": "Türkiye'nin en kalabalık olmayan (nüfusu en az) ili hangisidir (2023)?",
+        "answers": [
+            "Tunceli",
+            "Bayburt",
+            "Ardahan",
+            "Gümüşhane"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya",
+            "nufus"
+        ]
+    },
+    {
+        "id": 50205,
+        "question": "Erciyes Dağı hangi ilimizdedir?",
+        "answers": [
+            "Kayseri",
+            "Nevşehir",
+            "Sivas",
+            "Niğde"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50206,
+        "question": "Hangi nehir Türkiye sınırları dışına dökülür?",
+        "answers": [
+            "Kızılırmak",
+            "Sakarya",
+            "Fırat",
+            "Yeşilırmak"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50207,
+        "question": "Nemrut Dağı Milli Parkı (heykeller) hangi ilimizdedir?",
+        "answers": [
+            "Bitlis",
+            "Adıyaman",
+            "Şanlıurfa",
+            "Malatya"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya",
+            "turizm"
+        ]
+    },
+    {
+        "id": 50208,
+        "question": "Türkiye'nin en doğu ucu hangi ildir?",
+        "answers": [
+            "Kars",
+            "Iğdır",
+            "Hakkari",
+            "Van"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50209,
+        "question": "Hangi ilimiz 'Serhat Şehri' olarak bilinir?",
+        "answers": [
+            "Edirne",
+            "Kars",
+            "Artvin",
+            "Hakkari"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50210,
+        "question": "Manyas Kuş Cenneti hangi ilimizdedir?",
+        "answers": [
+            "Bursa",
+            "Balıkesir",
+            "Çanakkale",
+            "İzmir"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya",
+            "doga"
+        ]
+    },
+    {
+        "id": 50211,
+        "question": "Taşköprü Sarımsağı ile ünlü ilimiz hangisidir?",
+        "answers": [
+            "Sinop",
+            "Kastamonu",
+            "Çorum",
+            "Bartın"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya",
+            "tarim"
+        ]
+    },
+    {
+        "id": 50212,
+        "question": "Türkiye'nin en büyük adası Gökçeada hangi ile bağlıdır?",
+        "answers": [
+            "Balıkesir",
+            "İzmir",
+            "Çanakkale",
+            "Edirne"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50213,
+        "question": "Çoruh Nehri üzerinde yapılan Türkiye'nin en yüksek barajı hangisidir?",
+        "answers": [
+            "Atatürk",
+            "Deriner",
+            "Yusufeli",
+            "Keban"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50214,
+        "question": "Hangi ilimizin plaka kodu 01'dir?",
+        "answers": [
+            "Ankara",
+            "Adana",
+            "Adıyaman",
+            "Afyon"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "genel"
+        ]
+    },
+    {
+        "id": 50215,
+        "question": "Iğdır'da yetiştirilen mikroklima ürünü nedir?",
+        "answers": [
+            "Fındık",
+            "Çay",
+            "Pamuk",
+            "Zeytin"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya",
+            "tarim"
+        ]
+    },
+    {
+        "id": 50216,
+        "question": "Salda Gölü hangi ilimizdedir?",
+        "answers": [
+            "Denizli",
+            "Burdur",
+            "Isparta",
+            "Antalya"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya",
+            "turizm"
+        ]
+    },
+    {
+        "id": 50217,
+        "question": "Fethiye Ölüdeniz hangi ilimize bağlıdır?",
+        "answers": [
+            "Antalya",
+            "Muğla",
+            "İzmir",
+            "Aydın"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya",
+            "turizm"
+        ]
+    },
+    {
+        "id": 50218,
+        "question": "Türkiye'de petrolün ilk bulunduğu dağ hangisidir?",
+        "answers": [
+            "Raman",
+            "Cudi",
+            "Gabar",
+            "Tendürek"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya",
+            "ekonomi"
+        ]
+    },
+    {
+        "id": 50219,
+        "question": "Hangi bölgemiz en çok orman alanına sahiptir?",
+        "answers": [
+            "Akdeniz",
+            "Ege",
+            "Marmara",
+            "Karadeniz"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50220,
+        "question": "Ankara ne zaman başkent olmuştur?",
+        "answers": [
+            "23 Nisan 1920",
+            "29 Ekim 1923",
+            "13 Ekim 1923",
+            "9 Eylül 1922"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "tarih",
+            "cografya"
+        ]
+    },
+    {
+        "id": 50221,
+        "question": "Ayder Yaylası hangi ilimizdedir?",
+        "answers": [
+            "Trabzon",
+            "Rize",
+            "Artvin",
+            "Giresun"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya",
+            "turizm"
+        ]
+    },
+    {
+        "id": 50222,
+        "question": "Hangi ilimizde 'Kangal Köpeği' meşhurdur?",
+        "answers": [
+            "Kayseri",
+            "Sivas",
+            "Yozgat",
+            "Erzincan"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50223,
+        "question": "Cilo Dağları hangi ilimizdedir?",
+        "answers": [
+            "Van",
+            "Şırnak",
+            "Hakkari",
+            "Ağrı"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50224,
+        "question": "Tortum Şelalesi hangi ilimizdedir?",
+        "answers": [
+            "Erzurum",
+            "Erzincan",
+            "Kars",
+            "Ardahan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50225,
+        "question": "Bozcaada'nın eski adı nedir?",
+        "answers": [
+            "İmroz",
+            "Tenedos",
+            "Lesbos",
+            "Samos"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50226,
+        "question": "Zeugma Mozaik Müzesi hangi ildedir?",
+        "answers": [
+            "Şanlıurfa",
+            "Hatay",
+            "Gaziantep",
+            "Mardin"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50227,
+        "question": "İshak Paşa Sarayı hangi ilimizdedir?",
+        "answers": [
+            "Van",
+            "Ağrı",
+            "Kars",
+            "Iğdır"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "tarih",
+            "turizm"
+        ]
+    },
+    {
+        "id": 50228,
+        "question": "Hangi ilimiz 'Elma'sı ile meşhurdur?",
+        "answers": [
+            "Isparta",
+            "Amasya",
+            "Niğde",
+            "Karaman"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "tarim"
+        ]
+    },
+    {
+        "id": 50229,
+        "question": "Türkiye'nin en uzun tüneli hangisidir (2024)?",
+        "answers": [
+            "Ovit",
+            "Zigana",
+            "Avrasya",
+            "Bolu Dağı"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya",
+            "teknoloji"
+        ]
+    },
+    {
+        "id": 50230,
+        "question": "Hangi şehirimizde demiryolu yoktur?",
+        "answers": [
+            "Kars",
+            "Erzurum",
+            "Van",
+            "Antalya"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya",
+            "ulasim"
+        ]
+    },
+    {
+        "id": 50231,
+        "question": "Kız Kalesi hangi ilimizdedir?",
+        "answers": [
+            "Antalya",
+            "Mersin",
+            "Adana",
+            "Hatay"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50232,
+        "question": "Amasra hangi ilimize bağlıdır?",
+        "answers": [
+            "Zonguldak",
+            "Bartın",
+            "Kastamonu",
+            "Sinop"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50233,
+        "question": "Meke Krater Gölü hangi ildedir?",
+        "answers": [
+            "Konya",
+            "Aksaray",
+            "Nevşehir",
+            "Niğde"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50234,
+        "question": "Hangi ilimizin adı, kurtuluş savaşındaki kahramanlığından dolayı değişmiştir?",
+        "answers": [
+            "Maraş",
+            "Urfa",
+            "Antep",
+            "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "tarih"
+        ]
+    },
+    {
+        "id": 50235,
+        "question": "Türkiye'nin en kuzey ucu hangi ildir?",
+        "answers": [
+            "Artvin",
+            "Kastamonu",
+            "Sinop",
+            "Samsun"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50236,
+        "question": "Hangi il 'Köfte'si ile meşhur değildir?",
+        "answers": [
+            "Tekirdağ",
+            "İnegöl (Bursa)",
+            "Akçaabat (Trabzon)",
+            "Yozgat"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "yemek"
+        ]
+    },
+    {
+        "id": 50237,
+        "question": "Aşık Veysel nerelidir?",
+        "answers": [
+            "Kırşehir",
+            "Sivas",
+            "Yozgat",
+            "Erzincan"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50238,
+        "question": "Hangi dağ sönmüş bir yanardağ değildir?",
+        "answers": [
+            "Erciyes",
+            "Nemrut",
+            "Süphan",
+            "Toroslar"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50239,
+        "question": "Efes Antik Kenti hangi ilimizdedir?",
+        "answers": [
+            "Aydın",
+            "İzmir",
+            "Manisa",
+            "Denizli"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "tarih",
+            "turizm"
+        ]
+    },
+    {
+        "id": 50240,
+        "question": "Edremit Körfezi hangi ilimizdedir?",
+        "answers": [
+            "Çanakkale",
+            "Balıkesir",
+            "İzmir",
+            "Aydın"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50241,
+        "question": "Ani Harabeleri hangi ilimizdedir?",
+        "answers": [
+            "Kars",
+            "Iğdır",
+            "Ardahan",
+            "Erzurum"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "tarih",
+            "turizm"
+        ]
+    },
+    {
+        "id": 50242,
+        "question": "Hangi şehir 'Peygamberler Şehri' olarak bilinir?",
+        "answers": [
+            "Konya",
+            "Mardin",
+            "Diyarbakır",
+            "Şanlıurfa"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "kultur"
+        ]
+    },
+    {
+        "id": 50243,
+        "question": "Sapanca Gölü hangi iki ilimiz arasındadır?",
+        "answers": [
+            "Kocaeli-Sakarya",
+            "Sakarya-Düzce",
+            "Kocaeli-Bursa",
+            "Bursa-Yalova"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50244,
+        "question": "Hangi ilimiz 'Lüleburgaz' ilçesine sahiptir?",
+        "answers": [
+            "Edirne",
+            "Tekirdağ",
+            "Kırklareli",
+            "Çanakkale"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50245,
+        "question": "Şirince Köyü hangi ildedir?",
+        "answers": [
+            "İzmir",
+            "Aydın",
+            "Muğla",
+            "Denizli"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "turizm"
+        ]
+    },
+    {
+        "id": 50246,
+        "question": "Hangi ilimizde 'Anzer Balı' üretilir?",
+        "answers": [
+            "Artvin",
+            "Rize",
+            "Trabzon",
+            "Ordu"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "tarim"
+        ]
+    },
+    {
+        "id": 50247,
+        "question": "Akdamar Adası hangi gölümüzdedir?",
+        "answers": [
+            "Tuz Gölü",
+            "Beyşehir",
+            "Van Gölü",
+            "Eğirdir"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "cografya",
+            "turizm"
+        ]
+    },
+    {
+        "id": 50248,
+        "question": "Hangi ilimiz 'Ceviz'i ile meşhurdur?",
+        "answers": [
+            "Kırşehir",
+            "Kaman (Kırşehir)",
+            "Bursa",
+            "Tokat"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "tarim"
+        ]
+    },
+    {
+        "id": 50249,
+        "question": "Türkiye'nin en güney ucu hangi ildir?",
+        "answers": [
+            "Mersin",
+            "Antalya",
+            "Hatay",
+            "Kilis"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "cografya"
+        ]
+    },
+    {
+        "id": 50250,
+        "question": "Hangi ilimizde 'Pamukkale' travertenleri bulunur?",
+        "answers": [
+            "Burdur",
+            "Isparta",
+            "Denizli",
+            "Muğla"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "turizm"
+        ]
+    }
+]

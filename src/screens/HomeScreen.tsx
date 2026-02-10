@@ -1,9 +1,10 @@
-import React from 'react';
-import { View, Text, Pressable, StyleSheet, Dimensions } from 'react-native';
+import React, { useEffect, useRef } from 'react';
+import { View, Text, Pressable, StyleSheet, Dimensions, Animated } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import { Language, getTranslation } from '../data/translations';
 import { colors, typography, borderRadius, spacing } from '../styles/theme';
+import { useDailyStreak } from '../hooks/useDailyStreak';
 
 const { width, height } = Dimensions.get('window');
 
@@ -16,6 +17,31 @@ interface HomeScreenProps {
 
 export function HomeScreen({ onStartGame, onSpeedRound, onDailyChallenge, language }: HomeScreenProps) {
     const t = (key: any) => getTranslation(language, key);
+    const { streak, isLoading: streakLoading } = useDailyStreak();
+
+    // Pulse animation for streak badge
+    const pulseAnim = useRef(new Animated.Value(1)).current;
+    const glowAnim = useRef(new Animated.Value(0.3)).current;
+
+    useEffect(() => {
+        if (streak > 0) {
+            const pulse = Animated.loop(
+                Animated.sequence([
+                    Animated.timing(pulseAnim, { toValue: 1.05, duration: 1200, useNativeDriver: true }),
+                    Animated.timing(pulseAnim, { toValue: 1, duration: 1200, useNativeDriver: true }),
+                ])
+            );
+            const glow = Animated.loop(
+                Animated.sequence([
+                    Animated.timing(glowAnim, { toValue: 0.8, duration: 1200, useNativeDriver: true }),
+                    Animated.timing(glowAnim, { toValue: 0.3, duration: 1200, useNativeDriver: true }),
+                ])
+            );
+            pulse.start();
+            glow.start();
+            return () => { pulse.stop(); glow.stop(); };
+        }
+    }, [streak]);
 
     return (
         <View style={styles.container}>
@@ -33,6 +59,48 @@ export function HomeScreen({ onStartGame, onSpeedRound, onDailyChallenge, langua
 
             {/* Content */}
             <View style={styles.content}>
+
+                {/* ── Streak Badge ── */}
+                {!streakLoading && (
+                    <Animated.View style={[
+                        styles.streakBadge,
+                        streak > 0 && {
+                            transform: [{ scale: pulseAnim }],
+                            shadowOpacity: glowAnim as any,
+                        },
+                    ]}>
+                        <LinearGradient
+                            colors={
+                                streak > 0
+                                    ? ['rgba(212, 175, 55, 0.25)', 'rgba(255, 140, 0, 0.15)']
+                                    : ['rgba(45, 45, 61, 0.6)', 'rgba(30, 30, 46, 0.6)']
+                            }
+                            start={{ x: 0, y: 0 }}
+                            end={{ x: 1, y: 0 }}
+                            style={styles.streakGradient}
+                        >
+                            <Text style={styles.streakFlame}>🔥</Text>
+                            <Text style={[
+                                styles.streakText,
+                                streak === 0 && { color: colors.textSecondary },
+                            ]}>
+                                {streak > 0
+                                    ? (language === 'tr'
+                                        ? `${streak} Günlük Seri`
+                                        : `${streak} Day Streak`)
+                                    : (language === 'tr'
+                                        ? 'Seri Başlat!'
+                                        : 'Start a Streak!')}
+                            </Text>
+                            {streak >= 7 && (
+                                <View style={styles.streakMilestone}>
+                                    <Ionicons name="star" size={14} color={colors.gold} />
+                                </View>
+                            )}
+                        </LinearGradient>
+                    </Animated.View>
+                )}
+
                 {/* Title */}
                 <Text style={styles.title}>{t('appTitle')}</Text>
 
@@ -265,6 +333,45 @@ const styles = StyleSheet.create({
         fontSize: 12,
         fontWeight: '500',
         color: colors.textSecondary,
+    },
+    // ── Streak Badge Styles ──
+    streakBadge: {
+        marginBottom: spacing.lg,
+        borderRadius: borderRadius.full,
+        borderWidth: 1,
+        borderColor: 'rgba(212, 175, 55, 0.4)',
+        shadowColor: colors.gold,
+        shadowOffset: { width: 0, height: 0 },
+        shadowOpacity: 0.3,
+        shadowRadius: 12,
+        elevation: 6,
+        overflow: 'hidden',
+    },
+    streakGradient: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        paddingHorizontal: spacing.lg,
+        paddingVertical: spacing.sm + 2,
+        borderRadius: borderRadius.full,
+        gap: spacing.sm,
+    },
+    streakFlame: {
+        fontSize: 18,
+    },
+    streakText: {
+        fontSize: 15,
+        fontWeight: '700',
+        color: colors.gold,
+        letterSpacing: 0.5,
+    },
+    streakMilestone: {
+        width: 22,
+        height: 22,
+        borderRadius: 11,
+        backgroundColor: 'rgba(212, 175, 55, 0.2)',
+        justifyContent: 'center',
+        alignItems: 'center',
+        marginLeft: 2,
     },
 });
 

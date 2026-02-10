@@ -1,0 +1,802 @@
+[
+    {
+        "id": 51001,
+        "question": "'Damlaya damlaya ... olur.' atasözünü tamamlayın.",
+        "answers": [
+            "Göl",
+            "Sel",
+            "Deniz",
+            "Nehir"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51002,
+        "question": "'Sakla samanı ... zamanı.' atasözünü tamamlayın.",
+        "answers": [
+            "Gelir",
+            "Gider",
+            "Biter",
+            "Döner"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51003,
+        "question": "'Ateş olmayan yerden ... çıkmaz.' atasözünü tamamlayın.",
+        "answers": [
+            "Duman",
+            "Kül",
+            "Ses",
+            "Isı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51004,
+        "question": "'Besle kargayı ... oysun.' atasözünü tamamlayın.",
+        "answers": [
+            "Gözünü",
+            "Burnunu",
+            "Eleni",
+            "Kafanı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51005,
+        "question": "'Tatlı dil yılanı ... çıkarır.' atasözünü tamamlayın.",
+        "answers": [
+            "Deliğinden",
+            "Yuvasından",
+            "İninden",
+            "Toprağından"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51006,
+        "question": "'Gülü seven ... katlanır.' atasözünü tamamlayın.",
+        "answers": [
+            "Dikenine",
+            "Yaprağına",
+            "Kokusuna",
+            "Rengine"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51007,
+        "question": "'Davulun sesi uzaktan ... gelir.' atasözünü tamamlayın.",
+        "answers": [
+            "Hoş",
+            "Gür",
+            "Tok",
+            "Az"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51008,
+        "question": "'... düşmez kalkmaz bir Allah.' atasözünü tamamlayın.",
+        "answers": [
+            "Kul",
+            "İnsan",
+            "Ağaç",
+            "Taş"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51009,
+        "question": "'Dost başa düşman ... bakar.' atasözünü tamamlayın.",
+        "answers": [
+            "Ayağa",
+            "Yere",
+            "Yüze",
+            "Sırtına"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51010,
+        "question": "'Üzüm üzüme baka baka ...' atasözünü tamamlayın.",
+        "answers": [
+            "Kararır",
+            "Olgunlaşır",
+            "Tatlanır",
+            "Çürür"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51011,
+        "question": "'Ağaç ... eğilir.' atasözünü tamamlayın.",
+        "answers": [
+            "Yaşken",
+            "Kuruyken",
+            "Fidanken",
+            "Kökünden"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51012,
+        "question": "'Acele işe ... karışır.' atasözünü tamamlayın.",
+        "answers": [
+            "Şeytan",
+            "Hata",
+            "Zaman",
+            "El"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51013,
+        "question": "'... ile uslanmayanı etmeli tekdir, tekdir ile uslanmayanın hakkı kötektir.'",
+        "answers": [
+            "Nush (Nasihat)",
+            "Söz",
+            "Laf",
+            "Bakış"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51014,
+        "question": "'Ayağını ... göre uzat.' atasözünü tamamlayın.",
+        "answers": [
+            "Yorganına",
+            "Boyuna",
+            "Yatağına",
+            "Halıya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51015,
+        "question": "'Mart kapıdan baktırır, ... yaktırır.'",
+        "answers": [
+            "Kazma kürek",
+            "Odun kömür",
+            "Samba soba",
+            "Ceket hırka"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51016,
+        "question": "'Tavşan dağa küsmüş, ... haberi olmamış.'",
+        "answers": [
+            "Dağın",
+            "Tavşanın",
+            "Ormanın",
+            "Avcının"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51017,
+        "question": "'Komşu komşunun ... muhtaçtır.'",
+        "answers": [
+            "Külüne",
+            "Tuzuna",
+            "Yemeğine",
+            "Çayına"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51018,
+        "question": "'Bir elin nesi var, ... sesi var.'",
+        "answers": [
+            "İki elin",
+            "Çok elin",
+            "Kocaman",
+            "Gür"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51019,
+        "question": "'Denize düşen ... sarılır.'",
+        "answers": [
+            "Yılana",
+            "Taşa",
+            "Dala",
+            "Yosuna"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51020,
+        "question": "'Meyve veren ağacı ...' ",
+        "answers": [
+            "Taşlarlar",
+            "Sularlar",
+            "Severler",
+            "Kesmezler"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51021,
+        "question": "'Vakit ...'",
+        "answers": [
+            "Nakittir",
+            "Altındır",
+            "Geçer",
+            "Beklemez"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51022,
+        "question": "'Her yiğidin bir ... yiyişi vardır.'",
+        "answers": [
+            "Yoğurt",
+            "Yemek",
+            "Ekmek",
+            "Köfte"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51023,
+        "question": "'İşleyen demir ...' ",
+        "answers": [
+            "Işıldar",
+            "Pas tutmaz",
+            "Eskimez",
+            "Sertleşir"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51024,
+        "question": "'Abanın kadri ... bilinir.'",
+        "answers": [
+            "Yağmurda",
+            "Kışın",
+            "Soğukta",
+            "Pazarda"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51025,
+        "question": "'Kaçan balık ... olur.'",
+        "answers": [
+            "Büyük",
+            "Küçük",
+            "Lezzetli",
+            "Hızlı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51026,
+        "question": "'Rüzgar eken ... biçer.'",
+        "answers": [
+            "Fırtına",
+            "Kasırga",
+            "Buğday",
+            "Dolu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51027,
+        "question": "'Emek olmadan ... olmaz.'",
+        "answers": [
+            "Yemek",
+            "İş",
+            "Para",
+            "Başarı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51028,
+        "question": "'Yalancının mumu ... kadar yanar.'",
+        "answers": [
+            "Yatsıya",
+            "Sabaha",
+            "Akşama",
+            "Öğlene"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51029,
+        "question": "'Terzi kendi ... dikemez.'",
+        "answers": [
+            "Söküğünü",
+            "Elbisesini",
+            "Yırtığını",
+            "Ceketini"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51030,
+        "question": "'Mum dibine ... vermez.'",
+        "answers": [
+            "Işık",
+            "Isı",
+            "Gölge",
+            "Aydınlık"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51031,
+        "question": "'Minareyi çalan ... hazırlar.'",
+        "answers": [
+            "Kılıfını",
+            "Yerini",
+            "Yolunu",
+            "Merdivenini"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51032,
+        "question": "'Ak akçe ... gün içindir.'",
+        "answers": [
+            "Kara",
+            "Zor",
+            "Kötü",
+            "İyi"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51033,
+        "question": "'Bal tutan ... yalar.'",
+        "answers": [
+            "Parmağını",
+            "Elini",
+            "Kaşığı",
+            "Tabağı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51034,
+        "question": "'Dereyi görmeden ... sıvama.'",
+        "answers": [
+            "Paçaları",
+            "Kolları",
+            "Ayakları",
+            "Eteği"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51035,
+        "question": "'Keskin sirke ... zarardır.'",
+        "answers": [
+            "Küpüne",
+            "Şişesine",
+            "Sahibine",
+            "Yemeğe"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51036,
+        "question": "'Lafla ... gemisi yürümez.'",
+        "answers": [
+            "Peynir",
+            "Yük",
+            "Ticaret",
+            "Yolcu"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51037,
+        "question": "'Gözden ırak olan, ... ırak olur.'",
+        "answers": [
+            "Gönülden",
+            "Kalpten",
+            "Akıldan",
+            "Fikirden"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51038,
+        "question": "'Perşembenin gelişi ... bellidir.'",
+        "answers": [
+            "Çarşambadan",
+            "Salıdan",
+            "Sabahından",
+            "Haftasından"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51039,
+        "question": "'Su uyur, ... uyumaz.'",
+        "answers": [
+            "Düşman",
+            "Asker",
+            "Balık",
+            "Zaman"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51040,
+        "question": "'İki karpuz bir ... sığmaz.'",
+        "answers": [
+            "Koltuğa",
+            "Kese",
+            "Sepete",
+            "Ele"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51041,
+        "question": "'Güneş ... sıvanmaz.'",
+        "answers": [
+            "Balçıkla",
+            "Çamurla",
+            "Kireçle",
+            "Boya"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51042,
+        "question": "'... giren terler.'",
+        "answers": [
+            "Hamama",
+            "Saunaya",
+            "Yaza",
+            "Ateşe"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51043,
+        "question": "'Öfkeyle kalkan ... oturur.'",
+        "answers": [
+            "Zararla",
+            "Hüzünle",
+            "Pişman",
+            "Yorgun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51044,
+        "question": "'... yiğidin kamçısıdır.'",
+        "answers": [
+            "Söz",
+            "At",
+            "Zaman",
+            "Başarı"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51045,
+        "question": "'Teke tek ... olmaz.'",
+        "answers": [
+            "Ordu",
+            "Düğün",
+            "Yemek",
+            "Ev"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51046,
+        "question": "'... kürkünü giymişler, kimse sırtına almamış.'",
+        "answers": [
+            "Kabahatin",
+            "Yalanın",
+            "Ateşin",
+            "Hatanın"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51047,
+        "question": "'Yuvarlanan taş ... tutmaz.'",
+        "answers": [
+            "Yosun",
+            "Kir",
+            "Toz",
+            "Pas"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51048,
+        "question": "'Horozu çok olan köyün ... geç olur.'",
+        "answers": [
+            "Sabahı",
+            "Akşamı",
+            "Gecesi",
+            "Yemeği"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51049,
+        "question": "'Aç ayı ... oynamaz.'",
+        "answers": [
+            "Fırıldak",
+            "Halay",
+            "Top",
+            "Oyun"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "atasozleri"
+        ]
+    },
+    {
+        "id": 51050,
+        "question": "'... canın yongasıdır.'",
+        "answers": [
+            "Mal",
+            "Evlat",
+            "Para",
+            "Kan"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "atasozleri"
+        ]
+    }
+]
