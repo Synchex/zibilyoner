@@ -1,0 +1,802 @@
+[
+    {
+        "id": 40751,
+        "question": "What is the largest bone in the human body?",
+        "answers": [
+            "Femur",
+            "Humerus",
+            "Tibia",
+            "Fibula"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40752,
+        "question": "Which chemical element has the symbol 'Ag'?",
+        "answers": [
+            "Gold",
+            "Silver",
+            "Iron",
+            "Argon"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40753,
+        "question": "Who painted 'The Starry Night'?",
+        "answers": [
+            "Picasso",
+            "Van Gogh",
+            "Monet",
+            "Rembrandt"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40754,
+        "question": "Which mammal can fly?",
+        "answers": [
+            "Flying Squirrel",
+            "Bat",
+            "Sugar Glider",
+            "Lemur"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40755,
+        "question": "In which city is the Colosseum located?",
+        "answers": [
+            "Athens",
+            "Rome",
+            "Cairo",
+            "Istanbul"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40756,
+        "question": "How many players are in a soccer team?",
+        "answers": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "sports"
+        ]
+    },
+    {
+        "id": 40757,
+        "question": "What is the main language spoken in Argentina?",
+        "answers": [
+            "Portuguese",
+            "Spanish",
+            "English",
+            "French"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40758,
+        "question": "Which planet is closest to the Sun?",
+        "answers": [
+            "Venus",
+            "Mars",
+            "Mercury",
+            "Earth"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40759,
+        "question": "Who represents the god of thunder in Norse mythology?",
+        "answers": [
+            "Odin",
+            "Loki",
+            "Thor",
+            "Heimdall"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "mythology"
+        ]
+    },
+    {
+        "id": 40760,
+        "question": "Which country is famous for chocolate and watches?",
+        "answers": [
+            "Germany",
+            "Switzerland",
+            "Belgium",
+            "France"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40761,
+        "question": "What is the hardest rock?",
+        "answers": [
+            "Granite",
+            "Marble",
+            "Diamond",
+            "Quartz"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40762,
+        "question": "Which instrument has 88 keys?",
+        "answers": [
+            "Guitar",
+            "Violin",
+            "Piano",
+            "Flute"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "music"
+        ]
+    },
+    {
+        "id": 40763,
+        "question": "Who is the Greek god of the sea?",
+        "answers": [
+            "Zeus",
+            "Hades",
+            "Poseidon",
+            "Apollo"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "mythology"
+        ]
+    },
+    {
+        "id": 40764,
+        "question": "Which organ filters blood?",
+        "answers": [
+            "Heart",
+            "Lungs",
+            "Kidneys",
+            "Stomach"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40765,
+        "question": "What is the capital of Italy?",
+        "answers": [
+            "Venice",
+            "Milan",
+            "Rome",
+            "Florence"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40766,
+        "question": "Which gas do plants absorb?",
+        "answers": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40767,
+        "question": "Who was the first person to walk on the moon?",
+        "answers": [
+            "Buzz Aldrin",
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "Michael Collins"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40768,
+        "question": "Which is the tallest animal?",
+        "answers": [
+            "Elephant",
+            "Giraffe",
+            "Blue Whale",
+            "Camel"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40769,
+        "question": "What year did the Titanic sink?",
+        "answers": [
+            "1910",
+            "1912",
+            "1914",
+            "1920"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40770,
+        "question": "Which country invented pizza?",
+        "answers": [
+            "USA",
+            "Italy",
+            "France",
+            "Greece"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40771,
+        "question": "What is H2O?",
+        "answers": [
+            "Salt",
+            "Sugar",
+            "Water",
+            "Air"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40772,
+        "question": "Which city is known as the Big Apple?",
+        "answers": [
+            "Los Angeles",
+            "Chicago",
+            "New York",
+            "London"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40773,
+        "question": "How many hearts does an octopus have?",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40774,
+        "question": "Who wrote 'Hamlet'?",
+        "answers": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Mark Twain",
+            "Homer"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40775,
+        "question": "Which continent is Brazil in?",
+        "answers": [
+            "North America",
+            "South America",
+            "Africa",
+            "Europe"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40776,
+        "question": "What is the speed of light?",
+        "answers": [
+            "300,000 km/s",
+            "150,000 km/s",
+            "1,000,000 km/s",
+            "10,000 km/s"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40777,
+        "question": "Which country is the largest coffee producer?",
+        "answers": [
+            "Colombia",
+            "Vietnam",
+            "Brazil",
+            "Ethiopia"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40778,
+        "question": "Who invented the light bulb?",
+        "answers": [
+            "Nikola Tesla",
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Albert Einstein"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40779,
+        "question": "What is the currency of the UK?",
+        "answers": [
+            "Euro",
+            "Dollar",
+            "Pound Sterling",
+            "Franc"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40780,
+        "question": "Which bird cannot fly?",
+        "answers": [
+            "Eagle",
+            "Hawk",
+            "Penguin",
+            "Parrot"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40781,
+        "question": "What is the capital of China?",
+        "answers": [
+            "Shanghai",
+            "Beijing",
+            "Hong Kong",
+            "Shenzhen"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40782,
+        "question": "Who is the author of 'Harry Potter'?",
+        "answers": [
+            "J.R.R. Tolkien",
+            "J.K. Rowling",
+            "C.S. Lewis",
+            "Roald Dahl"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40783,
+        "question": "Which planet is the Red Planet?",
+        "answers": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40784,
+        "question": "Who painted the Mona Lisa?",
+        "answers": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Donatello"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 40785,
+        "question": "Which is the largest ocean?",
+        "answers": [
+            "Atlantic",
+            "Indian",
+            "Arctic",
+            "Pacific"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40786,
+        "question": "What is the hardest natural substance?",
+        "answers": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Silver"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40787,
+        "question": "Which country features a maple leaf on its flag?",
+        "answers": [
+            "USA",
+            "UK",
+            "Canada",
+            "Australia"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40788,
+        "question": "What is the capital of France?",
+        "answers": [
+            "Berlin",
+            "London",
+            "Paris",
+            "Rome"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40789,
+        "question": "Who discovered gravity?",
+        "answers": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40790,
+        "question": "Which animal is the King of the Jungle?",
+        "answers": [
+            "Tiger",
+            "Elephant",
+            "Lion",
+            "Bear"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "animals"
+        ]
+    },
+    {
+        "id": 40791,
+        "question": "What is the main ingredient in sushi?",
+        "answers": [
+            "Bread",
+            "Rice",
+            "Pasta",
+            "Tomato"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 40792,
+        "question": "Which planet has rings?",
+        "answers": [
+            "Mars",
+            "Venus",
+            "Saturn",
+            "Mercury"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40793,
+        "question": "Who was the first US President?",
+        "answers": [
+            "Abraham Lincoln",
+            "Thomas Jefferson",
+            "George Washington",
+            "John Adams"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "history"
+        ]
+    },
+    {
+        "id": 40794,
+        "question": "What is the longest river in the world?",
+        "answers": [
+            "Amazon",
+            "Nile",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40795,
+        "question": "Which element is O?",
+        "answers": [
+            "Gold",
+            "Osmium",
+            "Oxygen",
+            "Iron"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40796,
+        "question": "What is the capital of Egypt?",
+        "answers": [
+            "Cairo",
+            "Luxor",
+            "Alexandria",
+            "Giza"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40797,
+        "question": "Which sport uses a shuttlecock?",
+        "answers": [
+            "Tennis",
+            "Badminton",
+            "Squash",
+            "Ping Pong"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "sports"
+        ]
+    },
+    {
+        "id": 40798,
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answers": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Jane Austen",
+            "Mark Twain"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40799,
+        "question": "What color is a sapphire?",
+        "answers": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "id": 40800,
+        "question": "Which country is famous for the Eiffel Tower?",
+        "answers": [
+            "Italy",
+            "Spain",
+            "Germany",
+            "France"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    }
+]

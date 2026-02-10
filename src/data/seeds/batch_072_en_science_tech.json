@@ -1,0 +1,802 @@
+[
+    {
+        "id": 40501,
+        "question": "What is the unit of electrical resistance?",
+        "answers": [
+            "Volt",
+            "Ampere",
+            "Ohm",
+            "Watt"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "physics"
+        ]
+    },
+    {
+        "id": 40502,
+        "question": "Who is known as the father of modern chemistry?",
+        "answers": [
+            "Isaac Newton",
+            "Antoine Lavoisier",
+            "Dmitri Mendeleev",
+            "Marie Curie"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "chemistry"
+        ]
+    },
+    {
+        "id": 40503,
+        "question": "What is the powerhouse of the cell?",
+        "answers": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Cytoplasm"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "id": 40504,
+        "question": "Which planet rotates on its side?",
+        "answers": [
+            "Mars",
+            "Jupiter",
+            "Uranus",
+            "Neptune"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "astronomy"
+        ]
+    },
+    {
+        "id": 40505,
+        "question": "What does HTTP stand for?",
+        "answers": [
+            "HyperText Transfer Protocol",
+            "High Transfer Text Protocol",
+            "HyperText Transmission Process",
+            "Hyperlink Text Transfer Protocol"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40506,
+        "question": "Who formulated the laws of motion?",
+        "answers": [
+            "Einstein",
+            "Newton",
+            "Galileo",
+            "Tesla"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "physics"
+        ]
+    },
+    {
+        "id": 40507,
+        "question": "What is the chemical symbol for Gold?",
+        "answers": [
+            "Ag",
+            "Au",
+            "Fe",
+            "Pb"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "chemistry"
+        ]
+    },
+    {
+        "id": 40508,
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "answers": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "correctAnswer": 3,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "earth_science"
+        ]
+    },
+    {
+        "id": 40509,
+        "question": "What creates a black hole?",
+        "answers": [
+            "Supernova explosion",
+            "Collision of planets",
+            "Solar flare",
+            "Asteroid impact"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "astronomy"
+        ]
+    },
+    {
+        "id": 40510,
+        "question": "Who invented the World Wide Web?",
+        "answers": [
+            "Bill Gates",
+            "Tim Berners-Lee",
+            "Steve Jobs",
+            "Mark Zuckerberg"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40511,
+        "question": "What is the speed of sound called?",
+        "answers": [
+            "Mach 1",
+            "Light speed",
+            "Warp speed",
+            "Hypersonic"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "physics"
+        ]
+    },
+    {
+        "id": 40512,
+        "question": "Which element is liquid at room temperature?",
+        "answers": [
+            "Iron",
+            "Mercury",
+            "Copper",
+            "Aluminum"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "chemistry"
+        ]
+    },
+    {
+        "id": 40513,
+        "question": "What part of the brain controls balance?",
+        "answers": [
+            "Cerebrum",
+            "Cerebellum",
+            "Brainstem",
+            "Thalamus"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "id": 40514,
+        "question": "What is the nearest star to Earth after the Sun?",
+        "answers": [
+            "Proxima Centauri",
+            "Sirius",
+            "Betelgeuse",
+            "Alpha Centauri A"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "astronomy"
+        ]
+    },
+    {
+        "id": 40515,
+        "question": "What does CPU stand for?",
+        "answers": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Power Unit",
+            "Central Program Utility"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40516,
+        "question": "What is the hardest natural substance?",
+        "answers": [
+            "Steel",
+            "Titanium",
+            "Diamond",
+            "Quartz"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "earth_science"
+        ]
+    },
+    {
+        "id": 40517,
+        "question": "Who discovered penicillin?",
+        "answers": [
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Marie Curie",
+            "Joseph Lister"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "medicine"
+        ]
+    },
+    {
+        "id": 40518,
+        "question": "What is the study of fossils called?",
+        "answers": [
+            "Archaeology",
+            "Paleontology",
+            "Geology",
+            "Anthropology"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40519,
+        "question": "Which planet is known for its rings?",
+        "answers": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Mars"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "astronomy"
+        ]
+    },
+    {
+        "id": 40520,
+        "question": "What does DNA stand for?",
+        "answers": [
+            "Deoxyribonucleic Acid",
+            "Ribonucleic Acid",
+            "Genetic Code",
+            "Biological Acid"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "id": 40521,
+        "question": "What is the freezing point of water in Fahrenheit?",
+        "answers": [
+            "0",
+            "32",
+            "100",
+            "212"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "physics"
+        ]
+    },
+    {
+        "id": 40522,
+        "question": "Who developed the theory of general relativity?",
+        "answers": [
+            "Newton",
+            "Einstein",
+            "Hawking",
+            "Bohr"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "physics"
+        ]
+    },
+    {
+        "id": 40523,
+        "question": "Which tech company uses 'Don't be evil' as a motto (historically)?",
+        "answers": [
+            "Microsoft",
+            "Apple",
+            "Google",
+            "Facebook"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40524,
+        "question": "What is the main function of red blood cells?",
+        "answers": [
+            "Fight infection",
+            "Carry oxygen",
+            "Clot blood",
+            "Digest food"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "id": 40525,
+        "question": "What is the chemical formula for table salt?",
+        "answers": [
+            "NaCl",
+            "KCl",
+            "H2O",
+            "CO2"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "chemistry"
+        ]
+    },
+    {
+        "id": 40526,
+        "question": "Which moon belongs to Earth?",
+        "answers": [
+            "Luna",
+            "Titan",
+            "Europa",
+            "Io"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "astronomy"
+        ]
+    },
+    {
+        "id": 40527,
+        "question": "What does AI stand for?",
+        "answers": [
+            "Automated Intelligence",
+            "Artificial Intelligence",
+            "Advanced Interface",
+            "Automated Interaction"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40528,
+        "question": "Who invented the telephone?",
+        "answers": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Alexander Graham Bell",
+            "Guglielmo Marconi"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40529,
+        "question": "What is the heaviest naturally occurring element?",
+        "answers": [
+            "Uranium",
+            "Lead",
+            "Plutonium",
+            "Gold"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "chemistry"
+        ]
+    },
+    {
+        "id": 40530,
+        "question": "What is the study of the universe called?",
+        "answers": [
+            "Astrology",
+            "Cosmology",
+            "Astronomy",
+            "Geology"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "astronomy"
+        ]
+    }, // Cosmology is specifically origin/dev, Astronomy is broader. But Cosmology answers specifically 'universe study'.
+    {
+        "id": 40531,
+        "question": "Which blood type is the universal donor?",
+        "answers": [
+            "A+",
+            "B-",
+            "O-",
+            "AB+"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "id": 40532,
+        "question": "What is the boiling point of water in Celsius?",
+        "answers": [
+            "100",
+            "90",
+            "110",
+            "212"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "physics"
+        ]
+    },
+    {
+        "id": 40533,
+        "question": "Who is the CEO of Tesla?",
+        "answers": [
+            "Jeff Bezos",
+            "Elon Musk",
+            "Bill Gates",
+            "Tim Cook"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40534,
+        "question": "What layer protects Earth from UV radiation?",
+        "answers": [
+            "Ozone Layer",
+            "Greenhouse Layer",
+            "Ionosphere",
+            "Troposphere"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "earth_science"
+        ]
+    },
+    {
+        "id": 40535,
+        "question": "What is the smallest unit of matter?",
+        "answers": [
+            "Molecule",
+            "Atom",
+            "Proton",
+            "Electron"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "physics"
+        ]
+    },
+    {
+        "id": 40536,
+        "question": "Which animal is genetically closest to humans?",
+        "answers": [
+            "Gorilla",
+            "Chimpanzee",
+            "Orangutan",
+            "Baboon"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "id": 40537,
+        "question": "What does a barometer measure?",
+        "answers": [
+            "Temperature",
+            "Humidity",
+            "Atmospheric Pressure",
+            "Wind Speed"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 40538,
+        "question": "Who created the operating system Linux?",
+        "answers": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Linus Torvalds",
+            "Mark Zuckerberg"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40539,
+        "question": "What is the largest organ in the human body?",
+        "answers": [
+            "Liver",
+            "Brain",
+            "Skin",
+            "Heart"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "id": 40540,
+        "question": "Which planet is the hottest?",
+        "answers": [
+            "Mercury",
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "astronomy"
+        ]
+    },
+    {
+        "id": 40541,
+        "question": "What is the main gas in the Sun?",
+        "answers": [
+            "Oxygen",
+            "Unobtainium",
+            "Hydrogen",
+            "Helium"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "astronomy"
+        ]
+    },
+    {
+        "id": 40542,
+        "question": "Which vitamin is produced by sunlight?",
+        "answers": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin B12"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "id": 40543,
+        "question": "What is the device used to measure earthquakes?",
+        "answers": [
+            "Barometer",
+            "Seismograph",
+            "Thermometer",
+            "Spirometer"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "earth_science"
+        ]
+    },
+    {
+        "id": 40544,
+        "question": "Who proposed the theory of evolution?",
+        "answers": [
+            "Charles Darwin",
+            "Gregor Mendel",
+            "Louis Pasteur",
+            "Isaac Newton"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "id": 40545,
+        "question": "What is the chemical formula for Ozone?",
+        "answers": [
+            "O2",
+            "O3",
+            "O4",
+            "CO"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "chemistry"
+        ]
+    },
+    {
+        "id": 40546,
+        "question": "Which company owns Instagram?",
+        "answers": [
+            "Google",
+            "Apple",
+            "Meta (Facebook)",
+            "Twitter"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "technology"
+        ]
+    },
+    {
+        "id": 40547,
+        "question": "What is the pH level of pure water?",
+        "answers": [
+            "5",
+            "7",
+            "9",
+            "0"
+        ],
+        "correctAnswer": 1,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "chemistry"
+        ]
+    },
+    {
+        "id": 40548,
+        "question": "What is the fear of spiders called?",
+        "answers": [
+            "Arachnophobia",
+            "Claustrophobia",
+            "Acrophobia",
+            "Agoraphobia"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "kolay",
+        "tags": [
+            "psychology"
+        ]
+    },
+    {
+        "id": 40549,
+        "question": "Which metal is the best conductor of electricity?",
+        "answers": [
+            "Gold",
+            "Copper",
+            "Silver",
+            "Aluminum"
+        ],
+        "correctAnswer": 2,
+        "category": "bilim",
+        "difficulty": "zor",
+        "tags": [
+            "physics"
+        ]
+    },
+    {
+        "id": 40550,
+        "question": "What does PDF stand for?",
+        "answers": [
+            "Portable Document Format",
+            "Personal Data File",
+            "Print Document File",
+            "Public Data Format"
+        ],
+        "correctAnswer": 0,
+        "category": "bilim",
+        "difficulty": "orta",
+        "tags": [
+            "technology"
+        ]
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": 40601,
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "answers": [
+            "Emily Bronte",
+            "Jane Austen",
+            "Charlotte Bronte",
+            "Virginia Woolf"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40602,
+        "question": "Which author created Sherlock Holmes?",
+        "answers": [
+            "Agatha Christie",
+            "Arthur Conan Doyle",
+            "Charles Dickens",
+            "Mark Twain"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40603,
+        "question": "Who wrote '1984' and 'Animal Farm'?",
+        "answers": [
+            "Aldous Huxley",
+            "George Orwell",
+            "Ray Bradbury",
+            "J.R.R. Tolkien"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40604,
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answers": [
+            "Harper Lee",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald",
+            "John Steinbeck"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40605,
+        "question": "Who is the author of 'War and Peace'?",
+        "answers": [
+            "Fyodor Dostoevsky",
+            "Leo Tolstoy",
+            "Anton Chekhov",
+            "Vladimir Nabokov"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40606,
+        "question": "Who wrote the 'Harry Potter' series?",
+        "answers": [
+            "J.R.R. Tolkien",
+            "J.K. Rowling",
+            "C.S. Lewis",
+            "Roald Dahl"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40607,
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answers": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen",
+            "Mark Twain"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40608,
+        "question": "Who wrote 'Moby Dick'?",
+        "answers": [
+            "Herman Melville",
+            "Nathaniel Hawthorne",
+            "Edgar Allan Poe",
+            "Walt Whitman"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40609,
+        "question": "Who wrote 'The Odyssey'?",
+        "answers": [
+            "Socrates",
+            "Plato",
+            "Homer",
+            "Virgil"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40610,
+        "question": "Who wrote 'The Great Gatsby'?",
+        "answers": [
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald",
+            "William Faulkner",
+            "T.S. Eliot"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40611,
+        "question": "Who wrote 'Crime and Punishment'?",
+        "answers": [
+            "Leo Tolstoy",
+            "Fyodor Dostoevsky",
+            "Ivan Turgenev",
+            "Nikolai Gogol"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40612,
+        "question": "Who wrote 'Alice's Adventures in Wonderland'?",
+        "answers": [
+            "Lewis Carroll",
+            "C.S. Lewis",
+            "J.M. Barrie",
+            "Beatrix Potter"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40613,
+        "question": "Who wrote 'Wuthering Heights'?",
+        "answers": [
+            "Charlotte Bronte",
+            "Emily Bronte",
+            "Anne Bronte",
+            "Jane Austen"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40614,
+        "question": "Who wrote 'Don Quixote'?",
+        "answers": [
+            "Miguel de Cervantes",
+            "Gabriel Garcia Marquez",
+            "Jorge Luis Borges",
+            "Pablo Neruda"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40615,
+        "question": "Who wrote 'The Lord of the Rings'?",
+        "answers": [
+            "George R.R. Martin",
+            "J.R.R. Tolkien",
+            "J.K. Rowling",
+            "C.S. Lewis"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40616,
+        "question": "Who wrote 'The Raven' (poem)?",
+        "answers": [
+            "Walt Whitman",
+            "Emily Dickinson",
+            "Robert Frost",
+            "Edgar Allan Poe"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40617,
+        "question": "Who wrote 'The Adventures of Tom Sawyer'?",
+        "answers": [
+            "Mark Twain",
+            "Charles Dickens",
+            "Jack London",
+            "H.G. Wells"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40618,
+        "question": "Who wrote 'Frankenstein'?",
+        "answers": [
+            "Bram Stoker",
+            "Mary Shelley",
+            "Percy Shelley",
+            "Lord Byron"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40619,
+        "question": "Who wrote 'The Picture of Dorian Gray'?",
+        "answers": [
+            "Oscar Wilde",
+            "James Joyce",
+            "W.B. Yeats",
+            "George Bernard Shaw"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40620,
+        "question": "Who wrote 'Jane Eyre'?",
+        "answers": [
+            "Emily Bronte",
+            "Charlotte Bronte",
+            "Jane Austen",
+            "George Eliot"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40621,
+        "question": "Who wrote 'A Tale of Two Cities'?",
+        "answers": [
+            "Charles Dickens",
+            "Thomas Hardy",
+            "William Thackeray",
+            "Victor Hugo"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40622,
+        "question": "Who wrote 'Dracula'?",
+        "answers": [
+            "Mary Shelley",
+            "Bram Stoker",
+            "H.P. Lovecraft",
+            "Stephen King"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40623,
+        "question": "Who wrote 'The Old Man and the Sea'?",
+        "answers": [
+            "Ernest Hemingway",
+            "John Steinbeck",
+            "William Faulkner",
+            "F. Scott Fitzgerald"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40624,
+        "question": "Who wrote 'Les Miserables'?",
+        "answers": [
+            "Voltaire",
+            "Victor Hugo",
+            "Alexandre Dumas",
+            "Gustave Flaubert"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40625,
+        "question": "Who wrote 'The Divine Comedy'?",
+        "answers": [
+            "Dante Alighieri",
+            "Machiavelli",
+            "Petrarch",
+            "Boccaccio"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40626,
+        "question": "Who wrote 'The Metamorphosis'?",
+        "answers": [
+            "Franz Kafka",
+            "Thomas Mann",
+            "Hermann Hesse",
+            "Albert Camus"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40627,
+        "question": "Who wrote 'Brave New World'?",
+        "answers": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "Kurt Vonnegut"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40628,
+        "question": "Who wrote 'Little Women'?",
+        "answers": [
+            "Louisa May Alcott",
+            "L.M. Montgomery",
+            "Harriet Beecher Stowe",
+            "Edith Wharton"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40629,
+        "question": "Who wrote 'Of Mice and Men'?",
+        "answers": [
+            "John Steinbeck",
+            "Ernest Hemingway",
+            "J.D. Salinger",
+            "Arthur Miller"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40630,
+        "question": "Who wrote 'The Canterbury Tales'?",
+        "answers": [
+            "Geoffrey Chaucer",
+            "John Milton",
+            "William Shakespeare",
+            "Edmund Spenser"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40631,
+        "question": "Who wrote 'The Three Musketeers'?",
+        "answers": [
+            "Victor Hugo",
+            "Alexandre Dumas",
+            "Jules Verne",
+            "Moliere"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40632,
+        "question": "Who wrote 'Lolita'?",
+        "answers": [
+            "Vladimir Nabokov",
+            "Fyodor Dostoevsky",
+            "Leo Tolstoy",
+            "Boris Pasternak"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40633,
+        "question": "Who wrote 'The Grapes of Wrath'?",
+        "answers": [
+            "John Steinbeck",
+            "F. Scott Fitzgerald",
+            "Ernest Hemingway",
+            "William Faulkner"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40634,
+        "question": "Who wrote 'Madame Bovary'?",
+        "answers": [
+            "Gustave Flaubert",
+            "Victor Hugo",
+            "Emile Zola",
+            "Marcel Proust"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40635,
+        "question": "Who wrote 'Heart of Darkness'?",
+        "answers": [
+            "Joseph Conrad",
+            "Rudyard Kipling",
+            "H.G. Wells",
+            "E.M. Forster"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40636,
+        "question": "Who wrote 'One Hundred Years of Solitude'?",
+        "answers": [
+            "Gabriel Garcia Marquez",
+            "Jorge Luis Borges",
+            "Pablo Neruda",
+            "Isabel Allende"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40637,
+        "question": "Who wrote 'The Handmaid's Tale'?",
+        "answers": [
+            "Margaret Atwood",
+            "Virginia Woolf",
+            "Sylvia Plath",
+            "Doris Lessing"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40638,
+        "question": "Who wrote 'Fahrenheit 451'?",
+        "answers": [
+            "Ray Bradbury",
+            "George Orwell",
+            "Isaac Asimov",
+            "Philip K. Dick"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40639,
+        "question": "Who is the playwright of 'Death of a Salesman'?",
+        "answers": [
+            "Tennessee Williams",
+            "Arthur Miller",
+            "Eugene O'Neill",
+            "Samuel Beckett"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40640,
+        "question": "Who wrote 'Ulysses'?",
+        "answers": [
+            "James Joyce",
+            "Oscar Wilde",
+            "Samuel Beckett",
+            "George Bernard Shaw"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40641,
+        "question": "Who wrote 'Catch-22'?",
+        "answers": [
+            "Joseph Heller",
+            "Kurt Vonnegut",
+            "Norman Mailer",
+            "J.D. Salinger"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40642,
+        "question": "Who wrote 'The Stranger' (L'Etranger)?",
+        "answers": [
+            "Jean-Paul Sartre",
+            "Albert Camus",
+            "Simone de Beauvoir",
+            "Marcel Proust"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40643,
+        "question": "Who wrote 'Anna Karenina'?",
+        "answers": [
+            "Leo Tolstoy",
+            "Fyodor Dostoevsky",
+            "Anton Chekhov",
+            "Maxim Gorky"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40644,
+        "question": "Who wrote 'The Little Prince'?",
+        "answers": [
+            "Antoine de Saint-Exupery",
+            "Jules Verne",
+            "Victor Hugo",
+            "Albert Camus"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40645,
+        "question": "Who wrote 'Game of Thrones' (A Song of Ice and Fire)?",
+        "answers": [
+            "J.R.R. Tolkien",
+            "George R.R. Martin",
+            "Robert Jordan",
+            "Brandon Sanderson"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40646,
+        "question": "Who wrote 'The Color Purple'?",
+        "answers": [
+            "Alice Walker",
+            "Toni Morrison",
+            "Maya Angelou",
+            "Zora Neale Hurston"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40647,
+        "question": "Who wrote 'Beloved'?",
+        "answers": [
+            "Toni Morrison",
+            "Alice Walker",
+            "James Baldwin",
+            "Ralph Ellison"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40648,
+        "question": "Who wrote 'Great Expectations'?",
+        "answers": [
+            "Charles Dickens",
+            "Thomas Hardy",
+            "George Eliot",
+            "William Thackeray"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40649,
+        "question": "Who wrote 'The Sun Also Rises'?",
+        "answers": [
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald",
+            "William Faulkner",
+            "John Steinbeck"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "literature"
+        ]
+    },
+    {
+        "id": 40650,
+        "question": "Who wrote 'A Clockwork Orange'?",
+        "answers": [
+            "Anthony Burgess",
+            "George Orwell",
+            "Aldous Huxley",
+            "William Golding"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "literature"
+        ]
+    }
+]

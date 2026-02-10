@@ -1,0 +1,802 @@
+[
+    {
+        "id": 40551,
+        "question": "Who was the first Emperor of China?",
+        "answers": [
+            "Qin Shi Huang",
+            "Kublai Khan",
+            "Sun Yat-sen",
+            "Mao Zedong"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40552,
+        "question": "In which city was Archduke Franz Ferdinand assassinated?",
+        "answers": [
+            "Vienna",
+            "Sarajevo",
+            "Belgrade",
+            "Budapest"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40553,
+        "question": "Which civilization built Machu Picchu?",
+        "answers": [
+            "Aztec",
+            "Maya",
+            "Inca",
+            "Olmec"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40554,
+        "question": "Who was the British Prime Minister during WWII?",
+        "answers": [
+            "Neville Chamberlain",
+            "Winston Churchill",
+            "Clement Attlee",
+            "Margaret Thatcher"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40555,
+        "question": "The French Revolution began in which year?",
+        "answers": [
+            "1776",
+            "1789",
+            "1812",
+            "1848"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40556,
+        "question": "Who was the last Tsar of Russia?",
+        "answers": [
+            "Peter the Great",
+            "Ivan the Terrible",
+            "Nicholas II",
+            "Alexander III"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40557,
+        "question": "Which war was fought between the North and South in the USA?",
+        "answers": [
+            "Revolutionary War",
+            "Civil War",
+            "War of 1812",
+            "Vietnam War"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40558,
+        "question": "Who discovered the Americas in 1492?",
+        "answers": [
+            "Vasco da Gama",
+            "Christopher Columbus",
+            "Ferdinand Magellan",
+            "Amerigo Vespucci"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40559,
+        "question": "Which empire was known as the 'Sick Man of Europe'?",
+        "answers": [
+            "Austro-Hungarian Empire",
+            "Ottoman Empire",
+            "Russian Empire",
+            "Spanish Empire"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40560,
+        "question": "Who was the first female Prime Minister of India?",
+        "answers": [
+            "Indira Gandhi",
+            "Benazir Bhutto",
+            "Pratibha Patil",
+            "Sonia Gandhi"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40561,
+        "question": "The Battle of Waterloo marked the end of whose rule?",
+        "answers": [
+            "Napoleon Bonaparte",
+            "Louis XVI",
+            "Charlemagne",
+            "Robespierre"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40562,
+        "question": "Which country was formerly known as Persia?",
+        "answers": [
+            "Iraq",
+            "Iran",
+            "Syria",
+            "Turkey"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40563,
+        "question": "Who wrote 'The Communist Manifesto'?",
+        "answers": [
+            "Vladimir Lenin",
+            "Karl Marx",
+            "Joseph Stalin",
+            "Leon Trotsky"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40564,
+        "question": "In which year did the Titanic sink?",
+        "answers": [
+            "1910",
+            "1912",
+            "1914",
+            "1920"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40565,
+        "question": "Which wall divided East and West Germany?",
+        "answers": [
+            "Great Wall",
+            "Berlin Wall",
+            "Iron Curtain",
+            "Hadrian's Wall"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40566,
+        "question": "Who was the leader of the Soviet Union during WWII?",
+        "answers": [
+            "Lenin",
+            "Stalin",
+            "Khrushchev",
+            "Gorbachev"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40567,
+        "question": "The Magna Carta was signed in which year?",
+        "answers": [
+            "1066",
+            "1215",
+            "1492",
+            "1776"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40568,
+        "question": "Which ancient civilization built the Colosseum?",
+        "answers": [
+            "Greeks",
+            "Romans",
+            "Egyptians",
+            "Persians"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40569,
+        "question": "Who was the first man in space?",
+        "answers": [
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "Buzz Aldrin",
+            "John Glenn"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40570,
+        "question": "Which war lasted from 1939 to 1945?",
+        "answers": [
+            "WWI",
+            "WWII",
+            "Korean War",
+            "Cold War"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40571,
+        "question": "Who was the famous queen of ancient Egypt?",
+        "answers": [
+            "Nefertiti",
+            "Cleopatra",
+            "Hatshepsut",
+            "Isis"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40572,
+        "question": "The Industrial Revolution began in which country?",
+        "answers": [
+            "USA",
+            "Germany",
+            "France",
+            "Great Britain"
+        ],
+        "correctAnswer": 3,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40573,
+        "question": "Which city was destroyed by the eruption of Mount Vesuvius?",
+        "answers": [
+            "Rome",
+            "Athens",
+            "Pompeii",
+            "Sparta"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40574,
+        "question": "Who was the founder of Buddhism?",
+        "answers": [
+            "Confucius",
+            "Siddhartha Gautama",
+            "Laozi",
+            "Ashoka"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40575,
+        "question": "Which treaty ended World War I?",
+        "answers": [
+            "Treaty of Paris",
+            "Treaty of Versailles",
+            "Treaty of Tordesillas",
+            "Treaty of Ghent"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40576,
+        "question": "Who was the 16th US President?",
+        "answers": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Theodore Roosevelt"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40577,
+        "question": "The Hundred Years' War was fought between?",
+        "answers": [
+            "England and France",
+            "Spain and Portugal",
+            "Germany and Russia",
+            "Rome and Carthage"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40578,
+        "question": "Who led the Salt March in India?",
+        "answers": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Indira Gandhi"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40579,
+        "question": "In which city is the Parthenon located?",
+        "answers": [
+            "Rome",
+            "Athens",
+            "Cairo",
+            "Istanbul"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40580,
+        "question": "Which pandemic killed millions in the 14th century?",
+        "answers": [
+            "Spanish Flu",
+            "Black Death (Plague)",
+            "Cholera",
+            "Smallpox"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40581,
+        "question": "Who painted the Sistine Chapel ceiling?",
+        "answers": [
+            "Da Vinci",
+            "Raphael",
+            "Michelangelo",
+            "Donatello"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40582,
+        "question": "Which country gifted the Statue of Liberty to the USA?",
+        "answers": [
+            "England",
+            "Germany",
+            "France",
+            "Spain"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40583,
+        "question": "The Cold War was primarily between which two powers?",
+        "answers": [
+            "USA and China",
+            "USA and USSR",
+            "UK and Germany",
+            "France and Russia"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40584,
+        "question": "Who conquered the Aztec Empire?",
+        "answers": [
+            "Christopher Columbus",
+            "Hernan Cortes",
+            "Francisco Pizarro",
+            "Ferdinand Magellan"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40585,
+        "question": "Which English king had six wives?",
+        "answers": [
+            "Henry V",
+            "Henry VIII",
+            "Richard III",
+            "George III"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40586,
+        "question": "The attack on Pearl Harbor happened in?",
+        "answers": [
+            "1939",
+            "1941",
+            "1943",
+            "1945"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40587,
+        "question": "Who was the first woman in space?",
+        "answers": [
+            "Valentina Tereshkova",
+            "Sally Ride",
+            "Mae Jemison",
+            "Svetlana Savitskaya"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40588,
+        "question": "Which civilization invented paper?",
+        "answers": [
+            "Egyptians",
+            "Greeks",
+            "Chinese",
+            "Romans"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40589,
+        "question": "Who wrote the 'Iliad' and the 'Odyssey'?",
+        "answers": [
+            "Socrates",
+            "Plato",
+            "Homer",
+            "Aristotle"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40590,
+        "question": "Which is the oldest university in the world still in operation?",
+        "answers": [
+            "Oxford",
+            "Cambridge",
+            "Al-Qarawiyyin (Morocco)",
+            "Bologna"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40591,
+        "question": "Nelson Mandela was president of which country?",
+        "answers": [
+            "Kenya",
+            "Nigeria",
+            "South Africa",
+            "Zimbabwe"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "kolay",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40592,
+        "question": "The Great Fire of London happened in?",
+        "answers": [
+            "1066",
+            "1666",
+            "1888",
+            "1905"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40593,
+        "question": "Who founded the Mongol Empire?",
+        "answers": [
+            "Kublai Khan",
+            "Genghis Khan",
+            "Attila the Hun",
+            "Tamerlane"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40594,
+        "question": "Which queen ruled England for 63 years (before Elizabeth II)?",
+        "answers": [
+            "Queen Mary",
+            "Queen Anne",
+            "Queen Victoria",
+            "Queen Elizabeth I"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40595,
+        "question": "The Rosetta Stone was key to deciphering?",
+        "answers": [
+            "Greek",
+            "Latin",
+            "Egyptian Hieroglyphs",
+            "Sumerian Cuneiform"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40596,
+        "question": "Who was the 'Maid of Orleans'?",
+        "answers": [
+            "Marie Antoinette",
+            "Joan of Arc",
+            "Catherine the Great",
+            "Eleanor of Aquitaine"
+        ],
+        "correctAnswer": 1,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40597,
+        "question": "The Chernobyl disaster happened in which country (then USSR)?",
+        "answers": [
+            "Russia",
+            "Belarus",
+            "Ukraine",
+            "Kazakhstan"
+        ],
+        "correctAnswer": 2,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40598,
+        "question": "Who invented the printing press?",
+        "answers": [
+            "Johannes Gutenberg",
+            "Martin Luther",
+            "Leonardo da Vinci",
+            "Galileo"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40599,
+        "question": "The fall of Constantinople happened in?",
+        "answers": [
+            "1453",
+            "1204",
+            "1071",
+            "1529"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "orta",
+        "tags": [
+            "world_history"
+        ]
+    },
+    {
+        "id": 40600,
+        "question": "Which historic figure is known as 'The Sun King'?",
+        "answers": [
+            "Louis XIV",
+            "Henry VIII",
+            "Charles V",
+            "Napoleon"
+        ],
+        "correctAnswer": 0,
+        "category": "tarih",
+        "difficulty": "zor",
+        "tags": [
+            "world_history"
+        ]
+    }
+]

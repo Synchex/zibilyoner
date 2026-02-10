@@ -98,6 +98,12 @@ import batch046 from './seeds/batch_046_en_general_medium.json';
 import batch047 from './seeds/batch_047_en_general_medium.json';
 import batch048 from './seeds/batch_048_en_general_medium.json';
 import batch049 from './seeds/batch_049_en_general_medium.json';
+import batch072 from './seeds/batch_072_en_science_tech.json';
+import batch073 from './seeds/batch_073_en_world_history_hard.json';
+import batch074 from './seeds/batch_074_en_literature_authors.json';
+import batch075 from './seeds/batch_075_en_cinema_tv.json';
+import batch076 from './seeds/batch_076_en_geography_expert.json';
+import batch077 from './seeds/batch_077_en_general_mixed.json';
 
 // Combine static base questions with imported batches
 const allQuestions: Question[] = [
@@ -114,6 +120,12 @@ const allQuestions: Question[] = [
     ...(batch047 as Question[]),
     ...(batch048 as Question[]),
     ...(batch049 as Question[]),
+    ...(batch072 as Question[]),
+    ...(batch073 as Question[]),
+    ...(batch074 as Question[]),
+    ...(batch075 as Question[]),
+    ...(batch076 as Question[]),
+    ...(batch077 as Question[]),
 ];
 
 // Apply advanced deduplication

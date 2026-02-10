@@ -1,0 +1,802 @@
+[
+    {
+        "id": 40701,
+        "question": "What is the capital of Australia?",
+        "answers": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40702,
+        "question": "Which country has the most islands?",
+        "answers": [
+            "Philippines",
+            "Indonesia",
+            "Sweden",
+            "Finland"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40703,
+        "question": "What is the smallest country in the world?",
+        "answers": [
+            "Monaco",
+            "Vatican City",
+            "San Marino",
+            "Liechtenstein"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40704,
+        "question": "Which river flows through Cairo?",
+        "answers": [
+            "Amazon",
+            "Nile",
+            "Yangtze",
+            "Danube"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40705,
+        "question": "What is the capital of Canada?",
+        "answers": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40706,
+        "question": "Which desert is the largest in the world?",
+        "answers": [
+            "Sahara",
+            "Gobi",
+            "Antarctic Desert",
+            "Arabian Desert"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40707,
+        "question": "Mount Everest is located in which mountain range?",
+        "answers": [
+            "Andes",
+            "Rockies",
+            "Himalayas",
+            "Alps"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40708,
+        "question": "What is the capital of Brazil?",
+        "answers": [
+            "Rio de Janeiro",
+            "Sao Paulo",
+            "Brasilia",
+            "Salvador"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40709,
+        "question": "Which country is home to the Kangaroo?",
+        "answers": [
+            "New Zealand",
+            "Australia",
+            "South Africa",
+            "Brazil"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40710,
+        "question": "What is the longest river in South America?",
+        "answers": [
+            "Orinoco",
+            "Amazon",
+            "Parana",
+            "Magdalena"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40711,
+        "question": "Which US state is the largest by area?",
+        "answers": [
+            "Texas",
+            "California",
+            "Alaska",
+            "Montana"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40712,
+        "question": "What is the capital of Spain?",
+        "answers": [
+            "Barcelona",
+            "Madrid",
+            "Seville",
+            "Valencia"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40713,
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "answers": [
+            "Asia",
+            "Africa",
+            "South America",
+            "Australia"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40714,
+        "question": "What is the capital of Japan?",
+        "answers": [
+            "Osaka",
+            "Kyoto",
+            "Tokyo",
+            "Yokohama"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40715,
+        "question": "It is the only continent with no active volcanoes?",
+        "answers": [
+            "Australia",
+            "Africa",
+            "Antarctica",
+            "Europe"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40716,
+        "question": "Which country has the most people?",
+        "answers": [
+            "India",
+            "China",
+            "USA",
+            "Indonesia"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40717,
+        "question": "What is the capital of Turkey?",
+        "answers": [
+            "Istanbul",
+            "Ankara",
+            "Izmir",
+            "Antalya"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40718,
+        "question": "Which ocean is the smallest?",
+        "answers": [
+            "Indian",
+            "Atlantic",
+            "Arctic",
+            "Pacific"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40719,
+        "question": "What is the capital of Egypt?",
+        "answers": [
+            "Alexandria",
+            "Luxor",
+            "Cairo",
+            "Giza"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40720,
+        "question": "Which country is shaped like a boot?",
+        "answers": [
+            "Greece",
+            "Italy",
+            "Spain",
+            "Portugal"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40721,
+        "question": "What is the capital of Russia?",
+        "answers": [
+            "St. Petersburg",
+            "Moscow",
+            "Kazan",
+            "Novosibirsk"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40722,
+        "question": "Which country lies on the equator?",
+        "answers": [
+            "Mexico",
+            "Ecuador",
+            "Egypt",
+            "Spain"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40723,
+        "question": "What is the capital of Argentina?",
+        "answers": [
+            "Santiago",
+            "Lima",
+            "Buenos Aires",
+            "Bogota"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40724,
+        "question": "Which US state has the most active volcanoes?",
+        "answers": [
+            "Hawaii",
+            "Washington",
+            "California",
+            "Alaska"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40725,
+        "question": "What is the capital of Germany?",
+        "answers": [
+            "Munich",
+            "Hamburg",
+            "Frankfurt",
+            "Berlin"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40726,
+        "question": "Which mountain is the highest in Africa?",
+        "answers": [
+            "Mount Kenya",
+            "Mount Kilimanjaro",
+            "Atlas Mountains",
+            "Drakensberg"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40727,
+        "question": "What is the capital of Thailand?",
+        "answers": [
+            "Phuket",
+            "Chiang Mai",
+            "Bangkok",
+            "Pattaya"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40728,
+        "question": "Which country invented tea?",
+        "answers": [
+            "India",
+            "England",
+            "China",
+            "Japan"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40729,
+        "question": "What is the capital of South Africa?",
+        "answers": [
+            "Cape Town",
+            "Pretoria",
+            "Johannesburg",
+            "Bloemfontein"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40730,
+        "question": "Which sea separates Europe from Africa?",
+        "answers": [
+            "Black Sea",
+            "Red Sea",
+            "Mediterranean Sea",
+            "Caspian Sea"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40731,
+        "question": "What is the capital of Iceland?",
+        "answers": [
+            "Helsinki",
+            "Reykjavik",
+            "Oslo",
+            "Nuuk"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40732,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answers": [
+            "China",
+            "Korea",
+            "Japan",
+            "Thailand"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40733,
+        "question": "What is the capital of Portugal?",
+        "answers": [
+            "Porto",
+            "Lisbon",
+            "Madrid",
+            "Barcelona"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40734,
+        "question": "Which is the largest country by area?",
+        "answers": [
+            "Canada",
+            "China",
+            "USA",
+            "Russia"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40735,
+        "question": "What is the capital of New Zealand?",
+        "answers": [
+            "Auckland",
+            "Wellington",
+            "Christchurch",
+            "Sydney"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40736,
+        "question": "Which river flows through London?",
+        "answers": [
+            "Seine",
+            "Thames",
+            "Danube",
+            "Rhine"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40737,
+        "question": "What is the capital of Saudi Arabia?",
+        "answers": [
+            "Mecca",
+            "Medina",
+            "Riyadh",
+            "Jeddah"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40738,
+        "question": "Which country has the most time zones?",
+        "answers": [
+            "Russia",
+            "USA",
+            "France",
+            "China"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40739,
+        "question": "What is the capital of Mexico?",
+        "answers": [
+            "Cancun",
+            "Guadalajara",
+            "Mexico City",
+            "Monterrey"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40740,
+        "question": "Which strait separates Asia and North America?",
+        "answers": [
+            "Bering Strait",
+            "Gibraltar Strait",
+            "Bosporus Strait",
+            "Malacca Strait"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40741,
+        "question": "What is the capital of Norway?",
+        "answers": [
+            "Stockholm",
+            "Copenhagen",
+            "Oslo",
+            "Helsinki"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40742,
+        "question": "Which country consists of over 17,000 islands?",
+        "answers": [
+            "Philippines",
+            "Indonesia",
+            "Japan",
+            "Malaysia"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40743,
+        "question": "What is the capital of Switzerland?",
+        "answers": [
+            "Zurich",
+            "Geneva",
+            "Bern",
+            "Basel"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40744,
+        "question": "Which US state is known as the Sunshine State?",
+        "answers": [
+            "California",
+            "Texas",
+            "Hawaii",
+            "Florida"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40745,
+        "question": "What is the capital of South Korea?",
+        "answers": [
+            "Busan",
+            "Incheon",
+            "Seoul",
+            "Daegu"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40746,
+        "question": "Which country is the Vatican City located inside?",
+        "answers": [
+            "France",
+            "Spain",
+            "Italy",
+            "Switzerland"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40747,
+        "question": "What is the capital of Sweden?",
+        "answers": [
+            "Oslo",
+            "Helsinki",
+            "Stockholm",
+            "Copenhagen"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40748,
+        "question": "Which desert is in Chile?",
+        "answers": [
+            "Sahara",
+            "Gobi",
+            "Atacama",
+            "Kalahari"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40749,
+        "question": "What is the capital of Ukraine?",
+        "answers": [
+            "Lviv",
+            "Odessa",
+            "Kharkiv",
+            "Kyiv"
+        ],
+        "correctAnswer": 3,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "geography"
+        ]
+    },
+    {
+        "id": 40750,
+        "question": "Which continent has no deserts?",
+        "answers": [
+            "Europe",
+            "North America",
+            "South America",
+            "Africa"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "geography"
+        ]
+    }
+]

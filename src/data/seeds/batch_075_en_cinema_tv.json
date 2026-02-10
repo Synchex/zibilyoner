@@ -1,0 +1,852 @@
+[
+    {
+        "id": 40651,
+        "question": "Who directed 'Inception'?",
+        "answers": [
+            "Steven Spielberg",
+            "Christopher Nolan",
+            "Martin Scorsese",
+            "James Cameron"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40652,
+        "question": "Which movie won the first Oscar for Best Picture?",
+        "answers": [
+            "Gone with the Wind",
+            "Wings",
+            "Citizen Kane",
+            "Casablanca"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40653,
+        "question": "Who played Jack in 'Titanic'?",
+        "answers": [
+            "Brad Pitt",
+            "Johnny Depp",
+            "Leonardo DiCaprio",
+            "Tom Cruise"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40654,
+        "question": "Which actor voices Woody in 'Toy Story'?",
+        "answers": [
+            "Tim Allen",
+            "Tom Hanks",
+            "Billy Crystal",
+            "Robin Williams"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40655,
+        "question": "What is the name of the hobbit played by Elijah Wood?",
+        "answers": [
+            "Bilbo Baggins",
+            "Frodo Baggins",
+            "Samwise Gamgee",
+            "Pippin Took"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40656,
+        "question": "Who directed 'The Godfather'?",
+        "answers": [
+            "Francis Ford Coppola",
+            "Martin Scorsese",
+            "Stanley Kubrick",
+            "Alfred Hitchcock"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40657,
+        "question": "Which character does Robert Downey Jr. play in the MCU?",
+        "answers": [
+            "Captain America",
+            "Thor",
+            "Iron Man",
+            "Hulk"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40658,
+        "question": "What is the highest-grossing film of all time (as of 2024)?",
+        "answers": [
+            "Titanic",
+            "Avengers: Endgame",
+            "Avatar",
+            "Star Wars: The Force Awakens"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40659,
+        "question": "Who played the Joker in 'The Dark Knight'?",
+        "answers": [
+            "Jack Nicholson",
+            "Heath Ledger",
+            "Jared Leto",
+            "Joaquin Phoenix"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40660,
+        "question": "Which movie features the song 'My Heart Will Go On'?",
+        "answers": [
+            "The Bodyguard",
+            "Titanic",
+            "Pretty Woman",
+            "Ghost"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40661,
+        "question": "Who directed 'Pulp Fiction'?",
+        "answers": [
+            "Quentin Tarantino",
+            "David Fincher",
+            "Ridley Scott",
+            "Coen Brothers"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40662,
+        "question": "Which film won the Oscar for Best Picture in 2020 (first non-English)?",
+        "answers": [
+            "Roma",
+            "Parasite",
+            "Amour",
+            "Crouching Tiger, Hidden Dragon"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40663,
+        "question": "Who played Hermione Granger in Harry Potter?",
+        "answers": [
+            "Emma Stone",
+            "Emma Watson",
+            "Emma Roberts",
+            "Emilia Clarke"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40664,
+        "question": "Which TV series is set in Westeros?",
+        "answers": [
+            "The Witcher",
+            "Game of Thrones",
+            "Vikings",
+            "Lord of the Rings"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "tv"
+        ]
+    },
+    {
+        "id": 40665,
+        "question": "Who creates 'Star Wars'?",
+        "answers": [
+            "Steven Spielberg",
+            "George Lucas",
+            "J.J. Abrams",
+            "James Cameron"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40666,
+        "question": "Which actor starred in 'Mission: Impossible'?",
+        "answers": [
+            "Brad Pitt",
+            "Tom Cruise",
+            "Keanu Reeves",
+            "Matt Damon"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40667,
+        "question": "What is the name of Simba's father in 'The Lion King'?",
+        "answers": [
+            "Scar",
+            "Mufasa",
+            "Timon",
+            "Rafiki"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40668,
+        "question": "Who directed 'Jurassic Park'?",
+        "answers": [
+            "George Lucas",
+            "Steven Spielberg",
+            "Peter Jackson",
+            "Tim Burton"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40669,
+        "question": "Which famous spy is known as 007?",
+        "answers": [
+            "Ethan Hunt",
+            "Jason Bourne",
+            "James Bond",
+            "Jack Bauer"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40670,
+        "question": "Who played Forrest Gump?",
+        "answers": [
+            "Tom Hanks",
+            "Robin Williams",
+            "Harrison Ford",
+            "Dustin Hoffman"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40671,
+        "question": "Which sitcom features characters named Ross, Rachel, and Chandler?",
+        "answers": [
+            "Seinfeld",
+            "How I Met Your Mother",
+            "Friends",
+            "The Big Bang Theory"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "tv"
+        ]
+    },
+    {
+        "id": 40672,
+        "question": "Who directed 'Schindler's List'?",
+        "answers": [
+            "Roman Polanski",
+            "Steven Spielberg",
+            "Stanley Kubrick",
+            "Clint Eastwood"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40673,
+        "question": "Which movie features the line 'Here's looking at you, kid'?",
+        "answers": [
+            "Gone with the Wind",
+            "Casablanca",
+            "Citizen Kane",
+            "The Maltese Falcon"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40674,
+        "question": "Who played the Genie in the animated 'Aladdin'?",
+        "answers": [
+            "Eddie Murphy",
+            "Robin Williams",
+            "Jim Carrey",
+            "Will Smith"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40675,
+        "question": "What is the name of the fictional country in 'Black Panther'?",
+        "answers": [
+            "Zamunda",
+            "Wakanda",
+            "Genosha",
+            "Latveria"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40676,
+        "question": "Who directed 'The Shining'?",
+        "answers": [
+            "Alfred Hitchcock",
+            "Stanley Kubrick",
+            "Wes Craven",
+            "John Carpenter"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40677,
+        "question": "Which actor plays Wolverine?",
+        "answers": [
+            "Hugh Jackman",
+            "Chris Evans",
+            "Ryan Reynolds",
+            "Ben Affleck"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40678,
+        "question": "What is the name of the skyscraper in 'Die Hard'?",
+        "answers": [
+            "Empire State Building",
+            "Nakatomi Plaza",
+            "Stark Tower",
+            "Wayne Tower"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40679,
+        "question": "Who directed 'Psycho'?",
+        "answers": [
+            "Alfred Hitchcock",
+            "Orson Welles",
+            "Fritz Lang",
+            "Billy Wilder"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40680,
+        "question": "Which movie involves a blue pill and a red pill?",
+        "answers": [
+            "Inception",
+            "The Matrix",
+            "Total Recall",
+            "Blade Runner"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40681,
+        "question": "Who played Han Solo?",
+        "answers": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Alec Guinness"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40682,
+        "question": "Which animated movie features a robot named WALL-E?",
+        "answers": [
+            "Up",
+            "WALL-E",
+            "Robots",
+            "Big Hero 6"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40683,
+        "question": "Who directed 'Citizen Kane'?",
+        "answers": [
+            "Orson Welles",
+            "Charlie Chaplin",
+            "Frank Capra",
+            "John Ford"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "zor",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40684,
+        "question": "Which movie features a shark attacking a beach town?",
+        "answers": [
+            "Deep Blue Sea",
+            "The Meg",
+            "Jaws",
+            "Sharknado"
+        ],
+        "correctAnswer": 2,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40685,
+        "question": "Who played Neo in 'The Matrix'?",
+        "answers": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Brad Pitt",
+            "Tom Cruise"
+        ],
+        "correctAnswer": 0,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40686,
+        "question": "Which film is set in Middle-earth?",
+        "answers": [
+            "Harry Potter",
+            "The Lord of the Rings",
+            "Chronicles of Narnia",
+            "Eragon"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40687,
+        "question": "Who directed 'Avatar'?",
+        "answers": [
+            "George Lucas",
+            "James Cameron",
+            "Peter Jackson",
+            "Ridley Scott"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40688,
+        "question": "Which actor is known as 'The Rock'?",
+        "answers": [
+            "Vin Diesel",
+            "Dwayne Johnson",
+            "Jason Statham",
+            "Dave Bautista"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40689,
+        "question": "What is the name of the toy cowboy in 'Toy Story'?",
+        "answers": [
+            "Buzz",
+            "Woody",
+            "Andy",
+            "Jessie"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40690,
+        "question": "Who played Captain Jack Sparrow?",
+        "answers": [
+            "Orlando Bloom",
+            "Johnny Depp",
+            "Geoffrey Rush",
+            "Javier Bardem"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40691,
+        "question": "Which movie features the quote 'You talkin' to me?'",
+        "answers": [
+            "Raging Bull",
+            "Taxi Driver",
+            "Goodfellas",
+            "Scarface"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40692,
+        "question": "Who directed 'Fight Club'?",
+        "answers": [
+            "Quentin Tarantino",
+            "David Fincher",
+            "Christopher Nolan",
+            "Guy Ritchie"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40693,
+        "question": "Which movie is about a theme park with cloned dinosaurs?",
+        "answers": [
+            "Godzilla",
+            "Jurassic Park",
+            "King Kong",
+            "The Lost World"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40694,
+        "question": "Who played the Terminator?",
+        "answers": [
+            "Sylvester Stallone",
+            "Arnold Schwarzenegger",
+            "Jean-Claude Van Damme",
+            "Dolph Lundgren"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40695,
+        "question": "Which movie is set on the planet Pandora?",
+        "answers": [
+            "Star Trek",
+            "Avatar",
+            "Guardians of the Galaxy",
+            "Dune"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40696,
+        "question": "Who directed 'E.T.'?",
+        "answers": [
+            "George Lucas",
+            "Steven Spielberg",
+            "Robert Zemeckis",
+            "Ron Howard"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40697,
+        "question": "Which actor starred in 'Top Gun'?",
+        "answers": [
+            "Val Kilmer",
+            "Tom Cruise",
+            "Miles Teller",
+            "Anthony Edwards"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40698,
+        "question": "What is the name of the ogre in the movie 'Shrek'?",
+        "answers": [
+            "Donkey",
+            "Shrek",
+            "Fiona",
+            "Farquaad"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40699,
+        "question": "Who played Batman in the 'Dark Knight' trilogy?",
+        "answers": [
+            "Ben Affleck",
+            "Christian Bale",
+            "Michael Keaton",
+            "Robert Pattinson"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "kolay",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    },
+    {
+        "id": 40700,
+        "question": "Which movie features a character named Hannibal Lecter?",
+        "answers": [
+            "Se7en",
+            "The Silence of the Lambs",
+            "Psycho",
+            "Zodiac"
+        ],
+        "correctAnswer": 1,
+        "category": "genel_kultur",
+        "difficulty": "orta",
+        "tags": [
+            "pop_culture",
+            "cinema"
+        ]
+    }
+]
