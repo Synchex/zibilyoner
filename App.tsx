@@ -36,7 +36,14 @@ import { InsufficientCreditsModal } from './src/components/modals/InsufficientCr
 // Data
 import { Language, getTranslation } from './src/data/translations';
 import { getQuestions, getQuestionsForLevel, getAvailableLevelCount, Question, difficultyMap, categoryMap } from './src/data/questionBank';
-import { useLevelProgress, QUESTIONS_PER_LEVEL } from './src/hooks/useLevelProgress';
+import { useProgress } from './src/context/ProgressContext';
+import { ProgressProvider } from './src/context/ProgressContext';
+import {
+  QUESTIONS_PER_LEVEL,
+  getSubcategoryQuestionCount,
+  getSubcategoryTotalLevels,
+  getSubcategoryProgressData,
+} from './src/utils/progressHelpers';
 import { getCurrentPrize } from './src/data/prizeLadder';
 
 // Styles
@@ -103,6 +110,7 @@ function GameTabScreen({ navigation }: any) {
   const [selectedSportsSubcategory, setSelectedSportsSubcategory] = useState<SportsSubcategory | undefined>(undefined);
   const [selectedHistorySubcategory, setSelectedHistorySubcategory] = useState<HistorySubcategory | undefined>(undefined);
   const [selectedLevel, setSelectedLevel] = useState<number>(1);
+  const [selectedSubcategoryId, setSelectedSubcategoryId] = useState<string>('general_default');
 
   // Joker system
   const {
@@ -113,20 +121,12 @@ function GameTabScreen({ navigation }: any) {
     resetJokers,
   } = useJokers();
 
-  // Level progression
-  const levelProgressKey = {
-    language,
-    category: selectedCategory,
-    subcategory: selectedSportsSubcategory || selectedHistorySubcategory || undefined,
-    difficulty: selectedDifficulty,
-  };
+  // Progress context
   const {
-    progress: levelProgress,
-    loaded: levelLoaded,
-    isLevelUnlocked,
-    isLevelCompleted,
-    completeLevel,
-  } = useLevelProgress(levelProgressKey);
+    progress,
+    getSubcategoryProgress: getSubProgress,
+    completeLevel: completeLevelInCtx,
+  } = useProgress();
 
 
   const handleStartGame = () => {
@@ -139,28 +139,31 @@ function GameTabScreen({ navigation }: any) {
 
   const handleSelectCategory = (category: Category) => {
     setSelectedCategory(category);
-    // Route to subcategory screen for sports and history
     if (category === 'sports') {
       setGameState('sports_subcategory');
     } else if (category === 'history') {
       setGameState('history_subcategory');
     } else {
-      // For general or all, go directly to difficulty
+      // general or all → go straight to level select
       setSelectedSportsSubcategory(undefined);
       setSelectedHistorySubcategory(undefined);
-      setGameState('difficulty');
+      const subId = category === 'all' ? 'all_default' : 'general_default';
+      setSelectedSubcategoryId(subId);
+      setGameState('level_select');
     }
   };
 
   const handleSelectSportsSubcategory = (subcategory: SportsSubcategory) => {
     setSelectedSportsSubcategory(subcategory);
     setSelectedHistorySubcategory(undefined);
-    setGameState('difficulty');
+    setSelectedSubcategoryId(subcategory);
+    setGameState('level_select');
   };
 
-  // Level mode: after difficulty, go to level select
-  const handleSelectLevelMode = (difficulty: Difficulty) => {
-    setSelectedDifficulty(difficulty);
+  const handleSelectHistorySubcategory = (subcategory: HistorySubcategory) => {
+    setSelectedHistorySubcategory(subcategory);
+    setSelectedSportsSubcategory(undefined);
+    setSelectedSubcategoryId(subcategory);
     setGameState('level_select');
   };
 
@@ -172,17 +175,13 @@ function GameTabScreen({ navigation }: any) {
 
     setSelectedLevel(level);
 
-    const questionDifficulty = selectedDifficulty === 'mixed'
-      ? 'mixed'
-      : difficultyMap[selectedDifficulty as keyof typeof difficultyMap] || 'orta';
-
     const questionCategory = selectedCategory === 'all'
       ? undefined
       : categoryMap[selectedCategory as keyof typeof categoryMap];
 
+    // Level mode: no difficulty filter — all difficulties mixed
     const levelQuestions = getQuestionsForLevel({
       category: questionCategory,
-      difficulty: selectedDifficulty === 'mixed' ? undefined : questionDifficulty,
       subcategory: selectedSportsSubcategory,
       historySubcategory: language === 'en' ? selectedHistorySubcategory as any : undefined,
       historySubcategoryTR: language === 'tr' ? selectedHistorySubcategory as any : undefined,
@@ -200,16 +199,10 @@ function GameTabScreen({ navigation }: any) {
     setContinueUsed(false);
     setWrongSnapshot(null);
     resetRunYuan();
-    startNewRun(selectedCategory, selectedDifficulty, QUESTIONS_PER_LEVEL);
+    startNewRun(selectedCategory, 'mixed', QUESTIONS_PER_LEVEL);
     resetJokers();
 
     setGameState('level_playing');
-  };
-
-  const handleSelectHistorySubcategory = (subcategory: HistorySubcategory) => {
-    setSelectedHistorySubcategory(subcategory);
-    setSelectedSportsSubcategory(undefined);
-    setGameState('difficulty');
   };
 
   const handleSelectDifficulty = (difficulty: Difficulty) => {
@@ -297,7 +290,7 @@ function GameTabScreen({ navigation }: any) {
     if (currentQuestionIndex + 1 >= questions.length) {
       // Game / level complete
       if (isLevelMode) {
-        completeLevel(selectedLevel);
+        completeLevelInCtx(selectedCategory, selectedSubcategoryId, selectedLevel);
         finalizeRun('completed', coins);
         setGameState('level_select');
       } else {
@@ -409,7 +402,7 @@ function GameTabScreen({ navigation }: any) {
         return (
           <DifficultySelection
             onSelectDifficulty={handleSelectDifficulty}
-            onSelectLevelMode={handleSelectLevelMode}
+            onSelectLevelMode={handleSelectDifficulty}
             onBack={() => setGameState('category')}
             onGoHome={() => setGameState('home')}
             language={language}
@@ -418,20 +411,13 @@ function GameTabScreen({ navigation }: any) {
         );
 
       case 'level_select': {
-        const questionDiffForCount = selectedDifficulty === 'mixed'
-          ? 'mixed'
-          : difficultyMap[selectedDifficulty as keyof typeof difficultyMap] || 'orta';
-        const questionCatForCount = selectedCategory === 'all'
-          ? undefined
-          : categoryMap[selectedCategory as keyof typeof categoryMap];
-        const maxLevels = getAvailableLevelCount({
-          category: questionCatForCount,
-          difficulty: selectedDifficulty === 'mixed' ? undefined : questionDiffForCount,
-          subcategory: selectedSportsSubcategory,
-          historySubcategory: language === 'en' ? selectedHistorySubcategory as any : undefined,
-          historySubcategoryTR: language === 'tr' ? selectedHistorySubcategory as any : undefined,
+        const qCount = getSubcategoryQuestionCount(
+          selectedCategory,
+          selectedSubcategoryId,
           language,
-        });
+        );
+        const maxLevels = getSubcategoryTotalLevels(qCount);
+        const subProgress = getSubProgress(selectedCategory, selectedSubcategoryId);
 
         const t = (key: any) => getTranslation(language, key);
         const categoryLabel = selectedCategory === 'all'
@@ -441,18 +427,28 @@ function GameTabScreen({ navigation }: any) {
             : selectedCategory === 'history'
               ? t('history')
               : t('sports');
-        const diffLabel = t(selectedDifficulty);
+        const diffLabel = selectedSubcategoryId;
+
+        const isUnlocked = (lvl: number) => lvl <= subProgress.unlockedLevel;
+        const isCompleted = (lvl: number) => lvl <= subProgress.completedLevels;
+
+        // Back navigation: return to subcategory screen or category screen
+        const handleBackFromLevels = () => {
+          if (selectedCategory === 'sports') setGameState('sports_subcategory');
+          else if (selectedCategory === 'history') setGameState('history_subcategory');
+          else setGameState('category');
+        };
 
         return (
           <LevelSelectScreen
             language={language}
             categoryLabel={categoryLabel}
             difficultyLabel={diffLabel}
-            isLevelUnlocked={isLevelUnlocked}
-            isLevelCompleted={isLevelCompleted}
+            isLevelUnlocked={isUnlocked}
+            isLevelCompleted={isCompleted}
             maxLevels={maxLevels}
             onSelectLevel={handleSelectLevel}
-            onBack={() => setGameState('difficulty')}
+            onBack={handleBackFromLevels}
             onGoHome={() => setGameState('home')}
           />
         );
@@ -652,10 +648,12 @@ export default function App() {
         <CreditProvider>
           <YuanProvider>
             <GameHistoryProvider>
-              <NavigationContainer>
-                <StatusBar barStyle="light-content" backgroundColor={colors.bgDark} />
-                <AppNavigator />
-              </NavigationContainer>
+              <ProgressProvider>
+                <NavigationContainer>
+                  <StatusBar barStyle="light-content" backgroundColor={colors.bgDark} />
+                  <AppNavigator />
+                </NavigationContainer>
+              </ProgressProvider>
             </GameHistoryProvider>
           </YuanProvider>
         </CreditProvider>

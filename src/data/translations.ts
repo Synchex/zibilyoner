@@ -139,6 +139,8 @@ export interface Translations {
   levelComplete: string;
   levelProgress: string;
   chooseGameMode: string;
+  totalLevel: string;
+  completedLabel: string;
 }
 
 export const translations: Record<Language, Translations> = {
@@ -281,6 +283,8 @@ export const translations: Record<Language, Translations> = {
     levelComplete: 'Level Complete!',
     levelProgress: 'Level {level} — Question {current} / {total}',
     chooseGameMode: 'Choose Game Mode',
+    totalLevel: 'Total Level',
+    completedLabel: 'completed',
   },
 
   tr: {
@@ -422,6 +426,8 @@ export const translations: Record<Language, Translations> = {
     levelComplete: 'Seviye Tamamlandı!',
     levelProgress: 'Seviye {level} — Soru {current} / {total}',
     chooseGameMode: 'Oyun Modu Seç',
+    totalLevel: 'Toplam Seviye',
+    completedLabel: 'tamamlandı',
   },
 };
 

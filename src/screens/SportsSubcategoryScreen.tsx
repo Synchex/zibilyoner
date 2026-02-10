@@ -1,10 +1,16 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { View, Text, Pressable, StyleSheet, ScrollView } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import { Language, getTranslation } from '../data/translations';
 import { colors, typography, borderRadius, spacing } from '../styles/theme';
 import { HeaderBackButton } from '../components/HeaderBackButton';
+import { useProgress } from '../context/ProgressContext';
+import {
+    getSubcategoryQuestionCount,
+    getSubcategoryTotalLevels,
+    getSubcategoryProgressData,
+} from '../utils/progressHelpers';
 
 export type SportsSubcategory = 'general_sports' | 'general_football' | 'football' | 'basketball' | 'turkish_football' | 'turkish_sports' | 'legends_records';
 
@@ -24,79 +30,36 @@ interface SubcategoryItem {
 
 export function SportsSubcategoryScreen({ onSelectSubcategory, onBack, language }: SportsSubcategoryScreenProps) {
     const t = (key: any) => getTranslation(language, key);
+    const { progress } = useProgress();
 
-    // English subcategories
     const englishSubcategories: SubcategoryItem[] = [
-        {
-            id: 'general_sports',
-            name: t('generalSports') || 'General Sports',
-            icon: 'trophy',
-            description: t('generalSportsDesc') || 'All sports mixed',
-            color: '#9C27B0',
-        },
-        {
-            id: 'general_football',
-            name: t('generalFootball') || 'Football',
-            icon: 'football',
-            description: t('generalFootballDesc') || 'World football questions',
-            color: '#4CAF50',
-        },
-        {
-            id: 'basketball',
-            name: t('basketball') || 'Basketball',
-            icon: 'basketball',
-            description: t('basketballDesc') || 'NBA and world basketball',
-            color: '#FF9800',
-        },
+        { id: 'general_sports', name: t('generalSports') || 'General Sports', icon: 'trophy', description: t('generalSportsDesc') || 'All sports mixed', color: '#9C27B0' },
+        { id: 'general_football', name: t('generalFootball') || 'Football', icon: 'football', description: t('generalFootballDesc') || 'World football questions', color: '#4CAF50' },
+        { id: 'basketball', name: t('basketball') || 'Basketball', icon: 'basketball', description: t('basketballDesc') || 'NBA and world basketball', color: '#FF9800' },
     ];
 
-    // Turkish subcategories
     const turkishSubcategories: SubcategoryItem[] = [
-        {
-            id: 'general_sports',
-            name: t('generalSports') || 'Genel Spor',
-            icon: 'trophy',
-            description: t('generalSportsDesc') || 'Tüm sporlar karışık',
-            color: '#9C27B0',
-        },
-        {
-            id: 'general_football',
-            name: t('generalFootball') || 'Dünya Futbolu',
-            icon: 'football',
-            description: t('generalFootballDesc') || 'Dünya futbolu soruları',
-            color: '#2196F3',
-        },
-        {
-            id: 'turkish_football',
-            name: t('footballLabel') || 'Türk Futbolu',
-            icon: 'flag',
-            description: t('footballDesc') || 'Süper Lig ve Türk futbolu',
-            color: '#E53935',
-        },
-        {
-            id: 'basketball',
-            name: t('basketball') || 'Basketbol',
-            icon: 'basketball',
-            description: t('basketballDesc') || 'NBA ve dünya basketbolu',
-            color: '#FF9800',
-        },
-        {
-            id: 'turkish_sports',
-            name: t('turkishSports') || 'Türk Sporları',
-            icon: 'medal',
-            description: t('turkishSportsDesc') || 'Güreş, voleybol ve diğer Türk sporları',
-            color: '#9C27B0',
-        },
-        {
-            id: 'legends_records',
-            name: t('legendsRecords') || 'Efsaneler & Rekorlar',
-            icon: 'star',
-            description: t('legendsRecordsDesc') || 'Olimpiyat, rekorlar ve spor efsaneleri',
-            color: '#FFD700',
-        },
+        { id: 'general_sports', name: t('generalSports') || 'Genel Spor', icon: 'trophy', description: t('generalSportsDesc') || 'Tüm sporlar karışık', color: '#9C27B0' },
+        { id: 'general_football', name: t('generalFootball') || 'Dünya Futbolu', icon: 'football', description: t('generalFootballDesc') || 'Dünya futbolu soruları', color: '#2196F3' },
+        { id: 'turkish_football', name: t('footballLabel') || 'Türk Futbolu', icon: 'flag', description: t('footballDesc') || 'Süper Lig ve Türk futbolu', color: '#E53935' },
+        { id: 'basketball', name: t('basketball') || 'Basketbol', icon: 'basketball', description: t('basketballDesc') || 'NBA ve dünya basketbolu', color: '#FF9800' },
+        { id: 'turkish_sports', name: t('turkishSports') || 'Türk Sporları', icon: 'medal', description: t('turkishSportsDesc') || 'Güreş, voleybol ve diğer Türk sporları', color: '#9C27B0' },
+        { id: 'legends_records', name: t('legendsRecords') || 'Efsaneler & Rekorlar', icon: 'star', description: t('legendsRecordsDesc') || 'Olimpiyat, rekorlar ve spor efsaneleri', color: '#FFD700' },
     ];
 
     const subcategories = language === 'tr' ? turkishSubcategories : englishSubcategories;
+
+    // Pre-compute progress for each subcategory
+    const subcatStats = useMemo(() => {
+        const stats: Record<string, { completed: number; total: number }> = {};
+        for (const sub of subcategories) {
+            const qCount = getSubcategoryQuestionCount('sports', sub.id, language);
+            const totalLevels = getSubcategoryTotalLevels(qCount);
+            const prog = getSubcategoryProgressData(progress, 'sports', sub.id);
+            stats[sub.id] = { completed: prog.completedLevels, total: totalLevels };
+        }
+        return stats;
+    }, [progress, language]);
 
     return (
         <View style={styles.container}>
@@ -111,7 +74,6 @@ export function SportsSubcategoryScreen({ onSelectSubcategory, onBack, language 
                 contentContainerStyle={styles.scrollContent}
                 showsVerticalScrollIndicator={false}
             >
-                {/* Header */}
                 <View style={styles.header}>
                     <Text style={styles.title}>
                         {t('chooseSportsCategory') || 'Spor Dalı Seç'}
@@ -121,28 +83,54 @@ export function SportsSubcategoryScreen({ onSelectSubcategory, onBack, language 
                     </Text>
                 </View>
 
-                {/* Grid */}
                 <View style={styles.grid}>
-                    {subcategories.map((item) => (
-                        <Pressable
-                            key={item.id}
-                            style={({ pressed }) => [
-                                styles.card,
-                                pressed && styles.cardPressed,
-                            ]}
-                            onPress={() => onSelectSubcategory(item.id)}
-                        >
-                            <View style={[styles.iconContainer, { backgroundColor: `${item.color}20` }]}>
-                                <Ionicons name={item.icon} size={40} color={item.color} />
-                            </View>
-                            <Text style={[styles.cardTitle, { color: item.color }]}>
-                                {item.name}
-                            </Text>
-                            <Text style={styles.cardDescription}>
-                                {item.description}
-                            </Text>
-                        </Pressable>
-                    ))}
+                    {subcategories.map((item) => {
+                        const stats = subcatStats[item.id];
+                        const pct = stats.total > 0
+                            ? Math.round((stats.completed / stats.total) * 100)
+                            : 0;
+
+                        return (
+                            <Pressable
+                                key={item.id}
+                                style={({ pressed }) => [
+                                    styles.card,
+                                    pressed && styles.cardPressed,
+                                ]}
+                                onPress={() => onSelectSubcategory(item.id)}
+                            >
+                                <View style={[styles.iconContainer, { backgroundColor: `${item.color}20` }]}>
+                                    <Ionicons name={item.icon} size={36} color={item.color} />
+                                </View>
+                                <Text style={[styles.cardTitle, { color: item.color }]}>
+                                    {item.name}
+                                </Text>
+                                <Text style={styles.cardDescription}>
+                                    {item.description}
+                                </Text>
+
+                                {/* Progress info */}
+                                <View style={styles.progressSection}>
+                                    <View style={styles.progressRow}>
+                                        <Text style={styles.progressLabel}>
+                                            {t('levelLabel')} {stats.completed}/{stats.total}
+                                        </Text>
+                                        <Text style={[styles.progressPct, { color: item.color }]}>
+                                            {pct}%
+                                        </Text>
+                                    </View>
+                                    <View style={styles.progressBarOuter}>
+                                        <View
+                                            style={[
+                                                styles.progressBarInner,
+                                                { width: `${pct}%`, backgroundColor: item.color },
+                                            ]}
+                                        />
+                                    </View>
+                                </View>
+                            </Pressable>
+                        );
+                    })}
                 </View>
             </ScrollView>
         </View>
@@ -164,7 +152,7 @@ const styles = StyleSheet.create({
         marginBottom: spacing.xl,
     },
     title: {
-        fontSize: 32,
+        fontSize: 28,
         fontWeight: '800',
         color: '#4CAF50',
         textAlign: 'center',
@@ -195,22 +183,55 @@ const styles = StyleSheet.create({
         transform: [{ scale: 0.98 }],
     },
     iconContainer: {
-        width: 72,
-        height: 72,
-        borderRadius: 36,
+        width: 64,
+        height: 64,
+        borderRadius: 32,
         justifyContent: 'center',
         alignItems: 'center',
         marginBottom: spacing.sm,
     },
     cardTitle: {
-        fontSize: 16,
+        fontSize: 15,
         fontWeight: '700',
         textAlign: 'center',
         marginBottom: spacing.xs,
     },
     cardDescription: {
-        fontSize: 12,
+        fontSize: 11,
         color: colors.textSecondary,
         textAlign: 'center',
+        marginBottom: spacing.sm,
+    },
+    // Progress
+    progressSection: {
+        width: '100%',
+        paddingTop: spacing.xs,
+        borderTopWidth: 1,
+        borderTopColor: `${colors.border}60`,
+    },
+    progressRow: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        marginBottom: 4,
+    },
+    progressLabel: {
+        fontSize: 11,
+        fontWeight: '600',
+        color: colors.textSecondary,
+    },
+    progressPct: {
+        fontSize: 11,
+        fontWeight: '800',
+    },
+    progressBarOuter: {
+        height: 4,
+        backgroundColor: colors.muted,
+        borderRadius: 2,
+        overflow: 'hidden',
+    },
+    progressBarInner: {
+        height: 4,
+        borderRadius: 2,
     },
 });
