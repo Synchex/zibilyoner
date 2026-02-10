@@ -26,25 +26,30 @@ interface SubcategoryItem {
     icon: keyof typeof Ionicons.glyphMap;
     description: string;
     color: string;
+    highlighted?: boolean;
 }
 
 export function SportsSubcategoryScreen({ onSelectSubcategory, onBack, language }: SportsSubcategoryScreenProps) {
     const t = (key: any) => getTranslation(language, key);
     const { progress } = useProgress();
 
+    // English subcategories — specific ones first, mixed at bottom
     const englishSubcategories: SubcategoryItem[] = [
-        { id: 'general_sports', name: t('generalSports') || 'General Sports', icon: 'trophy', description: t('generalSportsDesc') || 'All sports mixed', color: '#9C27B0' },
         { id: 'general_football', name: t('generalFootball') || 'Football', icon: 'football', description: t('generalFootballDesc') || 'World football questions', color: '#4CAF50' },
         { id: 'basketball', name: t('basketball') || 'Basketball', icon: 'basketball', description: t('basketballDesc') || 'NBA and world basketball', color: '#FF9800' },
+        // Mixed / All Sports at bottom
+        { id: 'general_sports', name: language === 'en' ? 'Mixed' : 'Karışık', icon: 'layers', description: language === 'en' ? 'Questions from all sports' : 'Tüm spor dallarından sorular', color: '#10B981', highlighted: true },
     ];
 
+    // Turkish subcategories — specific ones first, mixed at bottom
     const turkishSubcategories: SubcategoryItem[] = [
-        { id: 'general_sports', name: t('generalSports') || 'Genel Spor', icon: 'trophy', description: t('generalSportsDesc') || 'Tüm sporlar karışık', color: '#9C27B0' },
         { id: 'general_football', name: t('generalFootball') || 'Dünya Futbolu', icon: 'football', description: t('generalFootballDesc') || 'Dünya futbolu soruları', color: '#2196F3' },
         { id: 'turkish_football', name: t('footballLabel') || 'Türk Futbolu', icon: 'flag', description: t('footballDesc') || 'Süper Lig ve Türk futbolu', color: '#E53935' },
         { id: 'basketball', name: t('basketball') || 'Basketbol', icon: 'basketball', description: t('basketballDesc') || 'NBA ve dünya basketbolu', color: '#FF9800' },
         { id: 'turkish_sports', name: t('turkishSports') || 'Türk Sporları', icon: 'medal', description: t('turkishSportsDesc') || 'Güreş, voleybol ve diğer Türk sporları', color: '#9C27B0' },
         { id: 'legends_records', name: t('legendsRecords') || 'Efsaneler & Rekorlar', icon: 'star', description: t('legendsRecordsDesc') || 'Olimpiyat, rekorlar ve spor efsaneleri', color: '#FFD700' },
+        // Mixed / All Sports at bottom
+        { id: 'general_sports', name: 'Karışık', icon: 'layers', description: 'Tüm spor dallarından karışık sorular', color: '#10B981', highlighted: true },
     ];
 
     const subcategories = language === 'tr' ? turkishSubcategories : englishSubcategories;
@@ -95,6 +100,7 @@ export function SportsSubcategoryScreen({ onSelectSubcategory, onBack, language 
                                 key={item.id}
                                 style={({ pressed }) => [
                                     styles.card,
+                                    item.highlighted && styles.cardHighlighted,
                                     pressed && styles.cardPressed,
                                 ]}
                                 onPress={() => onSelectSubcategory(item.id)}
@@ -177,6 +183,10 @@ const styles = StyleSheet.create({
         borderWidth: 1,
         borderColor: colors.border,
         alignItems: 'center',
+    },
+    cardHighlighted: {
+        borderColor: '#10B981',
+        borderWidth: 1.5,
     },
     cardPressed: {
         opacity: 0.8,
